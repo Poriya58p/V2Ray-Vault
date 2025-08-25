@@ -1,6 +1,6 @@
-trojan://0gbs3z6j-5yxj-b52v-e9w6-jc1f72kwe1hd@127.0.0.1:1080?security=tls&type=tcp#🕒 LAST UPDATE: 2025/08/25 | 19:54
-trojan://j9qfwttk-ioxx-n6ie-l00n-5ujuhvpoiq5o@127.0.0.1:2080?security=tls&type=tcp#This is a free trial project.
-trojan://hiyt2znt-3w1n-wffe-gvzy-u6h4cpz50owt@127.0.0.1:4080?security=tls&type=tcp#「 GitHub Argh94 ☕ 」
+trojan://lrxnbr1e-1n4z-ksgn-owd5-vmg7utp8cvcr@127.0.0.1:1080?security=tls&type=tcp#🕒 LAST UPDATE: 2025/08/25 | 23:53
+trojan://j1uwgmgh-y8ew-xwmw-3gj4-g89vtk6uqb5v@127.0.0.1:2080?security=tls&type=tcp#This is a free trial project.
+trojan://xu3bxdl3-sm2r-davi-epki-g0emyhxmjhcr@127.0.0.1:4080?security=tls&type=tcp#「 GitHub Argh94 ☕ 」
 vless://e51aa02e-6358-4ade-963e-1c3ef2ed0d50@45.89.54.240:443?type=tcp&security=reality&sni=cdimage.debian.org&fp=chrome&flow=xtls-rprx-vision&pbk=vn4646XM93dX2rjt_H9CQjBX6LTwOEsFetvgcuXELzE&sid=f79efc36#SK 🇸🇰 ┇ VLESS-TCP-RLT - Pq Hosting Plus S.r.l. ┇ 45.89.54.240
-trojan://avhn2mnv-d5z0-spx0-kbid-hk27o53hs7zr@127.0.0.1:8080?security=tls&type=tcp#For enhanced GitHub access, visit Argh94 now!
-trojan://qa37uueo-vfcq-64v3-p32y-iglem6o59b6g@127.0.0.1:8081?security=tls&type=tcp#</> Collector v5.0
+trojan://ln45ldjz-ueax-3asz-2rd2-albs9iiibrfn@127.0.0.1:8080?security=tls&type=tcp#For enhanced GitHub access, visit Argh94 now!
+trojan://nk1sxzxg-xxxo-dsmb-gxav-uxzv16mxlop5@127.0.0.1:8081?security=tls&type=tcp#</> Collector v5.0

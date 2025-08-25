@@ -1,6 +1,6 @@
-trojan://roqztpdh-z7it-mb33-nkxb-5vw0g2g3q3wx@127.0.0.1:1080?security=tls&type=tcp#🕒 LAST UPDATE: 2025/08/25 | 19:54
-trojan://aqotm7n0-lmjj-3ru7-8hul-f3tg6cv5p1jb@127.0.0.1:2080?security=tls&type=tcp#This is a free trial project.
-trojan://mv0y447x-w2pb-3a3w-5c31-40ec1bzacsuo@127.0.0.1:4080?security=tls&type=tcp#「 GitHub Argh94 ☕ 」
+trojan://uwx87a8l-vxbd-317m-pzv9-p1n9jbbhdp69@127.0.0.1:1080?security=tls&type=tcp#🕒 LAST UPDATE: 2025/08/25 | 23:53
+trojan://wd9xf9cs-ryw8-bj2d-m722-xwf1w0xqupna@127.0.0.1:2080?security=tls&type=tcp#This is a free trial project.
+trojan://k87k0kwe-8dr4-cuqt-rbu5-k40dsobegpyg@127.0.0.1:4080?security=tls&type=tcp#「 GitHub Argh94 ☕ 」
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@45.87.175.35:8080#45.87.175.35:8080
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@45.87.175.35:8080#45.87.175.35:8080
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@45.87.175.35:8080#45.87.175.35:8080
@@ -91,5 +91,5 @@ vless://aaaaaaa1-bbbb-4ccc-accc-eeeeeeeeeee1@web.xhamster.biz.id:443?type=ws&sec
 vless://edb4c373-ac92-4430-8f42-94439ca829b9@magical-fish.seotoolsforyou.co.uk:80?type=ws&security=none&path=/#magical-fish.seotoolsforyou.co.uk:80
 vless://43791e7f-8e02-4189-9533-4f842bcacd79@charming-process.seotoolsforyou.co.uk:80?type=ws&security=none&path=/#charming-process.seotoolsforyou.co.uk:80
 vless://e4824193-4f54-453b-d037-88368e85ef0e@45.82.251.93:8880?type=grpc&security=none#45.82.251.93:8880
-trojan://gcfplvoy-9dqx-mzcg-isnw-ldr1fdsje8vx@127.0.0.1:8080?security=tls&type=tcp#For enhanced GitHub access, visit Argh94 now!
-trojan://xy7wg6ka-vs63-aad2-0agh-e5sivffoh5u3@127.0.0.1:8081?security=tls&type=tcp#</> Collector v5.0
+trojan://c619hxa5-nmz2-u40z-erig-vuedhef3ccl6@127.0.0.1:8080?security=tls&type=tcp#For enhanced GitHub access, visit Argh94 now!
+trojan://6vrc4yro-a9bs-ohqb-mm9p-ng3u1lq5m8as@127.0.0.1:8081?security=tls&type=tcp#</> Collector v5.0

@@ -1,7 +1,7 @@
-trojan://vhe4hho9-7svb-blec-m2vd-rl87srg9wdi8@127.0.0.1:1080?security=tls&type=tcp#🕒 LAST UPDATE: 2025/08/25 | 19:54
-trojan://9tlbjhju-5p2j-pyrl-zuxf-wuhtjoqpwd9r@127.0.0.1:2080?security=tls&type=tcp#This is a free trial project.
-trojan://7ysfdz67-ej41-qdeh-te7t-5e0evw0j3pio@127.0.0.1:4080?security=tls&type=tcp#「 GitHub Argh94 ☕ 」
+trojan://1z209k6i-rkj6-9se5-j7vd-3qxa0u8vvczv@127.0.0.1:1080?security=tls&type=tcp#🕒 LAST UPDATE: 2025/08/25 | 23:53
+trojan://bgggru2k-l815-qr92-m1z1-955tz7tfe93w@127.0.0.1:2080?security=tls&type=tcp#This is a free trial project.
+trojan://bzs0nisn-y9uu-vgcc-dwxd-hzhlb2c4v68i@127.0.0.1:4080?security=tls&type=tcp#「 GitHub Argh94 ☕ 」
 ss://YWVzLTI1Ni1nY206ZTRGQ1dyZ3BramkzUVk@91.232.105.253:9101#NL 🇳🇱 ┇ SHADOWSOCKS-TCP-NTLS - WorldStream B.V. ┇ 91.232.105.253
 vless://ac864844-c86b-4ac5-bbe9-50fcc05123f2@2a00:7c80:0000:0192:aaa1:bbb3:1bb8:f32e:443?type=tcp&security=reality&sni=srhrforall.org&fp=chrome&flow=xtls-rprx-vision&pbk=Uu4tcBEWuNn0SKnDk2Jy_o5Te2VA76M68hMlVYj9kiQ&sid=6412#NL 🇳🇱 ┇ VLESS-TCP-RLT - WorldStream B.V. ┇ 2a00:7c80:0000:0192:aaa1:bbb3:1bb8:f32e
-trojan://3kd88rtu-2h1w-clo1-zx67-lmotnwcogapa@127.0.0.1:8080?security=tls&type=tcp#For enhanced GitHub access, visit Argh94 now!
-trojan://gxfg1fyi-2ow6-hd0t-s79i-zpgkrjhem5jz@127.0.0.1:8081?security=tls&type=tcp#</> Collector v5.0
+trojan://s3maw33u-rbm8-g68b-lt60-64od0mihzkbp@127.0.0.1:8080?security=tls&type=tcp#For enhanced GitHub access, visit Argh94 now!
+trojan://i7du7vl8-sztp-kwyo-mea7-mhbuazp0t85n@127.0.0.1:8081?security=tls&type=tcp#</> Collector v5.0

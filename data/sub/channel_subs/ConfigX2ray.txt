@@ -1,10 +1,6 @@
-trojan://jr47mqa5-7ai0-o2n3-y5zo-vm0t8a3ipejl@127.0.0.1:1080?security=tls&type=tcp#🕒 LAST UPDATE: 2025/08/25 | 19:54
-trojan://dkdvo61b-x1cm-7bs9-a6ru-27oud9ltrrzo@127.0.0.1:2080?security=tls&type=tcp#This is a free trial project.
-trojan://6kqbak2b-zdal-ae0b-ueec-54w4dsdssinv@127.0.0.1:4080?security=tls&type=tcp#「 GitHub Argh94 ☕ 」
-vless://telegram-id-Arfilter@172.66.40.99:443?type=ws&security=tls&path=/telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray?ed=2048&sni=rSa.2SeDkFjEuIxIjD0Ew9DvKcxoisiEk61.BlOg&fp=firefox#172.66.40.99:443
-vless://787c6fc8-aed8-4b4e-971b-e093cbf1699e@172.66.40.99:443?type=ws&security=tls&path=/telegram-CONFiGLiNE,telegram-CONFiGLiNE,telegram-CONFiGLiNE,telegram-CONFiGLiNE,telegram-CONFiGLiNE,telegram-CONFiGLiNE,telegram-CONFiGLiNE,telegram-CONFiGLiNE?ed=2048&sni=az52.mashkestan.com&fp=firefox#172.66.40.99:443
-vless://6d6c379e-3086-409f-9397-4df4f816fc81@www.speedtest.net:80?type=ws&security=none&path=/Join----VPNCUSTOMIZE---Join----VPNCUSTOMIZE&sni=revest.maketunnelim.lat#www.speedtest.net:80
-vless://63afa1c5-ca89-4e99-aec8-824d065d6f06@172.66.40.99:8080?type=ws&security=none&path=/telegram-CONFiGLiNE,telegram-CONFiGLiNE,telegram-CONFiGLiNE,telegram-CONFiGLiNE,telegram-CONFiGLiNE,telegram-CONFiGLiNE,telegram-CONFiGLiNE,telegram-CONFiGLiNE?ed=2048#172.66.40.99:8080
+trojan://4q8rbd71-jknu-ptf0-ztct-zrmxio588pv9@127.0.0.1:1080?security=tls&type=tcp#🕒 LAST UPDATE: 2025/08/25 | 23:53
+trojan://zatxchq7-xjm4-5lgz-wovv-gfdrf5enx4bq@127.0.0.1:2080?security=tls&type=tcp#This is a free trial project.
+trojan://xq332ntd-4l5f-vjjr-cp01-y0yzibh9xe5x@127.0.0.1:4080?security=tls&type=tcp#「 GitHub Argh94 ☕ 」
 vless://6d6c379e-3086-409f-9397-4df4f816fc81@www.speedtest.net:80?type=ws&security=none&path=/Join----VPNCUSTOMIZE---Join----VPNCUSTOMIZE&sni=revest.maketunnelim.lat#www.speedtest.net:80
 vless://9c9b8418-239a-4705-be72-31d332dd4272@172.66.40.99:8080?type=ws&security=none&path=/-LiV2ry@LIGHTNING6-TEL--@LIGHTNING6-TEL--@LIGHTNING6-TEL--@LIGHTNING6-JOIN-@LIGHTNING6-TEL--@LIGHTNING6-JOIN-@LIGHTNING6-TEL-@LIGHTNING6-TEL--@LIGHTNING6-JOIN-@LIGHTNING6-TEL--@LIGHTNING6?ed=2048#172.66.40.99:8080
 vless://ce6a8f66-0600-4210-8337-fa2aaaec50e4@23.80.81.249:8880?type=xhttp&security=none&path=/telegram-CONFiGLiNE,telegram-CONFiGLiNE,telegram-CONFiGLiNE,telegram-CONFiGLiNE,telegram-CONFiGLiNE,telegram-CONFiGLiNE,telegram-CONFiGLiNE,telegram-CONFiGLiNE?ed=2048#23.80.81.249:8880
@@ -47,5 +43,5 @@ vless://3eda67be-be15-4d61-9943-85772cf664b7@www.speedtest.net:80?type=ws&securi
 vless://40cb7d82-5599-4c75-9fe3-2de4de2c1fe7@configline.fast.hosting-ip.com:80?type=xhttp&security=none&path=/telegram-CONFiGLiNE,telegram-CONFiGLiNE,telegram-CONFiGLiNE,telegram-CONFiGLiNE,telegram-CONFiGLiNE,telegram-CONFiGLiNE,telegram-CONFiGLiNE,telegram-CONFiGLiNE?ed=2048#configline.fast.hosting-ip.com:80
 vless://7d22d6f7-bd15-4ae3-a41c-707427f51753@63.141.128.13:80?type=ws&security=none&path=/Join-ZEDMODEON-ZEDMODEON-ZEDMODEON-bia-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON#63.141.128.13:80
 vless://5fd9c3f7-bd70-4dab-8915-4c57bfe2b309@63.141.128.0:80?type=ws&security=none&path=/Join-ZEDMODEON-ZEDMODEON-ZEDMODEON-bia-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON#63.141.128.0:80
-trojan://vvefmdpy-n8ub-xtam-el4p-9wu23qix6y6t@127.0.0.1:8080?security=tls&type=tcp#For enhanced GitHub access, visit Argh94 now!
-trojan://t828s1ct-ch5b-5nxl-1ki3-1s79izkhtsma@127.0.0.1:8081?security=tls&type=tcp#</> Collector v5.0
+trojan://6thfik44-mshi-iuos-jr83-8874vwr732nm@127.0.0.1:8080?security=tls&type=tcp#For enhanced GitHub access, visit Argh94 now!
+trojan://hekxkt4g-hiv3-5w2s-pf3x-4q931jbgrlue@127.0.0.1:8081?security=tls&type=tcp#</> Collector v5.0

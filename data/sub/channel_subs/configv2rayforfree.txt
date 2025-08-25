@@ -1,11 +1,10 @@
-trojan://xsu9s1k1-2nff-2ku7-h7ip-kwrxfi5ev39d@127.0.0.1:1080?security=tls&type=tcp#🕒 LAST UPDATE: 2025/08/25 | 19:54
-trojan://87kb4r2f-iigr-gz6l-n9tj-67vd11tors9d@127.0.0.1:2080?security=tls&type=tcp#This is a free trial project.
-trojan://cgnosqk4-8hsh-c7lj-topm-p3i1ipd68vuw@127.0.0.1:4080?security=tls&type=tcp#「 GitHub Argh94 ☕ 」
-vless://e3b665fd-0329-47dc-bc05-3474b14bcaf6@ipe3.alighan.ir:8443?type=ws&security=tls&path=/?ed=2048&sni=ipe4.alighan.ir&fp=chrome#ipe3.alighan.ir:8443
+trojan://tb8narwb-n2l0-ujiy-xn4v-652bb8b7skcs@127.0.0.1:1080?security=tls&type=tcp#🕒 LAST UPDATE: 2025/08/25 | 23:53
+trojan://b5bx1200-oel1-qest-19d8-k4257fmdpc8f@127.0.0.1:2080?security=tls&type=tcp#This is a free trial project.
+trojan://nzjm0bpt-foez-h0go-omkw-z87krcezi0my@127.0.0.1:4080?security=tls&type=tcp#「 GitHub Argh94 ☕ 」
 vless://e3b665fd-0329-47dc-bc05-3474b14bcaf6@ipe3.alighan.ir:8443?type=ws&security=tls&path=/?ed=2048&sni=ipe4.alighan.ir&fp=chrome#ipe3.alighan.ir:8443
 vless://f0263bd6-570a-4bc0-bbb9-6fad124b18cf@62.133.62.166:2095?type=tcp&security=none#62.133.62.166:2095
 vless://683eb1fd-5575-4da5-b5f0-953507b11b86@5.75.197.56:2095?type=tcp&security=none#5.75.197.56:2095
 vless://8918d0d6-b266-4f71-9aaf-4160265537e6@speedtest.net:80?type=xhttp&security=none&path=/#speedtest.net:80
 vless://e3b665fd-0329-47dc-bc05-3474b14bcaf6@ipe3.alighan.ir:8443?type=ws&security=tls&path=/?ed=2048&sni=ipe4.alighan.ir&fp=chrome#ipe3.alighan.ir:8443
-trojan://kaa7i27h-b6tr-1y8s-5feq-m55wm39iz9lw@127.0.0.1:8080?security=tls&type=tcp#For enhanced GitHub access, visit Argh94 now!
-trojan://qiyca12g-3697-uiqz-c4iz-0x8paikc8an6@127.0.0.1:8081?security=tls&type=tcp#</> Collector v5.0
+trojan://txfdhtga-o0xv-lqgc-cfvz-36sh6jilxc4m@127.0.0.1:8080?security=tls&type=tcp#For enhanced GitHub access, visit Argh94 now!
+trojan://3gynpqaf-iyyh-hq5p-g79t-wmgrf1bwes2h@127.0.0.1:8081?security=tls&type=tcp#</> Collector v5.0

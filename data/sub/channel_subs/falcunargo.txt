@@ -1,9 +1,7 @@
-trojan://xvenps0d-y1nd-8mml-43xm-8omoaguii61s@127.0.0.1:1080?security=tls&type=tcp#🕒 LAST UPDATE: 2025/08/25 | 19:54
-trojan://s4q2avew-28bn-i4hv-0iiu-mh48spo8wgu3@127.0.0.1:2080?security=tls&type=tcp#This is a free trial project.
-trojan://9b6a8d4x-s6z5-9gnl-lm50-kw0yozizuwtn@127.0.0.1:4080?security=tls&type=tcp#「 GitHub Argh94 ☕ 」
+trojan://qzkbs1da-svv8-m38h-05u7-r9x8ql4io2at@127.0.0.1:1080?security=tls&type=tcp#🕒 LAST UPDATE: 2025/08/25 | 23:53
+trojan://y58sni7t-0r93-xu25-k801-ydl47sp7axt9@127.0.0.1:2080?security=tls&type=tcp#This is a free trial project.
+trojan://tpijrru3-3h6b-44ss-uki3-thbsnfee06bt@127.0.0.1:4080?security=tls&type=tcp#「 GitHub Argh94 ☕ 」
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpGM25ZNzNkaTVvbldWM2dvdGJwSTBR@83.147.216.70:64519#83.147.216.70:64519
-vless://19e427b0-abd4-441b-900f-42af30d04088@www.speedtest.net:80?type=ws&security=none&path=/Join----VPNCUSTOMIZE---Join----VPNCUSTOMIZE&sni=revest.maketunnelim.Lat.#www.speedtest.net:80
-vless://c4587bda-09fc-4b3b-8221-4450fccc33d1@172.67.71.187:443?type=ws&security=tls&path=/&sni=yx.yushan.dpdns.org#172.67.71.187:443
 vless://4e4768df-0fbb-4cc1-8fd3-7c6fea95742a@alhilal.com:443?type=ws&security=tls&path=/&sni=rAyAn-cOnFiG-TeLeGrAm-a05.pArAsToO.DpDnS.OrG#alhilal.com:443
 vless://003e3cd8-e9ab-447d-ae72-6ddde8e031ba@download.ldop.com:8855?type=tcp&security=none#download.ldop.com:8855
 vless://003e3cd8-e9ab-447d-ae72-6ddde8e031ba@download.ldop.com:8855?type=tcp&security=none#download.ldop.com:8855
@@ -21,5 +19,10 @@ vless://TELEGRAM-CONFiGLiNE@configline.fast.hosting-ip.com:80?type=xhttp&securit
 vless://40acbc60-0607-43a6-a604-5f27751d36e4@www.speedtest.net:80?type=ws&security=none&path=/Join----VPNCUSTOMIZE---Join----VPNCUSTOMIZE&sni=revest.maketunnelim.Lat.#www.speedtest.net:80
 vless://6a13695e-1caa-4a38-bb37-6c0dc0e404b7@63.141.128.2:80?type=ws&security=none&path=/Join-ZEDMODEON-ZEDMODEON-ZEDMODEON-bia-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON#63.141.128.2:80
 vless://ecce255e-17d3-429b-8093-dd884f6aff7d@172.66.40.99:8080?type=ws&security=none&path=/-LiV2ry@LIGHTNING6-TEL--@LIGHTNING6-TEL--@LIGHTNING6-TEL--@LIGHTNING6-JOIN-@LIGHTNING6-TEL--@LIGHTNING6-JOIN-@LIGHTNING6-TEL-@LIGHTNING6-TEL--@LIGHTNING6-JOIN-@LIGHTNING6-TEL--@LIGHTNING6?ed=2048#172.66.40.99:8080
-trojan://uhngee54-is9c-lyrx-4rta-khx9x8r16r2d@127.0.0.1:8080?security=tls&type=tcp#For enhanced GitHub access, visit Argh94 now!
-trojan://4lpppi5r-7fko-1vav-9mhh-ul9a15q1846o@127.0.0.1:8081?security=tls&type=tcp#</> Collector v5.0
+vless://3d7dd548-5456-4f28-8019-393fbfab3312@172.67.74.133:443?type=ws&security=tls&path=/sg3/?ed=2048JOIN---PLANB_PROXY&sni=app-stg.gopay.co.id.servpn.my.id&fp=chrome#172.67.74.133:443
+vless://ccbe6b7c-9264-40c4-8bc1-ef8f6205d7a4@www.speedtest.net:8443?type=ws&security=tls&path=/&sni=hetzner-12.apple.name.ng#www.speedtest.net:8443
+vless://6780a3c0-a98c-4622-b894-8e34167f7b31@172.67.74.133:443?type=ws&security=tls&path=/id5?ed=2560/?@&sni=blog.ruangguru.com.servpn.my.id#172.67.74.133:443
+vless://6780a3c0-a98c-4622-b894-8e34167f7b31@172.67.74.133:443?type=ws&security=tls&path=/id5/?ed=2048bia-planB_proxy&sni=blog.ruangguru.com.servpn.my.id#172.67.74.133:443
+vless://ccbe6b7c-9264-40c4-8bc1-ef8f6205d7a4@www.speedtest.net:8443?type=ws&security=tls&path=/&sni=hetzner-13.bibar.name.ng#www.speedtest.net:8443
+trojan://lwdrglnv-8v95-ow2e-g1h8-twuhbyd3fyru@127.0.0.1:8080?security=tls&type=tcp#For enhanced GitHub access, visit Argh94 now!
+trojan://ia5jehsp-g43d-f2xv-kmto-h9yw47hcugsm@127.0.0.1:8081?security=tls&type=tcp#</> Collector v5.0

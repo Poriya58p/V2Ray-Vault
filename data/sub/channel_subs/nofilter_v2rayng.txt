@@ -1,11 +1,11 @@
-trojan://n5sxxy26-5vd8-3yqc-z5tg-6d7m4d9kwrnh@127.0.0.1:1080?security=tls&type=tcp#🕒 LAST UPDATE: 2025/08/25 | 19:54
-trojan://xlx059hx-y26n-p9yo-bavj-p2gp5zy4j76y@127.0.0.1:2080?security=tls&type=tcp#This is a free trial project.
-trojan://3hzkx17v-9lp5-kpn9-8c6r-2bkd9h1mwn06@127.0.0.1:4080?security=tls&type=tcp#「 GitHub Argh94 ☕ 」
+trojan://aidvy07r-8jqw-71nx-u2mg-j8gr11e9x0px@127.0.0.1:1080?security=tls&type=tcp#🕒 LAST UPDATE: 2025/08/25 | 23:53
+trojan://jrlm7gyk-xp64-67ha-mlsa-f5m9hj49x7s7@127.0.0.1:2080?security=tls&type=tcp#This is a free trial project.
+trojan://t38mpy9m-hwyv-uiws-ksjy-u9gepu0sfqee@127.0.0.1:4080?security=tls&type=tcp#「 GitHub Argh94 ☕ 」
 vless://dd667c85-ca3c-49e2-9775-de9c6af179bc@230920393.f-sub.com:3799?type=tcp&security=none#230920393.f-sub.com:3799
 vless://89ba9206-305a-4dbf-bd62-9144c1b0e0c4@www.speedtest.net:2095?type=ws&security=none&path=/hajmi?ed=2050#www.speedtest.net:2095
 vless://202ac83e-9012-4283-8acb-9af2c2a2dfeb@89.235.117.104:8001?type=ws&security=none#89.235.117.104:8001
 vless://202ac83e-9012-4283-8acb-9af2c2a2dfeb@89.235.117.104:8001?type=ws&security=none#89.235.117.104:8001
 vless://9a37131b-2b68-427f-a2fc-cc7381c2d575@gleeful-error.seotoolsforyou.co.uk:80?type=ws&security=none&path=/#gleeful-error.seotoolsforyou.co.uk:80
 vless://telegram-id-Arfilter@172.66.40.99:443?type=ws&security=tls&path=/telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray?ed=2048&sni=cPb.SpEeDtEsT2029.CoM&fp=firefox#172.66.40.99:443
-trojan://dcjhklrf-yrfy-8nuk-rq4r-arlzd2oowsh3@127.0.0.1:8080?security=tls&type=tcp#For enhanced GitHub access, visit Argh94 now!
-trojan://3uzgar49-7cle-nbtb-h9ur-rz5bxho7lhxr@127.0.0.1:8081?security=tls&type=tcp#</> Collector v5.0
+trojan://8if99eba-97ev-uh6d-5fcm-izxpv9229wc5@127.0.0.1:8080?security=tls&type=tcp#For enhanced GitHub access, visit Argh94 now!
+trojan://i80ytmcu-zdqr-a5ww-e8wa-3m287soei35e@127.0.0.1:8081?security=tls&type=tcp#</> Collector v5.0

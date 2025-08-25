@@ -1,6 +1,6 @@
-trojan://a3zalyxf-4txc-m00h-vxdc-8n5sbtw534am@127.0.0.1:1080?security=tls&type=tcp#🕒 LAST UPDATE: 2025/08/25 | 19:54
-trojan://we85z4qd-61o0-8mz8-bqpi-51ypfn4v8bv0@127.0.0.1:2080?security=tls&type=tcp#This is a free trial project.
-trojan://zn1a61et-vykn-njpv-ylot-j2egp5q0c67w@127.0.0.1:4080?security=tls&type=tcp#「 GitHub Argh94 ☕ 」
+trojan://hi66mtxr-asrc-q8mx-o30f-2y82z75de0zs@127.0.0.1:1080?security=tls&type=tcp#🕒 LAST UPDATE: 2025/08/25 | 23:53
+trojan://a4zeomcx-rrat-jq5v-ujbu-4fyeyljp7t0g@127.0.0.1:2080?security=tls&type=tcp#This is a free trial project.
+trojan://ahsby7b4-2r0w-e41n-u928-k86fsf9wk9qk@127.0.0.1:4080?security=tls&type=tcp#「 GitHub Argh94 ☕ 」
 vless://fbde8f25-fbee-49ef-9b47-d4441f2bba03@croatia.netblocksir.ir:6556?type=tcp&security=none&path=/#croatia.netblocksir.ir:6556
 vless://fbde8f25-fbee-49ef-9b47-d4441f2bba03@alman.netblocksir.ir:6556?type=tcp&security=none&path=/#alman.netblocksir.ir:6556
 vless://fbde8f25-fbee-49ef-9b47-d4441f2bba03@france.netblocksir.ir:6556?type=tcp&security=none&path=/#france.netblocksir.ir:6556
@@ -22,5 +22,5 @@ vless://96f391f6-0762-4895-a57c-433360967ca8@france.netblocksir.ir:5454?type=grp
 vless://96f391f6-0762-4895-a57c-433360967ca8@alman.netblocksir.ir:5454?type=grpc&security=reality&sni=journalofbigdata.springeropen.com&fp=chrome&pbk=mBt5gNbf3cM_3n6OmSvszdLz-q4Kj2A1CF7XFgvggig&sid=ab892f807f3ecc26#alman.netblocksir.ir:5454
 vless://96f391f6-0762-4895-a57c-433360967ca8@5.161.130.236:5454?type=grpc&security=reality&sni=journalofbigdata.springeropen.com&fp=chrome&pbk=mBt5gNbf3cM_3n6OmSvszdLz-q4Kj2A1CF7XFgvggig&sid=ab892f807f3ecc26#5.161.130.236:5454
 vless://96f391f6-0762-4895-a57c-433360967ca8@alman2.netblocksir.ir:5454?type=grpc&security=reality&sni=journalofbigdata.springeropen.com&fp=chrome&pbk=mBt5gNbf3cM_3n6OmSvszdLz-q4Kj2A1CF7XFgvggig&sid=ab892f807f3ecc26#alman2.netblocksir.ir:5454
-trojan://odxtnd2h-b51x-z8y9-9l2a-38ih31go65mz@127.0.0.1:8080?security=tls&type=tcp#For enhanced GitHub access, visit Argh94 now!
-trojan://1o351x5z-svb7-eamc-o0h2-m8lcq1tbefwu@127.0.0.1:8081?security=tls&type=tcp#</> Collector v5.0
+trojan://lw6mnvs7-pzg2-4tx6-7g4e-wv9q1tdh7h6k@127.0.0.1:8080?security=tls&type=tcp#For enhanced GitHub access, visit Argh94 now!
+trojan://vf8vk8if-nq4h-b55b-06lf-drls7c5vlqkv@127.0.0.1:8081?security=tls&type=tcp#</> Collector v5.0
