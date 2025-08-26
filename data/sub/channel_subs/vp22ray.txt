@@ -1,6 +1,6 @@
-trojan://2for947t-5lvh-x32m-prbz-1dtie3z792rh@127.0.0.1:1080?security=tls&type=tcp#🕒 LAST UPDATE: 2025/08/26 | 16:05
-trojan://0b9uidhu-n434-420s-1kdc-9dyvjgrxg0ve@127.0.0.1:2080?security=tls&type=tcp#This is a free trial project.
-trojan://j5vz0a1h-dphs-klad-n0n1-435wobftbggz@127.0.0.1:4080?security=tls&type=tcp#「 GitHub Argh94 ☕ 」
+trojan://5l3vwscz-wwuv-9vs2-nxfz-tse0wt10xedp@127.0.0.1:1080?security=tls&type=tcp#🕒 LAST UPDATE: 2025/08/26 | 19:54
+trojan://oatd0euz-xohy-ldt7-rl89-ea7umq2eafeo@127.0.0.1:2080?security=tls&type=tcp#This is a free trial project.
+trojan://i4efsjdp-yx9n-rzpy-4a6c-1ebce1ts0e09@127.0.0.1:4080?security=tls&type=tcp#「 GitHub Argh94 ☕ 」
 vless://6f0dd694-2cdf-4c82-8616-814a5e60d250@german.vp22ray.site:2087?type=tcp&security=reality&sni=Ftp.debian.org&fp=firefox&pbk=54z0hCTglWDmCFnDBU4JmzqjJtFgbhM3x45l-B5If1I&sid=32c43ca1#german.vp22ray.site:2087
 vless://4c00baa2-2263-4a19-801c-c629e9ff8c31@german.vp22ray.site:2087?type=tcp&security=reality&sni=Ftp.debian.org&fp=firefox&pbk=54z0hCTglWDmCFnDBU4JmzqjJtFgbhM3x45l-B5If1I&sid=32c43ca1#german.vp22ray.site:2087
 vless://96c03731-ea2e-4019-86f8-04c33140a1d1@german.vp22ray.site:2087?type=tcp&security=reality&sni=Ftp.debian.org&fp=firefox&pbk=54z0hCTglWDmCFnDBU4JmzqjJtFgbhM3x45l-B5If1I&sid=32c43ca1#german.vp22ray.site:2087
@@ -12,5 +12,5 @@ vless://76c9e0b5-9253-449e-98db-137ae1a4348f@german.vp22ray.site:2087?type=tcp&s
 vless://2179abfc-2435-4b64-8c96-cb39184a4348@german.vp22ray.site:2087?type=tcp&security=reality&sni=Ftp.debian.org&fp=firefox&pbk=54z0hCTglWDmCFnDBU4JmzqjJtFgbhM3x45l-B5If1I&sid=32c43ca1#german.vp22ray.site:2087
 vless://290719bc-bd21-4467-bdcd-33396fa88394@german.vp22ray.site:2087?type=tcp&security=reality&sni=Ftp.debian.org&fp=firefox&pbk=54z0hCTglWDmCFnDBU4JmzqjJtFgbhM3x45l-B5If1I&sid=32c43ca1#german.vp22ray.site:2087
 vless://eb7f17f3-4715-4b2d-87e5-39d12b1c962c@german.vp22ray.site:40130?type=tcp&security=reality&sni=Seed.cloudflare.com&fp=chrome&flow=xtls-rprx-vision&pbk=XEpHiKs6YbcMrBR4YTRXLlIlO5RfGcVUUcbt4KZc7TY&sid=d90b293e#german.vp22ray.site:40130
-trojan://7ep3x14d-36ku-a4zb-im9p-6uf9dryeoz6n@127.0.0.1:8080?security=tls&type=tcp#For enhanced GitHub access, visit Argh94 now!
-trojan://zukqheo1-vlwz-bjkq-r2gd-92aj5o2mam1r@127.0.0.1:8081?security=tls&type=tcp#</> Collector v5.0
+trojan://cb3dkgij-2vxd-8bbg-e7qx-fzid8lmd5ash@127.0.0.1:8080?security=tls&type=tcp#For enhanced GitHub access, visit Argh94 now!
+trojan://sonzalln-n3u0-icgy-05x1-dcz0s45le8we@127.0.0.1:8081?security=tls&type=tcp#</> Collector v5.0

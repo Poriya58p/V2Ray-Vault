@@ -1,6 +1,6 @@
-trojan://vciyante-0vrw-eii4-syde-zck4spts1nls@127.0.0.1:1080?security=tls&type=tcp#🕒 LAST UPDATE: 2025/08/26 | 16:05
-trojan://2408hawa-8w41-hd5t-7hby-a9gp7hi1jofx@127.0.0.1:2080?security=tls&type=tcp#This is a free trial project.
-trojan://9cber3h5-ksik-5oge-d6v9-v7inxq1n0l22@127.0.0.1:4080?security=tls&type=tcp#「 GitHub Argh94 ☕ 」
+trojan://7g9r1s58-1clr-x9ff-9y54-jd3tqhavk6k1@127.0.0.1:1080?security=tls&type=tcp#🕒 LAST UPDATE: 2025/08/26 | 19:54
+trojan://qitelngq-vdf7-enki-cxgy-stmckjtr1rct@127.0.0.1:2080?security=tls&type=tcp#This is a free trial project.
+trojan://ktdzp7m7-djiv-r0le-7pom-lx3do20rqrgm@127.0.0.1:4080?security=tls&type=tcp#「 GitHub Argh94 ☕ 」
 trojan://ttfang@166.0.244.206:2053?sni=ttfang.fange.me&peer=ttfang.fange.me&security=tls#166.0.244.206:2053
 trojan://ttfang@220.135.202.250:81?sni=ttfang.fange.me&peer=ttfang.fange.me&security=tls#220.135.202.250:81
 vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@156.238.18.188:8880?type=ws&security=none&path=/Telegram🇨🇳 @MxlShare @WangCai2 /?ed=2560&fp=chrome#156.238.18.188:8880
@@ -21,5 +21,5 @@ vless://34c01e61-f4f3-4afb-a83b-406caf8caa33@92.243.75.254:8880?type=ws&security
 vless://34c01e61-f4f3-4afb-a83b-406caf8caa33@212.183.88.254:8880?type=ws&security=none&path=/Telegram🇨🇳&sni=Telegram-channel-WangCai2#212.183.88.254:8880
 vless://34c01e61-f4f3-4afb-a83b-406caf8caa33@5.182.34.254:8880?type=ws&security=none&path=/Telegram🇨🇳 @WangCai2 /?ed=2560fp=chrome&sni=Telegram-channel-WangCai2#5.182.34.254:8880
 vless://34c01e61-f4f3-4afb-a83b-406caf8caa33@185.133.35.254:8880?type=ws&security=none&path=/Telegram🇨🇳 @WangCai2 /?ed=2560fp=chrome&sni=Telegram-channel-WangCai2#185.133.35.254:8880
-trojan://7f4x0e28-t9ub-qqsx-klo0-rnnsuzs3v064@127.0.0.1:8080?security=tls&type=tcp#For enhanced GitHub access, visit Argh94 now!
-trojan://6am3ukm4-q727-ygz6-r1yy-jk2rnbm4ff7f@127.0.0.1:8081?security=tls&type=tcp#</> Collector v5.0
+trojan://mtiba9th-v1ym-eb34-jdtx-jt0rxdp2xzbh@127.0.0.1:8080?security=tls&type=tcp#For enhanced GitHub access, visit Argh94 now!
+trojan://z0gnfq3n-3sim-7y4b-ev4h-4mbd0mdj27zn@127.0.0.1:8081?security=tls&type=tcp#</> Collector v5.0

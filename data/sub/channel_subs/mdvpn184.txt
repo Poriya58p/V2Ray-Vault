@@ -1,8 +1,8 @@
-trojan://vl46fljc-5kmq-ehc2-j1q4-qdo4k9r1goiw@127.0.0.1:1080?security=tls&type=tcp#🕒 LAST UPDATE: 2025/08/26 | 16:05
-trojan://l14m1cgi-war3-asd1-uj8f-s9c3gvqbf0pd@127.0.0.1:2080?security=tls&type=tcp#This is a free trial project.
-trojan://jlv7u6wr-uzos-3vnr-p9rn-wm886xu0gmct@127.0.0.1:4080?security=tls&type=tcp#「 GitHub Argh94 ☕ 」
+trojan://2fajnfx8-1z7r-mxae-pdz1-capkmgtc5dye@127.0.0.1:1080?security=tls&type=tcp#🕒 LAST UPDATE: 2025/08/26 | 19:54
+trojan://3lhkzmj6-fe3s-y8pn-1a3h-c2h6du3qeye2@127.0.0.1:2080?security=tls&type=tcp#This is a free trial project.
+trojan://pnr8k2un-xwa4-1te3-nr1a-rm958chj37we@127.0.0.1:4080?security=tls&type=tcp#「 GitHub Argh94 ☕ 」
 vless://4a7728fb-6e86-4a1d-8380-6e64c9bff6f0@ramtin.avairan.online:8080?type=ws&security=none&path=/#ramtin.avairan.online:8080
 vless://ef24a915-6af9-4637-b2ce-d2a8de9a2646@ramtin.avairan.online:8080?type=ws&security=none&path=/#ramtin.avairan.online:8080
 vless://ef24a915-6af9-4637-b2ce-d2a8de9a2646@ramtin.avairan.online:8080?type=ws&security=none&path=/#ramtin.avairan.online:8080
-trojan://oueo4pfp-c6vp-1e4q-qijt-h3nxtcjba3c7@127.0.0.1:8080?security=tls&type=tcp#For enhanced GitHub access, visit Argh94 now!
-trojan://7yz4b0d4-g5y0-pjub-u6ie-ij6zxhfgpo11@127.0.0.1:8081?security=tls&type=tcp#</> Collector v5.0
+trojan://psmc7p9j-n64m-6727-gj37-bayzi5bt7cui@127.0.0.1:8080?security=tls&type=tcp#For enhanced GitHub access, visit Argh94 now!
+trojan://7igm5iqq-pv2y-pjok-1nwy-q6tpeurwqvoy@127.0.0.1:8081?security=tls&type=tcp#</> Collector v5.0

@@ -1,6 +1,6 @@
-trojan://s25v7d54-8imk-x4nr-iiee-adfvwed5mqb9@127.0.0.1:1080?security=tls&type=tcp#🕒 LAST UPDATE: 2025/08/26 | 16:05
-trojan://whqbu6b5-ylgr-jn8s-kln3-19oyauajx7ag@127.0.0.1:2080?security=tls&type=tcp#This is a free trial project.
-trojan://85tp66zw-f8bq-zmgy-0xh4-7n1okbcg7xml@127.0.0.1:4080?security=tls&type=tcp#「 GitHub Argh94 ☕ 」
+trojan://6511vtgs-1ug9-ub6c-f4l3-iabm25zfpcfz@127.0.0.1:1080?security=tls&type=tcp#🕒 LAST UPDATE: 2025/08/26 | 19:54
+trojan://lf31ro7b-lpwe-m7ew-e7z8-nqw9n68tv9e3@127.0.0.1:2080?security=tls&type=tcp#This is a free trial project.
+trojan://wyvb15g1-g5ib-9577-mzd0-uie0v3xuah2e@127.0.0.1:4080?security=tls&type=tcp#「 GitHub Argh94 ☕ 」
 vless://turboo-server@canada.turboo-server.com:10538?type=grpc&security=reality&sni=discordapp.com&fp=firefox&pbk=lTkMprNNGET2C1Mxr9YH_MUopv4zttTN8pCa-GwNBwU&sid=eeb0316389#CA 🇨🇦 ┇ VLESS-GRPC-RLT - CLOUDWEBMANAGE-CANADA ┇ 103.54.59.67
-trojan://ip8244dp-f7v9-yxh3-d563-a22osv14vt6g@127.0.0.1:8080?security=tls&type=tcp#For enhanced GitHub access, visit Argh94 now!
-trojan://nzeuw4bc-dwnq-uurd-rs9x-5vciphh02lnb@127.0.0.1:8081?security=tls&type=tcp#</> Collector v5.0
+trojan://zwxkwvop-qyyk-6c4b-nr2m-5wf46456prtx@127.0.0.1:8080?security=tls&type=tcp#For enhanced GitHub access, visit Argh94 now!
+trojan://l9gv2g0m-pg2x-deqg-seme-xrl4ooone0tp@127.0.0.1:8081?security=tls&type=tcp#</> Collector v5.0

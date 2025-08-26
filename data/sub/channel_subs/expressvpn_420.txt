@@ -1,6 +1,6 @@
-trojan://5a32c1ls-11n7-qnde-352a-ur1f6765gcvu@127.0.0.1:1080?security=tls&type=tcp#🕒 LAST UPDATE: 2025/08/26 | 16:05
-trojan://mc71zafq-bmsw-76l3-rrrq-m11c9p938xw3@127.0.0.1:2080?security=tls&type=tcp#This is a free trial project.
-trojan://nhd0a1ye-rgbi-3pj7-jys9-4us35e67d0rv@127.0.0.1:4080?security=tls&type=tcp#「 GitHub Argh94 ☕ 」
+trojan://ip369wd4-ftg0-szpg-b1dj-0h0ykm4h8y9h@127.0.0.1:1080?security=tls&type=tcp#🕒 LAST UPDATE: 2025/08/26 | 19:54
+trojan://m0bxrhfy-n1f6-uirc-ro8y-7fs5bxbts0ts@127.0.0.1:2080?security=tls&type=tcp#This is a free trial project.
+trojan://jfv8744p-gjrd-szc6-llvm-fryzw8azskj6@127.0.0.1:4080?security=tls&type=tcp#「 GitHub Argh94 ☕ 」
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@193.29.139.235:8080#193.29.139.235:8080
 vless://378b8e58-6a23-4fc6-b227-67665a78033d@hajimamadvpn.fast.hosting-ip.com:80?type=xhttp&security=none&path=/#hajimamadvpn.fast.hosting-ip.com:80
 vless://b71aa6d3-470e-44cf-9635-c7a6d9f0f740@kafshu.ir:8080?type=ws&security=none&path=/Telegram,@EXPRESSVPN_420/Telegram,@EXPRESSVPN_420/Telegram,@EXPRESSVPN_420/Telegram,@EXPRESSVPN_420/Telegram,@EXPRESSVPN_420/Telegram,@EXPRESSVPN_420/Telegram,@EXPRESSVPN_420/Telegram,@EXPRESSVPN_420/Telegram,@EXPRESSVPN_420/Telegram,@EXPRESSVPN_420/Telegram,@EXPRESSVPN_420/Telegram,@EXPRESSVPN_420/Telegram,@EXPRESSVPN_420/Telegram,@EXPRESSVPN_420/Telegram,@EXPRESSVPN_420/Telegram,@EXPRESSVPN_420/Telegram,@EXPRESSVPN_420/Telegram,@EXPRESSVPN_420/Telegram,@EXPRESSVPN_420/Telegram,@EXPRESSVPN_420/Telegram,@EXPRESSVPN_420?ed=2080#kafshu.ir:8080
@@ -41,5 +41,5 @@ vless://5a998931-c4be-4441-8a0d-81ffe55b5c64@hajimamad.timeclassic.ir:900?type=x
 vless://f7d30f9b-e77f-4162-b553-1ca6f816b870@51.75.162.3:443?type=tcp&security=reality&sni=tgju.org&fp=firefox&pbk=aO2tx4kfUpQWIvT5bO7lH6G1GDfnrThtSFigLJXDens&sid=370dd394052f2386#51.75.162.3:443
 vless://f7d30f9b-e77f-4162-b553-1ca6f816b870@185.177.238.11:443?type=tcp&security=reality&sni=tgju.org&fp=firefox&pbk=aO2tx4kfUpQWIvT5bO7lH6G1GDfnrThtSFigLJXDens&sid=370dd394052f2386#185.177.238.11:443
 hysteria2://3QlSMKyqLp@android.yas-nowin.ir:443?sni=android.yas-nowin.ir&insecure=0#android.yas-nowin.ir:443
-trojan://5ee7k1dd-vt2g-4753-tobj-ys7lgoftkh5t@127.0.0.1:8080?security=tls&type=tcp#For enhanced GitHub access, visit Argh94 now!
-trojan://g1mcsnik-cwar-rgqk-i55d-iit62fyno2r7@127.0.0.1:8081?security=tls&type=tcp#</> Collector v5.0
+trojan://oej0hsna-os85-ixzq-6og9-q5q4fanjnmnk@127.0.0.1:8080?security=tls&type=tcp#For enhanced GitHub access, visit Argh94 now!
+trojan://rzewyosr-vdbz-tcbt-8mad-7eqna7uf17iy@127.0.0.1:8081?security=tls&type=tcp#</> Collector v5.0

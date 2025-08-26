@@ -1,6 +1,6 @@
-trojan://r2aoln6n-b6fc-bvpd-znme-oi5dx7afcx8e@127.0.0.1:1080?security=tls&type=tcp#🕒 LAST UPDATE: 2025/08/26 | 16:05
-trojan://zfbzcsz9-djpu-ghlw-1thg-fe0r3zf5xccl@127.0.0.1:2080?security=tls&type=tcp#This is a free trial project.
-trojan://8wpxbmlm-rjct-yxon-c4qt-qdpks5976sbq@127.0.0.1:4080?security=tls&type=tcp#「 GitHub Argh94 ☕ 」
+trojan://icfxnoun-zy33-f148-y0wn-zzfok25f9g1j@127.0.0.1:1080?security=tls&type=tcp#🕒 LAST UPDATE: 2025/08/26 | 19:54
+trojan://v4lp84i4-viha-4tjy-6ari-2nu67fw8uwbn@127.0.0.1:2080?security=tls&type=tcp#This is a free trial project.
+trojan://h8pjx2sg-435g-22kh-sevj-bg6gryimwhrf@127.0.0.1:4080?security=tls&type=tcp#「 GitHub Argh94 ☕ 」
 vless://7072167d-8af6-40f3-bb3f-5ff3cc9f6807@136.244.84.58:27302?type=tcp&security=reality&sni=cs.gameup.ir&fp=chrome&flow=xtls-rprx-vision&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc#136.244.84.58:27302
 vless://564c5b96-1aff-42c5-e980-cede27801345@80.240.26.55:15025?type=tcp&security=reality&sni=FUrY.MaX-gAMiNg2.iR.&fp=firefox&flow=xtls-rprx-vision&pbk=rb4AVQaBU-jvn7EDui-msAn7b0E14GHMxOJVps99IHc&sid=081b298ae3#80.240.26.55:15025
 vless://271fe692-5e0c-4d89-ec60-8afa3b78efd4@81.30.98.122:8080?type=http&security=reality&path=/&sni=Www.SPeedTesT.NEt&fp=firefox&pbk=9rQjZQEE-PpIqLVBoP1uAvr7gSWKTAHFic1CVVlfqXM&sid=90928c15#81.30.98.122:8080
@@ -13,5 +13,5 @@ vless://55a4210c-e765-427f-813d-0c55b763f6b0@199.247.28.17:44914?type=xhttp&secu
 vless://55a4210c-e765-427f-813d-0c55b763f6b0@199.247.28.17:44914?type=xhttp&security=reality&path=/&sni=black-moai.com&fp=chrome&pbk=o1n1Qj_IBvl3xGDkMPzmuRJzKKW31L_r9kEeyW7e3F8&sid=1ac2a2dde288#199.247.28.17:44914
 vless://7b93491b-d1c0-4679-938d-56f0abec50b2@199.247.28.17:44914?type=xhttp&security=reality&path=/&sni=black-moai.com&fp=chrome&pbk=o1n1Qj_IBvl3xGDkMPzmuRJzKKW31L_r9kEeyW7e3F8&sid=1ac2a2dde288#199.247.28.17:44914
 vless://73cc7084-a427-4193-8fe0-6dd72ac48265@80.240.23.101:47567?type=xhttp&security=reality&path=/&sni=www.black-moai.com&fp=firefox&pbk=qmdcGi9MFglpiaqalAFvOUGNehBjYIwaXLbula8K0gU&sid=a862ded52ae3ea#80.240.23.101:47567
-trojan://9kgtxleo-udew-m84v-h17a-k4ao6cs30ep1@127.0.0.1:8080?security=tls&type=tcp#For enhanced GitHub access, visit Argh94 now!
-trojan://kuvulip0-s413-7eri-soqg-qwa3oc2hgtp1@127.0.0.1:8081?security=tls&type=tcp#</> Collector v5.0
+trojan://6w6egwbb-e3ex-lis7-q73m-feb5xq0cfk10@127.0.0.1:8080?security=tls&type=tcp#For enhanced GitHub access, visit Argh94 now!
+trojan://isqbdom5-ir5h-sm2z-7fce-h5rbifyg5lq2@127.0.0.1:8081?security=tls&type=tcp#</> Collector v5.0

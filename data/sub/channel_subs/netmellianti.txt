@@ -1,6 +1,6 @@
-trojan://wsk9kx87-0688-blwd-s7ke-9r8w7an3mynl@127.0.0.1:1080?security=tls&type=tcp#🕒 LAST UPDATE: 2025/08/26 | 16:05
-trojan://l33kz5z2-inh0-d2fw-00hz-xswiqvcuryym@127.0.0.1:2080?security=tls&type=tcp#This is a free trial project.
-trojan://bv8xn4l2-2wal-odpn-a4iz-fsct75o77o3e@127.0.0.1:4080?security=tls&type=tcp#「 GitHub Argh94 ☕ 」
+trojan://kn3vv0lr-t91t-2ov8-rftw-mt02jf68pjgz@127.0.0.1:1080?security=tls&type=tcp#🕒 LAST UPDATE: 2025/08/26 | 19:54
+trojan://ia70uijo-6td8-qtsm-6ik5-n4ak07148mb7@127.0.0.1:2080?security=tls&type=tcp#This is a free trial project.
+trojan://qmlo4uxn-65cp-69ze-xfze-53jkr1qwr9nb@127.0.0.1:4080?security=tls&type=tcp#「 GitHub Argh94 ☕ 」
 vless://95790a02-2252-4be9-a103-0778dd0c078e@91.224.75.72:40832?type=tcp&security=none#91.224.75.72:40832
 vless://2bcfbfba-b446-4ad5-93ad-72af9e008f61@172.67.160.192:443?type=ws&security=tls&path=/free/103.101.153.32:443&sni=nuclear.us.kg#172.67.160.192:443
 vless://6b2fb4d7-af77-4a8b-84b0-7ffe179f3d34@het.iran-mehrbu.ir:3333?type=tcp&security=none#het.iran-mehrbu.ir:3333
@@ -16,8 +16,9 @@ vless://f7d30f9b-e77f-4162-b553-1ca6f816b870@104.16.53.11:8080?type=httpupgrade&
 vless://f7d30f9b-e77f-4162-b553-1ca6f816b870@104.16.53.11:8080?type=httpupgrade&security=none&path=/#104.16.53.11:8080
 vless://f7d30f9b-e77f-4162-b553-1ca6f816b870@104.16.53.11:8080?type=httpupgrade&security=none&path=/#104.16.53.11:8080
 vless://f7d30f9b-e77f-4162-b553-1ca6f816b870@104.16.53.11:8080?type=httpupgrade&security=none&path=/#104.16.53.11:8080
+vless://f7d30f9b-e77f-4162-b553-1ca6f816b870@104.16.53.11:8080?type=httpupgrade&security=none&path=/#104.16.53.11:8080
 vless://97ecfbb6-949b-4f4c-bce1-16a5036a0af5@abri.abriabri.ir:2233?type=tcp&security=reality&sni=www.tgju.org&fp=firefox&pbk=XXyGhQ_iIds5fOp-JEq76iPb1heaBCSd7N5cOe9oFlg&sid=e0#abri.abriabri.ir:2233
 vless://909d4490-6cbb-4006-9dbd-3c7f5d79cfda@warning.root.info.tr:443?type=tcp&security=reality&sni=sourceforge.net&fp=ios&pbk=D5_j99ZSJtC9MdMQGCWlVvUU0p8KRgHZ2ZEnv2z2FWU&sid=b8fc40ff6d873611#warning.root.info.tr:443
 vless://1a6fe500-59da-4598-8576-256f06765ffb@94.26.228.10:443?type=tcp&security=reality&sni=ru.sfasti.ru&fp=chrome&flow=xtls-rprx-vision&pbk=J_jQq9-SWQZjiMhuPaFV7V2MaJ4pkKgVRaz7x6tmvy8&sid=16895459a2c7768d#94.26.228.10:443
-trojan://sx8bxn5e-mj09-nxwj-pr1a-8dofagtbkc8n@127.0.0.1:8080?security=tls&type=tcp#For enhanced GitHub access, visit Argh94 now!
-trojan://6jp429xg-r5td-arqz-isgb-bdgnhpi8uyev@127.0.0.1:8081?security=tls&type=tcp#</> Collector v5.0
+trojan://s1soi845-pwy7-b0yr-wtx8-jyq7vj87kusb@127.0.0.1:8080?security=tls&type=tcp#For enhanced GitHub access, visit Argh94 now!
+trojan://c0r2haoe-vw67-1vmj-qg8m-jayfuk2w5t3f@127.0.0.1:8081?security=tls&type=tcp#</> Collector v5.0

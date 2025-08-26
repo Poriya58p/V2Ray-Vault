@@ -1,8 +1,8 @@
-trojan://pg19l30a-mv57-dig8-0dkk-mkpealxebhnu@127.0.0.1:1080?security=tls&type=tcp#🕒 LAST UPDATE: 2025/08/26 | 16:05
-trojan://egndnc2l-17j1-xin2-r8vm-53yncgndo9hn@127.0.0.1:2080?security=tls&type=tcp#This is a free trial project.
-trojan://ulfpp4go-9cy2-1eth-2fpn-xn168561p658@127.0.0.1:4080?security=tls&type=tcp#「 GitHub Argh94 ☕ 」
+trojan://niw2ogu8-rnug-qku7-mko9-z46nxoyub5ao@127.0.0.1:1080?security=tls&type=tcp#🕒 LAST UPDATE: 2025/08/26 | 19:54
+trojan://44v5ezj2-j9hm-53iw-wem5-yo7z4w64hw0t@127.0.0.1:2080?security=tls&type=tcp#This is a free trial project.
+trojan://rg6q8rrb-0xh0-8ijq-8zlw-ysaz7fesdik3@127.0.0.1:4080?security=tls&type=tcp#「 GitHub Argh94 ☕ 」
 vmess://eyJ2IjoiMiIsInBzIjoiTkwgXHVkODNjXHVkZGYzXHVkODNjXHVkZGYxIFx1MjUwNyBWTUVTUy1XUy1UTFMgLSBERUxVWEhPU1QgXHUyNTA3IDkyLjExMi4xMjYuMjIiLCJhZGQiOiI5Mi4xMTIuMTI2LjIyIiwicG9ydCI6ODQ0MywiaWQiOiIzOTM3MjAzNS0zMzIwLTQ1MzctYTAzMS0zMDMxMjAzMTMwMzAiLCJhaWQiOjAsInNjeSI6Im5vbmUiLCJuZXQiOiJ3cyIsInR5cGUiOiItLS0iLCJob3N0IjoibmwtMi5zdHVubmVsLmNjIiwicGF0aCI6Ii93cyIsInRscyI6InRscyIsInNuaSI6Im5sLTIuc3R1bm5lbC5jYyJ9
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo5dHFoTWRJclRrZ1E0NlB2aHlBdE1I@2a12:bec4:1822:1b9::a:443#GB 🇬🇧 ┇ SHADOWSOCKS-TCP-NTLS - DELUXHOST ┇ 2a12:bec4:1822:1b9::a
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpSRkszOENnN0FQbmVTQjVjV0RjcGJt@switcher-nick-croquet.freesocks.work:443#NL 🇳🇱 ┇ SHADOWSOCKS-TCP-NTLS - DELUXHOST ┇ 92.112.126.90
-trojan://5xj5vrex-hwd6-qhyx-co7r-2xlu1p8hjht6@127.0.0.1:8080?security=tls&type=tcp#For enhanced GitHub access, visit Argh94 now!
-trojan://jqynbvo2-9809-7tee-625p-1307v9vmnfr8@127.0.0.1:8081?security=tls&type=tcp#</> Collector v5.0
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo5dHFoTWRJclRrZ1E0NlB2aHlBdE1I@switcher-nick-croquet.freesocks.work:443#NL 🇳🇱 ┇ SHADOWSOCKS-TCP-NTLS - DELUXHOST ┇ 92.112.126.90
+trojan://talwm1rx-ci9t-qaam-udlg-ywgr2sbekmm4@127.0.0.1:8080?security=tls&type=tcp#For enhanced GitHub access, visit Argh94 now!
+trojan://8zo39wu5-7s0n-ch9u-q4d4-d9lknz21ke3s@127.0.0.1:8081?security=tls&type=tcp#</> Collector v5.0

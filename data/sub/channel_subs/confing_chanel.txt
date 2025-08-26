@@ -1,6 +1,6 @@
-trojan://d8pjbcbp-kpsy-k9fj-n1jo-b4tba42iyce1@127.0.0.1:1080?security=tls&type=tcp#🕒 LAST UPDATE: 2025/08/26 | 16:05
-trojan://h68v9uok-ve7n-r5bn-9tr8-cn2ncdfol96c@127.0.0.1:2080?security=tls&type=tcp#This is a free trial project.
-trojan://95pb1rhn-kiou-wkp3-je3x-j4x88hfs606a@127.0.0.1:4080?security=tls&type=tcp#「 GitHub Argh94 ☕ 」
+trojan://odjrz2lu-xtgg-l62x-fd1o-by3xp4jrc6os@127.0.0.1:1080?security=tls&type=tcp#🕒 LAST UPDATE: 2025/08/26 | 19:54
+trojan://eazb9fqv-p0h6-728s-qy53-w28h88e13m16@127.0.0.1:2080?security=tls&type=tcp#This is a free trial project.
+trojan://89a2j980-vnp2-3eii-tbfe-8ndbe1e1kwgq@127.0.0.1:4080?security=tls&type=tcp#「 GitHub Argh94 ☕ 」
 vless://1271a698-7db4-455d-b7e2-daa07389bb6c@172.66.40.99:8080?type=ws&security=none&path=/-LiV2ry@LIGHTNING6-TEL--@LIGHTNING6-TEL--@LIGHTNING6-TEL--@LIGHTNING6-JOIN-@LIGHTNING6-TEL--@LIGHTNING6-JOIN-@LIGHTNING6-TEL-@LIGHTNING6-TEL--@LIGHTNING6-JOIN-@LIGHTNING6-TEL--@LIGHTNING6?ed=2048#172.66.40.99:8080
 vless://c1d33a48-0a89-4ca6-81e7-e126123f3375@172.66.40.99:8080?type=tcp&security=none&path=/-LiV2ry@LIGHTNING6-TEL--#172.66.40.99:8080
 vless://telegram-id-Arfilter@172.66.40.99:443?type=ws&security=tls&path=/telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray?ed=2048&sni=aBs.SpEeDtEsT2029.CoM&fp=firefox#172.66.40.99:443
@@ -9,5 +9,5 @@ vless://db0edd3d-b3f3-453f-e0b2-1d55c74c0c71@cumhuriyet.com.tr:8080?type=ws&secu
 vless://db0edd3d-b3f3-453f-e0b2-1d55c74c0c71@www.speedtest.net:8080?type=ws&security=none&path=/@unlimiteddev----@unlimiteddev-----@unlimiteddev----@unlimiteddev----@unlimiteddev----@unlimiteddev----@unlimiteddev----@unlimiteddev----@unlimitedev----@unlimitedev----@unlimiteddev----@unlimiteddev?ed=2480#www.speedtest.net:8080
 vless://c4587bda-09fc-4b3b-8221-4450fccc33d1@172.67.71.187:443?type=ws&security=tls&path=/&sni=yx.yushan.dpdns.org#172.67.71.187:443
 vless://8c96d8f8-517c-446f-82f0-c3518623b03b@172.66.40.99:8080?type=ws&security=none&path=/-LiV2ry@LIGHTNING6-TEL--@LIGHTNING6-TEL--@LIGHTNING6-TEL--@LIGHTNING6-JOIN-@LIGHTNING6-TEL--@LIGHTNING6-JOIN-@LIGHTNING6-TEL-@LIGHTNING6-TEL--@LIGHTNING6-JOIN-@LIGHTNING6-TEL--@LIGHTNING6?ed=2048#172.66.40.99:8080
-trojan://epyuhhim-t7h6-n0f2-9pqu-2b73ah6glu6e@127.0.0.1:8080?security=tls&type=tcp#For enhanced GitHub access, visit Argh94 now!
-trojan://62iry4l6-9qx0-n512-zc8v-frdr9n0ulpcv@127.0.0.1:8081?security=tls&type=tcp#</> Collector v5.0
+trojan://ppqd7t58-g7fp-jc9e-j0kw-gnw98tmef0if@127.0.0.1:8080?security=tls&type=tcp#For enhanced GitHub access, visit Argh94 now!
+trojan://mtqiidt0-yjcl-j6p3-5n3k-8vq84skyopeb@127.0.0.1:8081?security=tls&type=tcp#</> Collector v5.0

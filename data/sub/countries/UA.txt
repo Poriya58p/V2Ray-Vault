@@ -1,9 +1,9 @@
-trojan://5om1e810-t4yg-k5zu-ak4b-ajfg80tuqp4z@127.0.0.1:1080?security=tls&type=tcp#🕒 LAST UPDATE: 2025/08/26 | 16:05
-trojan://nv905q6h-i2ms-g5oe-12eu-wp03vf4f88vy@127.0.0.1:2080?security=tls&type=tcp#This is a free trial project.
-trojan://5llrkbk6-xtvz-0hwa-ibl9-id3s2jfbgf4o@127.0.0.1:4080?security=tls&type=tcp#「 GitHub Argh94 ☕ 」
-hysteria2://c6e02cd8-ce11-40f0-afeb-e2c412b6cc3a@185.126.255.78:37058?sni=dxobg4azmk.gafnode.sbs&insecure=0#UA 🇺🇦 ┇ HYSTERIA2-TCP-NTLS - South Park Networks LLC ┇ 185.126.255.78
+trojan://24s3yt1p-4ixi-j9k5-appd-3etfk4u5kcs6@127.0.0.1:1080?security=tls&type=tcp#🕒 LAST UPDATE: 2025/08/26 | 19:54
+trojan://h4kv6goa-hgkc-8lpn-7wu0-i0cs0w55vok4@127.0.0.1:2080?security=tls&type=tcp#This is a free trial project.
+trojan://htffshx3-glpm-8t2g-y5qw-tcs1xkkrge7r@127.0.0.1:4080?security=tls&type=tcp#「 GitHub Argh94 ☕ 」
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@176.103.53.105:990#UA 🇺🇦 ┇ SHADOWSOCKS-TCP-NTLS - Ivanov Vitaliy Sergeevich ┇ 176.103.53.105
-vless://1affd7a7-6ea5-4284-89b6-f25d7805c5bc@212.79.125.38:16816?type=tcp&security=reality&sni=discord.com&fp=chrome&pbk=n9OO75eOaHXQyfUByQSZviDY4RmSUQyoU1YSs4yQXEs&sid=7f700392#UA 🇺🇦 ┇ VLESS-TCP-RLT - South Park Networks LLC ┇ 212.79.125.38
 ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw@5.188.6.8:989#UA 🇺🇦 ┇ SHADOWSOCKS-TCP-NTLS - G-Core Labs S.A. ┇ 5.188.6.8
-trojan://kqabrn3x-aq45-usf7-9pnu-3yvfoavfdkt9@127.0.0.1:8080?security=tls&type=tcp#For enhanced GitHub access, visit Argh94 now!
-trojan://j1cfp1js-3aur-f8o8-a95h-n0bcj8wzfpo9@127.0.0.1:8081?security=tls&type=tcp#</> Collector v5.0
+vless://1affd7a7-6ea5-4284-89b6-f25d7805c5bc@212.79.125.38:16816?type=tcp&security=reality&sni=discord.com&fp=chrome&pbk=n9OO75eOaHXQyfUByQSZviDY4RmSUQyoU1YSs4yQXEs&sid=7f700392#UA 🇺🇦 ┇ VLESS-TCP-RLT - South Park Networks LLC ┇ 212.79.125.38
+hysteria2://c6e02cd8-ce11-40f0-afeb-e2c412b6cc3a@185.126.255.78:37058?sni=dxobg4azmk.gafnode.sbs&insecure=0#UA 🇺🇦 ┇ HYSTERIA2-TCP-NTLS - South Park Networks LLC ┇ 185.126.255.78
+trojan://3a1bcx9b-6wy4-ip6s-2sp9-ikc7mtevul1w@127.0.0.1:8080?security=tls&type=tcp#For enhanced GitHub access, visit Argh94 now!
+trojan://fmoshxd0-to7h-4qv2-eykk-0ajzkycbdq9z@127.0.0.1:8081?security=tls&type=tcp#</> Collector v5.0

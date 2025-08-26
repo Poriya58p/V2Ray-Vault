@@ -1,12 +1,16 @@
-trojan://xrgb4512-0yfj-8bsw-xb1x-mceitiyt5wjf@127.0.0.1:1080?security=tls&type=tcp#🕒 LAST UPDATE: 2025/08/26 | 16:05
-trojan://dh4m6ny9-9jdr-mlus-0bjt-c3ck2n90piic@127.0.0.1:2080?security=tls&type=tcp#This is a free trial project.
-trojan://pwo6yhzj-i28z-m4ug-lt0n-z0i2wohdtdv7@127.0.0.1:4080?security=tls&type=tcp#「 GitHub Argh94 ☕ 」
+trojan://mcubia99-18jn-zeel-2pw3-iebthdypcv7w@127.0.0.1:1080?security=tls&type=tcp#🕒 LAST UPDATE: 2025/08/26 | 19:54
+trojan://tgiwmbj5-ljlk-opo9-0brf-bjpe4ir9so59@127.0.0.1:2080?security=tls&type=tcp#This is a free trial project.
+trojan://zq5tgpbl-v3f9-mfg5-diau-x4il0dac3ucm@127.0.0.1:4080?security=tls&type=tcp#「 GitHub Argh94 ☕ 」
 vless://f12306c3-40f7-4543-afd0-534a91b1cdf3@172.66.40.99:443?type=ws&security=tls&path=/telegram-CONFiGLiNE,telegram-CONFiGLiNE,telegram-CONFiGLiNE,telegram-CONFiGLiNE,telegram-CONFiGLiNE,telegram-CONFiGLiNE,telegram-CONFiGLiNE,telegram-CONFiGLiNE?ed=2048&sni=hE136.maShkesTan.CoM&fp=firefox#172.66.40.99:443
 vless://TELEGRAM-CONFiGLiNE@test.fast.hosting-ip.com:80?type=xhttp&security=none&path=/telegram-CONFiGLiNE,telegram-CONFiGLiNE,telegram-CONFiGLiNE,telegram-CONFiGLiNE,telegram-CONFiGLiNE,telegram-CONFiGLiNE,telegram-CONFiGLiNE,telegram-CONFiGLiNE?ed=2048#test.fast.hosting-ip.com:80
 vless://1d8cd08a-6e3e-4365-b554-08a6ae4c1c6c@www.speedtest.net:8080?type=ws&security=none&path=/@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy#www.speedtest.net:8080
 vless://8c96d8f8-517c-446f-82f0-c3518623b03b@172.66.40.99:8080?type=ws&security=none&path=/-LiV2ry@LIGHTNING6-TEL--@LIGHTNING6-TEL--@LIGHTNING6-TEL--@LIGHTNING6-JOIN-@LIGHTNING6-TEL--@LIGHTNING6-JOIN-@LIGHTNING6-TEL-@LIGHTNING6-TEL--@LIGHTNING6-JOIN-@LIGHTNING6-TEL--@LIGHTNING6?ed=2048#172.66.40.99:8080
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@185.231.205.248:8880?type=grpc&security=none#185.231.205.248:8880
 vless://e4824193-4f54-453b-d037-88368e85ef0e@pqh25v7.waipdirect.shop:8880?type=grpc&security=none#pqh25v7.waipdirect.shop:8880
+vless://90c7ad5e-cd15-4314-b39b-aeabd397d592@www.visa.com.sg:2087?type=ws&security=tls&path=/?ed=2560&sni=vl.hongkong6.qzz.io&fp=random#www.visa.com.sg:2087
+vless://92b022a6-67f3-4406-840b-8fec2f4aace8@sss48716.tas-bazi.com:443?type=xhttp&security=none&path=/awd/?@i10VPN?ed=2048#sss48716.tas-bazi.com:443
 vless://ce13ec9d-0f04-49c0-9877-0e7d1e657895@a.de.maviks.ru:443?type=tcp&security=reality&sni=www.microsoft.com&fp=chrome&flow=xtls-rprx-vision&pbk=lyLhdojpACv6B3tHViJvPjNGATedXYRMnpAt4n4Siyo&sid=f203719d3ff9a5f5#a.de.maviks.ru:443
-trojan://iu6mc5cj-x4q3-9i2s-fh0n-akf8x1bsmq7n@127.0.0.1:8080?security=tls&type=tcp#For enhanced GitHub access, visit Argh94 now!
-trojan://wt72nfp6-mrtx-fc0d-0u7q-2xyimfyp8qfo@127.0.0.1:8081?security=tls&type=tcp#</> Collector v5.0
+vless://49ed01ad-3bb4-204f-b0ff-a58f658fd618@5.181.171.10:443?type=tcp&security=reality&sni=speed.cloudflare.com&flow=xtls-rprx-vision&pbk=YNGotlyAx3ELUmi4lxOUjiEDmibqf1pPUTE9o3YYT2Y#5.181.171.10:443
+vless://49ed01ad-3bb4-204f-b0ff-a58f658fd618@5.181.171.10:443?type=tcp&security=reality&sni=speed.cloudflare.com&flow=xtls-rprx-vision&pbk=YNGotlyAx3ELUmi4lxOUjiEDmibqf1pPUTE9o3YYT2Y#5.181.171.10:443
+trojan://sy7tcmzs-lv57-6ljg-rp0t-equz26728l31@127.0.0.1:8080?security=tls&type=tcp#For enhanced GitHub access, visit Argh94 now!
+trojan://rktkudb6-02yw-83ym-m4gg-tld7tjj63cv3@127.0.0.1:8081?security=tls&type=tcp#</> Collector v5.0

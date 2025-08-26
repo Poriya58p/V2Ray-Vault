@@ -1,7 +1,7 @@
-trojan://wnh5fye7-snfh-q5yk-hok2-lsu2s30qw2rp@127.0.0.1:1080?security=tls&type=tcp#🕒 LAST UPDATE: 2025/08/26 | 16:05
-trojan://rau4jw4b-jqrp-ye0j-w946-3e2emx775cma@127.0.0.1:2080?security=tls&type=tcp#This is a free trial project.
-trojan://v3ocuqer-8rai-rran-yd7h-c38qgsin5m7m@127.0.0.1:4080?security=tls&type=tcp#「 GitHub Argh94 ☕ 」
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@154.205.159.100:990#ID 🇮🇩 ┇ SHADOWSOCKS-TCP-NTLS - Kaopu Cloud HK Limited ┇ 154.205.159.100
+trojan://cz6njcuz-eb6k-01h0-jmmj-7ejho9tibkkq@127.0.0.1:1080?security=tls&type=tcp#🕒 LAST UPDATE: 2025/08/26 | 19:54
+trojan://kw607tj9-rqyn-cplm-04sl-p7hcunzqsg5j@127.0.0.1:2080?security=tls&type=tcp#This is a free trial project.
+trojan://x3fpr2jj-j6wn-wiyh-24i4-e8dxtv1ohucj@127.0.0.1:4080?security=tls&type=tcp#「 GitHub Argh94 ☕ 」
 ss://YWVzLTEyOC1nY206NmIxZTU0NzUtNzY2MS00OTIxLWFhMjYtZDExNzU4YjJmM2Yx@156.244.1.59:13879#ID 🇮🇩 ┇ SHADOWSOCKS-TCP-NTLS - Kaopu Cloud HK Limited ┇ 156.244.1.59
-trojan://h550za03-pont-5gjr-tbkd-hrdmym9x7bry@127.0.0.1:8080?security=tls&type=tcp#For enhanced GitHub access, visit Argh94 now!
-trojan://vjk1pgux-pu57-491u-9r8t-c9sxbptdmk49@127.0.0.1:8081?security=tls&type=tcp#</> Collector v5.0
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@154.205.159.100:990#ID 🇮🇩 ┇ SHADOWSOCKS-TCP-NTLS - Kaopu Cloud HK Limited ┇ 154.205.159.100
+trojan://mxkwe4gg-9oeb-gmww-rw81-zzeydorm09uj@127.0.0.1:8080?security=tls&type=tcp#For enhanced GitHub access, visit Argh94 now!
+trojan://cdcrsigg-5nts-nbss-olcy-5jvotm2y5zxp@127.0.0.1:8081?security=tls&type=tcp#</> Collector v5.0
