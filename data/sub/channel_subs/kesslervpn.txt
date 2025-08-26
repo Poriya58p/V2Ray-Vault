@@ -1,8 +1,8 @@
-trojan://32zyet82-mbta-5q56-b06k-76pkwe5g1ne9@127.0.0.1:1080?security=tls&type=tcp#🕒 LAST UPDATE: 2025/08/26 | 04:38
-trojan://h464nyzb-3pcb-hdfi-4hx2-prutrclzanzf@127.0.0.1:2080?security=tls&type=tcp#This is a free trial project.
-trojan://9hfbfn3h-1lv9-zd85-urst-xpznp598czm8@127.0.0.1:4080?security=tls&type=tcp#「 GitHub Argh94 ☕ 」
+trojan://fpz6aoj9-ih3a-g53b-cz8q-3hb4a1pkw54o@127.0.0.1:1080?security=tls&type=tcp#🕒 LAST UPDATE: 2025/08/26 | 07:54
+trojan://20x17cqt-98fb-lm25-hs0o-hhh3i7bo64be@127.0.0.1:2080?security=tls&type=tcp#This is a free trial project.
+trojan://axm2l0en-qyzz-dred-l7mu-a7h9poyz4r2k@127.0.0.1:4080?security=tls&type=tcp#「 GitHub Argh94 ☕ 」
 vless://e310b2f0-c3e3-4588-b0f1-1f61eca7183f@165.227.167.107:2020?type=grpc&security=reality&fp=chrome&pbk=ioN06zzyjfpaFtOtnVrMgnzTjAyVGYyVYzRrfHjDiU8#165.227.167.107:2020
 vless://9e890db0-905d-41d2-8a69-0a35ff7d8ce3@2a03:b0c0:3:d0::10ad:7001:29360?type=tcp&security=reality&fp=firefox&pbk=WeBcvXnjj4LbVsAT2lTbZ3JbvoqE4S_rON9h-7DjrHo#2a03:b0c0:3:d0::10ad:7001:29360
 vless://201c05a2-f76b-4088-bb1d-e4c8ee8909dd@germansana.kesslershop.ir:8997?type=tcp&security=reality&sni=refersion.com&fp=firefox&flow=xtls-rprx-vision&pbk=UgwRcGmt9yqVzDac4KryRxQKvaVDi0eueJPPpmx7pW8&sid=f23d09#germansana.kesslershop.ir:8997
-trojan://5jvt2xly-8bvu-xhcc-mmo6-9nas3zhvmrj9@127.0.0.1:8080?security=tls&type=tcp#For enhanced GitHub access, visit Argh94 now!
-trojan://mpqzhn6i-lkjj-d41m-clpn-3i0k5gyn87pq@127.0.0.1:8081?security=tls&type=tcp#</> Collector v5.0
+trojan://4j3sadau-mni5-5vgy-izuz-wysxq5wvnbvq@127.0.0.1:8080?security=tls&type=tcp#For enhanced GitHub access, visit Argh94 now!
+trojan://0xcwgozl-3yhr-dgsa-u23y-3nzhs410r3xf@127.0.0.1:8081?security=tls&type=tcp#</> Collector v5.0

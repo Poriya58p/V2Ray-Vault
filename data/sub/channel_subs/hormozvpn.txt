@@ -1,10 +1,10 @@
-trojan://5xi9seza-i3tg-93dd-7co5-vafgladuu8j4@127.0.0.1:1080?security=tls&type=tcp#🕒 LAST UPDATE: 2025/08/26 | 04:38
-trojan://hgjqurc8-pfqg-3hor-td6w-ugjojxkqjn0s@127.0.0.1:2080?security=tls&type=tcp#This is a free trial project.
-trojan://94x31sv0-a1ot-r2dn-1fq5-nqsr1mp48r6m@127.0.0.1:4080?security=tls&type=tcp#「 GitHub Argh94 ☕ 」
+trojan://pjn1e52s-5alw-hfq5-s5jw-6aj1w1ueo1gk@127.0.0.1:1080?security=tls&type=tcp#🕒 LAST UPDATE: 2025/08/26 | 07:54
+trojan://ioixw6wp-rnl9-lnt5-jepv-vrr49vff2cr4@127.0.0.1:2080?security=tls&type=tcp#This is a free trial project.
+trojan://dqg5z26k-kx4f-tbc6-w4ds-q0nb6sh3upca@127.0.0.1:4080?security=tls&type=tcp#「 GitHub Argh94 ☕ 」
 vless://6d929ed5-22cc-4fe0-89c7-eb9fb734d460@49.13.36.144:1905?type=tcp&security=none#49.13.36.144:1905
 vless://6d929ed5-22cc-4fe0-89c7-eb9fb734d460@49.13.36.144:1905?type=tcp&security=none#49.13.36.144:1905
 vless://f95d9904-b801-4e91-af1b-63d2b30cb7f8@92.114.24.92:9985?type=tcp&security=none#92.114.24.92:9985
 vless://8ed580b9-4823-4cb0-9d75-ad51bae94da0@92.114.24.92:8989?type=tcp&security=none#92.114.24.92:8989
 vless://8ed580b9-4823-4cb0-9d75-ad51bae94da0@92.114.24.92:8989?type=tcp&security=none#92.114.24.92:8989
-trojan://k8map4eq-2k7g-ppd0-xwk3-6p43tx800se8@127.0.0.1:8080?security=tls&type=tcp#For enhanced GitHub access, visit Argh94 now!
-trojan://lfyd3hqd-bz80-lb2m-6to5-z9bdcn1pvf48@127.0.0.1:8081?security=tls&type=tcp#</> Collector v5.0
+trojan://airq2nq8-o984-yli2-jdio-rrm4n7jxjq2z@127.0.0.1:8080?security=tls&type=tcp#For enhanced GitHub access, visit Argh94 now!
+trojan://kanfp2wt-fqoo-ei74-omnc-h72thkhdzwjd@127.0.0.1:8081?security=tls&type=tcp#</> Collector v5.0

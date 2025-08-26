@@ -1,7 +1,7 @@
-trojan://2935ewzv-ve19-e5ll-l9xy-ytkksl2jkpwm@127.0.0.1:1080?security=tls&type=tcp#🕒 LAST UPDATE: 2025/08/26 | 04:38
-trojan://gsecokre-er1l-059b-wt7t-k4xvv4d0ffaw@127.0.0.1:2080?security=tls&type=tcp#This is a free trial project.
-trojan://t5ctwno8-2jee-3oqv-74yk-sl92oo8z0mgi@127.0.0.1:4080?security=tls&type=tcp#「 GitHub Argh94 ☕ 」
-vmess://eyJ2IjoiMiIsInBzIjoiVVMgXHVkODNjXHVkZGZhXHVkODNjXHVkZGY4IFx1MjUwNyBWTUVTUy1HUlBDLVRMUyAtIFNjYWxheHkgQi5WLiBcdTI1MDcgNDUuMTM3LjIxMy4xMDUiLCJhZGQiOiJjbG91ZC5raW5vbm9udmEudG9wIiwicG9ydCI6NDQzLCJpZCI6IjQwNDA4MzhjLWYwYTItNDM4MC04MWY5LTliMjU1ZjQ0MDQzYSIsImFpZCI6MCwic2N5IjoiYXV0byIsIm5ldCI6ImdycGMiLCJ0eXBlIjoiZ3VuIiwiaG9zdCI6InN1Yi5jb2xpLWFwcC50b3AiLCJ0bHMiOiJ0bHMiLCJzbmkiOiJzdWIuY29saS1hcHAudG9wIn0
+trojan://z8ke36nr-bqnz-yqk6-pa6s-kuxefvdmae22@127.0.0.1:1080?security=tls&type=tcp#🕒 LAST UPDATE: 2025/08/26 | 07:54
+trojan://yyjeeato-sgkj-1vxb-hfxh-om4lkefgo54n@127.0.0.1:2080?security=tls&type=tcp#This is a free trial project.
+trojan://siiv39d0-rzm1-3w94-ecbg-lbo97n6ham1v@127.0.0.1:4080?security=tls&type=tcp#「 GitHub Argh94 ☕ 」
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpLdWlxazJjUDBCTVdyZ21lOUlmRXZw@38.180.211.126:443#CA 🇨🇦 ┇ SHADOWSOCKS-TCP-NTLS - Scalaxy B.V. ┇ 38.180.211.126
-trojan://upn2xgx4-27st-rc1v-ax2f-2xpmxghktwm0@127.0.0.1:8080?security=tls&type=tcp#For enhanced GitHub access, visit Argh94 now!
-trojan://cygr9h5u-sj35-milk-q8sd-rqwb0pm93zb5@127.0.0.1:8081?security=tls&type=tcp#</> Collector v5.0
+vmess://eyJ2IjoiMiIsInBzIjoiVVMgXHVkODNjXHVkZGZhXHVkODNjXHVkZGY4IFx1MjUwNyBWTUVTUy1HUlBDLVRMUyAtIFNjYWxheHkgQi5WLiBcdTI1MDcgNDUuMTM3LjIxMy4xMDUiLCJhZGQiOiJjbG91ZC5raW5vbm9udmEudG9wIiwicG9ydCI6NDQzLCJpZCI6IjQwNDA4MzhjLWYwYTItNDM4MC04MWY5LTliMjU1ZjQ0MDQzYSIsImFpZCI6MCwic2N5IjoiYXV0byIsIm5ldCI6ImdycGMiLCJ0eXBlIjoiZ3VuIiwiaG9zdCI6InN1Yi5jb2xpLWFwcC50b3AiLCJ0bHMiOiJ0bHMiLCJzbmkiOiJzdWIuY29saS1hcHAudG9wIn0
+trojan://x0gn7kaw-7tyg-cm5m-lmsd-m0pgcdxj143k@127.0.0.1:8080?security=tls&type=tcp#For enhanced GitHub access, visit Argh94 now!
+trojan://asj4ys0v-iyan-t1xn-gm0r-zqgks0et4pyp@127.0.0.1:8081?security=tls&type=tcp#</> Collector v5.0

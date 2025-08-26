@@ -1,6 +1,6 @@
-trojan://8gcdfexg-psb1-sgkn-vgfg-f0csfu16vvcx@127.0.0.1:1080?security=tls&type=tcp#🕒 LAST UPDATE: 2025/08/26 | 04:38
-trojan://ibpesswz-9eru-yeqk-bdqy-xun510d89pcc@127.0.0.1:2080?security=tls&type=tcp#This is a free trial project.
-trojan://jycs40nn-7msp-5ycp-gtxd-r8ibqa6xhe0l@127.0.0.1:4080?security=tls&type=tcp#「 GitHub Argh94 ☕ 」
+trojan://dqpoitm9-qawc-72h8-2c3d-o6xfx211kemi@127.0.0.1:1080?security=tls&type=tcp#🕒 LAST UPDATE: 2025/08/26 | 07:54
+trojan://3oa61o9v-rs67-syow-uxoj-2p8v36zlrbjl@127.0.0.1:2080?security=tls&type=tcp#This is a free trial project.
+trojan://2f7atp3n-zgtn-qum4-jqn7-v7tzlzo042cv@127.0.0.1:4080?security=tls&type=tcp#「 GitHub Argh94 ☕ 」
 vless://2023c5f3-6ee4-4a6d-be55-44a06570f8dd@172.66.40.99:8080?type=ws&security=none&path=/telegram-CONFiGLiNE,telegram-CONFiGLiNE,telegram-CONFiGLiNE,telegram-CONFiGLiNE,telegram-CONFiGLiNE,telegram-CONFiGLiNE,telegram-CONFiGLiNE,telegram-CONFiGLiNE?ed=2048#=@#172.66.40.99:8080
 vless://a6f98117-6274-403b-a2de-1d2690f32382@172.66.40.99:443?type=ws&security=tls&path=/telegram-CONFiGLiNE,telegram-CONFiGLiNE,telegram-CONFiGLiNE,telegram-CONFiGLiNE,telegram-CONFiGLiNE,telegram-CONFiGLiNE,telegram-CONFiGLiNE,telegram-CONFiGLiNE?ed=2048#=@&sni=az52.mashkestan.com&fp=firefox#172.66.40.99:443
 vless://424c04d8-dc08-4644-b4%61f-fd466%6145b191@172.66.40.99:8080?type=ws&security=none&path=/-LiV2ry@LIGHTNING6-TEL--@LIGHTNING6-TEL--@LIGHTNING6-TEL--@LIGHTNING6-JOIN-@LIGHTNING6-TEL--@LIGHTNING6-JOIN-@LIGHTNING6-TEL-@LIGHTNING6-TEL--@LIGHTNING6-JOIN-@LIGHTNING6-TEL--@LIGHTNING6?ed=2048#172.66.40.99:8080
@@ -63,5 +63,5 @@ vless://3d7dd548-5456-4f28-8019-393fbfab3312@172.67.74.133:443?type=ws&security=
 vless://2cd455a4-c698-42de-9830-ac628dbe2e26@91.99.70.212:443?type=grpc&security=reality&sni=www.cdn77.com&fp=chrome&pbk=Zjzu45fPTjjaIcBoYyaLqieLtsWJD8ujdzNOQodWvnk#91.99.70.212:443
 vless://tm-H%71V2rayNG@full.vvir.ir:443?type=tcp&security=reality&sni=google.com&fp=chrome&flow=xtls-rprx-vision&pbk=tmdA-JLXg99x-LdvzAZnIV2J7QlHAe7F7xSRLh4ljHM&sid=e1#full.vvir.ir:443
 vless://738ebc1c-c44a-418e-8c2c-f9e2efe1f4fe@91.99.70.212:443?type=grpc&security=reality&sni=www.cdn77.com&fp=chrome&pbk=Zjzu45fPTjjaIcBoYyaLqieLtsWJD8ujdzNOQodWvnk#91.99.70.212:443
-trojan://ltoncwr4-fyn9-nsdg-jnff-q0ek9tfwg1m1@127.0.0.1:8080?security=tls&type=tcp#For enhanced GitHub access, visit Argh94 now!
-trojan://h28zg9rw-aa7c-dm8g-salr-xgdm1mp008uh@127.0.0.1:8081?security=tls&type=tcp#</> Collector v5.0
+trojan://h1xfem6z-xdqk-st0t-ut8k-hapt3zbehole@127.0.0.1:8080?security=tls&type=tcp#For enhanced GitHub access, visit Argh94 now!
+trojan://vfoyqeuu-dskg-ebul-i45m-hwbath0lriq0@127.0.0.1:8081?security=tls&type=tcp#</> Collector v5.0

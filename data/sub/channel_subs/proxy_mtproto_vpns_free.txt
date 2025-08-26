@@ -1,16 +1,10 @@
-trojan://i24fn9ay-j878-o7cq-pyku-5c32xi0ixap8@127.0.0.1:1080?security=tls&type=tcp#🕒 LAST UPDATE: 2025/08/26 | 04:38
-trojan://ps0npqrd-oinj-z75z-r1ci-gmmubj4crusw@127.0.0.1:2080?security=tls&type=tcp#This is a free trial project.
-trojan://05ixx6y9-si18-z6yz-st1h-b6p27dqolmlp@127.0.0.1:4080?security=tls&type=tcp#「 GitHub Argh94 ☕ 」
-vless://10aca91a-6e44-46cb-a890-ea246400c0a7@185.236.37.23:443?type=tcp&security=tls&sni=cdn2.azkhaktakhane.ir&fp=chrome&flow=xtls-rprx-vision#185.236.37.23:443
-vless://f0758892-f40c-412d-9fab-88103bad1fd8@ov-france2.09vpn.com:80?type=ws&security=none&path=/vless/#ov-france2.09vpn.com:80
-vless://6ad00faa-edef-42c8-b63b-e9a4f9ace827@5.35.103.218:2083?type=tcp&security=none#5.35.103.218:2083
-vless://718c9d87-3383-461a-8ecd-96fa7f434827@138.199.239.38:57276?type=ws&security=none&path=/FAST78_CHANNEL-TEL--FAST78_CHANNEL-TEL--FAST78_CHANNEL-TEL--FAST78_CHANNEL-JOIN-FAST78_CHANNEL-TEL--FAST78_CHANNEL-JOIN-FAST78_CHANNEL-TEL-FAST78_CHANNEL-TEL--FAST78_CHANNEL-JOIN-FAST78_CHANNEL-TEL--FAST78_CHANNEL#138.199.239.38:57276
-vless://e999db7a-1b17-4da6-bc37-c9fa24af2e93@ipw.gfdv54cvghhgfhgj-njhgj64.info:8443?type=ws&security=tls&path=/&sni=Nw5Q3gZlVv.LiRa9Xc7.InFo&fp=chrome#ipw.gfdv54cvghhgfhgj-njhgj64.info:8443
-vless://e999db7a-1b17-4da6-bc37-c9fa24af2e93@ipw.gfdv54cvghhgfhgj-njhgj64.info:443?type=ws&security=tls&path=/&sni=KlIi9Yc11L.lIrA0xC8.iNfO&fp=chrome#ipw.gfdv54cvghhgfhgj-njhgj64.info:443
+trojan://1256mee7-ot9f-liqb-hfn7-i4s5m3rb2y7f@127.0.0.1:1080?security=tls&type=tcp#🕒 LAST UPDATE: 2025/08/26 | 07:54
+trojan://vbupdcl3-6ct7-vp0c-3emk-ffq7kg7tzk5w@127.0.0.1:2080?security=tls&type=tcp#This is a free trial project.
+trojan://ipaiow6j-cnd9-887t-kor6-bs0bcke3iuk8@127.0.0.1:4080?security=tls&type=tcp#「 GitHub Argh94 ☕ 」
 vless://6cc53dc5-55b2-4968-bb7c-ee84e1429c63@ava.game.naver.com.servpn.my.id:443?type=ws&security=tls&path=/kr1?ed=2560&sni=ava.game.naver.com.servpn.my.id&fp=chrome#ava.game.naver.com.servpn.my.id:443
 vless://1aaf960c-a970-4d57-e5a5-235ca11c5c27@151.101.3.8:80?type=xhttp&security=none&path=/@XpnTeam----@XpnTeam----@XpnTeam----@XpnTeam----@XpnTeam----@XpnTeam----@XpnTeam----@XpnTeam----@XpnTeam----@XpnTeam----@XpnTeam----@XpnTeam----@XpnTeam----@XpnTeam----@XpnTeam----@XpnTeam?ed=2048#151.101.3.8:80
 vless://b6a137d5-2204-4f7c-cd4e-cb400e04b111@www.speedtest.net:2095?type=httpupgrade&security=none&path=/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam?ed=2048#www.speedtest.net:2095
 vless://21e6d7f3-08bd-4dbc-abf5-8012d9838af5@104.21.72.109:80?type=ws&security=none&path=/Mosiv2---Mosiv2--Mosiv2---Mosiv2--Mosiv2---Mosiv2--Mosiv2---Mosiv2--Mosiv2---Mosiv2--Mosiv2---Mosiv2--Mosiv2---Mosiv2---Mosiv2--Mosiv2---Mosiv2--Mosiv2---Mosiv2--Mosiv2---Mosiv2--Mosiv2---Mosiv2--Mosiv2---Mosiv2--Mosiv2---Mosiv2---Mosiv2--Mosiv2---Mosiv2--Mosiv2---Mosiv2--Mosiv2---Mosiv2--Mosiv2---Mosiv2--Mosiv2---Mosiv2--Mosiv2?ed=2560&sni=dfgopee-workers.dev&fp=randomized#104.21.72.109:80
 vless://18d2a94a-7c1a-468e-a15b-5411ba5c59a9@shirehtoot.salamatmarel.ir:2087?type=tcp&security=reality&path=/&sni=researchgate.net&fp=chrome&pbk=b27Qni_E7X2t3m_utxJPaLkyYTjeb2tUXGcAs4P5tQY&sid=d583#shirehtoot.salamatmarel.ir:2087
-trojan://2gw4a928-otw5-wb09-gvko-1gqyo415y2u7@127.0.0.1:8080?security=tls&type=tcp#For enhanced GitHub access, visit Argh94 now!
-trojan://c353cm1k-a9a7-2gl2-pvxs-151nzwt16jbp@127.0.0.1:8081?security=tls&type=tcp#</> Collector v5.0
+trojan://3s8t9wnk-dtll-745f-ouox-ckcvpl2z9305@127.0.0.1:8080?security=tls&type=tcp#For enhanced GitHub access, visit Argh94 now!
+trojan://1jhed0ai-gk3d-glfe-csde-i7ae7ymbyhs5@127.0.0.1:8081?security=tls&type=tcp#</> Collector v5.0

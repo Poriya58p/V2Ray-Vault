@@ -1,9 +1,9 @@
-trojan://a5erfwa0-h4bw-cl1q-n6kt-sprnd5gfbgtn@127.0.0.1:1080?security=tls&type=tcp#🕒 LAST UPDATE: 2025/08/26 | 04:38
-trojan://4bk5ass6-gj90-n38o-x68r-934wtivcif50@127.0.0.1:2080?security=tls&type=tcp#This is a free trial project.
-trojan://l7syv1oz-4zkw-vfb6-y040-r9bvf7ppmflj@127.0.0.1:4080?security=tls&type=tcp#「 GitHub Argh94 ☕ 」
+trojan://3z8xfew6-nbpq-r9yh-9dyz-922doblpdozs@127.0.0.1:1080?security=tls&type=tcp#🕒 LAST UPDATE: 2025/08/26 | 07:54
+trojan://3b05v8cb-9z6p-ot6q-bfyz-yio4x25g6zpe@127.0.0.1:2080?security=tls&type=tcp#This is a free trial project.
+trojan://mmo2pkri-gv7a-ch56-lci7-j15qt97k3qac@127.0.0.1:4080?security=tls&type=tcp#「 GitHub Argh94 ☕ 」
 vless://e6ee42c1-84c1-4d92-8f61-a64efec14246@mctheend.ddns.net:2087?type=grpc&security=tls&fp=safari#mctheend.ddns.net:2087
 vless://42164a1f-6190-4840-b58e-5241121abde5@turkmen.cloud:21308?type=tcp&security=none#turkmen.cloud:21308
 vless://1e67033a-d197-4891-ffa0-f31be082314d@31.14.114.90:58256?type=tcp&security=none#31.14.114.90:58256
 vless://1999c5a1-de07-4e55-b93a-5d778948e7c1@91.107.244.143:8443?type=grpc&security=reality&fp=chrome&pbk=BmwfqSOh33mH2ywv3xgKgTANTSvqgmWMRB9Et695dVk#91.107.244.143:8443
-trojan://23tqt3y5-q9jh-i873-qsxc-se35n6tmm0zn@127.0.0.1:8080?security=tls&type=tcp#For enhanced GitHub access, visit Argh94 now!
-trojan://0qta0y3e-jy4y-0jis-7x35-93dogsz24wqt@127.0.0.1:8081?security=tls&type=tcp#</> Collector v5.0
+trojan://7w69bfxw-mvm1-gk3x-k74k-sko1367gpinn@127.0.0.1:8080?security=tls&type=tcp#For enhanced GitHub access, visit Argh94 now!
+trojan://5e9zhmdn-fzvz-n3f2-r05c-hn2s9ndr2chv@127.0.0.1:8081?security=tls&type=tcp#</> Collector v5.0

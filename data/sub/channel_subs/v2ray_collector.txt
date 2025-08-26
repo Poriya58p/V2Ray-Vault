@@ -1,6 +1,6 @@
-trojan://m74vfbsm-bzck-7qvb-a85w-86gyy27dxkhx@127.0.0.1:1080?security=tls&type=tcp#🕒 LAST UPDATE: 2025/08/26 | 04:38
-trojan://pfu0g5kv-w17i-4git-ydr5-gqqep4p946bl@127.0.0.1:2080?security=tls&type=tcp#This is a free trial project.
-trojan://8qg86vao-h8f0-qrha-kfa0-qrzxtgqb7xoa@127.0.0.1:4080?security=tls&type=tcp#「 GitHub Argh94 ☕ 」
+trojan://ukh4p51s-0rpe-pfad-zmf9-6mrl4a7w5u2j@127.0.0.1:1080?security=tls&type=tcp#🕒 LAST UPDATE: 2025/08/26 | 07:54
+trojan://7d4lygnr-o51x-164h-oyoy-3xe0dyb7rdwt@127.0.0.1:2080?security=tls&type=tcp#This is a free trial project.
+trojan://psm8ohkd-texa-bi15-p41h-w154dq6s6fwj@127.0.0.1:4080?security=tls&type=tcp#「 GitHub Argh94 ☕ 」
 trojan://ttfang@166.0.244.206:2053?sni=ttfang.fange.me&peer=ttfang.fange.me&security=tls#166.0.244.206:2053
 trojan://ttfang@220.135.202.250:81?sni=ttfang.fange.me&peer=ttfang.fange.me&security=tls#220.135.202.250:81
 vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@156.238.18.188:8880?type=ws&security=none&path=/Telegram🇨🇳 @MxlShare @WangCai2 /?ed=2560&fp=chrome#156.238.18.188:8880
@@ -17,5 +17,5 @@ vless://0132166f-e702-48ed-a9e7-b07af768faf8@5.10.214.251:8880?type=ws&security=
 vless://34c01e61-f4f3-4afb-a83b-406caf8caa33@91.209.253.254:8880?type=ws&security=none&path=/Telegram🇨🇳&sni=Telegram-channel-WangCai2#91.209.253.254:8880
 vless://0132166f-e702-48ed-a9e7-b07af768faf8@154.219.5.251:8880?type=ws&security=none&path=/Telegram🇨🇳 @WangCai2 /?ed=2560#154.219.5.251:8880
 vless://0132166f-e702-48ed-a9e7-b07af768faf8@193.227.99.251:8880?type=ws&security=none&path=/Telegram🇨🇳&sni=Telegram-channel-WangCai2#193.227.99.251:8880
-trojan://imremftg-vwg4-3l9x-natl-xloeii2udumx@127.0.0.1:8080?security=tls&type=tcp#For enhanced GitHub access, visit Argh94 now!
-trojan://ambhbljd-bpwn-1qkz-7ptt-l2jck3nomkfe@127.0.0.1:8081?security=tls&type=tcp#</> Collector v5.0
+trojan://dsl70a2i-hz2p-h162-sm4x-uhmuwkg2kwj1@127.0.0.1:8080?security=tls&type=tcp#For enhanced GitHub access, visit Argh94 now!
+trojan://2cqapv1l-ixhf-l2vg-2k74-dedsnfdv7i4r@127.0.0.1:8081?security=tls&type=tcp#</> Collector v5.0

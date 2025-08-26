@@ -1,6 +1,6 @@
-trojan://qykd8irt-2q9c-eu0r-kl73-5nmq5j28hxpw@127.0.0.1:1080?security=tls&type=tcp#🕒 LAST UPDATE: 2025/08/26 | 04:38
-trojan://v1y2yt1u-tiqi-wnlb-f3i9-29pc2tmx64lo@127.0.0.1:2080?security=tls&type=tcp#This is a free trial project.
-trojan://xjcj2vnl-i24t-kc33-4mw2-1uj3z94i4um5@127.0.0.1:4080?security=tls&type=tcp#「 GitHub Argh94 ☕ 」
+trojan://uw1js1x8-l0v7-oxsk-dra4-ied2t9fv647s@127.0.0.1:1080?security=tls&type=tcp#🕒 LAST UPDATE: 2025/08/26 | 07:54
+trojan://z5pkikx6-rpkm-gkix-cl7e-0vh3fmkr6tb1@127.0.0.1:2080?security=tls&type=tcp#This is a free trial project.
+trojan://vq1lz56v-b4nk-02p7-knz2-ee80mwonx92n@127.0.0.1:4080?security=tls&type=tcp#「 GitHub Argh94 ☕ 」
 vless://4f53514e-bf21-4d46-8c11-3ac9297927a6@ge2.soleymani.shop:9393?type=tcp&security=none#ge2.soleymani.shop:9393
 vless://4f53514e-bf21-4d46-8c11-3ac9297927a6@ge2.soleymani.shop:9393?type=tcp&security=none#ge2.soleymani.shop:9393
 vless://4f53514e-bf21-4d46-8c11-3ac9297927a6@ge2.soleymani.shop:9393?type=tcp&security=none#ge2.soleymani.shop:9393
@@ -10,5 +10,5 @@ vless://4f53514e-bf21-4d46-8c11-3ac9297927a6@ge2.soleymani.shop:9393?type=tcp&se
 vless://4f53514e-bf21-4d46-8c11-3ac9297927a6@ge2.soleymani.shop:9393?type=tcp&security=none#ge2.soleymani.shop:9393
 vless://4f53514e-bf21-4d46-8c11-3ac9297927a6@ge2.soleymani.shop:9393?type=tcp&security=none#ge2.soleymani.shop:9393
 vless://4f53514e-bf21-4d46-8c11-3ac9297927a6@ge2.soleymani.shop:9393?type=tcp&security=none#ge2.soleymani.shop:9393
-trojan://ken7s10j-xzmx-ow6z-9exl-f0e4oqb1gy42@127.0.0.1:8080?security=tls&type=tcp#For enhanced GitHub access, visit Argh94 now!
-trojan://07jc1myn-0plo-buet-6uhg-t7itpbnp0qw4@127.0.0.1:8081?security=tls&type=tcp#</> Collector v5.0
+trojan://qslr7upx-5a0a-r0wd-4082-lntk687068ej@127.0.0.1:8080?security=tls&type=tcp#For enhanced GitHub access, visit Argh94 now!
+trojan://3xlge0af-dzwx-ow7g-mpp5-dw1kx9dc2j1j@127.0.0.1:8081?security=tls&type=tcp#</> Collector v5.0

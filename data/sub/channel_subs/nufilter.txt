@@ -1,6 +1,6 @@
-trojan://2zuagouu-72gf-idwf-md6c-z0i93fps4rpv@127.0.0.1:1080?security=tls&type=tcp#🕒 LAST UPDATE: 2025/08/26 | 04:38
-trojan://luovfufg-2rmw-v8ob-7t36-tzryhx1kqchj@127.0.0.1:2080?security=tls&type=tcp#This is a free trial project.
-trojan://j1drljnj-zhns-v902-m2ug-k0dayj66jd2e@127.0.0.1:4080?security=tls&type=tcp#「 GitHub Argh94 ☕ 」
+trojan://zq093inz-45gn-y4yi-ekf4-necvini64e72@127.0.0.1:1080?security=tls&type=tcp#🕒 LAST UPDATE: 2025/08/26 | 07:54
+trojan://zo6fkvmk-uyh8-kb55-gr06-a6ys5kwatkwo@127.0.0.1:2080?security=tls&type=tcp#This is a free trial project.
+trojan://rvtq7j7d-66p5-fibv-agda-uyln0fqf7ser@127.0.0.1:4080?security=tls&type=tcp#「 GitHub Argh94 ☕ 」
 vless://TELEGRAM-CONFiGLiNE-join@172.66.40.99:443?type=ws&security=tls&path=/telegram-CONFiGLiNE,telegram-CONFiGLiNE,telegram-CONFiGLiNE,telegram-CONFiGLiNE,telegram-CONFiGLiNE,telegram-CONFiGLiNE,telegram-CONFiGLiNE,telegram-CONFiGLiNE?ed=2048&sni=hE136.maShkesTan.CoM&fp=firefox#172.66.40.99:443
 vless://TELEGRAM-CONFiGLiNE-join@172.66.40.99:8080?type=ws&security=none&path=/telegram-CONFiGLiNE,telegram-CONFiGLiNE,telegram-CONFiGLiNE,telegram-CONFiGLiNE,telegram-CONFiGLiNE,telegram-CONFiGLiNE,telegram-CONFiGLiNE,telegram-CONFiGLiNE?ed=2048#172.66.40.99:8080
 vless://c8b7f8ad-4895-4aaa-9327-3b3076f169c5@172.66.40.99:8080?type=ws&security=none&path=/telegram-CONFiGLiNE,telegram-CONFiGLiNE,telegram-CONFiGLiNE,telegram-CONFiGLiNE,telegram-CONFiGLiNE,telegram-CONFiGLiNE,telegram-CONFiGLiNE,telegram-CONFiGLiNE?ed=2048#172.66.40.99:8080
@@ -20,5 +20,5 @@ vless://f14fe691-0868-4cb0-b6ff-e42444a84adf@test.fast.hosting-ip.com:80?type=xh
 vless://8f06a3f8-ad6c-4852-83db-9a5d7649d15c@172.66.40.99:443?type=ws&security=tls&path=/telegram-CONFiGLiNE,telegram-CONFiGLiNE,telegram-CONFiGLiNE,telegram-CONFiGLiNE,telegram-CONFiGLiNE,telegram-CONFiGLiNE,telegram-CONFiGLiNE,telegram-CONFiGLiNE?ed=2048&sni=az52.mashkestan.com&fp=firefox#172.66.40.99:443
 vless://40cb7d82-5599-4c75-9fe3-2de4de2c1fe7@configline.fast.hosting-ip.com:80?type=xhttp&security=none&path=/telegram-CONFiGLiNE,telegram-CONFiGLiNE,telegram-CONFiGLiNE,telegram-CONFiGLiNE,telegram-CONFiGLiNE,telegram-CONFiGLiNE,telegram-CONFiGLiNE,telegram-CONFiGLiNE?ed=2048#configline.fast.hosting-ip.com:80
 vless://a0c8a562-12ad-4650-8716-67892a5765bf@test.fast.hosting-ip.com:80?type=xhttp&security=none&path=/telegram-CONFiGLiNE,telegram-CONFiGLiNE,telegram-CONFiGLiNE,telegram-CONFiGLiNE,telegram-CONFiGLiNE,telegram-CONFiGLiNE,telegram-CONFiGLiNE,telegram-CONFiGLiNE?ed=2048#test.fast.hosting-ip.com:80
-trojan://eozgnzpw-g1lg-6e0x-auwy-dxb0yub3ejdx@127.0.0.1:8080?security=tls&type=tcp#For enhanced GitHub access, visit Argh94 now!
-trojan://dsdgsag8-w1st-0b9j-nbkc-z5o2v3w56383@127.0.0.1:8081?security=tls&type=tcp#</> Collector v5.0
+trojan://3jqt2iih-6927-xydx-uvst-nve561qx6l1x@127.0.0.1:8080?security=tls&type=tcp#For enhanced GitHub access, visit Argh94 now!
+trojan://gzkla046-moaw-hjng-1omm-8c76lglgpc9j@127.0.0.1:8081?security=tls&type=tcp#</> Collector v5.0

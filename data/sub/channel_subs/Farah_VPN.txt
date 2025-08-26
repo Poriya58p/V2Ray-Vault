@@ -1,12 +1,12 @@
-trojan://zhaszrsg-05h0-jhu3-dq56-w66qjue24mf5@127.0.0.1:1080?security=tls&type=tcp#🕒 LAST UPDATE: 2025/08/26 | 04:38
-trojan://d2lqyooe-7nbg-aokf-2r3k-bi6agadyjpom@127.0.0.1:2080?security=tls&type=tcp#This is a free trial project.
-trojan://uf6ds081-gcc3-e62y-h0ui-prsuaxf4kcpa@127.0.0.1:4080?security=tls&type=tcp#「 GitHub Argh94 ☕ 」
+trojan://1sv68b5r-l1pa-408j-fjxj-hgbtm4g09c5x@127.0.0.1:1080?security=tls&type=tcp#🕒 LAST UPDATE: 2025/08/26 | 07:54
+trojan://reipt0x8-dqtf-ozdt-qg7r-x6dgdp60vihl@127.0.0.1:2080?security=tls&type=tcp#This is a free trial project.
+trojan://oijd7ndm-0zlc-t52s-nhdm-s5508kz8aydr@127.0.0.1:4080?security=tls&type=tcp#「 GitHub Argh94 ☕ 」
 ss://YWVzLTI1Ni1nY206MDAxNWIwMjAtOTYzYi00NTBkLTkyZjktYTgzMzlkZTYzMzJj@8.138.184.224:40304#8.138.184.224:40304
 trojan://bpb-trojan@185.238.228.6:443?sni=403b3611-99bc-43b7-88D7-26Ed5D0825a9-3.PAgeS.dEv&peer=403b3611-99bc-43b7-88D7-26Ed5D0825a9-3.PAgeS.dEv&security=tls#185.238.228.6:443
 trojan://bf7e1009-1574-44f7-86df-6cbecd338477@172.66.47.106:443?sni=pardazeshvpn-tg18.pages.dev&peer=pardazeshvpn-tg18.pages.dev&security=tls#172.66.47.106:443
 trojan://auto@172.67.49.134:443?sni=trojanfree-76s.pages.dev&peer=trojanfree-76s.pages.dev&security=tls#172.67.49.134:443
+trojan://telegram-id-directvpn@3.147.17.142:22222?security=tls#3.147.17.142:22222
 vmess://eyJ2IjoiMiIsInBzIjoiXHVkODNkXHVkZmUzXHVkODNkXHVkZDI1K0NoYW5uZWwrU2VydmVyK0ZyZWUrQEZhcmFoX1ZQTiIsImFkZCI6IjkxLjk5LjIuODYiLCJwb3J0Ijo4ODgwLCJpZCI6IjlhOTk0NjZkLTU4ZWUtNGY5Ny04YThiLWNiMGJkM2Q3ODZhMSIsImFpZCI6MCwic2N5IjoiYXV0byIsIm5ldCI6InRjcCIsInR5cGUiOiJub25lIn0
-vless://60cc9382-20ad-4d7b-b326-93b0fa7a1e95@45.252.182.136:2087?type=tcp&security=none&path=/#45.252.182.136:2087
 vless://64250a5e-dfbe-45aa-e3d8-2ada5eb11f31@3.19.101.12:80?type=grpc&security=none#3.19.101.12:80
 vless://6780a3c0-a98c-4622-b894-8e34167f7b31@104.26.1.108:443?type=ws&security=tls&path=/id5?ed=2560TELEGRAM_CHANEL_JKVPN_JKVPN_JKVPN&sni=blog.ruangguru.com.servpn.my.id#104.26.1.108:443
 vless://89b3cbba-e6ac-485a-9481-976a0415eab9@190.93.246.161:443?type=ws&security=tls&path=/p3stxwx49t13atgt/chjvehlpcc5hbgl5dw4uznh4ay5kzwr5bi5pbw==?ed=2560&sni=BpbpanEL.Ac.CN.EU.oRg#190.93.246.161:443
@@ -21,5 +21,5 @@ vless://de4f5606-baf6-4bc2-a715-7cfe39dda1ed@195.133.84.132:2083?type=grpc&secur
 vless://a351b0a4-6c4e-4456-8f8e-45db3fe0bcb2@85.208.110.203:443?type=tcp&security=reality&sni=www.samsung.com&fp=firefox&pbk=SUP3nblQDtku381iK83Nl0YXGXJw15sZYH-ilRRssAM&sid=db7491a2#85.208.110.203:443
 vless://4b8d8d7f-a8b4-4e44-80a9-6f13c3149b52@45.130.214.192:53231?type=tcp&security=reality&sni=yahoo.com&fp=chrome&pbk=3mRweaWR6pK4HsbEtu874rNG9qBgdOMmSsKE4RkWSmk&sid=4ffbd0f3117c6f#45.130.214.192:53231
 vless://1a6fe500-59da-4598-8576-256f06765ffb@94.26.228.10:443?type=tcp&security=reality&sni=ru.sfasti.ru&fp=chrome&flow=xtls-rprx-vision&pbk=J_jQq9-SWQZjiMhuPaFV7V2MaJ4pkKgVRaz7x6tmvy8&sid=16895459a2c7768d#94.26.228.10:443
-trojan://wjtq4rn2-axj2-9ujd-jd3p-gfpp516iibih@127.0.0.1:8080?security=tls&type=tcp#For enhanced GitHub access, visit Argh94 now!
-trojan://6fra2htu-3ymu-t0p3-nsk6-9id5ku5gf1fl@127.0.0.1:8081?security=tls&type=tcp#</> Collector v5.0
+trojan://ndliz9jb-rp1c-2e8i-hag9-9xznnyes27i3@127.0.0.1:8080?security=tls&type=tcp#For enhanced GitHub access, visit Argh94 now!
+trojan://cwt0gqgn-47j4-6nhl-azxw-95jamju6e617@127.0.0.1:8081?security=tls&type=tcp#</> Collector v5.0
