@@ -1,10 +1,10 @@
-trojan://iq9ju9qt-12bk-nwqw-70hw-yy7x7ssde5sm@127.0.0.1:1080?security=tls&type=tcp#🕒 LAST UPDATE: 2025/08/26 | 07:54
-trojan://3ruckczw-88iu-3w9m-0btz-muj6sxzkt0s7@127.0.0.1:2080?security=tls&type=tcp#This is a free trial project.
-trojan://kzd3lo7p-am5f-l6b1-364s-1bbgkw02grrc@127.0.0.1:4080?security=tls&type=tcp#「 GitHub Argh94 ☕ 」
+trojan://y42dl0o0-yyms-zij5-qe4w-p6giv4i66s46@127.0.0.1:1080?security=tls&type=tcp#🕒 LAST UPDATE: 2025/08/26 | 11:57
+trojan://krltfyu7-z2uu-rp4q-ycu3-wxebz11bq77g@127.0.0.1:2080?security=tls&type=tcp#This is a free trial project.
+trojan://cmo198el-tqjk-dapo-ecii-npmep4gpzjkw@127.0.0.1:4080?security=tls&type=tcp#「 GitHub Argh94 ☕ 」
 vless://5da27733-3527-479e-bb81-4c5a9c75d83f@viphamester.wolfmoon.ir:443?type=grpc&security=tls&sni=viphamester.wolfmoon.ir#viphamester.wolfmoon.ir:443
 vless://c9e4f683-ee36-47cf-9c30-f751f1c118b5@194.113.106.139:24984?type=tcp&security=reality&sni=zula.ir&fp=firefox&pbk=bM_ol-LozWiGNhEGFm8xkaf4TiaOBzrG8R3kybOn2no&sid=5292cb10#194.113.106.139:24984
 vless://c9e4f683-ee36-47cf-9c30-f751f1c118b5@194.113.106.139:24984?type=tcp&security=reality&sni=zula.ir&fp=firefox&pbk=bM_ol-LozWiGNhEGFm8xkaf4TiaOBzrG8R3kybOn2no&sid=5292cb10#194.113.106.139:24984
 vless://dab8ab46-5071-4d95-ac9b-bb469d6599fc@128.140.35.236:50713?type=tcp&security=reality&sni=nobitex.ir&fp=firefox&pbk=03oIukhEmNzMAGZWqcNLAHHjcVX0jLqRSa3ocMuskQY&sid=88417bc4#128.140.35.236:50713
 vless://dab8ab46-5071-4d95-ac9b-bb469d6599fc@128.140.35.236:50713?type=tcp&security=reality&sni=nobitex.ir&fp=firefox&pbk=03oIukhEmNzMAGZWqcNLAHHjcVX0jLqRSa3ocMuskQY&sid=88417bc4#128.140.35.236:50713
-trojan://92fogw30-anzw-fuwn-600w-pckv12pfj9lw@127.0.0.1:8080?security=tls&type=tcp#For enhanced GitHub access, visit Argh94 now!
-trojan://o71tn8fo-rcqi-8a9o-npgk-anqk0swxtzot@127.0.0.1:8081?security=tls&type=tcp#</> Collector v5.0
+trojan://6bhfyurr-uw2a-01xg-9ogt-a8m6pe2ejfav@127.0.0.1:8080?security=tls&type=tcp#For enhanced GitHub access, visit Argh94 now!
+trojan://m75de7ny-o0ky-msjy-co30-fuh46ftkhacy@127.0.0.1:8081?security=tls&type=tcp#</> Collector v5.0

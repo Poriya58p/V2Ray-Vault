@@ -1,9 +1,7 @@
-trojan://brbmgjxi-0bjg-ur4d-pc9h-lnn4lq7ldv63@127.0.0.1:1080?security=tls&type=tcp#🕒 LAST UPDATE: 2025/08/26 | 07:54
-trojan://2is1sfdm-447a-g0xr-dgky-4tvl6xgac66w@127.0.0.1:2080?security=tls&type=tcp#This is a free trial project.
-trojan://jnms2itb-sq24-rdh7-iebh-g5zbsnskqqj9@127.0.0.1:4080?security=tls&type=tcp#「 GitHub Argh94 ☕ 」
+trojan://4u73av24-hngu-4lzd-xt4d-mqnmzux5niu2@127.0.0.1:1080?security=tls&type=tcp#🕒 LAST UPDATE: 2025/08/26 | 11:57
+trojan://nez7u7je-b1hg-ia4d-zk7r-u4ezwe39ihdw@127.0.0.1:2080?security=tls&type=tcp#This is a free trial project.
+trojan://96093psy-vait-fuo3-bkp1-lmvhrz6qmp1f@127.0.0.1:4080?security=tls&type=tcp#「 GitHub Argh94 ☕ 」
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpGM25ZNzNkaTVvbldWM2dvdGJwSTBR@83.147.216.70:64519#83.147.216.70:64519
-vless://003e3cd8-e9ab-447d-ae72-6ddde8e031ba@download.ldop.com:8855?type=tcp&security=none#download.ldop.com:8855
-vless://003e3cd8-e9ab-447d-ae72-6ddde8e031ba@download.ldop.com:8855?type=tcp&security=none#download.ldop.com:8855
 vless://b61d30be-c2a9-424e-95ef-100939462cac@172.66.40.99:8080?type=ws&security=none&path=/-LiV2ry@LIGHTNING6-TEL--@LIGHTNING6-TEL--@LIGHTNING6-TEL--@LIGHTNING6-JOIN-@LIGHTNING6-TEL--@LIGHTNING6-JOIN-@LIGHTNING6-TEL-@LIGHTNING6-TEL--@LIGHTNING6-JOIN-@LIGHTNING6-TEL--@LIGHTNING6?ed=2048#172.66.40.99:8080
 vless://40acbc60-0607-43a6-a604-5f27751d36e4@www.speedtest.net:80?type=ws&security=none&path=/Join----VPNCUSTOMIZE---Join----VPNCUSTOMIZE&sni=revest.maketunnelim.Lat.#www.speedtest.net:80
 vless://b37596da-6f80-4dcd-f75c-c3c7b25922da@numberland.ir:8080?type=ws&security=none&path=/@unlimiteddev----@unlimiteddev-----@unlimiteddev----@unlimiteddev----@unlimiteddev----@unlimiteddev----@unlimiteddev----@unlimiteddev----@unlimitedev----@unlimitedev----@unlimiteddev----@unlimiteddev?ed=2480#numberland.ir:8080
@@ -23,5 +21,6 @@ vless://ccbe6b7c-9264-40c4-8bc1-ef8f6205d7a4@www.speedtest.net:8443?type=ws&secu
 vless://6780a3c0-a98c-4622-b894-8e34167f7b31@172.67.74.133:443?type=ws&security=tls&path=/id5?ed=2560/?@&sni=blog.ruangguru.com.servpn.my.id#172.67.74.133:443
 vless://6780a3c0-a98c-4622-b894-8e34167f7b31@172.67.74.133:443?type=ws&security=tls&path=/id5/?ed=2048bia-planB_proxy&sni=blog.ruangguru.com.servpn.my.id#172.67.74.133:443
 vless://ccbe6b7c-9264-40c4-8bc1-ef8f6205d7a4@www.speedtest.net:8443?type=ws&security=tls&path=/&sni=hetzner-13.bibar.name.ng#www.speedtest.net:8443
-trojan://qbiad4yd-msez-rq05-r1wl-z8d127eel6t4@127.0.0.1:8080?security=tls&type=tcp#For enhanced GitHub access, visit Argh94 now!
-trojan://hriemoog-7fqe-ex9t-lq4q-duifkepo2ztg@127.0.0.1:8081?security=tls&type=tcp#</> Collector v5.0
+vless://21e6d7f3-08bd-4dbc-abf5-8012d9838af5@188.114.98.112:80?type=ws&security=none&path=/ELiV2-RAY----ELiV2-RAY----ELiV2-RAY----ELiV2-RAY----ELiV2-RAY----ELiV2-RAY?ed=2560#188.114.98.112:80
+trojan://9xtpqmka-ktt8-u5lb-4dzx-jbpp2pk3u2z3@127.0.0.1:8080?security=tls&type=tcp#For enhanced GitHub access, visit Argh94 now!
+trojan://cwir35la-0wqn-tn8g-fm8g-kwo6ypagyaqp@127.0.0.1:8081?security=tls&type=tcp#</> Collector v5.0

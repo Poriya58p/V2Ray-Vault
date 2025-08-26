@@ -1,7 +1,7 @@
-trojan://c0e5ouqg-qsyx-lbrt-0qwy-5fdk7lkpdcqs@127.0.0.1:1080?security=tls&type=tcp#🕒 LAST UPDATE: 2025/08/26 | 07:54
-trojan://aw803y6o-bhwk-sr69-tl00-htdoqcbsfhzh@127.0.0.1:2080?security=tls&type=tcp#This is a free trial project.
-trojan://y66w6xd5-jney-4vp1-w7zn-kesd9dsvprw9@127.0.0.1:4080?security=tls&type=tcp#「 GitHub Argh94 ☕ 」
+trojan://0klx6h9n-dmye-rlmi-y6gs-m18ghona6ons@127.0.0.1:1080?security=tls&type=tcp#🕒 LAST UPDATE: 2025/08/26 | 11:57
+trojan://jfqzi57w-alsd-gcd7-wrna-1zk3f3ymrg6g@127.0.0.1:2080?security=tls&type=tcp#This is a free trial project.
+trojan://sptu9ief-a8mw-2gjo-0k1q-2hsqi8rgcnna@127.0.0.1:4080?security=tls&type=tcp#「 GitHub Argh94 ☕ 」
 vless://7b5d75e9-2a58-4f82-f2d6-fa2b9355c9da@91.99.97.7:32279?type=tcp&security=reality&sni=tgju.org&fp=firefox&pbk=YTLvKt0zlbz5RI_m147go0PMsEa3WdhlQ-tqJKkeNHQ&sid=353e#91.99.97.7:32279
 vless://7b5d75e9-2a58-4f82-f2d6-fa2b9355c9da@91.99.97.7:32279?type=tcp&security=reality&sni=tgju.org&fp=firefox&pbk=YTLvKt0zlbz5RI_m147go0PMsEa3WdhlQ-tqJKkeNHQ&sid=353e#91.99.97.7:32279
-trojan://cl710tgi-x6s4-3hbe-33w8-m7hh6ne1tosh@127.0.0.1:8080?security=tls&type=tcp#For enhanced GitHub access, visit Argh94 now!
-trojan://wf2h3n3x-daog-z1al-s2zc-14ift58hxkoi@127.0.0.1:8081?security=tls&type=tcp#</> Collector v5.0
+trojan://ulio20zh-2f48-d2t4-m799-i01kwlyr9rpr@127.0.0.1:8080?security=tls&type=tcp#For enhanced GitHub access, visit Argh94 now!
+trojan://a1ksb74i-vhtm-sk7v-3ask-5u9bogjpjj7n@127.0.0.1:8081?security=tls&type=tcp#</> Collector v5.0

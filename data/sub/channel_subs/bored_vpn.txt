@@ -1,6 +1,6 @@
-trojan://rnqqioxw-uy60-1pmi-pt2o-qo119z6qypp8@127.0.0.1:1080?security=tls&type=tcp#🕒 LAST UPDATE: 2025/08/26 | 07:54
-trojan://zx28ifui-c7to-bt3j-cfwf-iqqi2bev8hz0@127.0.0.1:2080?security=tls&type=tcp#This is a free trial project.
-trojan://jwa61t2f-k4rq-3yq9-vsgf-86nly51tygcw@127.0.0.1:4080?security=tls&type=tcp#「 GitHub Argh94 ☕ 」
+trojan://8mezp4xu-wit2-ogfj-r9dx-dou5veujsi0l@127.0.0.1:1080?security=tls&type=tcp#🕒 LAST UPDATE: 2025/08/26 | 11:57
+trojan://pr8o0avg-qn9l-b6g8-1qvq-pbqcoha02h9v@127.0.0.1:2080?security=tls&type=tcp#This is a free trial project.
+trojan://al33olq7-hotd-66qo-cjz3-3afut4xdup3u@127.0.0.1:4080?security=tls&type=tcp#「 GitHub Argh94 ☕ 」
 vless://t%65l%65g%72%61m-%69d-%41%72f%69lt%65%72@172.66.40.99:443?type=ws&security=tls&path=/telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray?ed=2048&sni=aBs.2SeDkFjEuIxIjD0Ew9DvKcxoisiEk61.BlOg&fp=firefox#172.66.40.99:443
 vless://83dd04%65c-2233-4cfc-93d0-0d244%61fd4%6157@172.66.40.99:8080?type=ws&security=none&path=/-LiV2ry@LIGHTNING6-TEL--@LIGHTNING6-TEL--@LIGHTNING6-TEL--@LIGHTNING6-JOIN-@LIGHTNING6-TEL--@LIGHTNING6-JOIN-@LIGHTNING6-TEL-@LIGHTNING6-TEL--@LIGHTNING6-JOIN-@LIGHTNING6-TEL--@LIGHTNING6?ed=2048#172.66.40.99:8080
 vless://02483314-2042-451b-b0ab-f9bab9a1be9d@zula.ir:80?type=ws&security=none&path=/Join-ZEDMODEON-ZEDMODEON-ZEDMODEON-bia-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON#zula.ir:80
@@ -74,5 +74,5 @@ vless://3d7dd548-5456-4f28-8019-393fbfab3312@172.67.74.133:443?type=ws&security=
 vless://%614927301-3463-4f16-8d51-9b485%65%65f7b%65b@91.99.70.212:443?type=grpc&security=reality&sni=www.cdn77.com&fp=chrome&pbk=Zjzu45fPTjjaIcBoYyaLqieLtsWJD8ujdzNOQodWvnk#91.99.70.212:443
 vless://tm-H%71V2rayNG@full.vvir.ir:443?type=tcp&security=reality&sni=google.com&fp=chrome&flow=xtls-rprx-vision&pbk=tmdA-JLXg99x-LdvzAZnIV2J7QlHAe7F7xSRLh4ljHM&sid=e1#full.vvir.ir:443
 vless://738ebc1c-c44a-418e-8c2c-f9e2efe1f4fe@91.99.70.212:443?type=grpc&security=reality&sni=www.cdn77.com&fp=chrome&pbk=Zjzu45fPTjjaIcBoYyaLqieLtsWJD8ujdzNOQodWvnk#91.99.70.212:443
-trojan://x4cp2g22-y3gr-5fl7-uk7b-fhmtjcwqg1le@127.0.0.1:8080?security=tls&type=tcp#For enhanced GitHub access, visit Argh94 now!
-trojan://tk2b0lpm-k79j-xrz4-d9y2-apcqgasnqkmo@127.0.0.1:8081?security=tls&type=tcp#</> Collector v5.0
+trojan://dru1ttal-fr95-ms54-net2-110k5s6klq2c@127.0.0.1:8080?security=tls&type=tcp#For enhanced GitHub access, visit Argh94 now!
+trojan://fv29mjvg-60ee-x3a0-289p-qf2ygmvjruiu@127.0.0.1:8081?security=tls&type=tcp#</> Collector v5.0

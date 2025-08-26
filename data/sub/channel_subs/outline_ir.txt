@@ -1,6 +1,6 @@
-trojan://94udeyvl-hh8u-ab92-dac4-6oij1xgrh07v@127.0.0.1:1080?security=tls&type=tcp#🕒 LAST UPDATE: 2025/08/26 | 07:54
-trojan://efclb0i5-ifq1-960l-v1ge-s7xsxl9shjpj@127.0.0.1:2080?security=tls&type=tcp#This is a free trial project.
-trojan://6jr5etvc-ndie-4f9o-m0nm-7j4w79rb0ph9@127.0.0.1:4080?security=tls&type=tcp#「 GitHub Argh94 ☕ 」
+trojan://zz2fzq13-5zwc-1hrb-332w-8plosnn8tk3c@127.0.0.1:1080?security=tls&type=tcp#🕒 LAST UPDATE: 2025/08/26 | 11:57
+trojan://hw4v8w2a-bo2x-x6f7-gwjt-9ldmtqv7agjk@127.0.0.1:2080?security=tls&type=tcp#This is a free trial project.
+trojan://nvliphv1-uced-1z0c-6z9j-dxkonbhwpzp5@127.0.0.1:4080?security=tls&type=tcp#「 GitHub Argh94 ☕ 」
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpFbEtIMUhLdVF1VzZ1UlR0c2VMWUI4@94.159.96.245:11902#94.159.96.245:11902
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjdklJODVUclc2bjBPR3lmcEhWUzF1@45.87.175.199:8080#45.87.175.199:8080
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjdklJODVUclc2bjBPR3lmcEhWUzF1@45.87.175.200:8080#45.87.175.200:8080
@@ -15,5 +15,5 @@ vless://8df60790-c903-4661-b85d-64c0009378e5@ip.sb:443?type=ws&security=tls&path
 vless://fa0825cd-89b2-4e57-a669-68d4f4a3bd2c@oureverydaylife.com:443?type=ws&security=tls&path=/&sni=taochan.sylphachan.ip-ddns.com&fp=randomized#oureverydaylife.com:443
 vless://90c7ad5e-cd15-4314-b39b-aeabd397d592@104.18.12.229:2087?type=ws&security=tls&path=/?TELEGRAM-MARAMBASHI_MARAMBASHI_MARAMBASHI?ed=512&sni=vl.hongkong6.qzz.io&fp=random#104.18.12.229:2087
 vless://10f655e9-eb23-4f13-a9eb-b93c8057962c@speedtest.net:80?type=xhttp&security=none&path=/#speedtest.net:80
-trojan://n5scxihs-2oys-qyg2-2828-o19oslbm6kpe@127.0.0.1:8080?security=tls&type=tcp#For enhanced GitHub access, visit Argh94 now!
-trojan://dvnp4v58-m001-uxsu-v6di-yxtf3t83w8sh@127.0.0.1:8081?security=tls&type=tcp#</> Collector v5.0
+trojan://21hfuy8o-vxpj-qq7s-lp99-x1mxjucmcpu3@127.0.0.1:8080?security=tls&type=tcp#For enhanced GitHub access, visit Argh94 now!
+trojan://fbuortzv-3a7y-t1ce-vgnp-rumc8kaq9azk@127.0.0.1:8081?security=tls&type=tcp#</> Collector v5.0

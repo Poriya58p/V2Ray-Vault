@@ -1,6 +1,6 @@
-trojan://ype542x4-kek8-ch8x-ptap-g5nozg13xmpw@127.0.0.1:1080?security=tls&type=tcp#🕒 LAST UPDATE: 2025/08/26 | 07:54
-trojan://g81t7maz-ax9r-hv6b-uq9w-lkswwumwle9r@127.0.0.1:2080?security=tls&type=tcp#This is a free trial project.
-trojan://kz2ynf3r-af29-gkz0-v0qb-so7hz8rbg83w@127.0.0.1:4080?security=tls&type=tcp#「 GitHub Argh94 ☕ 」
+trojan://pc9o7kks-vvw3-hhbp-zo3p-or1188t4rqab@127.0.0.1:1080?security=tls&type=tcp#🕒 LAST UPDATE: 2025/08/26 | 11:57
+trojan://mkis6szg-rzwt-pfgz-cs9u-5i812gc65dwo@127.0.0.1:2080?security=tls&type=tcp#This is a free trial project.
+trojan://y0zsa9tq-urqa-scwp-1a4r-9zgjop1an212@127.0.0.1:4080?security=tls&type=tcp#「 GitHub Argh94 ☕ 」
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpKSWhONnJCS2thRWJvTE5YVlN2NXJx@142.4.216.225:80#142.4.216.225:80
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjNDA2NDFjMWY4OWU3YWNi@de.vpnsparta.pro:57456#de.vpnsparta.pro:57456
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo0YTJyZml4b3BoZGpmZmE4S1ZBNEFh@45.87.175.154:8080#45.87.175.154:8080
@@ -21,5 +21,5 @@ vless://e4824193-4f54-453b-d037-88368e85ef0e@45.82.251.58:8880?type=grpc&securit
 vless://e4824193-4f54-453b-d037-88368e85ef0e@45.82.251.58:8880?type=grpc&security=none#45.82.251.58:8880
 vless://97ecfbb6-949b-4f4c-bce1-16a5036a0af5@abri.abriabri.ir:2233?type=tcp&security=reality&sni=www.tgju.org&fp=firefox&pbk=XXyGhQ_iIds5fOp-JEq76iPb1heaBCSd7N5cOe9oFlg&sid=e0#abri.abriabri.ir:2233
 hysteria2://45b46edb-679b-4ea5-befd-88c05bb94f80@de.eyucdn.xyz:2056?sni=de.eyucdn.xyz&insecure=1#de.eyucdn.xyz:2056
-trojan://49w7mcqo-fx23-54ur-9odi-8o9kqolxi9oz@127.0.0.1:8080?security=tls&type=tcp#For enhanced GitHub access, visit Argh94 now!
-trojan://qoe6wo4h-0g8n-lfct-ogfe-dxs9yhidppds@127.0.0.1:8081?security=tls&type=tcp#</> Collector v5.0
+trojan://4deg7h8o-qco3-twhu-j3tq-hh72v94edbm7@127.0.0.1:8080?security=tls&type=tcp#For enhanced GitHub access, visit Argh94 now!
+trojan://9sg65r0e-c8p8-ae81-ov4j-ch5q0z5ivrs9@127.0.0.1:8081?security=tls&type=tcp#</> Collector v5.0

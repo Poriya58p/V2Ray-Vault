@@ -1,7 +1,6 @@
-trojan://sl79s0jw-a1ka-8t7q-kiic-qqs3ythq7cn6@127.0.0.1:1080?security=tls&type=tcp#🕒 LAST UPDATE: 2025/08/26 | 07:54
-trojan://lsqr523r-05h1-r0dx-a5yb-xl89csh9d6tn@127.0.0.1:2080?security=tls&type=tcp#This is a free trial project.
-trojan://i4xguq79-yg4v-rls6-8r21-6p2o4nuj3260@127.0.0.1:4080?security=tls&type=tcp#「 GitHub Argh94 ☕ 」
-vless://4b84096e-faf7-47a6-8588-cd313f762a64@iranvipen.1dlkimi.ir:248?type=tcp&security=none#iranvipen.1dlkimi.ir:248
+trojan://mo2erj2j-m6e8-mvqt-9lcz-2qwh97bgzwc3@127.0.0.1:1080?security=tls&type=tcp#🕒 LAST UPDATE: 2025/08/26 | 11:57
+trojan://ay0h78rl-ckip-xuum-g15i-193c2060mkgq@127.0.0.1:2080?security=tls&type=tcp#This is a free trial project.
+trojan://ddvd2en3-af7s-0hpk-h5hn-ynd884a9n46d@127.0.0.1:4080?security=tls&type=tcp#「 GitHub Argh94 ☕ 」
 vless://4b84096e-faf7-47a6-8588-cd313f762a64@iranvipen.1dlkimi.ir:248?type=tcp&security=none#iranvipen.1dlkimi.ir:248
 vless://3fed6250-3be2-4de4-aebe-65d860647df4@iranvipen.1dlkimi.ir:248?type=tcp&security=none#iranvipen.1dlkimi.ir:248
 vless://3fed6250-3be2-4de4-aebe-65d860647df4@iranvipen.1dlkimi.ir:59504?type=tcp&security=none#iranvipen.1dlkimi.ir:59504
@@ -18,5 +17,9 @@ vless://86750164-55e7-46a7-a7e6-c0eb9a2f7239@iranvipen.1dlkimi.ir:248?type=tcp&s
 vless://86750164-55e7-46a7-a7e6-c0eb9a2f7239@mstr.fastly80.hosting-ip.com:80?type=ws&security=none&path=/admin#mstr.fastly80.hosting-ip.com:80
 vless://90f056b6-70b2-4b2f-a9ef-0628862e8ab2@188.245.39.111:248?type=tcp&security=none#188.245.39.111:248
 vless://90f056b6-70b2-4b2f-a9ef-0628862e8ab2@mstr.fastly80.hosting-ip.com:80?type=ws&security=none&path=/admin#mstr.fastly80.hosting-ip.com:80
-trojan://bhyk8a6u-xcai-50sv-rrx6-vujzd6xe5npp@127.0.0.1:8080?security=tls&type=tcp#For enhanced GitHub access, visit Argh94 now!
-trojan://st30sdkn-zhv4-f0f4-kdv3-l8e6qzyvnn1j@127.0.0.1:8081?security=tls&type=tcp#</> Collector v5.0
+vless://b65203ca-07e6-4c73-91fc-e213eb185272@188.245.39.111:248?type=tcp&security=none#188.245.39.111:248
+vless://b65203ca-07e6-4c73-91fc-e213eb185272@mstr.fastly80.hosting-ip.com:80?type=ws&security=none&path=/admin#mstr.fastly80.hosting-ip.com:80
+vless://b65203ca-07e6-4c73-91fc-e213eb185272@mstr.fastly80.hosting-ip.com:80?type=ws&security=none&path=/admin#mstr.fastly80.hosting-ip.com:80
+vless://b65203ca-07e6-4c73-91fc-e213eb185272@188.245.39.111:248?type=tcp&security=none#188.245.39.111:248
+trojan://e29vkyxv-eo6e-2zq1-wkq8-gh95t9mvxqwl@127.0.0.1:8080?security=tls&type=tcp#For enhanced GitHub access, visit Argh94 now!
+trojan://2jmbhhix-jze1-c357-fr2a-3x2njtj54stc@127.0.0.1:8081?security=tls&type=tcp#</> Collector v5.0

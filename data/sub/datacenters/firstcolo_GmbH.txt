@@ -1,7 +1,7 @@
-trojan://53b6c415-rzwc-h65c-4oga-zbag590vefhp@127.0.0.1:1080?security=tls&type=tcp#🕒 LAST UPDATE: 2025/08/26 | 07:54
-trojan://4uxypojm-u5wz-81mo-xp5s-cbfwzqjebedg@127.0.0.1:2080?security=tls&type=tcp#This is a free trial project.
-trojan://mtsvpvhb-whgq-dvt4-ay0d-99otxt7hf7i5@127.0.0.1:4080?security=tls&type=tcp#「 GitHub Argh94 ☕ 」
-hysteria2://45b46edb-679b-4ea5-befd-88c05bb94f80@de.eyucdn.xyz:2056?sni=de.eyucdn.xyz&insecure=1#DE 🇩🇪 ┇ HYSTERIA2-TCP-NTLS - firstcolo GmbH ┇ 84.200.87.248
+trojan://vn8qacqr-3veu-ft2k-2096-hd9rktj54qsd@127.0.0.1:1080?security=tls&type=tcp#🕒 LAST UPDATE: 2025/08/26 | 11:57
+trojan://28ik4f7d-uv3g-c4sh-z31f-srirykipl9iv@127.0.0.1:2080?security=tls&type=tcp#This is a free trial project.
+trojan://uve1l0pz-236k-guux-dj9r-l0t5719xh113@127.0.0.1:4080?security=tls&type=tcp#「 GitHub Argh94 ☕ 」
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo1WlFoNHBzc1NrNGFLMUpHMVhoQlJn@84.200.91.228:1080#DE 🇩🇪 ┇ SHADOWSOCKS-TCP-NTLS - firstcolo GmbH ┇ 84.200.91.228
-trojan://nzlntryw-emsl-x569-cp3v-0brxgeaq19yt@127.0.0.1:8080?security=tls&type=tcp#For enhanced GitHub access, visit Argh94 now!
-trojan://3ss7lv7q-a8nv-eymt-21kp-91iey9f0b834@127.0.0.1:8081?security=tls&type=tcp#</> Collector v5.0
+hysteria2://45b46edb-679b-4ea5-befd-88c05bb94f80@de.eyucdn.xyz:2056?sni=de.eyucdn.xyz&insecure=1#DE 🇩🇪 ┇ HYSTERIA2-TCP-NTLS - firstcolo GmbH ┇ 84.200.87.248
+trojan://cq0l35uu-mc85-x754-sb6s-0curtnzjkgys@127.0.0.1:8080?security=tls&type=tcp#For enhanced GitHub access, visit Argh94 now!
+trojan://tugrv4mg-jg34-wmun-ebsy-5j8a5h6y23qn@127.0.0.1:8081?security=tls&type=tcp#</> Collector v5.0

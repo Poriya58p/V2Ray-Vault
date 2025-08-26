@@ -1,6 +1,6 @@
-trojan://zlbz7gko-tya2-p2ap-6bdi-fh7yybq0h3z7@127.0.0.1:1080?security=tls&type=tcp#🕒 LAST UPDATE: 2025/08/26 | 07:54
-trojan://f6gf40fc-1x7j-0dlm-ng50-kfrub2ti3mvn@127.0.0.1:2080?security=tls&type=tcp#This is a free trial project.
-trojan://3yqabfca-kafx-q06k-0omm-6716gfz6y3pq@127.0.0.1:4080?security=tls&type=tcp#「 GitHub Argh94 ☕ 」
+trojan://kxnt60u0-9bvi-nm7x-l3c7-z3oizvygm2re@127.0.0.1:1080?security=tls&type=tcp#🕒 LAST UPDATE: 2025/08/26 | 11:57
+trojan://2k8qcusc-k5sc-wx7s-bgom-9eevr2shikuh@127.0.0.1:2080?security=tls&type=tcp#This is a free trial project.
+trojan://uhkwc1kw-ecgo-d0ke-f3ka-5imvckaifa33@127.0.0.1:4080?security=tls&type=tcp#「 GitHub Argh94 ☕ 」
 vless://e4c339d7-cbdc-41a6-98ab-a0ca04bac5ab@irlast.adkoino.com:443?type=tcp&security=none&path=/#irlast.adkoino.com:443
-trojan://oqt8z01z-i749-wyfn-y3ry-1h1vvmu4pygt@127.0.0.1:8080?security=tls&type=tcp#For enhanced GitHub access, visit Argh94 now!
-trojan://llatkwlb-cor1-pugv-sudt-gbd5urbg6972@127.0.0.1:8081?security=tls&type=tcp#</> Collector v5.0
+trojan://d8nig23w-j48n-9h5b-lqdv-cawf0qdf00la@127.0.0.1:8080?security=tls&type=tcp#For enhanced GitHub access, visit Argh94 now!
+trojan://9cepua6f-fi1o-yh5y-cevb-mju6rtxvtgt6@127.0.0.1:8081?security=tls&type=tcp#</> Collector v5.0

@@ -1,7 +1,7 @@
-trojan://7s3u7knk-xhpt-d7ai-3rxn-g9d7wici61oy@127.0.0.1:1080?security=tls&type=tcp#🕒 LAST UPDATE: 2025/08/26 | 07:54
-trojan://cq05o6m3-09if-u6ri-5ygc-4oo3215nzxh3@127.0.0.1:2080?security=tls&type=tcp#This is a free trial project.
-trojan://fw3b2f5w-d41p-8q16-jvv3-qvtb6kvmh258@127.0.0.1:4080?security=tls&type=tcp#「 GitHub Argh94 ☕ 」
-vless://26a1e667-19e3-4817-bec9-80122da80675@5.42.82.167:443?type=grpc&security=reality&sni=www.speedtest.net&fp=random&pbk=JfjZapoZVCvAfLcULqEVuYH57CFQmGOnckAXHlOHcVo&sid=ce30532c#RU 🇷🇺 ┇ VLESS-GRPC-RLT - CJSC Kolomna-Sviaz TV ┇ 5.42.82.167
+trojan://vtejqlmv-2a30-zlkn-sibp-2omckbutqzpr@127.0.0.1:1080?security=tls&type=tcp#🕒 LAST UPDATE: 2025/08/26 | 11:57
+trojan://8ltbgmgw-f4e6-0tk2-weeh-mmsjzka1ezup@127.0.0.1:2080?security=tls&type=tcp#This is a free trial project.
+trojan://55tode33-8e6c-54uj-dirx-eplo73b7eir6@127.0.0.1:4080?security=tls&type=tcp#「 GitHub Argh94 ☕ 」
 vless://2f8179a0-c0ea-4f8a-97fc-39af16d2bfc5@5.42.77.71:443?type=tcp&security=reality&sni=www.datadoghq.com&fp=chrome&flow=xtls-rprx-vision&pbk=3q2rJ0IljIdNL0YvlAy7TwqtnPCr1woQv9KjoHjG3gE&sid=366e5433f6196a6f#RU 🇷🇺 ┇ VLESS-TCP-RLT - CJSC Kolomna-Sviaz TV ┇ 5.42.77.71
-trojan://wn2whm74-sk2d-rcy1-8hpf-oft25qdsep2r@127.0.0.1:8080?security=tls&type=tcp#For enhanced GitHub access, visit Argh94 now!
-trojan://kxps2gmy-w08y-8e7y-m0y6-sza5crtgptvw@127.0.0.1:8081?security=tls&type=tcp#</> Collector v5.0
+vless://26a1e667-19e3-4817-bec9-80122da80675@5.42.82.167:443?type=grpc&security=reality&sni=www.speedtest.net&fp=random&pbk=JfjZapoZVCvAfLcULqEVuYH57CFQmGOnckAXHlOHcVo&sid=ce30532c#RU 🇷🇺 ┇ VLESS-GRPC-RLT - CJSC Kolomna-Sviaz TV ┇ 5.42.82.167
+trojan://5fk43cq8-nr8g-qsza-f6pg-3tywnn0831n9@127.0.0.1:8080?security=tls&type=tcp#For enhanced GitHub access, visit Argh94 now!
+trojan://4k6izw1c-pv7r-4nc9-qppb-am308sthil7l@127.0.0.1:8081?security=tls&type=tcp#</> Collector v5.0

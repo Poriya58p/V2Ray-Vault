@@ -1,6 +1,6 @@
-trojan://vrk6smqx-ia7k-mcvs-e34p-aj8sds3g9yh9@127.0.0.1:1080?security=tls&type=tcp#🕒 LAST UPDATE: 2025/08/26 | 07:54
-trojan://5nddnf7m-n9ip-n4i0-ofps-z8wy0jr1msw5@127.0.0.1:2080?security=tls&type=tcp#This is a free trial project.
-trojan://w7dvmkn1-c4mb-d5k2-nvao-bb0rqwpvv10x@127.0.0.1:4080?security=tls&type=tcp#「 GitHub Argh94 ☕ 」
+trojan://gndwmc87-x7vd-3sdx-mpbj-2qu6j8w62oua@127.0.0.1:1080?security=tls&type=tcp#🕒 LAST UPDATE: 2025/08/26 | 11:57
+trojan://ux706pfm-kmu3-47a0-9kld-6eclyjjezgxu@127.0.0.1:2080?security=tls&type=tcp#This is a free trial project.
+trojan://etqw00mt-zxpv-cums-4zcq-y11tik0sy364@127.0.0.1:4080?security=tls&type=tcp#「 GitHub Argh94 ☕ 」
 vmess://eyJ2IjoiMiIsInBzIjoiXHUwNjJjXHUwNjQ4XHUwNmNjXHUwNjQ2IFx1MDY4Nlx1MDY0Nlx1MDY0NCBcdTA2MmFcdTA2NDRcdTA2YWZcdTA2MzFcdTA2MjdcdTA2NDUgXHUwNjM0XHUwNmNjXHUwNjJmXHVkODNkXHVkYzQ4IFZwbjE0MDJAIiwiYWRkIjoiMjMuODguOTkuMzciLCJwb3J0Ijo1NDExNCwiaWQiOiJjZWNmMWZhOS01ZGM1LTQzMWItZGE0MC0zYTE1ODc5OTMwNjUiLCJhaWQiOjAsInNjeSI6ImF1dG8iLCJuZXQiOiJ0Y3AiLCJ0eXBlIjoiaHR0cCIsInBhdGgiOiIvIn0
 vmess://eyJ2IjoiMiIsInBzIjoiXHUwNjJjXHUwNjQ4XHUwNmNjXHUwNjQ2IFx1MDY4Nlx1MDY0Nlx1MDY0NCBcdTA2MmFcdTA2NDRcdTA2YWZcdTA2MzFcdTA2MjdcdTA2NDUgXHUwNjM0XHUwNmNjXHUwNjJmXHVkODNkXHVkYzQ4IFZwbjE0MDJAIiwiYWRkIjoic3RhcjUxLnN0YXJwaW5nNTcuZnVuIiwicG9ydCI6NTM0ODQsImlkIjoiOTQwYzRhNTAtYTQ4My00ZWViLWMwMzgtOWQwYjEzYmViMThkIiwiYWlkIjowLCJzY3kiOiJhdXRvIiwibmV0IjoidGNwIiwidHlwZSI6Imh0dHAiLCJwYXRoIjoiLyJ9
 vless://ef4cad50-4f83-4c66-85ae-ce8e9692d8cb@mtn006.chaghooosazi.shop:443?type=ws&security=tls&path=/xMKyVeMwq7FLS5oNsuc&sni=mtnasl006.chaghooosazi.shop#mtn006.chaghooosazi.shop:443
@@ -8,5 +8,5 @@ vless://9c9eaed0-5bee-4376-ddab-f64fd6c8b520@mci-msv2ray.ddns.net:2096?type=grpc
 vless://bb2af53a-8a2a-4466-bcf4-7e7de11b8381@mtn001.chaghooosazi.shop:443?type=ws&security=tls&path=/xMKyVeMwq7FLS5oNsuc&sni=mtnasl001.chaghooosazi.shop#mtn001.chaghooosazi.shop:443
 vless://c16cfefa-3ca3-4853-a582-02cd7205ae65@mrvpn1403.rightel001.chaghooosazi.shop:443?type=ws&security=tls&path=/9AYvqFVnWz0w4dr32c8Sz5kJF4Ehx3&sni=rightel1.chaghooosazi.shop&fp=chrome#mrvpn1403.rightel001.chaghooosazi.shop:443
 vless://ba8eb673-b4a2-41b8-a813-0e535e2cf374@mrvpn1403.rightel001.chaghooosazi.shop:443?type=ws&security=tls&path=/9AYvqFVnWz0w4dr32c8Sz5kJF4Ehx3&sni=rightel1.chaghooosazi.shop&fp=chrome#mrvpn1403.rightel001.chaghooosazi.shop:443
-trojan://1ac490sl-dz1z-yydm-cmi1-zlnj4qyk4afv@127.0.0.1:8080?security=tls&type=tcp#For enhanced GitHub access, visit Argh94 now!
-trojan://32oyqfmm-6h38-rqoh-6g44-uimj7zettwv9@127.0.0.1:8081?security=tls&type=tcp#</> Collector v5.0
+trojan://d7mgd7ri-mn29-laiu-kgj5-jfl1tyusyq5a@127.0.0.1:8080?security=tls&type=tcp#For enhanced GitHub access, visit Argh94 now!
+trojan://2i5109l2-v06k-8jg8-y2kw-ogzlghd65zf8@127.0.0.1:8081?security=tls&type=tcp#</> Collector v5.0

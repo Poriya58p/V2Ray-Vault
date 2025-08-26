@@ -1,6 +1,6 @@
-trojan://gasc1rk5-9srf-jabo-0g1v-grazmeqsuj6e@127.0.0.1:1080?security=tls&type=tcp#🕒 LAST UPDATE: 2025/08/26 | 07:54
-trojan://2ryf20pa-v5c9-wbh2-ptqm-r669e0iec0ik@127.0.0.1:2080?security=tls&type=tcp#This is a free trial project.
-trojan://6a1rv91m-a8wf-wch4-r1eo-0fqfxdyckauf@127.0.0.1:4080?security=tls&type=tcp#「 GitHub Argh94 ☕ 」
+trojan://2rilcyts-js5d-hqmb-fntn-h76f0byg6zf6@127.0.0.1:1080?security=tls&type=tcp#🕒 LAST UPDATE: 2025/08/26 | 11:57
+trojan://g2ug0qls-0rfb-htgl-7l6u-r8cu278xeju5@127.0.0.1:2080?security=tls&type=tcp#This is a free trial project.
+trojan://sc6yun0m-uno1-i86g-xe2m-g4xbsjjc2ivl@127.0.0.1:4080?security=tls&type=tcp#「 GitHub Argh94 ☕ 」
 vless://59172f23-dad2-4a8a-8d7e-83508ecdce0a@www.speedtest.net:2086?type=httpupgrade&security=none&path=/@spikevpn-@spikevpn-@spikevpn-@spikevpn-@spikevpn-@spikevpn-@spikevpn-@spikevpn-@spikevpn-@spikevpn-@spikevpn-@spikevpn?ed=2086#www.speedtest.net:2086
 vless://65eaf689-d1de-4050-bbe1-ae7135c40342@www.speedtest.net:2082?type=ws&security=none&path=/@spikevpn-@spikevpn-@spikevpn-@spikevpn-@spikevpn-@spikevpn?ed=2082#www.speedtest.net:2082
 vless://567833b8-a7ec-479f-a15a-b9b7d54ed4f7@www.speedtest.net:2086?type=httpupgrade&security=none&path=/@spikevpn-@spikevpn-@spikevpn-@spikevpn-@spikevpn-@spikevpn-@spikevpn-@spikevpn-@spikevpn-@spikevpn-@spikevpn-@spikevpn?ed=2086#www.speedtest.net:2086
@@ -21,5 +21,5 @@ vless://93ac1876-83d4-4198-9528-83a36d785e97@www.speedtest.net:2086?type=httpupg
 vless://889dcfcc-246d-4893-bebc-abf427bfdf51@www.speedtest.net:2082?type=ws&security=none&path=/@spikevpn-@spikevpn-@spikevpn-@spikevpn-@spikevpn-@spikevpn?ed=2082#www.speedtest.net:2082
 vless://b70bd623-4717-426f-a15f-753adbe607fd@www.speedtest.net:2086?type=httpupgrade&security=none&path=/@spikevpn-@spikevpn-@spikevpn-@spikevpn-@spikevpn-@spikevpn-@spikevpn-@spikevpn-@spikevpn-@spikevpn-@spikevpn-@spikevpn?ed=2086#www.speedtest.net:2086
 vless://ed1494f2-ea53-48fd-a26d-0b0b579f430a@www.speedtest.net:2082?type=ws&security=none&path=/@spikevpn-@spikevpn-@spikevpn-@spikevpn-@spikevpn-@spikevpn?ed=2082#www.speedtest.net:2082
-trojan://4lul65kk-dhtz-fo8v-xd1g-1nw6p1rt99pu@127.0.0.1:8080?security=tls&type=tcp#For enhanced GitHub access, visit Argh94 now!
-trojan://66n095t3-9l0p-qreo-iv97-8gumixo9acvl@127.0.0.1:8081?security=tls&type=tcp#</> Collector v5.0
+trojan://r2e291cm-fvk6-3fat-rh0y-76ng0d30dr0w@127.0.0.1:8080?security=tls&type=tcp#For enhanced GitHub access, visit Argh94 now!
+trojan://ng5p2jm4-bkdd-6kzm-uwge-pp1v8cxz5vkp@127.0.0.1:8081?security=tls&type=tcp#</> Collector v5.0

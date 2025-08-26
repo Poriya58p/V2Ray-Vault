@@ -1,9 +1,9 @@
-trojan://zwe2hvhn-2hi7-65gx-4sit-2mgqo5rdcmqz@127.0.0.1:1080?security=tls&type=tcp#🕒 LAST UPDATE: 2025/08/26 | 07:54
-trojan://v6qolf9i-unha-5z6f-ib4n-j53zm2qv86ew@127.0.0.1:2080?security=tls&type=tcp#This is a free trial project.
-trojan://h27d57gu-6cb0-q7l9-fa9v-e4aypzhvanoj@127.0.0.1:4080?security=tls&type=tcp#「 GitHub Argh94 ☕ 」
+trojan://4slw3z9w-2sb5-oz8w-u5ja-l8fyws7cqinx@127.0.0.1:1080?security=tls&type=tcp#🕒 LAST UPDATE: 2025/08/26 | 11:57
+trojan://uwb9wsm1-dfzo-khhm-9rfq-uozgb6u21v9o@127.0.0.1:2080?security=tls&type=tcp#This is a free trial project.
+trojan://voqiycot-0f02-y6sp-mxav-v5xk610rr8sa@127.0.0.1:4080?security=tls&type=tcp#「 GitHub Argh94 ☕ 」
 ss://YWVzLTI1Ni1nY206Njg0MzliNDYtMDIyMy00ZTc2LTk3NTctZjE1ZjE3YTQxYjcx@192.142.18.127:443#192.142.18.127:443
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpDR0NZUWdLU0huNkRSb2loYzFtUFps@138.197.192.62:443#138.197.192.62:443
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToyNFpMSFRQOGJ6TWc2S2VJV2NwZXo3@62.133.63.21:65262#62.133.63.21:65262
 vless://Free_HTTPCustom@91.98.21.125:80?type=tcp&security=none#91.98.21.125:80
-trojan://t62rf5ak-ar8g-sl0t-h1h9-ae0hcgktgypn@127.0.0.1:8080?security=tls&type=tcp#For enhanced GitHub access, visit Argh94 now!
-trojan://z65s3bws-g87b-em7v-0b2m-qha7tke09vfn@127.0.0.1:8081?security=tls&type=tcp#</> Collector v5.0
+trojan://fahy5yvq-7kgf-1zaw-d7d0-o2ot4rbsy6o1@127.0.0.1:8080?security=tls&type=tcp#For enhanced GitHub access, visit Argh94 now!
+trojan://v348clfw-iy4i-asai-1d5v-i67ab43dyvpf@127.0.0.1:8081?security=tls&type=tcp#</> Collector v5.0

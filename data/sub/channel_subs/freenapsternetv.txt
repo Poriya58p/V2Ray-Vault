@@ -1,11 +1,11 @@
-trojan://ljvjfug9-3vnv-4duk-y8yd-4x1b31gl4jye@127.0.0.1:1080?security=tls&type=tcp#🕒 LAST UPDATE: 2025/08/26 | 07:54
-trojan://cac9l5xy-aafw-97nd-7mls-hs3aziw72zwg@127.0.0.1:2080?security=tls&type=tcp#This is a free trial project.
-trojan://euibg77x-7j4e-m61j-yzhn-ebeaez69qkqe@127.0.0.1:4080?security=tls&type=tcp#「 GitHub Argh94 ☕ 」
+trojan://06hauiu6-gcmp-5v4k-04xp-rq8q2mh01nr3@127.0.0.1:1080?security=tls&type=tcp#🕒 LAST UPDATE: 2025/08/26 | 11:57
+trojan://1h0s7uu4-y34l-v5xc-nty8-2omnf7h4zjus@127.0.0.1:2080?security=tls&type=tcp#This is a free trial project.
+trojan://gpgip4ad-juk8-hh6j-pa70-8mv8gojbcqu1@127.0.0.1:4080?security=tls&type=tcp#「 GitHub Argh94 ☕ 」
 vless://480c278e-1c64-4ddd-9635-2df5e8dafffe@www.speedtest.net:8080?type=ws&security=none&path=/@V_2rayngVpn#www.speedtest.net:8080
 vless://340584ff-c506-4197-ac96-cefc1b5e9a9d@www.speedtest.net:80?type=ws&security=none&path=/#www.speedtest.net:80
 vless://ab1ba65d-7af4-4ffb-bf26-44d79793af45@www.speedtest.net:8080?type=ws&security=none&path=/#www.speedtest.net:8080
 vless://b5154b7e-3a59-4537-a163-1d5a73d4b4bb@146.59.116.201:443?type=grpc&security=reality&sni=convertio.co&fp=firefox&pbk=-q5LnD8S-F7Q6khGlle_aovNZt3fhmxCYHjbWXZvdUQ&sid=e3b41bfe#146.59.116.201:443
 vless://f39de4e2-bcfd-4be9-b051-52ad8bb696bb@135.125.218.217:37464?type=grpc&security=reality&sni=convertio.co&fp=firefox&pbk=9-pElNE3g76NeRuw6g1T7f9mw4NDVD4rftPCztwVEko&sid=c7c99478#135.125.218.217:37464
 vless://c7060866-29f6-49b8-b13b-cf95dc4a0e79@146.59.116.201:443?type=grpc&security=reality&sni=convertio.co&fp=firefox&pbk=-q5LnD8S-F7Q6khGlle_aovNZt3fhmxCYHjbWXZvdUQ&sid=e3b41bfe#146.59.116.201:443
-trojan://jcw011cd-vjxo-ld0b-44eb-k4giytfbv39z@127.0.0.1:8080?security=tls&type=tcp#For enhanced GitHub access, visit Argh94 now!
-trojan://7g17ylf5-d4kk-4dgo-w0n7-oyy5ktmnsjx4@127.0.0.1:8081?security=tls&type=tcp#</> Collector v5.0
+trojan://9wvankwh-zqr8-2q9g-7g1w-0vsxvo2p7vx8@127.0.0.1:8080?security=tls&type=tcp#For enhanced GitHub access, visit Argh94 now!
+trojan://26dfqfqs-nmux-qtg0-nmw1-2uouiut18u73@127.0.0.1:8081?security=tls&type=tcp#</> Collector v5.0

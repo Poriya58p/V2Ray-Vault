@@ -1,6 +1,6 @@
-trojan://6q34wxsi-d87l-hjtk-rery-cbrwf1px61jr@127.0.0.1:1080?security=tls&type=tcp#🕒 LAST UPDATE: 2025/08/26 | 07:54
-trojan://e7so54tw-g2p4-fsi7-qkkb-knqlwcplhy8p@127.0.0.1:2080?security=tls&type=tcp#This is a free trial project.
-trojan://ze8ywe00-mra7-cqj9-64gi-3y393739l84f@127.0.0.1:4080?security=tls&type=tcp#「 GitHub Argh94 ☕ 」
+trojan://jjkpou5f-m2f4-ngoa-7fev-5oyftalov2ya@127.0.0.1:1080?security=tls&type=tcp#🕒 LAST UPDATE: 2025/08/26 | 11:57
+trojan://x7gkfn8f-9eaq-zq70-ohq7-r86s7x8p9b55@127.0.0.1:2080?security=tls&type=tcp#This is a free trial project.
+trojan://glopo32s-1867-20fx-ko5c-kvr82b9z6104@127.0.0.1:4080?security=tls&type=tcp#「 GitHub Argh94 ☕ 」
 vless://a85962e7-4c37-477a-a16a-892bbeea60ac@104.17.148.22:8880?type=httpupgrade&security=none&path=/FreeConfig#104.17.148.22:8880
 vless://97938b3f-a26b-40d7-b05b-b3e4e344fa6e@alfred.dnss-mobile.ir:443?type=ws&security=tls&path=/alfred&sni=alfred.dnss-mobile.ir&fp=chrome#alfred.dnss-mobile.ir:443
 vless://2e56a2e4-d8ac-4990-843c-d813e889fcbd@104.17.148.22:8880?type=httpupgrade&security=none&path=/FreeConfig#104.17.148.22:8880
@@ -21,5 +21,5 @@ vless://8b9f63bd-0a73-4ef5-dee0-3d114c4edc0c@www.speedtest.net:8880?type=httpupg
 vless://6dd948ea-2dce-4cf3-df46-0a72af7c846a@www.speedtest.net:8880?type=httpupgrade&security=none&path=/@LOCKEY_VPN-@LOCKEY_VPN-@LOCKEY_VPN-@LOCKEY_VPN-@LOCKEY_VPN-@LOCKEY_VPN-@LOCKEY_VPN-@LOCKEY_VPN-@LOCKEY_VPN-@LOCKEY_VPN-@LOCKEY_VPN-@LOCKEY_VPN-@LOCKEY_VPN-@LOCKEY_VPN-@LOCKEY_VPN-@LOCKEY_VPN-@LOCKEY_VPN-@LOCKEY_VPN-@LOCKEY_VPN?ed=8880#www.speedtest.net:8880
 vless://560c46be-d15d-4083-8fb5-c7ad5f4f24fd@www.speedtest.net:8880?type=httpupgrade&security=none&path=/@LOCKEY_VPN-@LOCKEY_VPN-@LOCKEY_VPN-@LOCKEY_VPN-@LOCKEY_VPN-@LOCKEY_VPN-@LOCKEY_VPN-@LOCKEY_VPN-@LOCKEY_VPN-@LOCKEY_VPN-@LOCKEY_VPN-@LOCKEY_VPN-@LOCKEY_VPN-@LOCKEY_VPN-@LOCKEY_VPN-@LOCKEY_VPN-@LOCKEY_VPN-@LOCKEY_VPN-@LOCKEY_VPN?ed=8880#www.speedtest.net:8880
 vless://560c46be-d15d-4083-8fb5-c7ad5f4f24fd@www.speedtest.net:8880?type=httpupgrade&security=none&path=/@LOCKEY_VPN-@LOCKEY_VPN-@LOCKEY_VPN-@LOCKEY_VPN-@LOCKEY_VPN-@LOCKEY_VPN-@LOCKEY_VPN-@LOCKEY_VPN-@LOCKEY_VPN-@LOCKEY_VPN-@LOCKEY_VPN-@LOCKEY_VPN-@LOCKEY_VPN-@LOCKEY_VPN-@LOCKEY_VPN-@LOCKEY_VPN-@LOCKEY_VPN-@LOCKEY_VPN-@LOCKEY_VPN?ed=8880#www.speedtest.net:8880
-trojan://8ygujben-0d2i-5rhq-nqwj-nnyoybz5niry@127.0.0.1:8080?security=tls&type=tcp#For enhanced GitHub access, visit Argh94 now!
-trojan://mim1frvf-wjjt-vn6a-j89l-q4xiyorxck1w@127.0.0.1:8081?security=tls&type=tcp#</> Collector v5.0
+trojan://89ybqcib-qmvz-bi91-8ffz-xxfsfnll3sbv@127.0.0.1:8080?security=tls&type=tcp#For enhanced GitHub access, visit Argh94 now!
+trojan://ol6billh-k0zf-0r37-3tr8-boe4no98ctrv@127.0.0.1:8081?security=tls&type=tcp#</> Collector v5.0

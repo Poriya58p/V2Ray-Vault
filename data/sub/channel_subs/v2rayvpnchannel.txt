@@ -1,8 +1,6 @@
-trojan://lhj0ai6u-p8o3-snpm-zuyy-0e88istv2vtt@127.0.0.1:1080?security=tls&type=tcp#🕒 LAST UPDATE: 2025/08/26 | 07:54
-trojan://33ko1ssr-qhkr-5vvd-tq9a-h6wep217opnl@127.0.0.1:2080?security=tls&type=tcp#This is a free trial project.
-trojan://539jms1a-0cuy-ku12-n2d0-gtl2pxjxdfpy@127.0.0.1:4080?security=tls&type=tcp#「 GitHub Argh94 ☕ 」
-trojan://telegram-id-v2rayvpnchannel@63.176.143.79:22223?sni=trojan.burgerip.co.uk&peer=trojan.burgerip.co.uk&security=tls#63.176.143.79:22223
-trojan://telegram-id-v2rayvpnchannel@52.47.201.84:22223?sni=trojan.burgerip.co.uk&peer=trojan.burgerip.co.uk&security=tls#52.47.201.84:22223
+trojan://fwwgja53-95y9-ehik-vc82-ry4catswt2xu@127.0.0.1:1080?security=tls&type=tcp#🕒 LAST UPDATE: 2025/08/26 | 11:57
+trojan://ar9h3lm7-fd4m-dofn-1v9o-vt8otufq3evx@127.0.0.1:2080?security=tls&type=tcp#This is a free trial project.
+trojan://qkuta9qm-8pts-e2wt-m8ax-omyj8jtcreuk@127.0.0.1:4080?security=tls&type=tcp#「 GitHub Argh94 ☕ 」
 trojan://telegram-id-v2rayvpnchannel@13.37.0.108:22223?sni=trojan.burgerip.co.uk&peer=trojan.burgerip.co.uk&security=tls#13.37.0.108:22223
 trojan://telegram-id-v2rayvpnchannel@3.71.171.209:22223?sni=trojan.burgerip.co.uk&peer=trojan.burgerip.co.uk&security=tls#3.71.171.209:22223
 trojan://telegram-id-v2rayvpnchannel@3.66.251.142:22223?sni=trojan.burgerip.co.uk&peer=trojan.burgerip.co.uk&security=tls#3.66.251.142:22223
@@ -20,5 +18,7 @@ trojan://telegram-id-v2rayvpnchannel@3.69.18.215:22223?sni=trojan.burgerip.co.uk
 trojan://telegram-id-v2rayvpnchannel@63.176.195.158:22223?sni=trojan.burgerip.co.uk&peer=trojan.burgerip.co.uk&security=tls#63.176.195.158:22223
 trojan://telegram-id-v2rayvpnchannel@35.181.210.214:22223?sni=trojan.burgerip.co.uk&peer=trojan.burgerip.co.uk&security=tls#35.181.210.214:22223
 trojan://telegram-id-v2rayvpnchannel@35.180.142.18:22223?sni=trojan.burgerip.co.uk&peer=trojan.burgerip.co.uk&security=tls#35.180.142.18:22223
-trojan://r0wbpdph-2pvv-q23w-cvd9-lfv08jrlyudk@127.0.0.1:8080?security=tls&type=tcp#For enhanced GitHub access, visit Argh94 now!
-trojan://pjx392m5-nxc8-d4a1-u5vo-glfie4z8101f@127.0.0.1:8081?security=tls&type=tcp#</> Collector v5.0
+trojan://telegram-id-v2rayvpnchannel@54.93.38.12:22223?sni=trojan.burgerip.co.uk&peer=trojan.burgerip.co.uk&security=tls#54.93.38.12:22223
+trojan://telegram-id-v2rayvpnchannel@63.176.42.107:22223?sni=trojan.burgerip.co.uk&peer=trojan.burgerip.co.uk&security=tls#63.176.42.107:22223
+trojan://sim2zduc-jvxh-34hs-i5vo-tquqfg2u7eo4@127.0.0.1:8080?security=tls&type=tcp#For enhanced GitHub access, visit Argh94 now!
+trojan://7vhfuadt-uzzh-6v71-4j1r-jfmlqhui1gpy@127.0.0.1:8081?security=tls&type=tcp#</> Collector v5.0
