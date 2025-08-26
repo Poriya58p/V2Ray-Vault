@@ -1,6 +1,6 @@
-trojan://fq4wm2vr-1c0j-uloq-3vpn-y37tq8xvb7o1@127.0.0.1:1080?security=tls&type=tcp#🕒 LAST UPDATE: 2025/08/26 | 11:57
-trojan://sg067act-7vxl-htwj-ipzg-q7jt265tonos@127.0.0.1:2080?security=tls&type=tcp#This is a free trial project.
-trojan://8omlvpig-cxhg-85i4-j960-ucw3dyi76rjy@127.0.0.1:4080?security=tls&type=tcp#「 GitHub Argh94 ☕ 」
+trojan://dqicup0q-1ktj-ss1y-y54h-azgfavcp4wdc@127.0.0.1:1080?security=tls&type=tcp#🕒 LAST UPDATE: 2025/08/26 | 16:05
+trojan://mzhyfjmo-na3f-z96e-d0hh-kfjutinetnts@127.0.0.1:2080?security=tls&type=tcp#This is a free trial project.
+trojan://0lzepj59-hua4-jfjh-4nsw-yawp9r2ivk97@127.0.0.1:4080?security=tls&type=tcp#「 GitHub Argh94 ☕ 」
 vless://97dce074-7db1-4d59-99ca-0ef8311e2425@s19.speedyconnect.pro:443?type=ws&security=tls&path=/downloader/10005?ed=2048&sni=s19.speedyconnect.pro#s19.speedyconnect.pro:443
-trojan://xum3hqnl-ju23-07cq-ea53-9neihqixrmt1@127.0.0.1:8080?security=tls&type=tcp#For enhanced GitHub access, visit Argh94 now!
-trojan://j1rnzccp-f827-dney-m232-vg26yar9ezni@127.0.0.1:8081?security=tls&type=tcp#</> Collector v5.0
+trojan://cjozdaay-qtzs-et2e-71h1-3vfir8wemjql@127.0.0.1:8080?security=tls&type=tcp#For enhanced GitHub access, visit Argh94 now!
+trojan://yzwlsrst-ujzr-ginc-gvg4-3cb06i4y2si2@127.0.0.1:8081?security=tls&type=tcp#</> Collector v5.0

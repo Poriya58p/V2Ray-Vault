@@ -1,6 +1,6 @@
-trojan://sv4ayqrq-leb3-1mja-3hu4-0koo98rytdyv@127.0.0.1:1080?security=tls&type=tcp#🕒 LAST UPDATE: 2025/08/26 | 11:57
-trojan://qo7513mo-ir2q-qp8a-cash-fizain7h6guk@127.0.0.1:2080?security=tls&type=tcp#This is a free trial project.
-trojan://vf1r0go6-zqye-hirc-5jpu-rega0xob0pbl@127.0.0.1:4080?security=tls&type=tcp#「 GitHub Argh94 ☕ 」
+trojan://mxu9yglu-pfj0-okt7-ssa5-mtynkkchdcpp@127.0.0.1:1080?security=tls&type=tcp#🕒 LAST UPDATE: 2025/08/26 | 16:05
+trojan://e5yz0i34-frt3-ves6-nkq4-32g1mtysixji@127.0.0.1:2080?security=tls&type=tcp#This is a free trial project.
+trojan://oszg5mjy-wacc-qqnj-gpyf-z3v8cho9v0pi@127.0.0.1:4080?security=tls&type=tcp#「 GitHub Argh94 ☕ 」
 ss://Y2hhY2hhMjAtcG9seTEzMDU6N2JPOGFrb1JvTTJN@83.217.9.120:443#83.217.9.120:443
 vless://d8d05386-e381-40a4-bb63-715c208b3ed3@109.120.132.142:40617?type=tcp&security=none#109.120.132.142:40617
 vless://e207a4a0-0237-46f5-acd5-2410f1452de5@188.166.144.24:2053?type=tcp&security=none#188.166.144.24:2053
@@ -13,16 +13,5 @@ vless://e4824193-4f54-453b-d037-88368e85ef0e@public15v7.fastipsport.com:8880?typ
 vless://e4824193-4f54-453b-d037-88368e85ef0e@public18v7.fastipsport.com:8880?type=grpc&security=none#public18v7.fastipsport.com:8880
 vless://e4824193-4f54-453b-d037-88368e85ef0e@public18v7.fastipsport.com:8880?type=grpc&security=none#public18v7.fastipsport.com:8880
 vless://e89ba39d-ae7e-493a-a57b-cdd55b42b4e3@188.245.75.235:443?type=tcp&security=none#188.245.75.235:443
-hysteria2://66975a45-dd40-4854-ba7b-80157a38dd64@xg.dimoyun.top:40001?sni=xg.dimoyun.top&insecure=1#xg.dimoyun.top:40001
-hysteria2://66975a45-dd40-4854-ba7b-80157a38dd64@xg.dimoyun.top:40001?sni=xg.dimoyun.top&insecure=1#xg.dimoyun.top:40001
-hysteria2://66975a45-dd40-4854-ba7b-80157a38dd64@xg.dimoyun.top:40001?sni=xg.dimoyun.top&insecure=1#xg.dimoyun.top:40001
-hysteria2://66975a45-dd40-4854-ba7b-80157a38dd64@xg.dimoyun.top:40001?sni=xg.dimoyun.top&insecure=1#xg.dimoyun.top:40001
-hysteria2://66975a45-dd40-4854-ba7b-80157a38dd64@xg2.dimoyun.top:40001?sni=xg2.dimoyun.top&insecure=1#xg2.dimoyun.top:40001
-hysteria2://66975a45-dd40-4854-ba7b-80157a38dd64@els1.dimoyun.top:40001?sni=els1.dimoyun.top&insecure=1#els1.dimoyun.top:40001
-hysteria2://66975a45-dd40-4854-ba7b-80157a38dd64@mg.dimoyun.top:40001?sni=mg.dimoyun.top&insecure=1#mg.dimoyun.top:40001
-hysteria2://66975a45-dd40-4854-ba7b-80157a38dd64@xjp.dimoyun.top:40001?sni=xjp.dimoyun.top&insecure=1#xjp.dimoyun.top:40001
-hysteria2://66975a45-dd40-4854-ba7b-80157a38dd64@els2.dimoyun.top:40001?sni=els1.dimoyun.top&insecure=1#els2.dimoyun.top:40001
-hysteria2://66975a45-dd40-4854-ba7b-80157a38dd64@dg.dimoyun.top:40001?sni=dg.dimoyun.top&insecure=1#dg.dimoyun.top:40001
-hysteria2://66975a45-dd40-4854-ba7b-80157a38dd64@rb.dimoyun.top:40001?sni=rb.dimoyun.top&insecure=1#rb.dimoyun.top:40001
-trojan://fbwae4lz-ir38-lb2q-dexo-d1kwwrt8ua2y@127.0.0.1:8080?security=tls&type=tcp#For enhanced GitHub access, visit Argh94 now!
-trojan://7safi2mm-op91-3yjz-9i3l-rc3di8nqliuq@127.0.0.1:8081?security=tls&type=tcp#</> Collector v5.0
+trojan://qe4jq8h2-he6c-1chx-mq1t-p582wwd55jxy@127.0.0.1:8080?security=tls&type=tcp#For enhanced GitHub access, visit Argh94 now!
+trojan://bwq0un76-xuk4-4xxm-2896-fspzix4huyyz@127.0.0.1:8081?security=tls&type=tcp#</> Collector v5.0

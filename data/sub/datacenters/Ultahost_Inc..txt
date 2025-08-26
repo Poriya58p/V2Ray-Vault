@@ -1,7 +1,7 @@
-trojan://asgx2lrf-167l-8pki-eufg-s649eylyqiy5@127.0.0.1:1080?security=tls&type=tcp#🕒 LAST UPDATE: 2025/08/26 | 11:57
-trojan://3e9nsuu4-stda-mcu7-teso-fm6jwzlvlg1o@127.0.0.1:2080?security=tls&type=tcp#This is a free trial project.
-trojan://ql5uthd6-wcvh-ip0x-ygsg-y94biw63fjrh@127.0.0.1:4080?security=tls&type=tcp#「 GitHub Argh94 ☕ 」
+trojan://f6p2gbk3-xkaq-mynj-bk5o-l8qs8zrsc35a@127.0.0.1:1080?security=tls&type=tcp#🕒 LAST UPDATE: 2025/08/26 | 16:05
+trojan://af8c949c-r60t-odi7-9hg2-mxw45x2wigic@127.0.0.1:2080?security=tls&type=tcp#This is a free trial project.
+trojan://7xi5o9v0-u48h-sisw-enow-madz6aqu5ihf@127.0.0.1:4080?security=tls&type=tcp#「 GitHub Argh94 ☕ 」
 ss://YWVzLTI1Ni1nY206Njg0MzliNDYtMDIyMy00ZTc2LTk3NTctZjE1ZjE3YTQxYjcx@192.142.18.127:443#ZA 🇿🇦 ┇ SHADOWSOCKS-TCP-NTLS - Ultahost, Inc. ┇ 192.142.18.127
-vless://4a640781-f5c8-4d17-80db-a6b0a091ba05@nl01-vlr01.tcp-reset-club.net:443?type=tcp&security=reality&sni=hls-svod.itunes.apple.com&fp=chrome&flow=xtls-rprx-vision&pbk=mLmBhbVFfNuo2eUgBh6r9-5Koz9mUCn3aSzlR6IejUg&sid=d3b13f31#NL 🇳🇱 ┇ VLESS-TCP-RLT - Ultahost, Inc. ┇ 185.82.73.195
-trojan://qohwe77h-ex7g-6l1n-i17x-hgaxv72b1nvc@127.0.0.1:8080?security=tls&type=tcp#For enhanced GitHub access, visit Argh94 now!
-trojan://3wdwgne2-0d8n-azsz-cvtr-z24uabepgkca@127.0.0.1:8081?security=tls&type=tcp#</> Collector v5.0
+vless://4a640781-f5c8-4d17-80db-a6b0a091ba05@nl01-vlr01.tcp-reset-club.net:443?type=tcp&security=reality&sni=hls-svod.itunes.apple.com&fp=chrome&flow=xtls-rprx-vision&pbk=mLmBhbVFfNuo2eUgBh6r9-5Koz9mUCn3aSzlR6IejUg&sid=d3b13f31#NL 🇳🇱 ┇ VLESS-TCP-RLT - Ultahost, Inc. ┇ 185.82.73.159
+trojan://fi4ylhb2-83j9-a1ec-ydwu-9mc9g0ha8ps1@127.0.0.1:8080?security=tls&type=tcp#For enhanced GitHub access, visit Argh94 now!
+trojan://6l4lh4fg-s9ve-6n2u-in59-pv20ql9qx72k@127.0.0.1:8081?security=tls&type=tcp#</> Collector v5.0

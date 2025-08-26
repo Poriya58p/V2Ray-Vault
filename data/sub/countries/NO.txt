@@ -1,8 +1,8 @@
-trojan://ocxee1vd-8xuw-k6ec-vpwr-ewj9dch8ybx3@127.0.0.1:1080?security=tls&type=tcp#🕒 LAST UPDATE: 2025/08/26 | 11:57
-trojan://81lrdidu-57vk-m3zf-ee1a-xjj06i2ki1sx@127.0.0.1:2080?security=tls&type=tcp#This is a free trial project.
-trojan://jrh71pzs-ajp5-y6fu-6jng-n5v9505cmg7y@127.0.0.1:4080?security=tls&type=tcp#「 GitHub Argh94 ☕ 」
+trojan://oop6fv1c-g95z-vh1b-7kx9-dw56g9hq9bp8@127.0.0.1:1080?security=tls&type=tcp#🕒 LAST UPDATE: 2025/08/26 | 16:05
+trojan://2evqnvxq-5pgw-52mu-5g20-gu6l1uqordh6@127.0.0.1:2080?security=tls&type=tcp#This is a free trial project.
+trojan://8vlceh33-huxm-ct8e-jpvt-8ngw7uzuy3bc@127.0.0.1:4080?security=tls&type=tcp#「 GitHub Argh94 ☕ 」
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpNN3gxbUdOT3doUGlSQjlqU3haSk55@51.13.182.236:6870#NO 🇳🇴 ┇ SHADOWSOCKS-TCP-NTLS - MICROSOFT-CORP-MSN-AS-BLOCK ┇ 51.13.182.236
 vless://a09373e2-e120-457d-9ec9-ea7fe8bedb52@185.125.171.13:443?type=tcp&security=reality&sni=partner.g2.com&fp=chrome&flow=xtls-rprx-vision&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc#NO 🇳🇴 ┇ VLESS-TCP-RLT - Gigahost AS ┇ 185.125.171.13
 ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw@185.213.23.226:989#NO 🇳🇴 ┇ SHADOWSOCKS-TCP-NTLS - BrainStorm Network, Inc ┇ 185.213.23.226
-trojan://r7dek7a8-67ue-fhfk-wpfa-oyyalq7fafsc@127.0.0.1:8080?security=tls&type=tcp#For enhanced GitHub access, visit Argh94 now!
-trojan://7ghzcohf-e5bi-0y3w-6uwa-zoo1iqm0naf1@127.0.0.1:8081?security=tls&type=tcp#</> Collector v5.0
+trojan://l3maxuqg-xi10-f5t2-ubkx-n42rjq2tha07@127.0.0.1:8080?security=tls&type=tcp#For enhanced GitHub access, visit Argh94 now!
+trojan://flaj1zjo-vvfz-n3kn-9jjd-3tlt7x9rv9bi@127.0.0.1:8081?security=tls&type=tcp#</> Collector v5.0

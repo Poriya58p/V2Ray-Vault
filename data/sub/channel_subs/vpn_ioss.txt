@@ -1,6 +1,6 @@
-trojan://vv9t8jgc-mxfb-jufp-u5bg-6fa08z1cq5hk@127.0.0.1:1080?security=tls&type=tcp#🕒 LAST UPDATE: 2025/08/26 | 11:57
-trojan://xv1nt2n6-utlk-udhh-51h4-zaus843csftd@127.0.0.1:2080?security=tls&type=tcp#This is a free trial project.
-trojan://c3xldksq-af5j-rarw-1hxr-b7r7b4q9k89c@127.0.0.1:4080?security=tls&type=tcp#「 GitHub Argh94 ☕ 」
+trojan://gb45ttfi-ry5z-ei5t-7onm-ehyjrv6drhvv@127.0.0.1:1080?security=tls&type=tcp#🕒 LAST UPDATE: 2025/08/26 | 16:05
+trojan://x5g3v0ml-v24u-qv4s-noy8-7rcz2plu5gj4@127.0.0.1:2080?security=tls&type=tcp#This is a free trial project.
+trojan://7d4smz9o-20ov-ds0s-q663-04kk7t3a31x0@127.0.0.1:4080?security=tls&type=tcp#「 GitHub Argh94 ☕ 」
 vless://Parsashonam-302@185.146.173.39:8880?type=httpupgrade&security=none&path=/Parsashonam-Parsashonam-Parsashonam/?ed=2056#185.146.173.39:8880
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@185.231.205.248:8880?type=grpc&security=none#185.231.205.248:8880
 vless://Parsashonam-302@2a01:4f8:1c1a:dc2b::1:8888?type=tcp&security=none#2a01:4f8:1c1a:dc2b::1:8888
@@ -19,5 +19,5 @@ vless://6780a3c0-a98c-4622-b894-8e34167f7b31@blog.ruangguru.com.servpn.my.id:443
 vless://6cc53dc5-55b2-4968-bb7c-ee84e1429c63@ava.game.naver.com.servpn.my.id:443?type=ws&security=tls&path=/kr1?ed=2560&sni=ava.game.naver.com.servpn.my.id&fp=chrome#ava.game.naver.com.servpn.my.id:443
 vless://6780a3c0-a98c-4622-b894-8e34167f7b31@blog.ruangguru.com.servpn.my.id:443?type=ws&security=tls&path=/id5?ed=2560&sni=blog.ruangguru.com.servpn.my.id#blog.ruangguru.com.servpn.my.id:443
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@185.231.205.248:8880?type=grpc&security=none#185.231.205.248:8880
-trojan://bnhdosoz-50tx-5skk-hvxq-sm08vii18c43@127.0.0.1:8080?security=tls&type=tcp#For enhanced GitHub access, visit Argh94 now!
-trojan://tqtkimwo-t887-4rnt-z6du-uvh6v36cas8y@127.0.0.1:8081?security=tls&type=tcp#</> Collector v5.0
+trojan://3piu2385-6oh1-1pui-cgf2-b4qzy4tiv6ji@127.0.0.1:8080?security=tls&type=tcp#For enhanced GitHub access, visit Argh94 now!
+trojan://etgrb7d1-eo50-dnk1-fh07-go73mxn8eon5@127.0.0.1:8081?security=tls&type=tcp#</> Collector v5.0

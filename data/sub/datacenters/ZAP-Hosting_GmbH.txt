@@ -1,6 +1,6 @@
-trojan://61h6pxcx-wzb9-g89v-906c-rxyww9355q24@127.0.0.1:1080?security=tls&type=tcp#🕒 LAST UPDATE: 2025/08/26 | 11:57
-trojan://c2crjk2d-8kph-ovda-vlhu-yfx5ldb38hqm@127.0.0.1:2080?security=tls&type=tcp#This is a free trial project.
-trojan://1xi7ktv1-1d2a-nnhb-hebd-jsujat3a750s@127.0.0.1:4080?security=tls&type=tcp#「 GitHub Argh94 ☕ 」
+trojan://8gmp03rg-1r16-lh6y-pxwg-4502bs9elfly@127.0.0.1:1080?security=tls&type=tcp#🕒 LAST UPDATE: 2025/08/26 | 16:05
+trojan://z3ouyj9w-nzpy-0tyg-udxx-u4f2v8xl1ly4@127.0.0.1:2080?security=tls&type=tcp#This is a free trial project.
+trojan://x9ay0nji-7wds-5qt5-slg6-vpppeyaf6eyw@127.0.0.1:4080?security=tls&type=tcp#「 GitHub Argh94 ☕ 」
 vless://ffbcd962-980f-4b80-a1d4-674b484785cf@88.214.58.123:443?type=tcp&security=reality&sni=telewebion.com&fp=chrome&flow=xtls-rprx-vision&pbk=jOhlAzHfiutlIyaIjCTbuyLBMjrBNEArENbM94Zli3c&sid=1d0ff104f01e2d8c#DE 🇩🇪 ┇ VLESS-TCP-RLT - ZAP-Hosting GmbH ┇ 88.214.58.123
-trojan://5aj2jda8-tms7-w61u-q9f7-v1rt3e6md2zm@127.0.0.1:8080?security=tls&type=tcp#For enhanced GitHub access, visit Argh94 now!
-trojan://j826vtgy-gmat-ghi8-65jt-4fy7rav0u0mx@127.0.0.1:8081?security=tls&type=tcp#</> Collector v5.0
+trojan://tdhmbf1o-x5xo-xev2-bm54-dpjw4lh683uc@127.0.0.1:8080?security=tls&type=tcp#For enhanced GitHub access, visit Argh94 now!
+trojan://oja8mu18-b0nt-6e2f-0xd9-t7rxzmbbxwbm@127.0.0.1:8081?security=tls&type=tcp#</> Collector v5.0

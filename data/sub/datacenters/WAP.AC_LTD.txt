@@ -1,7 +1,6 @@
-trojan://kkr7vmjs-6oq6-ayhk-eavd-bzeclecu7nr2@127.0.0.1:1080?security=tls&type=tcp#🕒 LAST UPDATE: 2025/08/26 | 11:57
-trojan://imt806ju-ba3m-tjgu-3uhg-z03tlg3wcnlg@127.0.0.1:2080?security=tls&type=tcp#This is a free trial project.
-trojan://0bhu4oqe-a6yd-gras-o99a-3x0vh29w7a09@127.0.0.1:4080?security=tls&type=tcp#「 GitHub Argh94 ☕ 」
-hysteria2://66975a45-dd40-4854-ba7b-80157a38dd64@xg2.dimoyun.top:40001?sni=xg2.dimoyun.top&insecure=1#HK 🇭🇰 ┇ HYSTERIA2-TCP-NTLS - WAP.AC LTD ┇ 45.149.92.87
+trojan://yza0ac1y-bmtq-2aem-8b38-kgxhbelb4yle@127.0.0.1:1080?security=tls&type=tcp#🕒 LAST UPDATE: 2025/08/26 | 16:05
+trojan://zt2bbs51-ldk2-sjmo-xq4v-0o9zlhj1rldh@127.0.0.1:2080?security=tls&type=tcp#This is a free trial project.
+trojan://yibvtlpe-vb1c-holj-4wne-nud9tc09p5zt@127.0.0.1:4080?security=tls&type=tcp#「 GitHub Argh94 ☕ 」
 hysteria2://0c4c1a89-5645-4fc2-9e3b-ab09aa44e933@62.72.163.159:13563?sni=h2.gzcloud.shop&insecure=1&obfs=salamander#HK 🇭🇰 ┇ HYSTERIA2-TCP-NTLS - WAP.AC LTD ┇ 62.72.163.159
-trojan://46qz1vd4-ezw7-30lc-79ff-0z9mq9a8qbw7@127.0.0.1:8080?security=tls&type=tcp#For enhanced GitHub access, visit Argh94 now!
-trojan://q7hk3ygx-qrm8-134t-k91n-ad7wq16iezdj@127.0.0.1:8081?security=tls&type=tcp#</> Collector v5.0
+trojan://kp43gr6f-3oa7-keb8-rj6t-iv3s7g3r3wiz@127.0.0.1:8080?security=tls&type=tcp#For enhanced GitHub access, visit Argh94 now!
+trojan://l3w72ppu-nh3d-zq8w-auep-hjysovjx00v7@127.0.0.1:8081?security=tls&type=tcp#</> Collector v5.0

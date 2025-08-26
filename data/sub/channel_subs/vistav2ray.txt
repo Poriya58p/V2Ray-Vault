@@ -1,7 +1,8 @@
-trojan://mgyec6bz-z9oc-24yi-tz2n-dhpds1oun98a@127.0.0.1:1080?security=tls&type=tcp#🕒 LAST UPDATE: 2025/08/26 | 11:57
-trojan://qgv7up1s-hzbz-thvk-4zpw-fvquqbtdqo4f@127.0.0.1:2080?security=tls&type=tcp#This is a free trial project.
-trojan://cyro01oa-0wor-chv1-g03q-jdoet6g8715o@127.0.0.1:4080?security=tls&type=tcp#「 GitHub Argh94 ☕ 」
+trojan://5we8tgvm-ct44-tfgn-m993-87raomcd8lz6@127.0.0.1:1080?security=tls&type=tcp#🕒 LAST UPDATE: 2025/08/26 | 16:05
+trojan://36grf3ec-q7s4-uzwm-svoc-k9h9kxz9lhwk@127.0.0.1:2080?security=tls&type=tcp#This is a free trial project.
+trojan://2f1bv7im-krkg-vtm8-at2k-1zbeyqtku75i@127.0.0.1:4080?security=tls&type=tcp#「 GitHub Argh94 ☕ 」
 vmess://eyJ2IjoiMiIsInBzIjoiXHUyNzA1IEB2aXN0YXYycmF5ICBcdWQ4M2RcdWRjNDhcdWQ4M2RcdWRjNDhcdTA2YTlcdTA2MjdcdTA2NDZcdTA2MjdcdTA2NDQgXHUwNjQ1XHUwNjI3IiwiYWRkIjoiY3BhbmVsLmVyYWRlMzIuaXIiLCJwb3J0IjoxMDAsImlkIjoiMDA5MTRkZTQtYTA2OS00YTE0LWFhMzctZjI4OWJiZDZmNzY5IiwiYWlkIjowLCJzY3kiOiJhdXRvIiwibmV0IjoidGNwIiwidHlwZSI6Im5vbmUiLCJwYXRoIjoiLyJ9
+vless://6780a3c0-a98c-4622-b894-8e34167f7b31@blog.ruangguru.com.servpn.my.id:443?type=ws&security=tls&path=/id5?ed=2560&sni=blog.ruangguru.com.servpn.my.id#blog.ruangguru.com.servpn.my.id:443
 vless://3d7dd548-5456-4f28-8019-393fbfab3312@172.67.74.133:443?type=ws&security=tls&path=/sg3/?ed=2048JOIN---PLANB_PROXY&sni=app-stg.gopay.co.id.servpn.my.id&fp=chrome#172.67.74.133:443
 vless://ccbe6b7c-9264-40c4-8bc1-ef8f6205d7a4@www.speedtest.net:8443?type=ws&security=tls&path=/&sni=hetzner-12.apple.name.ng#www.speedtest.net:8443
 vless://6780a3c0-a98c-4622-b894-8e34167f7b31@172.67.74.133:443?type=ws&security=tls&path=/id5?ed=2560/?@&sni=blog.ruangguru.com.servpn.my.id#172.67.74.133:443
@@ -26,5 +27,5 @@ vless://65a32d27-7a02-45a8-b90a-29f6bebc87ae@104.26.1.108:443?type=ws&security=t
 vless://41b8c97a-7fac-4191-8922-f58d42a9acf7@app-stg.gopay.co.id.servpn.my.id:443?type=ws&security=tls&path=/id5?ed=2048@&sni=app-stg.gopay.co.id.servpn.my.id&fp=chrome#app-stg.gopay.co.id.servpn.my.id:443
 vless://9e3915d4-e76b-40bf-a64c-0a7060f71cb5@85.133.132.30:55903?type=tcp&security=none#85.133.132.30:55903
 vless://0fbf4f81-2598-4b6a-a623-0ead4cb9efa8@privasi.turah.my.id:443?type=ws&security=tls&path=/Free-CF-Proxy-AD192.3.113.4-19318?ed=2048@WedBaZ&sni=privasi.turah.my.id&fp=chrome#privasi.turah.my.id:443
-trojan://icszwhxq-ivgl-tz3h-o6ro-wyv4jnmccybc@127.0.0.1:8080?security=tls&type=tcp#For enhanced GitHub access, visit Argh94 now!
-trojan://2h3xg4r7-ir7c-tlqy-a16u-zew0451d08fv@127.0.0.1:8081?security=tls&type=tcp#</> Collector v5.0
+trojan://d7nroad4-sspb-gdxp-pwoj-tprrl04wi6ow@127.0.0.1:8080?security=tls&type=tcp#For enhanced GitHub access, visit Argh94 now!
+trojan://b513zdzv-90gd-lfwq-874i-6v11exxgyr69@127.0.0.1:8081?security=tls&type=tcp#</> Collector v5.0

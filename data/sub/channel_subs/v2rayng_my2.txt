@@ -1,7 +1,7 @@
-trojan://o4k9bl74-ej2d-p1xx-f2la-osdlydpdrcpd@127.0.0.1:1080?security=tls&type=tcp#🕒 LAST UPDATE: 2025/08/26 | 11:57
-trojan://9ko5cul1-h4rs-dl69-qwvt-dnjc57zfn5hp@127.0.0.1:2080?security=tls&type=tcp#This is a free trial project.
-trojan://980cp6gx-sgg1-aa5m-yw9j-6ibmvqa1m66c@127.0.0.1:4080?security=tls&type=tcp#「 GitHub Argh94 ☕ 」
+trojan://m6m3x2jg-3q56-e6oq-ucq4-padfgm1l9cxz@127.0.0.1:1080?security=tls&type=tcp#🕒 LAST UPDATE: 2025/08/26 | 16:05
+trojan://0ksnwr3f-m4eq-z30w-z7cj-bpzpowqhpp2n@127.0.0.1:2080?security=tls&type=tcp#This is a free trial project.
+trojan://7tfecamn-c1ig-qo9s-2rfe-g54ruf63jv2y@127.0.0.1:4080?security=tls&type=tcp#「 GitHub Argh94 ☕ 」
 vless://5e643328-05a4-4e79-a89c-d98e0929113b@server2.morgon2.top:22242?type=ws&security=none&path=/#server2.morgon2.top:22242
 vless://c1272294-cba2-4fe2-8663-93cf92bab9be@site.felinefreedom.site:443?type=tcp&security=reality&sni=none.felinefreedom.site&fp=chrome&flow=xtls-rprx-vision&pbk=It8T_WWejuo-QOwZsYWbe5gRBDQOLXp9wfnWDo_FIFQ&sid=4e69ed37#site.felinefreedom.site:443
-trojan://9kys80lr-ghec-iq9m-fskr-6ppuli0oqkkp@127.0.0.1:8080?security=tls&type=tcp#For enhanced GitHub access, visit Argh94 now!
-trojan://pwy5w3lv-667v-nqts-50rs-3mj12s24h8do@127.0.0.1:8081?security=tls&type=tcp#</> Collector v5.0
+trojan://8tlsp90s-y4vj-vunj-1cg2-v1l3w3qd7cq6@127.0.0.1:8080?security=tls&type=tcp#For enhanced GitHub access, visit Argh94 now!
+trojan://ayrfl581-q2v4-r5wv-znbz-61f0j0kogfxi@127.0.0.1:8081?security=tls&type=tcp#</> Collector v5.0

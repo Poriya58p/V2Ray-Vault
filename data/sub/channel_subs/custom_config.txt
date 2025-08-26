@@ -1,8 +1,8 @@
-trojan://0pi7r0cx-iz1r-dcno-sj2d-xvapol9urnox@127.0.0.1:1080?security=tls&type=tcp#🕒 LAST UPDATE: 2025/08/26 | 11:57
-trojan://zlx2f5o4-5q48-4iin-dmjy-9d87ud4inbxq@127.0.0.1:2080?security=tls&type=tcp#This is a free trial project.
-trojan://fts3740u-vdxd-kvqg-q80k-y2hnzseophp4@127.0.0.1:4080?security=tls&type=tcp#「 GitHub Argh94 ☕ 」
+trojan://6g8162ed-t2ru-dre1-u6ly-cemexxvakzkh@127.0.0.1:1080?security=tls&type=tcp#🕒 LAST UPDATE: 2025/08/26 | 16:05
+trojan://rzubhv1e-356m-z13f-u89y-twfgezbk0xvv@127.0.0.1:2080?security=tls&type=tcp#This is a free trial project.
+trojan://ezts1367-alrg-ceme-i913-jjx5ks4bnra7@127.0.0.1:4080?security=tls&type=tcp#「 GitHub Argh94 ☕ 」
 vless://4b41943d-f4bf-4341-8acc-042e6a9ee17e@185.204.169.242:80?type=ws&security=none&path=/@custom_config#185.204.169.242:80
 vless://d5922f30-1ff8-4974-9a58-2aafe660ec2a@www.speedtest.net.b.3.ubuntu-words.ir:80?type=ws&security=none&path=/@custom_config#www.speedtest.net.b.3.ubuntu-words.ir:80
 vless://4b41943d-f4bf-4341-8acc-042e6a9ee17e@185.204.169.242:80?type=ws&security=none&path=/@custom_config#185.204.169.242:80
-trojan://7sfbd6a7-oxq0-gjh9-vq4j-yn1yem3tbzmq@127.0.0.1:8080?security=tls&type=tcp#For enhanced GitHub access, visit Argh94 now!
-trojan://sz5t9ip3-h75l-7mw9-d4cf-0tj98wqarya1@127.0.0.1:8081?security=tls&type=tcp#</> Collector v5.0
+trojan://obs9679o-zpbm-lz1d-zm4w-ou3i2das4wyn@127.0.0.1:8080?security=tls&type=tcp#For enhanced GitHub access, visit Argh94 now!
+trojan://d9tjmfqd-cow6-fczh-dyao-qmapqm2lv0uy@127.0.0.1:8081?security=tls&type=tcp#</> Collector v5.0
