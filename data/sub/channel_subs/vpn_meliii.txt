@@ -1,6 +1,6 @@
-trojan://4yvwckyb-g762-hged-5iyw-iftiv4vis14r@127.0.0.1:1080?security=tls&type=tcp#🕒 LAST UPDATE: 2025/08/26 | 19:54
-trojan://23vwyvev-78ey-mrd8-ovzp-4aq8ijnvmpkw@127.0.0.1:2080?security=tls&type=tcp#This is a free trial project.
-trojan://i8hzw92d-zr34-7bvk-fvz6-3f154nkubzjk@127.0.0.1:4080?security=tls&type=tcp#「 GitHub Argh94 ☕ 」
+trojan://c95rvzgy-v12i-knvc-1pz3-ez5ah4fv1pzz@127.0.0.1:1080?security=tls&type=tcp#🕒 LAST UPDATE: 2025/08/26 | 23:53
+trojan://7mhpxors-qhst-q3yz-ywgh-7ss63hc7oehn@127.0.0.1:2080?security=tls&type=tcp#This is a free trial project.
+trojan://kgick4s1-5ydt-rf1h-07b7-prju778laehk@127.0.0.1:4080?security=tls&type=tcp#「 GitHub Argh94 ☕ 」
 vmess://eyJ2IjoiMiIsInBzIjoiQG1lbGlfcHJveHl5XHUwNjMzXHUwNjMxXHUwNjQ4XHUwNjMxXHUwNjI3XHUwNmNjXHUyMDBjXHUwNjI4XHUwNmNjXHUwNjM0XHUwNjJhXHUwNjMxIiwiYWRkIjoibWVsaV9wcm94eXkudmlwLXBsYW4ub3JnIiwicG9ydCI6MjA2NDYsImlkIjoiZDk4Yzc4MjYtZTJlOC00NjRlLTk4OGEtODFlMjAyM2Q4NzFiIiwiYWlkIjowLCJzY3kiOiJhdXRvIiwibmV0IjoiZ3JwYyIsInR5cGUiOiJndW4ifQ
 vmess://eyJ2IjoiMiIsInBzIjoiQG1lbGlfcHJveHl5XHUwNjMzXHUwNjMxXHUwNjQ4XHUwNjMxXHUwNjI3XHUwNmNjXHUyMDBjXHUwNjI4XHUwNmNjXHUwNjM0XHUwNjJhXHUwNjMxIiwiYWRkIjoibWVsaV9wcm94eXkudmlwLXBsYW4ub3JnIiwicG9ydCI6MzQyNTIsImlkIjoiMTdhYzIyYTgtZDYzZS00YWM0LTkzYzQtNWVjNmIxNzZhOTdiIiwiYWlkIjowLCJzY3kiOiJhdXRvIiwibmV0IjoieGh0dHAiLCJ0eXBlIjoiYXV0byIsInBhdGgiOiIvIn0
 vmess://eyJ2IjoiMiIsInBzIjoiQG1lbGlfcHJveHl5XHUwNjMzXHUwNjMxXHUwNjQ4XHUwNjMxXHUwNjI3XHUwNmNjXHUyMDBjXHUwNjI4XHUwNmNjXHUwNjM0XHUwNjJhXHUwNjMxIiwiYWRkIjoibWVsaV9wcm94eXkudmlwLXBsYW4ub3JnIiwicG9ydCI6MjA1MywiaWQiOiIwNzFlMjZkYi0wOTUwLTQwZjEtOGU3Mi02ZDU2YWZhMzAxOTgiLCJhaWQiOjAsInNjeSI6ImF1dG8iLCJuZXQiOiJ4aHR0cCIsInR5cGUiOiJhdXRvIiwicGF0aCI6Ii8ifQ
@@ -28,5 +28,5 @@ vless://79eb5527-e08e-4ac9-97d4-e28ad71e9e6f@dev.loadbalance.iranstars-shop.ir:5
 vless://700cb7f0-cf39-40fa-af57-44311037f1c5@meli_proxyy.vip-plan.org:46598?type=grpc&security=reality&sni=cloudflare.com&fp=chrome&pbk=xkCxFXlnv8uM2BeOF6MqOU6N-mY4J8ounFhwmRUO-xY&sid=ccdce4#meli_proxyy.vip-plan.org:46598
 vless://2751d4fd-f5de-46fd-bc98-44a0b43a274a@meli_proxyy.vip-plan.org:50452?type=grpc&security=reality&sni=yahoo.com&fp=chrome&pbk=44l4QJ3IgqePj0rrHHiFBcCa1cwubF6JwE5grbtY33A&sid=10#meli_proxyy.vip-plan.org:50452
 vless://c8fae2e1-bffc-4e20-94f2-8bee7ba14ccd@meli_proxyy.vip-plan.org:54474?type=xhttp&security=reality&path=/&sni=yahoo.com&fp=random&pbk=mVptIpBcUtMqN2tfYE8eNwBrhqNdb0lWJoeRvYen8TY&sid=2cb4454d18#meli_proxyy.vip-plan.org:54474
-trojan://7gqdns0m-ryyn-f6lv-a5ij-wvix08poq2vy@127.0.0.1:8080?security=tls&type=tcp#For enhanced GitHub access, visit Argh94 now!
-trojan://j3nod373-osn5-sdte-feqj-5wm78461fgyg@127.0.0.1:8081?security=tls&type=tcp#</> Collector v5.0
+trojan://ap7oi1i1-9muy-gtst-mg2a-7gz0kvo1o77i@127.0.0.1:8080?security=tls&type=tcp#For enhanced GitHub access, visit Argh94 now!
+trojan://8pvv8lng-d4g6-fxbx-peqd-xb8ijygxd472@127.0.0.1:8081?security=tls&type=tcp#</> Collector v5.0

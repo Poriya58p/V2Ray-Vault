@@ -1,6 +1,6 @@
-trojan://3ue0hnvp-q0ta-a7p5-b85p-arunv3qtzyef@127.0.0.1:1080?security=tls&type=tcp#🕒 LAST UPDATE: 2025/08/26 | 19:54
-trojan://as9pqz2q-6ce6-xf70-8mmm-prghi7bgimmv@127.0.0.1:2080?security=tls&type=tcp#This is a free trial project.
-trojan://ab6yrezj-yzr6-k7qh-tut3-5g82btbmseff@127.0.0.1:4080?security=tls&type=tcp#「 GitHub Argh94 ☕ 」
+trojan://ydnx7dk4-2gap-5v3m-zi07-h2eg324xowra@127.0.0.1:1080?security=tls&type=tcp#🕒 LAST UPDATE: 2025/08/26 | 23:53
+trojan://h0uehevx-ty71-wxwp-clvw-d7jtvbfyijb3@127.0.0.1:2080?security=tls&type=tcp#This is a free trial project.
+trojan://oigzju4o-ywfe-9p37-ue8i-19vzzk6aetwq@127.0.0.1:4080?security=tls&type=tcp#「 GitHub Argh94 ☕ 」
 vless://3868c547-b3cb-4d6b-aef1-2ccd718a455a@154.49.139.109:443?type=tcp&security=reality&sni=www.speedtest.net&fp=chrome&flow=xtls-rprx-vision&pbk=jBFND69Qc1Bv9DC-z6T_9wGKZtJpitJlOm9s1Pc3Zmc&sid=f9#DO 🇩🇴 ┇ VLESS-TCP-RLT - SERVIMAST JPM SRL ┇ 154.49.139.109
-trojan://hgxi9p0h-6fj4-1zbp-58u4-0od09qz27lnn@127.0.0.1:8080?security=tls&type=tcp#For enhanced GitHub access, visit Argh94 now!
-trojan://gxdtw70b-a4i7-nuei-ae47-9b5frwdnfd67@127.0.0.1:8081?security=tls&type=tcp#</> Collector v5.0
+trojan://1u002qti-azw7-s2pf-ynsj-3fp59ucylykf@127.0.0.1:8080?security=tls&type=tcp#For enhanced GitHub access, visit Argh94 now!
+trojan://yifm4or8-gokw-5kir-52gk-j0f85han2j1n@127.0.0.1:8081?security=tls&type=tcp#</> Collector v5.0

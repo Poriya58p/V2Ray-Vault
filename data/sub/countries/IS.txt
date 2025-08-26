@@ -1,8 +1,8 @@
-trojan://irlcwq1c-cohd-4ay0-wlea-8w43vj0fhcdn@127.0.0.1:1080?security=tls&type=tcp#🕒 LAST UPDATE: 2025/08/26 | 19:54
-trojan://3gl4eza1-ccs9-c2pv-b98r-0ehh7v5dbpo3@127.0.0.1:2080?security=tls&type=tcp#This is a free trial project.
-trojan://rsbp05g0-fwif-5poe-tciu-evpibcquh52e@127.0.0.1:4080?security=tls&type=tcp#「 GitHub Argh94 ☕ 」
+trojan://lzcp0llh-1l5h-xmld-0epp-3vou3xuvme52@127.0.0.1:1080?security=tls&type=tcp#🕒 LAST UPDATE: 2025/08/26 | 23:53
+trojan://19f64gpf-53p7-s3jp-skxa-x7mq21cs74rn@127.0.0.1:2080?security=tls&type=tcp#This is a free trial project.
+trojan://fbr7qvhl-nm53-sglt-pf27-3hdxfcs0ot5s@127.0.0.1:4080?security=tls&type=tcp#「 GitHub Argh94 ☕ 」
 ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw@37.235.49.168:989#IS 🇮🇸 ┇ SHADOWSOCKS-TCP-NTLS - Advania Island ehf ┇ 37.235.49.168
-vless://c3dd7afc-151f-44f6-8263-ad3c8420ae2f@45.83.21.107:59997?type=tcp&security=reality&sni=yahoo.com&fp=chrome&pbk=m4ipEx1PUfb6F5Uv5Mwe5g34TzdNkG_rIQ0xw-Do1mI&sid=816473be23c2#IS 🇮🇸 ┇ VLESS-TCP-RLT - Pq Hosting Plus S.r.l. ┇ 45.83.21.107
 ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw@37.235.49.152:989#IS 🇮🇸 ┇ SHADOWSOCKS-TCP-NTLS - Advania Island ehf ┇ 37.235.49.152
-trojan://jqwp1vs3-tzdt-7dn1-8beq-9nvudv0rph33@127.0.0.1:8080?security=tls&type=tcp#For enhanced GitHub access, visit Argh94 now!
-trojan://w2sx03e1-kly8-xh1l-juqg-p2wljz8wfa8z@127.0.0.1:8081?security=tls&type=tcp#</> Collector v5.0
+vless://c3dd7afc-151f-44f6-8263-ad3c8420ae2f@45.83.21.107:59997?type=tcp&security=reality&sni=yahoo.com&fp=chrome&pbk=m4ipEx1PUfb6F5Uv5Mwe5g34TzdNkG_rIQ0xw-Do1mI&sid=816473be23c2#IS 🇮🇸 ┇ VLESS-TCP-RLT - Pq Hosting Plus S.r.l. ┇ 45.83.21.107
+trojan://a9jwzlgk-zop4-j1gq-2srz-2cbnxeiu4guw@127.0.0.1:8080?security=tls&type=tcp#For enhanced GitHub access, visit Argh94 now!
+trojan://bkt6i2xn-rahd-cg7t-vgnk-pc0uw8mev4dt@127.0.0.1:8081?security=tls&type=tcp#</> Collector v5.0

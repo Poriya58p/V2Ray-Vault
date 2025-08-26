@@ -1,7 +1,7 @@
-trojan://r3egmtxj-el3z-xpit-upcf-9kp57m1oye5p@127.0.0.1:1080?security=tls&type=tcp#🕒 LAST UPDATE: 2025/08/26 | 19:54
-trojan://90thidau-j2y5-hsce-775k-ahqp69r13ow7@127.0.0.1:2080?security=tls&type=tcp#This is a free trial project.
-trojan://2pcd3jdi-64gp-fh7g-n5qf-a6nqvtkly1gi@127.0.0.1:4080?security=tls&type=tcp#「 GitHub Argh94 ☕ 」
-vmess://eyJ2IjoiMiIsInBzIjoiQ1ogXHVkODNjXHVkZGU4XHVkODNjXHVkZGZmIFx1MjUwNyBWTUVTUy1UQ1AtTlRMUyAtIEdyZWVuIEZsb2lkIExMQyBcdTI1MDcgNjIuMjMzLjU3LjM4IiwiYWRkIjoiNjIuMjMzLjU3LjM4IiwicG9ydCI6NDQzLCJpZCI6ImM2NmQxYzAzLWVmNWUtNDk5NC1hN2E0LWQ0MTg1NTg2N2YxMyIsImFpZCI6MCwic2N5IjoiYXV0byIsIm5ldCI6InRjcCIsInR5cGUiOiJodHRwIiwicGF0aCI6Ii8ifQ
+trojan://y81q7ac2-hnr1-y2i0-j45a-tl2wzsbw8kch@127.0.0.1:1080?security=tls&type=tcp#🕒 LAST UPDATE: 2025/08/26 | 23:53
+trojan://xstqgpzg-0ejd-hnlc-iw1q-w5715wrlyr5l@127.0.0.1:2080?security=tls&type=tcp#This is a free trial project.
+trojan://3xcd62m1-f3ln-gsw4-805a-eb5e4pzjhmd6@127.0.0.1:4080?security=tls&type=tcp#「 GitHub Argh94 ☕ 」
 vmess://eyJ2IjoiMiIsInBzIjoiVVMgXHVkODNjXHVkZGZhXHVkODNjXHVkZGY4IFx1MjUwNyBWTUVTUy1XUy1OVExTIC0gR3JlZW4gRmxvaWQgTExDIFx1MjUwNyAxOTUuMjExLjk5LjE0MyIsImFkZCI6IjE5NS4yMTEuOTkuMTQzIiwicG9ydCI6ODQ0MywiaWQiOiIyZTUxNGEzNi03YWU4LTRiNmEtOWUzNi05YzIwZTcyMjg4MjQiLCJhaWQiOjAsInNjeSI6ImF1dG8iLCJuZXQiOiJ3cyIsInR5cGUiOiItLS0iLCJwYXRoIjoiLyJ9
-trojan://9zdxm9xk-iz96-13bb-wb8c-o0qt57h30dnj@127.0.0.1:8080?security=tls&type=tcp#For enhanced GitHub access, visit Argh94 now!
-trojan://zu7mwix6-at6d-ckd2-6tf7-ggwd8zleb1re@127.0.0.1:8081?security=tls&type=tcp#</> Collector v5.0
+vmess://eyJ2IjoiMiIsInBzIjoiQ1ogXHVkODNjXHVkZGU4XHVkODNjXHVkZGZmIFx1MjUwNyBWTUVTUy1UQ1AtTlRMUyAtIEdyZWVuIEZsb2lkIExMQyBcdTI1MDcgNjIuMjMzLjU3LjM4IiwiYWRkIjoiNjIuMjMzLjU3LjM4IiwicG9ydCI6NDQzLCJpZCI6ImM2NmQxYzAzLWVmNWUtNDk5NC1hN2E0LWQ0MTg1NTg2N2YxMyIsImFpZCI6MCwic2N5IjoiYXV0byIsIm5ldCI6InRjcCIsInR5cGUiOiJodHRwIiwicGF0aCI6Ii8ifQ
+trojan://4p2dv5i2-eokw-v9b4-zce2-qiqdth15ltb6@127.0.0.1:8080?security=tls&type=tcp#For enhanced GitHub access, visit Argh94 now!
+trojan://utag1wn8-unos-e54c-uyox-agw530n4l1nv@127.0.0.1:8081?security=tls&type=tcp#</> Collector v5.0

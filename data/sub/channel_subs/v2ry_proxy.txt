@@ -1,6 +1,6 @@
-trojan://95xd87gj-db5p-2qo4-yi64-rg7y9qwgv03x@127.0.0.1:1080?security=tls&type=tcp#🕒 LAST UPDATE: 2025/08/26 | 19:54
-trojan://rdvw4a16-dr1i-xv7y-uevo-5xo6dkb4k1mi@127.0.0.1:2080?security=tls&type=tcp#This is a free trial project.
-trojan://49tyfcjr-07ms-r265-vw12-c0hujifpxt7u@127.0.0.1:4080?security=tls&type=tcp#「 GitHub Argh94 ☕ 」
+trojan://5gbv36y6-ulme-peli-kl7o-muliox63vurk@127.0.0.1:1080?security=tls&type=tcp#🕒 LAST UPDATE: 2025/08/26 | 23:53
+trojan://lhr8mo6u-vh19-6kdy-y81k-2z5109pof9fp@127.0.0.1:2080?security=tls&type=tcp#This is a free trial project.
+trojan://x6devdwg-778x-zrni-7u7y-apxsuyssfqgc@127.0.0.1:4080?security=tls&type=tcp#「 GitHub Argh94 ☕ 」
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp6STdraU5aMFVmVjljWEI3M2E0blJE@164.92.156.41:24206#164.92.156.41:24206
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjdklJODVUclc2bjBPR3lmcEhWUzF1@45.87.175.199:8080#45.87.175.199:8080
 ss://YWVzLTI1Ni1nY206YTdmMDgyYzEtMGQxMi00NjA5LWI2YmYtZTc2MGI2NjhjZjIz@77.110.110.240:443#77.110.110.240:443
@@ -47,5 +47,5 @@ vless://TELEGRAM-CONFiGLiNE@test.fast.hosting-ip.com:80?type=xhttp&security=none
 vless://f3af923e-ecfe-46d5-9c27-4ff95f739afe@91.99.203.123:443?type=tcp&security=none#91.99.203.123:443
 vless://d2dc2527-33d5-46f3-f39c-36da72fb1a62@54.37.205.0:59332?type=tcp&security=none#54.37.205.0:59332
 vless://427954ab-e6bd-4758-8793-7b129699068e@94.237.28.145:28392?type=tcp&security=reality&sni=yelp.com&fp=chrome&flow=xtls-rprx-vision&pbk=Pq_a-rDvNROjMaNtA7v2tSSsfPR8KspHwKfu2tEv_F8&sid=cf34f84f37#94.237.28.145:28392
-trojan://2kfe0fxo-kbub-aty7-dnu9-v1a4m4z34uzp@127.0.0.1:8080?security=tls&type=tcp#For enhanced GitHub access, visit Argh94 now!
-trojan://7f8wpqvq-lcl9-tt6b-9bq3-o12ch06h53aj@127.0.0.1:8081?security=tls&type=tcp#</> Collector v5.0
+trojan://lzgh23bf-5sbd-b9b0-n8wu-cpoiwatbizwz@127.0.0.1:8080?security=tls&type=tcp#For enhanced GitHub access, visit Argh94 now!
+trojan://jlrju7g7-l3w9-978m-uurw-3e7fngbtb45j@127.0.0.1:8081?security=tls&type=tcp#</> Collector v5.0
