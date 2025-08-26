@@ -1,6 +1,6 @@
-trojan://k53mbu6r-h1hy-i5x7-tny0-p2oemg7hiec3@127.0.0.1:1080?security=tls&type=tcp#🕒 LAST UPDATE: 2025/08/25 | 23:53
-trojan://ntn496of-bfey-jzvc-2nfg-i6h699bsgw5d@127.0.0.1:2080?security=tls&type=tcp#This is a free trial project.
-trojan://oz4xai4b-ltqh-591c-kkfz-wmnz9w19ry05@127.0.0.1:4080?security=tls&type=tcp#「 GitHub Argh94 ☕ 」
+trojan://bozkjvpd-ic0k-wyc0-w4wg-68nno6aaep5w@127.0.0.1:1080?security=tls&type=tcp#🕒 LAST UPDATE: 2025/08/26 | 04:38
+trojan://iafyn8ld-tq56-ij3c-nqjm-3loe35hosq85@127.0.0.1:2080?security=tls&type=tcp#This is a free trial project.
+trojan://cv86fmkw-l7j3-0jb5-4qvy-hy57v9d0zgf2@127.0.0.1:4080?security=tls&type=tcp#「 GitHub Argh94 ☕ 」
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpNLW5mZk80MEtsY2x3YkNYOUNWMURR@138.124.115.157:1080#138.124.115.157:1080
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpwaXY5N1hTMUN2YWw4NnZmd0hQRDVq@194.87.216.121:443#194.87.216.121:443
 ss://YWVzLTI1Ni1nY206NDE5NGNlNWIxZjM2ZjY2MA@176.32.35.68:30101#176.32.35.68:30101
@@ -22,5 +22,5 @@ vmess://eyJ2IjoiMiIsInBzIjoiXHVkODNjXHVkZGU4XHVkODNjXHVkZGYzX1x1NWI5YVx1NTIzNlx1
 vless://b6a617b7-758e-4639-b2f4-d296c0f1b03e@104.24.158.0:2052?type=ws&security=none&path=/&sni=register.tunnelbreaking.shop#104.24.158.0:2052
 vless://7e74ff43-3a90-48b3-8372-7d92a045c2d4@light-presence.oneeat.co:80?type=ws&security=none&path=/&sni=light-presence.oneeat.co#light-presence.oneeat.co:80
 vless://3ac2de34-47c5-4dd5-afc0-8fb4b05d4077@104.18.26.90:80?type=ws&security=none&path=/?ed=2560&sni=blaze-can-118.blazecanada.site#104.18.26.90:80
-trojan://ya3invp7-zvcr-5o66-m1np-9k92pg7ywv0v@127.0.0.1:8080?security=tls&type=tcp#For enhanced GitHub access, visit Argh94 now!
-trojan://5x1vi4pg-3qbg-qsl2-1ras-jjuran4y6ucy@127.0.0.1:8081?security=tls&type=tcp#</> Collector v5.0
+trojan://kttt7dxv-hlsc-ja4h-04d0-myp1hecvzfqf@127.0.0.1:8080?security=tls&type=tcp#For enhanced GitHub access, visit Argh94 now!
+trojan://k6gi0gl2-126m-9zbf-ujx4-e0pjd942k09e@127.0.0.1:8081?security=tls&type=tcp#</> Collector v5.0

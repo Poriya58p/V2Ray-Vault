@@ -1,6 +1,6 @@
-trojan://aqhvdwep-iv9u-lkv0-j6z9-4kx06lc0t9fw@127.0.0.1:1080?security=tls&type=tcp#🕒 LAST UPDATE: 2025/08/25 | 23:53
-trojan://m4m7w4td-3i6h-wrs9-u9n6-ct7z6u6hkn52@127.0.0.1:2080?security=tls&type=tcp#This is a free trial project.
-trojan://x2em9auc-7tdi-ut4i-24sw-2sw2ez01xxji@127.0.0.1:4080?security=tls&type=tcp#「 GitHub Argh94 ☕ 」
+trojan://whx1w8tc-wtqf-8rba-x58d-vt56tpua7fan@127.0.0.1:1080?security=tls&type=tcp#🕒 LAST UPDATE: 2025/08/26 | 04:38
+trojan://q2g43t5j-hrts-gbaa-oycp-fg7ekpgc43h5@127.0.0.1:2080?security=tls&type=tcp#This is a free trial project.
+trojan://zsxjq8w1-0xnt-ntwu-x7ei-ew9id6hw8voe@127.0.0.1:4080?security=tls&type=tcp#「 GitHub Argh94 ☕ 」
 vless://t%65l%65g%72%61m-%69d-%41%72f%69lt%65%72@172.66.40.99:443?type=ws&security=tls&path=/telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray?ed=2048&sni=aBs.2SeDkFjEuIxIjD0Ew9DvKcxoisiEk61.BlOg&fp=firefox#172.66.40.99:443
 vless://83dd04%65c-2233-4cfc-93d0-0d244%61fd4%6157@172.66.40.99:8080?type=ws&security=none&path=/-LiV2ry@LIGHTNING6-TEL--@LIGHTNING6-TEL--@LIGHTNING6-TEL--@LIGHTNING6-JOIN-@LIGHTNING6-TEL--@LIGHTNING6-JOIN-@LIGHTNING6-TEL-@LIGHTNING6-TEL--@LIGHTNING6-JOIN-@LIGHTNING6-TEL--@LIGHTNING6?ed=2048#172.66.40.99:8080
 vless://02483314-2042-451b-b0ab-f9bab9a1be9d@zula.ir:80?type=ws&security=none&path=/Join-ZEDMODEON-ZEDMODEON-ZEDMODEON-bia-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON#zula.ir:80
@@ -66,11 +66,13 @@ vless://60071f13-91%65%65-4592-fc98-4%656f539f394%65@104.17.148.22:80?type=ws&se
 vless://%65cc%65255%65-17d3-429b-8093-dd884f6%61ff7d@172.66.40.99:8080?type=ws&security=none&path=/-LiV2ry@LIGHTNING6-TEL--@LIGHTNING6-TEL--@LIGHTNING6-TEL--@LIGHTNING6-JOIN-@LIGHTNING6-TEL--@LIGHTNING6-JOIN-@LIGHTNING6-TEL-@LIGHTNING6-TEL--@LIGHTNING6-JOIN-@LIGHTNING6-TEL--@LIGHTNING6?ed=2048#172.66.40.99:8080
 vless://b6%61137d5-2204-4f7c-cd4%65-cb400%6504b111@104.17.148.22:2095?type=httpupgrade&security=none&path=/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam?ed=2048#104.17.148.22:2095
 vless://3639fbb%61-%656%61c-4447-9518-%651176466f6bb@172.66.40.99:8080?type=ws&security=none&path=/Telegram--ip_configs--Join--ip_configs--Telegram--ip_configs--Join--ip_configs--Telegram--ip_configs--Join--ip_configs--Telegram--ip_configs--Join--ip_configs--Telegram--ip_configs--Join--ip_configs?ed=2048#172.66.40.99:8080
+vless://598cb690-b398-40%619-b%659d-9c629c32f613@188.114.96.1:80?type=ws&security=none&path=/telegram,@BINEXTIFY-telegram,@BINEXTIFY-telegram,@BINEXTIFY-telegram,@BINEXTIFY-telegram,@BINEXTIFY-telegram,@BINEXTIFY-telegram,@BINEXTIFY-telegram,@BINEXTIFY-telegram,@BINEXTIFY?ed=2560#188.114.96.1:80
+vless://f037595d-0603-4994-c497-b91196%657%61329@104.17.148.22:2095?type=httpupgrade&security=none&path=/telegram,@BINEXTIFY-telegram,@BINEXTIFY-telegram,@BINEXTIFY-telegram,@BINEXTIFY-telegram,@BINEXTIFY-telegram,@BINEXTIFY-telegram,@BINEXTIFY-telegram,@BINEXTIFY-telegram,@BINEXTIFY?ed=2560#104.17.148.22:2095
 vless://%652926b3%61-4664-401%61-%6159c-%65743c2f5dd22@172.66.40.99:8080?type=ws&security=none&path=/-LiV2ry@LIGHTNING6-TEL--@LIGHTNING6-TEL--@LIGHTNING6-TEL--@LIGHTNING6-JOIN-@LIGHTNING6-TEL--@LIGHTNING6-JOIN-@LIGHTNING6-TEL-@LIGHTNING6-TEL--@LIGHTNING6-JOIN-@LIGHTNING6-TEL--@LIGHTNING6?ed=2048#172.66.40.99:8080
 vless://e999db7a-1b17-4da6-bc37-c9fa24af2e93@ipw.gfdv54cvghhgfhgj-njhgj64.info:8443?type=ws&security=tls&path=/&sni=F237qFxLw0.LiRa0Xc8.InFo&fp=chrome#ipw.gfdv54cvghhgfhgj-njhgj64.info:8443
 vless://3d7dd548-5456-4f28-8019-393fbfab3312@172.67.74.133:443?type=ws&security=tls&path=/sg3/?ed=2048JOIN---PLANB_PROXY&sni=app-stg.gopay.co.id.servpn.my.id&fp=chrome#172.67.74.133:443
 vless://%614927301-3463-4f16-8d51-9b485%65%65f7b%65b@91.99.70.212:443?type=grpc&security=reality&sni=www.cdn77.com&fp=chrome&pbk=Zjzu45fPTjjaIcBoYyaLqieLtsWJD8ujdzNOQodWvnk#91.99.70.212:443
 vless://tm-H%71V2rayNG@full.vvir.ir:443?type=tcp&security=reality&sni=google.com&fp=chrome&flow=xtls-rprx-vision&pbk=tmdA-JLXg99x-LdvzAZnIV2J7QlHAe7F7xSRLh4ljHM&sid=e1#full.vvir.ir:443
 vless://738ebc1c-c44a-418e-8c2c-f9e2efe1f4fe@91.99.70.212:443?type=grpc&security=reality&sni=www.cdn77.com&fp=chrome&pbk=Zjzu45fPTjjaIcBoYyaLqieLtsWJD8ujdzNOQodWvnk#91.99.70.212:443
-trojan://cykkr2xk-jdva-806m-g6ut-lhdm2u0m6sxv@127.0.0.1:8080?security=tls&type=tcp#For enhanced GitHub access, visit Argh94 now!
-trojan://bv4mmryd-til2-ip20-9a2w-3onrjwp1r96v@127.0.0.1:8081?security=tls&type=tcp#</> Collector v5.0
+trojan://hmytfvwt-47j9-vqot-xioo-rh94cjdyb9ry@127.0.0.1:8080?security=tls&type=tcp#For enhanced GitHub access, visit Argh94 now!
+trojan://492ivk8o-ttjz-wwk8-oyig-rfu1zn8bm9vc@127.0.0.1:8081?security=tls&type=tcp#</> Collector v5.0

@@ -1,6 +1,6 @@
-trojan://umr1hhju-ao9c-w90r-eigg-giaq46w9r6yy@127.0.0.1:1080?security=tls&type=tcp#🕒 LAST UPDATE: 2025/08/25 | 23:53
-trojan://pp9wi2xn-f828-vq57-oofp-o3hlooiq7trs@127.0.0.1:2080?security=tls&type=tcp#This is a free trial project.
-trojan://kwtwrwd7-czzy-07vs-aq8x-zhg03f57shug@127.0.0.1:4080?security=tls&type=tcp#「 GitHub Argh94 ☕ 」
+trojan://8w25wquv-x7v3-33c4-ygyd-loyc1ugvijoz@127.0.0.1:1080?security=tls&type=tcp#🕒 LAST UPDATE: 2025/08/26 | 04:38
+trojan://pyxikvrk-7xw4-nc7k-c2jd-und5m2fs6nm3@127.0.0.1:2080?security=tls&type=tcp#This is a free trial project.
+trojan://rfni7w0r-mqa3-5cqt-pjp2-wih7oa2ky8kx@127.0.0.1:4080?security=tls&type=tcp#「 GitHub Argh94 ☕ 」
 vmess://eyJ2IjoiMiIsInBzIjoiUXJWMnJheSIsImFkZCI6InMzLmlweWFyLm9yZyIsInBvcnQiOjMyMDIwLCJpZCI6Ijc4YjRmYjU3LTM5ZDctNGU5ZC1kZDM4LWM5YTM4MzIyYmNiMiIsImFpZCI6MCwic2N5IjoiYXV0byIsIm5ldCI6InRjcCIsInR5cGUiOiJub25lIn0
 vmess://eyJ2IjoiMiIsInBzIjoiUXJWMnJheSIsImFkZCI6ImFpby51bmxpbWl0ZWQuYml6LmlkIiwicG9ydCI6NDQzLCJpZCI6ImYyODJiODc4LTg3MTEtNDVhMS04YzY5LTU1NjQxNzIxMjNjMSIsImFpZCI6MCwic2N5IjoiemVybyIsIm5ldCI6IndzIiwidHlwZSI6Ii0tLSIsImhvc3QiOiJhaW8udW5saW1pdGVkLmJpei5pZCIsInBhdGgiOiIvYWlvcHJveHlib3QvMTI5LjE1MC40OS41OC0xODY1MD8tLVRFTEVHUkFNLVZJVFVSRVktLS0tVEVMRUdSQU0tVklUVVJFWS0tLS1URUxFR1JBTS1WSVRVUkVZLS0tLVRFTEVHUkFNLVZJVFVSRVkiLCJ0bHMiOiJ0bHMiLCJzbmkiOiJhaW8udW5saW1pdGVkLmJpei5pZCJ9
 vmess://eyJ2IjoiMiIsInBzIjoiUXJWMnJheSIsImFkZCI6IjIuMTg4LjIxOS40MyIsInBvcnQiOjg0NDMsImlkIjoiYjJlMzg2MjEtMDM1Yi00M2Y4LTg0YTUtZTkyMTYwNzYyZmMzIiwiYWlkIjowLCJzY3kiOiJhdXRvIiwibmV0Ijoid3MiLCJ0eXBlIjoiLS0tIiwicGF0aCI6Ii8ifQ
@@ -79,5 +79,5 @@ vless://7edc9161-fa59-45ae-b9e9-80ef4bceb68e@85.9.203.125:36563?type=tcp&securit
 vless://d2bcb15b-8cf0-402c-af32-6b04615144c9@greenwolf.fonixapp.org:12901?type=tcp&security=reality&sni=canva.com&fp=chrome&flow=xtls-rprx-vision&pbk=UIgzNUpO2PvGIgjtIK1GEikBFRVvfA1jm7bfor0HlAM&sid=b538b3#greenwolf.fonixapp.org:12901
 vless://d2bcb15b-8cf0-402c-af32-6b04615144c9@greenwolf.fonixapp.org:12901?type=tcp&security=reality&sni=canva.com&fp=chrome&flow=xtls-rprx-vision&pbk=UIgzNUpO2PvGIgjtIK1GEikBFRVvfA1jm7bfor0HlAM&sid=b538b3#greenwolf.fonixapp.org:12901
 vless://d2bcb15b-8cf0-402c-af32-6b04615144c9@greenwolf.fonixapp.org:12901?type=tcp&security=reality&sni=canva.com&fp=chrome&flow=xtls-rprx-vision&pbk=UIgzNUpO2PvGIgjtIK1GEikBFRVvfA1jm7bfor0HlAM&sid=b538b3#greenwolf.fonixapp.org:12901
-trojan://8ltez9e1-3f5v-rypz-lmw4-r6gw4fm7tp3o@127.0.0.1:8080?security=tls&type=tcp#For enhanced GitHub access, visit Argh94 now!
-trojan://rwd6nual-fxq3-y6e3-2da8-je1aga5lgrq7@127.0.0.1:8081?security=tls&type=tcp#</> Collector v5.0
+trojan://wvfm4d0q-ktlt-tb99-og4k-1hvnvxpla5wv@127.0.0.1:8080?security=tls&type=tcp#For enhanced GitHub access, visit Argh94 now!
+trojan://slzcb5bs-js1k-id54-4d2h-znvnacwlq246@127.0.0.1:8081?security=tls&type=tcp#</> Collector v5.0

@@ -1,6 +1,6 @@
-trojan://jbzv13qw-52p0-8om1-geor-wgzkvspsst0z@127.0.0.1:1080?security=tls&type=tcp#🕒 LAST UPDATE: 2025/08/25 | 23:53
-trojan://xsxjfc27-9b6v-cbi2-zt2f-doutsftsuavl@127.0.0.1:2080?security=tls&type=tcp#This is a free trial project.
-trojan://hkc3hmcv-jjar-tqx0-zaix-fyp0pl7c44nw@127.0.0.1:4080?security=tls&type=tcp#「 GitHub Argh94 ☕ 」
+trojan://t6eg1mcr-gp0m-mk7s-dgfc-qv9um1z1nsbx@127.0.0.1:1080?security=tls&type=tcp#🕒 LAST UPDATE: 2025/08/26 | 04:38
+trojan://7fwnpmqz-a1r0-f9ig-ezgm-j6mt9myzhxl6@127.0.0.1:2080?security=tls&type=tcp#This is a free trial project.
+trojan://djm1m6dv-eyf0-1pqs-9p4w-grewsiuxabbg@127.0.0.1:4080?security=tls&type=tcp#「 GitHub Argh94 ☕ 」
 vless://3a26be3c-ac0c-4180-a123-1d3772f21b9f@grpc1.caseshop.website:443?type=grpc&security=tls&sni=grpc1.caseshop.website#grpc1.caseshop.website:443
 vless://3a26be3c-ac0c-4180-a123-1d3772f21b9f@grpc1.caseshop.website:443?type=grpc&security=tls&sni=grpc1.caseshop.website#grpc1.caseshop.website:443
 vless://698bdf81-9777-41cc-9cc1-81a2fc43bd08@bdok.ir:8080?type=ws&security=none&path=/telegramm-@Naji-vpn,telegram-Naji-vpn,telegram-Naji-vpn,telegram-Naji-vpn,telegram-Naji-vpn,telegram-Naji-vpn,telegram-Naji-vpn,telegram-Naji-vpn,telegram-Naji-vpn,telegram-Naji-vpn,telegram-Naji-vpn,telegram-Naji-vpn,telegram-Naji-vpn,telegram-Naji-vpn,telegram-Naji-vpn,Mmdv2rayng-V2rayngmmd-telegram-meh95-v2ray?ed=2056#bdok.ir:8080
@@ -8,5 +8,5 @@ vless://698bdf81-9333-41cc-9cc1-81a2fc43bc19@bdok.ir:8080?type=ws&security=none&
 vless://5a07698d-5414-4cf7-a046-b51382a84952@bdok.ir:8080?type=ws&security=none&path=/telegramm-@Naji-vpn,telegram-Naji-vpn,telegram-Naji-vpn,telegram-Naji-vpn,telegram-Naji-vpn,telegram-Naji-vpn,telegram-Naji-vpn,telegram-Naji-vpn,telegram-Naji-vpn,telegram-Naji-vpn,telegram-Naji-vpn,telegram-Naji-vpn,telegram-Naji-vpn,telegram-Naji-vpn,telegram-Naji-vpn,Mmdv2rayng-V2rayngmmd-telegram-meh95-v2ray?ed=2056#bdok.ir:8080
 vless://ae21b3e7-1694-4efe-bb21-69497843142f@65.109.182.239:443?type=ws&security=none&path=/#65.109.182.239:443
 vless://2d29bc24-aaf2-4e48-b0c1-ec6d625f8271@benefits.by:80?type=httpupgrade&security=none&path=/dabadoo#benefits.by:80
-trojan://34q7z3af-uva5-77i9-g2w8-ki7ewn2gur34@127.0.0.1:8080?security=tls&type=tcp#For enhanced GitHub access, visit Argh94 now!
-trojan://mkgvway2-bjds-ob4o-chio-yvxkhl3tho7f@127.0.0.1:8081?security=tls&type=tcp#</> Collector v5.0
+trojan://w4an6e0u-efuz-4ggz-lqnb-2fv9zslnx0d9@127.0.0.1:8080?security=tls&type=tcp#For enhanced GitHub access, visit Argh94 now!
+trojan://97ceb245-fozb-srcx-bhjw-h7veu18h4nf1@127.0.0.1:8081?security=tls&type=tcp#</> Collector v5.0

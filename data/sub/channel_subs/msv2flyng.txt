@@ -1,6 +1,6 @@
-trojan://ed2cszio-ub30-xi4p-o0qa-0mgvcjj3n8x4@127.0.0.1:1080?security=tls&type=tcp#🕒 LAST UPDATE: 2025/08/25 | 23:53
-trojan://n3yzncxw-g1j1-lsgm-bjxe-d24l8a7t4djg@127.0.0.1:2080?security=tls&type=tcp#This is a free trial project.
-trojan://av9axj35-9qgm-38vi-ujdm-zf8fxvx4if5i@127.0.0.1:4080?security=tls&type=tcp#「 GitHub Argh94 ☕ 」
+trojan://3ujtzpw8-6uj0-gatq-4anq-me4ejm1fvnb9@127.0.0.1:1080?security=tls&type=tcp#🕒 LAST UPDATE: 2025/08/26 | 04:38
+trojan://164by1yt-8aa3-ffje-yft4-1b150lqqo4du@127.0.0.1:2080?security=tls&type=tcp#This is a free trial project.
+trojan://rnehlayg-wuvh-t7fb-as3f-lssnxchn2xjf@127.0.0.1:4080?security=tls&type=tcp#「 GitHub Argh94 ☕ 」
 ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU@54.169.188.250:443#54.169.188.250:443
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpMaUhRWDljRGJkb29CSGxJZzBlaXFR@45.144.54.33:34803#45.144.54.33:34803
 trojan://d6b8011a-c725-435a-9fec-bf6d3530392c@156.238.19.8:443?sni=vle.amclubsvip.dpdns.org&peer=vle.amclubsvip.dpdns.org&security=tls#156.238.19.8:443
@@ -15,5 +15,5 @@ vless://fe1888f8-2361-11f0-9970-45e1d80c4039@89.23.108.188:443?type=tcp&security
 hysteria2://de8854c7-fa17-4266-ae18-50a9732a0c4e@it1.1010991.xyz:3001?sni=it1.1010991.xyz&insecure=1#it1.1010991.xyz:3001
 hysteria2://a16d62f6-048d-11f0-af5a-f23c93136cb3@b9c3912b-t07z40-t1l1nh-d6ar.la.shifen.uk:1743?sni=b9c3912b-t07z40-t1l1nh-d6ar.la.shifen.uk&insecure=0#b9c3912b-t07z40-t1l1nh-d6ar.la.shifen.uk:1743
 hysteria2://d5488371-4d89-4699-890f-7abeb28c4076@hsmg.huasuan666.top:22151?sni=hsmg.huasuan666.top&insecure=1#hsmg.huasuan666.top:22151
-trojan://jyqa1veu-cg8q-9dvm-8xaj-j3xnfqy29h6g@127.0.0.1:8080?security=tls&type=tcp#For enhanced GitHub access, visit Argh94 now!
-trojan://f1t1rvgf-au8f-01ul-5fc9-gngyca9noc56@127.0.0.1:8081?security=tls&type=tcp#</> Collector v5.0
+trojan://1bq2o4u0-brjm-c8v3-gt9v-h7wnooxjepq8@127.0.0.1:8080?security=tls&type=tcp#For enhanced GitHub access, visit Argh94 now!
+trojan://pmdio7g0-0873-gjy5-1bic-v6pjv47q3vkn@127.0.0.1:8081?security=tls&type=tcp#</> Collector v5.0

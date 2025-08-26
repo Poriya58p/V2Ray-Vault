@@ -1,6 +1,6 @@
-trojan://yg5kj0k5-fqmf-v6ww-shch-ebzenylqqz0q@127.0.0.1:1080?security=tls&type=tcp#🕒 LAST UPDATE: 2025/08/25 | 23:53
-trojan://thmy6sv3-h0jl-pagq-ijmw-nwdrl3x349p1@127.0.0.1:2080?security=tls&type=tcp#This is a free trial project.
-trojan://4mmn5zec-k9ep-epdg-ru1x-dddy4u2pf68p@127.0.0.1:4080?security=tls&type=tcp#「 GitHub Argh94 ☕ 」
+trojan://3y2gcx7z-h3pf-hddo-hjpd-c2tkikdh9ss8@127.0.0.1:1080?security=tls&type=tcp#🕒 LAST UPDATE: 2025/08/26 | 04:38
+trojan://ieznc6ss-mh0r-75d6-j6ra-kockg4eosc4r@127.0.0.1:2080?security=tls&type=tcp#This is a free trial project.
+trojan://54fdbuuy-91y3-2bvu-rx01-hoqx09r1jwl4@127.0.0.1:4080?security=tls&type=tcp#「 GitHub Argh94 ☕ 」
 vless://1271a698-7db4-455d-b7e2-daa07389bb6c@172.66.40.99:8080?type=ws&security=none&path=/-LiV2ry@LIGHTNING6-TEL--@LIGHTNING6-TEL--@LIGHTNING6-TEL--@LIGHTNING6-JOIN-@LIGHTNING6-TEL--@LIGHTNING6-JOIN-@LIGHTNING6-TEL-@LIGHTNING6-TEL--@LIGHTNING6-JOIN-@LIGHTNING6-TEL--@LIGHTNING6?ed=2048#172.66.40.99:8080
 vless://c1d33a48-0a89-4ca6-81e7-e126123f3375@172.66.40.99:8080?type=tcp&security=none&path=/-LiV2ry@LIGHTNING6-TEL--#172.66.40.99:8080
 vless://telegram-id-Arfilter@172.66.40.99:443?type=ws&security=tls&path=/telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray?ed=2048&sni=aBs.SpEeDtEsT2029.CoM&fp=firefox#172.66.40.99:443
@@ -8,5 +8,5 @@ vless://390e5e0d-c204-4877-94cc-53a8a26c2cc3@172.66.40.99:8080?type=ws&security=
 vless://db0edd3d-b3f3-453f-e0b2-1d55c74c0c71@cumhuriyet.com.tr:8080?type=ws&security=none&path=/@unlimiteddev----@unlimiteddev-----@unlimiteddev----@unlimiteddev----@unlimiteddev----@unlimiteddev----@unlimiteddev----@unlimiteddev----@unlimitedev----@unlimitedev----@unlimiteddev----@unlimiteddev?ed=2480#cumhuriyet.com.tr:8080
 vless://db0edd3d-b3f3-453f-e0b2-1d55c74c0c71@www.speedtest.net:8080?type=ws&security=none&path=/@unlimiteddev----@unlimiteddev-----@unlimiteddev----@unlimiteddev----@unlimiteddev----@unlimiteddev----@unlimiteddev----@unlimiteddev----@unlimitedev----@unlimitedev----@unlimiteddev----@unlimiteddev?ed=2480#www.speedtest.net:8080
 vless://c4587bda-09fc-4b3b-8221-4450fccc33d1@172.67.71.187:443?type=ws&security=tls&path=/&sni=yx.yushan.dpdns.org#172.67.71.187:443
-trojan://kq2b9iwi-v5yc-udy5-0jg1-vo1ygau21wuq@127.0.0.1:8080?security=tls&type=tcp#For enhanced GitHub access, visit Argh94 now!
-trojan://e7t2jxfm-q5l6-htzs-1fa6-um05tamrnix8@127.0.0.1:8081?security=tls&type=tcp#</> Collector v5.0
+trojan://qmbwrge8-9ob2-ogjz-po0m-l9hc4v7at8r9@127.0.0.1:8080?security=tls&type=tcp#For enhanced GitHub access, visit Argh94 now!
+trojan://be8ww4wj-yv0r-hvua-bh3m-o8ndj4ma7y97@127.0.0.1:8081?security=tls&type=tcp#</> Collector v5.0

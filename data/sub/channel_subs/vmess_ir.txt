@@ -1,6 +1,6 @@
-trojan://3e5euctg-m5yk-s3dy-8e8p-uwlxtrxjj8b0@127.0.0.1:1080?security=tls&type=tcp#🕒 LAST UPDATE: 2025/08/25 | 23:53
-trojan://9893mj3z-nkb2-krvn-ewf8-z3s3oqmn0cvq@127.0.0.1:2080?security=tls&type=tcp#This is a free trial project.
-trojan://1my0dogk-kox5-2icp-q7x5-gk8xbw8u2uxz@127.0.0.1:4080?security=tls&type=tcp#「 GitHub Argh94 ☕ 」
+trojan://co5guvv0-wh38-jvak-av76-xynbboveclei@127.0.0.1:1080?security=tls&type=tcp#🕒 LAST UPDATE: 2025/08/26 | 04:38
+trojan://ag9mkiv1-j4fa-d17a-1ant-j3rdxaxmwlv3@127.0.0.1:2080?security=tls&type=tcp#This is a free trial project.
+trojan://4cq3uc8b-iur3-obtm-p2qh-qumq5zct3xa1@127.0.0.1:4080?security=tls&type=tcp#「 GitHub Argh94 ☕ 」
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1cjlxZGs5ZXBITXM3VG1oYmVMNUlE@94.159.96.245:11902#94.159.96.245:11902
 vmess://eyJ2IjoiMiIsInBzIjoiXHUwNjMzXHUwNjMxXHUwNjQ4XHUwNjMxIFx1MDYzMVx1MDYyN1x1MDZjY1x1MDZhZlx1MDYyN1x1MDY0NiBcdTA2N2VcdTA2MzFcdTA2MzNcdTA2MzFcdTA2MzlcdTA2MmFcdWQ4M2NcdWRmMGEgQHZtZXNzX2lyIiwiYWRkIjoiODUuMTk1LjEwMS4xMjIiLCJwb3J0Ijo0MDg3OCwiaWQiOiJmM2Q0MTY3ZS1iMTVlLTRlNDYtODJlOS05Mjg2ZWY5M2ZkYTciLCJhaWQiOjAsInNjeSI6ImF1dG8iLCJuZXQiOiJ0Y3AiLCJ0eXBlIjoibm9uZSJ9
 vmess://eyJ2IjoiMiIsInBzIjoiXHUwNjMzXHUwNjMxXHUwNjQ4XHUwNjMxIFx1MDYzMVx1MDYyN1x1MDZjY1x1MDZhZlx1MDYyN1x1MDY0NiBcdTA2N2VcdTA2MzFcdTA2MzNcdTA2MzFcdTA2MzlcdTA2MmFcdWQ4M2NcdWRmMGEgQHZtZXNzX2lyIiwiYWRkIjoiOTQuMTM2LjE4NS4yMzAiLCJwb3J0IjoxMDUzNCwiaWQiOiJiMDFjN2VmOS0zM2VjLTQxZjYtYmZiZi03N2RkYzRkMjE2NDkiLCJhaWQiOjAsInNjeSI6ImF1dG8iLCJuZXQiOiJ0Y3AiLCJ0eXBlIjoibm9uZSJ9
@@ -21,5 +21,5 @@ vless://c4587bda-09fc-4b3b-8221-4450fccc33d1@malaysia.com:443?type=ws&security=t
 vless://ccbe6b7c-9264-40c4-8bc1-ef8f6205d7a4@www.speedtest.net:8443?type=ws&security=tls&path=/&sni=lease-11.access.name.ng#www.speedtest.net:8443
 vless://a5ada705-cbac-47f7-9fa5-2e4426b7a510@es.iovpn.click:443?type=tcp&security=reality&sni=apple.com&fp=chrome&flow=xtls-rprx-vision&pbk=YoQ4rDLzUDrLuKwPi3T1X9T7ttwfZ3wv0hTBpzg44i8&sid=31f644193ea3#es.iovpn.click:443
 vless://4c26ebc3-7784-46d8-b52a-7b0ccae6f4b4@amazon-20.cristiano.name.ng:443?type=tcp&security=reality&sni=store.steampowered.com&fp=chrome&flow=xtls-rprx-vision&pbk=TGlPtfVzGIVpMauPRMGJj2Uu6GUiCpu5ZizIIjw-wx4&sid=f5#amazon-20.cristiano.name.ng:443
-trojan://su1zx23y-62a1-pnhl-y2w0-00u1ivjk0ugy@127.0.0.1:8080?security=tls&type=tcp#For enhanced GitHub access, visit Argh94 now!
-trojan://evxs6wzm-gwqx-jqop-8frf-hnn5oy17ehf5@127.0.0.1:8081?security=tls&type=tcp#</> Collector v5.0
+trojan://ow59565g-yilo-ikag-t0vt-hrr5sa9vz0tj@127.0.0.1:8080?security=tls&type=tcp#For enhanced GitHub access, visit Argh94 now!
+trojan://ixy59oxn-7q9x-b6fd-3v93-vpmxy04lrqp9@127.0.0.1:8081?security=tls&type=tcp#</> Collector v5.0

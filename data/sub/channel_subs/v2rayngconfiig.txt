@@ -1,6 +1,6 @@
-trojan://sn02s90a-eqks-t0x1-5m19-2n2zwo38pnh7@127.0.0.1:1080?security=tls&type=tcp#🕒 LAST UPDATE: 2025/08/25 | 23:53
-trojan://8ajxlktc-mfk2-6u1a-bs7a-gggkysr1apky@127.0.0.1:2080?security=tls&type=tcp#This is a free trial project.
-trojan://3jm0808s-0op1-838g-88q2-5tx1rckre53l@127.0.0.1:4080?security=tls&type=tcp#「 GitHub Argh94 ☕ 」
+trojan://lxra8kc1-qqxx-xmop-vusf-dhnnou1l51qy@127.0.0.1:1080?security=tls&type=tcp#🕒 LAST UPDATE: 2025/08/26 | 04:38
+trojan://5eatt9g4-1d0p-x14f-u3dd-el0huorc9w25@127.0.0.1:2080?security=tls&type=tcp#This is a free trial project.
+trojan://bxifst0p-h821-5tlg-4j9k-wlp8xx3eerbn@127.0.0.1:4080?security=tls&type=tcp#「 GitHub Argh94 ☕ 」
 trojan://Xa4%5El%28%3B.%3BB%23a@104.18.26.90:443?sni=S1.mitivpN.wOrKeRS.DEV&peer=S1.mitivpN.wOrKeRS.DEV&security=tls#104.18.26.90:443
 vmess://eyJ2IjoiMiIsInBzIjoiQFYycmF5bmdjb25maWlnIiwiYWRkIjoiY3VzdG9tZXJzLnRlbGUtc2hvcC10b28uc3R1ZGlvIiwicG9ydCI6MzMyMDMsImlkIjoiZGQxZjVlMzYtZmIwNS00NWZkLWI5MGQtMzhmYjNiZWY1ZTU5IiwiYWlkIjowLCJzY3kiOiJhdXRvIiwibmV0IjoidGNwIiwidHlwZSI6Im5vbmUifQ
 vless://93729bdf-b9b5-462f-a612-592a0ca27af2@104.17.147.22:80?type=ws&security=none&path=/-LiV2ry@LIGHTNING6-TEL--@LIGHTNING6-TEL--@LIGHTNING6-TEL--@LIGHTNING6-JOIN-@LIGHTNING6-TEL--@LIGHTNING6-JOIN-@LIGHTNING6-TEL-@LIGHTNING6-TEL--@LIGHTNING6-JOIN-@LIGHTNING6-TEL--@LIGHTNING6?ed=2048#104.17.147.22:80
@@ -34,5 +34,5 @@ vless://telegram-id-Arfilter@172.66.40.99:443?type=ws&security=tls&path=/telegra
 vless://5879d109-8c92-448a-801b-3f3989019934@172.66.40.99:443?type=ws&security=tls&path=/Telegram-XV2ray---Telegram-XV2ray---Telegram-XV2ray---Telegram-XV2ray---Telegram-XV2ray---Telegram-XV2ray---Telegram-XV2ray---Telegram-XV2ray---Telegram-XV2ray---Telegram-XV2ray---Telegram-XV2ray---Telegram-XV2ray---Telegram-XV2ray?ed=2048&sni=pages.dev#172.66.40.99:443
 vless://eba39eb3-3b03-403c-a737-da53582feb6c@188.245.240.141:1000?type=tcp&security=reality&sni=refersion.com&fp=chrome&pbk=vj5pvcr-2G1kK7hKp937WrwAPtVg4p94HpqeCAuauD4#188.245.240.141:1000
 vless://82bdbba7-105d-4590-b08f-1d4d238abada@91.99.182.226:34171?type=tcp&security=reality&sni=www.latimes.com&fp=chrome&pbk=xnqAqhJPTN9MejLmPrBprshg49u92dkYnraLNkI3EXA&sid=fb18ca71d301b50c#91.99.182.226:34171
-trojan://9nd8zagu-htdh-vh1i-o6k6-2my2g4qcrcfl@127.0.0.1:8080?security=tls&type=tcp#For enhanced GitHub access, visit Argh94 now!
-trojan://g366hdd2-dq0c-vyuf-2ye6-72ilo0ri8tlr@127.0.0.1:8081?security=tls&type=tcp#</> Collector v5.0
+trojan://yk3jl1z0-tnu0-998f-p6li-4ozin2i0yimh@127.0.0.1:8080?security=tls&type=tcp#For enhanced GitHub access, visit Argh94 now!
+trojan://5zdb9c05-tmkz-nhwx-6ewu-43tlcfhbgd79@127.0.0.1:8081?security=tls&type=tcp#</> Collector v5.0

@@ -1,8 +1,8 @@
-trojan://jj3fil72-f02t-2obj-c06o-dl67431y9dkl@127.0.0.1:1080?security=tls&type=tcp#🕒 LAST UPDATE: 2025/08/25 | 23:53
-trojan://q5m3ns6o-7q9b-hb4l-0uyk-7yvemwwfd61s@127.0.0.1:2080?security=tls&type=tcp#This is a free trial project.
-trojan://swhx61m5-dcc7-j5qd-x6fi-6d06995yscja@127.0.0.1:4080?security=tls&type=tcp#「 GitHub Argh94 ☕ 」
+trojan://v0qqmlay-rko8-8pmk-q0qf-x7nsi8g1llkp@127.0.0.1:1080?security=tls&type=tcp#🕒 LAST UPDATE: 2025/08/26 | 04:38
+trojan://8hiva2nk-64wr-5mho-c3r8-5bg2h8m01kiq@127.0.0.1:2080?security=tls&type=tcp#This is a free trial project.
+trojan://3qgpl4ot-qkdg-950y-4fh3-lkt5d25tptpd@127.0.0.1:4080?security=tls&type=tcp#「 GitHub Argh94 ☕ 」
 vless://d2900c83-c946-4022-91cc-662b808ee186@proxysudochannel.ddns.net:8443?type=grpc&security=reality&sni=instructure.com&fp=safari&pbk=QIYQ18dVZZ4H3sseAPw34I2glJNfXTwM9OHRUSm-Uxw&sid=b6b63505#proxysudochannel.ddns.net:8443
 vless://bcf8c65a-ed44-4b40-b7f3-752115b20662@proxysudochannel.ddns.net:8080?type=tcp&security=reality&sni=instructure.com&fp=safari&flow=xtls-rprx-vision&pbk=blF2p2FE_fexB29-tmU9HfVs6TwqsSQVxWAHIiP2KTk&sid=b28a0dd8#proxysudochannel.ddns.net:8080
 vless://bcf8c65a-ed44-4b40-b7f3-752115b20662@proxysudochannel.ddns.net:8080?type=tcp&security=reality&sni=instructure.com&fp=safari&flow=xtls-rprx-vision&pbk=blF2p2FE_fexB29-tmU9HfVs6TwqsSQVxWAHIiP2KTk&sid=b28a0dd8#proxysudochannel.ddns.net:8080
-trojan://3ojhly9n-k0jj-zo58-p6uk-7k9hryai6d40@127.0.0.1:8080?security=tls&type=tcp#For enhanced GitHub access, visit Argh94 now!
-trojan://i1w0k9fg-2hrp-isj0-53em-u5cvoo765nhg@127.0.0.1:8081?security=tls&type=tcp#</> Collector v5.0
+trojan://at78jbcd-kjby-m6xi-7v2s-2rcu8o54eda5@127.0.0.1:8080?security=tls&type=tcp#For enhanced GitHub access, visit Argh94 now!
+trojan://l7tw7m6q-nfr9-zwkn-ulxy-r0qltdx9n3k9@127.0.0.1:8081?security=tls&type=tcp#</> Collector v5.0
