@@ -1,8 +1,8 @@
-trojan://j38rt0ol-d3gf-nxp4-55l1-d4k5elpayoz5@127.0.0.1:1080?security=tls&type=tcp#🕒 LAST UPDATE: 2025/08/27 | 07:53
-trojan://o4u2ton4-pjuv-xgyn-uelt-r7jf8ci2nrcq@127.0.0.1:2080?security=tls&type=tcp#This is a free trial project.
-trojan://7gbnnts7-6moz-esj9-e53p-osdz6m3g4tvz@127.0.0.1:4080?security=tls&type=tcp#「 GitHub Argh94 ☕ 」
+trojan://ggiu1si5-bumm-b997-1r0g-qnrddewctqxz@127.0.0.1:1080?security=tls&type=tcp#🕒 LAST UPDATE: 2025/08/27 | 11:55
+trojan://8yy5i9g6-rrxx-25kh-gnk2-kq78t5du68e7@127.0.0.1:2080?security=tls&type=tcp#This is a free trial project.
+trojan://dvc6dmy5-251h-07sj-fx5q-tzl9tsgkiept@127.0.0.1:4080?security=tls&type=tcp#「 GitHub Argh94 ☕ 」
 vless://c6d299d4-db0b-4444-8b56-b23bbdcbcd67@199.232.0.1:443?type=ws&security=tls&path=/FreedomToDream?ed=2560&sni=cloudflare.com&fp=randomized#199.232.0.1:443
 vless://c6d299d4-db0b-4444-8b56-b23bbdcbcd67@151.101.1.140:443?type=ws&security=tls&path=/FreedomToDream?ed=2560&sni=speedtest.net&fp=randomized#151.101.1.140:443
 vless://c6d299d4-db0b-4444-8b56-b23bbdcbcd67@23.235.33.238:443?type=ws&security=tls&path=/FreedomToDream?ed=2560&sni=cloudflare.com&fp=randomized#23.235.33.238:443
-trojan://g6062er2-g7vy-0rlq-cknr-sxg0dm9e3u2p@127.0.0.1:8080?security=tls&type=tcp#For enhanced GitHub access, visit Argh94 now!
-trojan://ekxzywvb-v968-qi4k-4rs3-ohsyzpamy4ae@127.0.0.1:8081?security=tls&type=tcp#</> Collector v5.0
+trojan://qaidpr0v-zf9y-hz9i-2ay2-tftk4ajzn9lj@127.0.0.1:8080?security=tls&type=tcp#For enhanced GitHub access, visit Argh94 now!
+trojan://wa5yb2ch-ncdk-aexg-ts3w-qtl8qwqrsxmm@127.0.0.1:8081?security=tls&type=tcp#</> Collector v5.0

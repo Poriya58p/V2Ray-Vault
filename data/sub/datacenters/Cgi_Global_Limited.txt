@@ -1,9 +1,8 @@
-trojan://3f78hr8j-ky7t-gz67-cg4k-pw9vad3d5x18@127.0.0.1:1080?security=tls&type=tcp#🕒 LAST UPDATE: 2025/08/27 | 07:53
-trojan://hwtyte2p-7jzl-9ry8-j5sy-wefk5xov9rk7@127.0.0.1:2080?security=tls&type=tcp#This is a free trial project.
-trojan://ebguc9ct-ik0w-uqps-cbbf-33t31jn7l6ki@127.0.0.1:4080?security=tls&type=tcp#「 GitHub Argh94 ☕ 」
-vless://b67ddb53-9e46-492a-84be-0f5b752d7e83@31.56.206.70:443?type=tcp&security=reality&sni=yahoo.com&fp=firefox&pbk=s7Ai9wZFZdDEA3ox2FSjMAqaugUFKja-7TMNCu2GYmo&sid=c6d0465acae1#AE 🇦🇪 ┇ VLESS-TCP-RLT - Cgi Global Limited ┇ 31.56.206.70
-vless://0245889d-da1b-4956-85f4-028fd8e4f8f2@finland.marzxox.shop:210?type=xhttp&security=reality&path=/Api/AS&sni=cdn.jsdelivr.net&fp=firefox&pbk=g23nq_R9TIMbMIGQHB6gjDNewFzrHXPcj72bTS-RtX8&sid=a1b2c3d4e5f67890#FI 🇫🇮 ┇ VLESS-XHTTP-RLT - Cgi Global Limited ┇ 217.145.79.189
+trojan://scepl8a4-ff2g-9xby-e4d1-zywc6xlyjuxy@127.0.0.1:1080?security=tls&type=tcp#🕒 LAST UPDATE: 2025/08/27 | 11:55
+trojan://dssg0dh4-dv3q-r7rz-ypod-i9xcurfivkdh@127.0.0.1:2080?security=tls&type=tcp#This is a free trial project.
+trojan://qmc8651y-v6b2-i7qu-vjla-8q5kosdxybuj@127.0.0.1:4080?security=tls&type=tcp#「 GitHub Argh94 ☕ 」
 vless://2be7495d-847b-40ea-a517-b5779effb7ac@s2.sbarshia.ir:8443?type=tcp&security=reality&sni=divar.ir&fp=chrome&pbk=RLUQT-hMZPmNWtDE67gs8osxdeASKAnARAmNs9bs0l0&sid=fdf18126a0768480#NL 🇳🇱 ┇ VLESS-TCP-RLT - Cgi Global Limited ┇ 193.176.190.225
 vmess://eyJ2IjoiMiIsInBzIjoiQUUgXHVkODNjXHVkZGU2XHVkODNjXHVkZGVhIFx1MjUwNyBWTUVTUy1UQ1AtTlRMUyAtIENnaSBHbG9iYWwgTGltaXRlZCBcdTI1MDcgMzEuNTYuMTQ2LjE4NiIsImFkZCI6IjMxLjU2LjE0Ni4xODYiLCJwb3J0IjozODA0MCwiaWQiOiJhOGY5ZDVmOS03Y2FkLTQwZmYtOWZlZS04MzVjNmRkOWJjZTQiLCJhaWQiOjAsInNjeSI6ImF1dG8iLCJuZXQiOiJ0Y3AiLCJ0eXBlIjoibm9uZSJ9
-trojan://e00k6ep4-fodu-rimq-oett-u4hubdg2pt43@127.0.0.1:8080?security=tls&type=tcp#For enhanced GitHub access, visit Argh94 now!
-trojan://k0mki0cz-ne88-4yyn-umhj-mpmvdd4k08co@127.0.0.1:8081?security=tls&type=tcp#</> Collector v5.0
+vless://b67ddb53-9e46-492a-84be-0f5b752d7e83@31.56.206.70:443?type=tcp&security=reality&sni=yahoo.com&fp=firefox&pbk=s7Ai9wZFZdDEA3ox2FSjMAqaugUFKja-7TMNCu2GYmo&sid=c6d0465acae1#AE 🇦🇪 ┇ VLESS-TCP-RLT - Cgi Global Limited ┇ 31.56.206.70
+trojan://i80kypci-tiyd-tt3q-ide4-oob4vv07bkz2@127.0.0.1:8080?security=tls&type=tcp#For enhanced GitHub access, visit Argh94 now!
+trojan://5614yhou-tduj-y6fp-q3ik-q5apnjf83ht3@127.0.0.1:8081?security=tls&type=tcp#</> Collector v5.0

@@ -1,7 +1,7 @@
-trojan://e2flo0rk-o4b7-cp56-b118-bdxqc96wz0zd@127.0.0.1:1080?security=tls&type=tcp#🕒 LAST UPDATE: 2025/08/27 | 07:53
-trojan://e623zwb8-px8z-pd4q-nb3y-arns494pwss1@127.0.0.1:2080?security=tls&type=tcp#This is a free trial project.
-trojan://clsc6mun-bkvn-dart-5o2y-1o5gewg47kpk@127.0.0.1:4080?security=tls&type=tcp#「 GitHub Argh94 ☕ 」
+trojan://iwcp1b2t-jr4z-gm6t-vnyp-kyyuwl57kh9w@127.0.0.1:1080?security=tls&type=tcp#🕒 LAST UPDATE: 2025/08/27 | 11:55
+trojan://cntmsl91-ts25-m9js-rer3-97wlek1bd9mu@127.0.0.1:2080?security=tls&type=tcp#This is a free trial project.
+trojan://sfgilqun-ormt-n5ho-grcz-q22w8vg1vkgo@127.0.0.1:4080?security=tls&type=tcp#「 GitHub Argh94 ☕ 」
 vless://a87bf8a2-17a4-3054-b51e-876b5f1d0f24@146.19.90.2:443?type=tcp&security=reality&sni=speed.cloudflare.com&fp=chrome&flow=xtls-rprx-vision&pbk=oE7ZEghzkaOUiw1q3PqBtpllP1NlPHLY8ydJRuICtko#SC 🇸🇨 ┇ VLESS-TCP-RLT - PUREVOLTAGE-INC ┇ 146.19.90.2
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpHIXlCd1BXSDNWYW8@196.196.156.122:809#SC 🇸🇨 ┇ SHADOWSOCKS-TCP-NTLS - Global Custom Data Limited ┇ 196.196.156.122
-trojan://spzi9u2o-54ww-2duk-l94o-7uw0i3ktfhol@127.0.0.1:8080?security=tls&type=tcp#For enhanced GitHub access, visit Argh94 now!
-trojan://0sz4fxs5-pc0p-e91g-dedq-qh5tcvw8zhkm@127.0.0.1:8081?security=tls&type=tcp#</> Collector v5.0
+trojan://1h4qfbut-7wf3-4t14-uzhg-wvrphkqw15nw@127.0.0.1:8080?security=tls&type=tcp#For enhanced GitHub access, visit Argh94 now!
+trojan://c2bv8ama-6nbx-pt31-f535-sv5ws8h2t1ps@127.0.0.1:8081?security=tls&type=tcp#</> Collector v5.0

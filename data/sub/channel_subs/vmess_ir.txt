@@ -1,10 +1,7 @@
-trojan://2h9a0trw-7cpt-wgbe-1og4-5qqeawbacolz@127.0.0.1:1080?security=tls&type=tcp#🕒 LAST UPDATE: 2025/08/27 | 07:53
-trojan://fhcx3efw-sbih-z46g-vupz-yjykshzb2wpd@127.0.0.1:2080?security=tls&type=tcp#This is a free trial project.
-trojan://xy0vlr8w-xpk8-fu8z-puqj-at275ntibysw@127.0.0.1:4080?security=tls&type=tcp#「 GitHub Argh94 ☕ 」
+trojan://a91qlzg8-k8ku-e8e7-bf50-uwedk45aw2w9@127.0.0.1:1080?security=tls&type=tcp#🕒 LAST UPDATE: 2025/08/27 | 11:55
+trojan://msnyfgtj-lhyv-tdml-gy5m-lafg98xnzokg@127.0.0.1:2080?security=tls&type=tcp#This is a free trial project.
+trojan://3vs0t8jl-7dnj-sbxl-2lih-rdrq6j1kimmr@127.0.0.1:4080?security=tls&type=tcp#「 GitHub Argh94 ☕ 」
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTozNjBlMjFkMjE5NzdkYzEx@103.111.114.29:57456#103.111.114.29:57456
-vmess://eyJ2IjoiMiIsInBzIjoiXHUwNjMzXHUwNjMxXHUwNjQ4XHUwNjMxIFx1MDYzMVx1MDYyN1x1MDZjY1x1MDZhZlx1MDYyN1x1MDY0NiBcdTA2N2VcdTA2MzFcdTA2MzNcdTA2MzFcdTA2MzlcdTA2MmFcdWQ4M2NcdWRmMGEgQHZtZXNzX2lyIiwiYWRkIjoiOTQuMTM2LjE4NS4yMzAiLCJwb3J0IjoxMDUzNCwiaWQiOiJiMDFjN2VmOS0zM2VjLTQxZjYtYmZiZi03N2RkYzRkMjE2NDkiLCJhaWQiOjAsInNjeSI6ImF1dG8iLCJuZXQiOiJ0Y3AiLCJ0eXBlIjoibm9uZSJ9
-vless://401374e6-df77-41fb-f638-dad8184f175b@102.177.189.251:443?type=grpc&security=tls&sni=pqh23v4.hiddendom.shop#102.177.189.251:443
-vless://6780a3c0-a98c-4622-b894-8e34167f7b31@104.26.1.108:443?type=ws&security=tls&path=/id5?ed=2560TELEGRAM_CHANEL_JKVPN_JKVPN_JKVPN&sni=blog.ruangguru.com.servpn.my.id#104.26.1.108:443
 vless://d88937d0-ce43-4bf8-9df6-d632810ba9ff@104.26.5.134:443?type=ws&security=tls&path=/?TELEGRAM-MARAMBASHI_MARAMBASHI_MARAMBASHI?ed=512&sni=007.xingfu.qzz.io&fp=random#104.26.5.134:443
 vless://1688039e-a45f-499e-b9f4-c098c87d3b32@104.17.187.205:443?type=ws&security=tls&path=/@Rayan_Config&sni=rAyAn-cOnFiG-TeLeGrAm-a01.rAyAn.dPdNs.oRg&fp=chrome#104.17.187.205:443
 vless://90c7ad5e-cd15-4314-b39b-aeabd397d592@104.18.13.229:2087?type=ws&security=tls&path=/?TELEGRAM-MARAMBASHI_MARAMBASHI_MARAMBASHI?ed=512&sni=vl.hongkong6.qzz.io&fp=random#104.18.13.229:2087
@@ -18,7 +15,10 @@ vless://82cdcdf0-e772-4d9a-b0a2-d6b605572ac1@moody-lock.seotoolsforyou.co.uk:80?
 vless://56c3abea-507d-4559-b1bd-39f339fc4997@m2a.vip784.com:33801?type=tcp&security=none#m2a.vip784.com:33801
 vless://935c990a-9bcc-484b-86a2-2a402f9ad1d4@grumpy-building.seotoolsforyou.co.uk:80?type=ws&security=none&path=/#grumpy-building.seotoolsforyou.co.uk:80
 vless://56c3abea-507d-4559-b1bd-39f339fc4997@m2a.vip784.com:33801?type=tcp&security=none#m2a.vip784.com:33801
+vless://e7ef2316-2ff9-4266-8d09-acbf90fbd0e4@cafearz.com:8080?type=ws&security=none&path=/olem/ws?ed=1024#cafearz.com:8080
+vless://6780a3c0-a98c-4622-b894-8e34167f7b31@172.67.74.133:443?type=ws&security=tls&path=/id5?ed=2560/?@&sni=blog.ruangguru.com.servpn.my.id#172.67.74.133:443
+vless://400f06ce-2b69-4444-a398-47b7166ccb54@tgju.org:80?type=ws&security=none&path=/olem/ws?ed=1024#tgju.org:80
 vless://a5ada705-cbac-47f7-9fa5-2e4426b7a510@es.iovpn.click:443?type=tcp&security=reality&sni=apple.com&fp=chrome&flow=xtls-rprx-vision&pbk=YoQ4rDLzUDrLuKwPi3T1X9T7ttwfZ3wv0hTBpzg44i8&sid=31f644193ea3#es.iovpn.click:443
 vless://4c26ebc3-7784-46d8-b52a-7b0ccae6f4b4@amazon-20.cristiano.name.ng:443?type=tcp&security=reality&sni=store.steampowered.com&fp=chrome&flow=xtls-rprx-vision&pbk=TGlPtfVzGIVpMauPRMGJj2Uu6GUiCpu5ZizIIjw-wx4&sid=f5#amazon-20.cristiano.name.ng:443
-trojan://i85i9hdg-9gr8-doh7-1aga-32u14w9c3b52@127.0.0.1:8080?security=tls&type=tcp#For enhanced GitHub access, visit Argh94 now!
-trojan://kgdkeos7-kklc-rlna-pbeo-4nihhiahzo9r@127.0.0.1:8081?security=tls&type=tcp#</> Collector v5.0
+trojan://d8v6db5h-ozj6-qykq-0tez-4vu71avoj0xe@127.0.0.1:8080?security=tls&type=tcp#For enhanced GitHub access, visit Argh94 now!
+trojan://nmycqrj6-vc07-21n2-23ju-l0otsmrcqeua@127.0.0.1:8081?security=tls&type=tcp#</> Collector v5.0

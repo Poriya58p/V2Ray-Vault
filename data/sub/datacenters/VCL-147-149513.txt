@@ -1,7 +1,7 @@
-trojan://8y6yofqa-1oed-l8wg-yns2-2zu6q2ov6owh@127.0.0.1:1080?security=tls&type=tcp#🕒 LAST UPDATE: 2025/08/27 | 07:53
-trojan://se8zik82-9pse-yv5m-c7l6-a9kjx9a810c8@127.0.0.1:2080?security=tls&type=tcp#This is a free trial project.
-trojan://d05nundf-9e0u-9ntw-65tl-ju93rolugrse@127.0.0.1:4080?security=tls&type=tcp#「 GitHub Argh94 ☕ 」
-ss://YWVzLTEyOC1nY206MDE3MjFlNDMtNTM4OS00Zjk3LWIyMWMtOTAwYWJiMmJkYTll@awes35lesl.blhao0o.dpdns.org:12031#HK 🇭🇰 ┇ SHADOWSOCKS-TCP-NTLS - VCL-147-149513 ┇ 103.181.165.246
+trojan://5a09nvcl-sccy-d5t6-4316-fw5q1h2shls5@127.0.0.1:1080?security=tls&type=tcp#🕒 LAST UPDATE: 2025/08/27 | 11:55
+trojan://wmtpn44b-jlyn-th0n-e6aq-y70saje0l1mt@127.0.0.1:2080?security=tls&type=tcp#This is a free trial project.
+trojan://8smqv7js-4d31-0zy1-q69j-kn0ufxlekcqv@127.0.0.1:4080?security=tls&type=tcp#「 GitHub Argh94 ☕ 」
 trojan://5e2ce79c-170e-484a-8802-40584a1a3a12@naiu-us.05vr9nyqg5.download:13020?sni=cloudflare.node-ssl.cdn-alibaba.com&peer=cloudflare.node-ssl.cdn-alibaba.com&security=tls#HK 🇭🇰 ┇ TROJAN-TCP-TLS - VCL-147-149513 ┇ 103.181.165.248
-trojan://2ed16qpi-n7yq-vt4s-vd3k-k47ae0sbp5zz@127.0.0.1:8080?security=tls&type=tcp#For enhanced GitHub access, visit Argh94 now!
-trojan://ougqekia-w38a-prdw-wgax-3237hbt50e1k@127.0.0.1:8081?security=tls&type=tcp#</> Collector v5.0
+ss://YWVzLTEyOC1nY206MDE3MjFlNDMtNTM4OS00Zjk3LWIyMWMtOTAwYWJiMmJkYTll@awes35lesl.blhao0o.dpdns.org:12031#HK 🇭🇰 ┇ SHADOWSOCKS-TCP-NTLS - VCL-147-149513 ┇ 103.181.165.246
+trojan://p8aid2k5-0bji-kd3o-9r3k-2a48akjfjvik@127.0.0.1:8080?security=tls&type=tcp#For enhanced GitHub access, visit Argh94 now!
+trojan://rycc713v-u9q0-k9pe-xxur-y4fnzvw18jst@127.0.0.1:8081?security=tls&type=tcp#</> Collector v5.0

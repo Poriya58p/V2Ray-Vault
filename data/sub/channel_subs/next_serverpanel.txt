@@ -1,10 +1,10 @@
-trojan://1f3h07at-pdez-3lx9-mlrw-wtlfa97d7ta2@127.0.0.1:1080?security=tls&type=tcp#🕒 LAST UPDATE: 2025/08/27 | 07:53
-trojan://1we2qrek-qlac-jotw-5wn2-v13uk00rcqyx@127.0.0.1:2080?security=tls&type=tcp#This is a free trial project.
-trojan://9vvc56gs-jl14-ldkw-tikf-a7weptyeit1j@127.0.0.1:4080?security=tls&type=tcp#「 GitHub Argh94 ☕ 」
+trojan://g4gmuc9b-9o6o-plau-yd5c-7odly4kogoeo@127.0.0.1:1080?security=tls&type=tcp#🕒 LAST UPDATE: 2025/08/27 | 11:55
+trojan://n55a3y2u-i7rh-dvej-b6st-oox2fg24i6g2@127.0.0.1:2080?security=tls&type=tcp#This is a free trial project.
+trojan://ktiudq8m-j08t-w1gt-alei-z3u6376zlsqh@127.0.0.1:4080?security=tls&type=tcp#「 GitHub Argh94 ☕ 」
 vless://3581187d-45af-46e0-acb1-18d70140b271@salar.mohad.sbs:80?type=ws&security=none&path=/#salar.mohad.sbs:80
 vless://6286f1e7-a6a5-4408-837c-a6de7ef8fe2c@salar.mohad.sbs:80?type=ws&security=none&path=/#salar.mohad.sbs:80
 vless://a630a4c4-9472-4b9e-9a8f-f1e1fe8c26c2@salar.mohad.sbs:80?type=ws&security=none&path=/#salar.mohad.sbs:80
 vless://536015cb-3588-44de-8b6e-f165102e7812@salar.mohad.sbs:80?type=ws&security=none&path=/#salar.mohad.sbs:80
 vless://868c70bb-3560-4aab-b00c-6b64ffb96c8e@salar.mohad.sbs:80?type=ws&security=none&path=/#salar.mohad.sbs:80
-trojan://qpd9m0k0-z6qm-yhwa-qipv-a9edqze8trit@127.0.0.1:8080?security=tls&type=tcp#For enhanced GitHub access, visit Argh94 now!
-trojan://6712rcn5-q07m-v74o-cjf7-nxi10jhd83yp@127.0.0.1:8081?security=tls&type=tcp#</> Collector v5.0
+trojan://hql0jtcj-2wex-von2-wc0e-lgdfyovjlnjg@127.0.0.1:8080?security=tls&type=tcp#For enhanced GitHub access, visit Argh94 now!
+trojan://ke3i9dsj-010x-z1gn-geyr-9v49ooite3hi@127.0.0.1:8081?security=tls&type=tcp#</> Collector v5.0

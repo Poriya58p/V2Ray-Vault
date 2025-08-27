@@ -1,6 +1,6 @@
-trojan://6ugk090l-d7ps-i32y-oojt-xad6np0bfvr0@127.0.0.1:1080?security=tls&type=tcp#🕒 LAST UPDATE: 2025/08/27 | 07:53
-trojan://uh5tqwve-jm3e-dsof-tujp-627ieqj5liey@127.0.0.1:2080?security=tls&type=tcp#This is a free trial project.
-trojan://zfiywf0v-z61z-noof-ogla-7jjz6wr7k78a@127.0.0.1:4080?security=tls&type=tcp#「 GitHub Argh94 ☕ 」
+trojan://e5l6k7o5-bnr5-43hl-sx7l-pl9xrnhnq83b@127.0.0.1:1080?security=tls&type=tcp#🕒 LAST UPDATE: 2025/08/27 | 11:55
+trojan://475ugi5g-p0sa-pfqd-agm7-o55buy1rdzem@127.0.0.1:2080?security=tls&type=tcp#This is a free trial project.
+trojan://3kiegt13-shk4-epdq-czif-qtl4vznifwf0@127.0.0.1:4080?security=tls&type=tcp#「 GitHub Argh94 ☕ 」
 vless://channel-rezaw_server@v.reza-punisher-shopv2n.fun:20906?type=grpc&security=reality&fp=chrome&pbk=tCzRx3x5LfPe6xlYL9wYuJBNl4ERMkwiK01v4PhJEHY#v.reza-punisher-shopv2n.fun:20906
 vless://channel-rezaw_server@v.reza-punisher-shopv2n.fun:59519?type=tcp&security=reality&sni=www.speedtest.net&fp=chrome&flow=xtls-rprx-vision&pbk=eFiSJk2KrONFWr2w3qXVNda1DVAlVrT5opUGFoOKj1M&sid=42f1e4b6#v.reza-punisher-shopv2n.fun:59519
 vless://channel-rezaw_server@v.reza-punisher-shopv2n.fun:20906?type=grpc&security=reality&fp=chrome&pbk=tCzRx3x5LfPe6xlYL9wYuJBNl4ERMkwiK01v4PhJEHY#v.reza-punisher-shopv2n.fun:20906
@@ -15,5 +15,5 @@ vless://channel-rezaw_server@v.reza-punisher-shopv2n.fun:20906?type=grpc&securit
 vless://channel-rezaw_server@v.reza-punisher-shopv2n.fun:59519?type=tcp&security=reality&sni=www.speedtest.net&fp=chrome&flow=xtls-rprx-vision&pbk=eFiSJk2KrONFWr2w3qXVNda1DVAlVrT5opUGFoOKj1M&sid=42f1e4b6#v.reza-punisher-shopv2n.fun:59519
 vless://channel-rezaw_server@v.reza-punisher-shopv2n.fun:20906?type=grpc&security=reality&fp=chrome&pbk=tCzRx3x5LfPe6xlYL9wYuJBNl4ERMkwiK01v4PhJEHY#v.reza-punisher-shopv2n.fun:20906
 vless://channel-rezaw_server@v.reza-punisher-shopv2n.fun:59519?type=tcp&security=reality&sni=www.speedtest.net&fp=chrome&flow=xtls-rprx-vision&pbk=eFiSJk2KrONFWr2w3qXVNda1DVAlVrT5opUGFoOKj1M&sid=42f1e4b6#v.reza-punisher-shopv2n.fun:59519
-trojan://f847mly7-vgwm-zz0s-ekie-7z3yy5pt7iqp@127.0.0.1:8080?security=tls&type=tcp#For enhanced GitHub access, visit Argh94 now!
-trojan://4pbfja8x-na84-1j3i-7re2-37yaddd6hl9z@127.0.0.1:8081?security=tls&type=tcp#</> Collector v5.0
+trojan://bbxaedae-lnsz-3jcn-gk0h-9li4b7kwrnk8@127.0.0.1:8080?security=tls&type=tcp#For enhanced GitHub access, visit Argh94 now!
+trojan://3phdlqh4-s8zp-7rj5-zc4t-8mmsl6rihc1b@127.0.0.1:8081?security=tls&type=tcp#</> Collector v5.0

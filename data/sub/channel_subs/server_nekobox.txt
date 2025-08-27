@@ -1,6 +1,6 @@
-trojan://1ak7pwti-c87x-dkuv-4bip-08zi61z4dlvu@127.0.0.1:1080?security=tls&type=tcp#🕒 LAST UPDATE: 2025/08/27 | 07:53
-trojan://ltr4ssey-z8ma-tfcu-jc1j-qlk9nn52hut0@127.0.0.1:2080?security=tls&type=tcp#This is a free trial project.
-trojan://le2gxhge-artg-3ncr-o5zs-8qnrqwuqxkzg@127.0.0.1:4080?security=tls&type=tcp#「 GitHub Argh94 ☕ 」
+trojan://o73pcfiz-jsip-gyqq-933m-ai8hgsychxje@127.0.0.1:1080?security=tls&type=tcp#🕒 LAST UPDATE: 2025/08/27 | 11:55
+trojan://9cimlosw-y7dy-jm5y-30c9-yi0eutr74bwo@127.0.0.1:2080?security=tls&type=tcp#This is a free trial project.
+trojan://6v0vpmyr-yu0e-dakk-9jg7-qyb42d2p9bjs@127.0.0.1:4080?security=tls&type=tcp#「 GitHub Argh94 ☕ 」
 vless://4b84096e-faf7-47a6-8588-cd313f762a64@iranvipen.1dlkimi.ir:248?type=tcp&security=none#iranvipen.1dlkimi.ir:248
 vless://3fed6250-3be2-4de4-aebe-65d860647df4@iranvipen.1dlkimi.ir:248?type=tcp&security=none#iranvipen.1dlkimi.ir:248
 vless://3fed6250-3be2-4de4-aebe-65d860647df4@iranvipen.1dlkimi.ir:59504?type=tcp&security=none#iranvipen.1dlkimi.ir:59504
@@ -21,5 +21,5 @@ vless://b65203ca-07e6-4c73-91fc-e213eb185272@188.245.39.111:248?type=tcp&securit
 vless://b65203ca-07e6-4c73-91fc-e213eb185272@mstr.fastly80.hosting-ip.com:80?type=ws&security=none&path=/admin#mstr.fastly80.hosting-ip.com:80
 vless://b65203ca-07e6-4c73-91fc-e213eb185272@mstr.fastly80.hosting-ip.com:80?type=ws&security=none&path=/admin#mstr.fastly80.hosting-ip.com:80
 vless://b65203ca-07e6-4c73-91fc-e213eb185272@188.245.39.111:248?type=tcp&security=none#188.245.39.111:248
-trojan://cd714asj-7sf5-q0sw-liwo-6zhho3i62zz5@127.0.0.1:8080?security=tls&type=tcp#For enhanced GitHub access, visit Argh94 now!
-trojan://owic3vcr-i2mu-nygu-a8mc-wx6u4v6sz3o2@127.0.0.1:8081?security=tls&type=tcp#</> Collector v5.0
+trojan://voe82zme-5t6z-p1h7-yov0-r8exmyzwvtcn@127.0.0.1:8080?security=tls&type=tcp#For enhanced GitHub access, visit Argh94 now!
+trojan://xawy54ud-ea8d-dac8-ffkb-z0bc81eec4kl@127.0.0.1:8081?security=tls&type=tcp#</> Collector v5.0

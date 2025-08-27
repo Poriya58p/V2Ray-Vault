@@ -1,11 +1,11 @@
-trojan://ilh67i2w-efwy-6kro-hb8f-fx1dabgnodf7@127.0.0.1:1080?security=tls&type=tcp#🕒 LAST UPDATE: 2025/08/27 | 07:53
-trojan://yxlu7g51-7kj6-u86s-wo72-an5f1sns4xii@127.0.0.1:2080?security=tls&type=tcp#This is a free trial project.
-trojan://lcey0q7e-jkuy-6u7d-nyb7-ucm4an79okga@127.0.0.1:4080?security=tls&type=tcp#「 GitHub Argh94 ☕ 」
+trojan://9uthpg1k-8vp1-4bao-9brn-0h4p74lfpnvb@127.0.0.1:1080?security=tls&type=tcp#🕒 LAST UPDATE: 2025/08/27 | 11:55
+trojan://lidzh8hs-j43n-zgs6-9mba-z4quk8v8czlq@127.0.0.1:2080?security=tls&type=tcp#This is a free trial project.
+trojan://agkrvy5i-5vdd-f7jt-55fu-xq709mfhf1md@127.0.0.1:4080?security=tls&type=tcp#「 GitHub Argh94 ☕ 」
 vmess://eyJ2IjoiMiIsInBzIjoia29wbHRhbGwgc2VydmljZSBpcmFuY2VsbCIsImFkZCI6IjE4OC4xMTQuOTcuMyIsInBvcnQiOjQ0MywiaWQiOiJmNTg0ZGUxNS0yMDM0LTQxNzAtYTcyMy1mNDhjMmJhZTVlMGYiLCJhaWQiOjAsInNjeSI6ImF1dG8iLCJuZXQiOiJ3cyIsImhvc3QiOiJhZnJobXMxNnYuYmVzdHhyYXkuYnV6eiIsInBhdGgiOiIvbGlua3dzIiwidGxzIjoidGxzIiwic25pIjoiYWZyaG1zMTZ2LmJlc3R4cmF5LmJ1enoifQ
 vless://e25f4fca-638c-4d53-aa7a-be116631e041@lan.limoovp11.sbs:18467?type=tcp&security=none#lan.limoovp11.sbs:18467
 vless://Telegram-BLuev2rayng@www.speedtest.net:8080?type=ws&security=none&path=/Telgram?ed=2048#www.speedtest.net:8080
 vless://Telegram-BLuev2rayng--joine1@www.speedtest.net:8080?type=ws&security=none&path=/Telgram?ed=2048#www.speedtest.net:8080
 vless://f1652ca5-c3fc-4ec6-83af-2f85579da0ed@85.133.204.8:51011?type=tcp&security=none#85.133.204.8:51011
 vless://config--BLUEV2RAYNG--chaneel@www.speedtest.net:80?type=ws&security=none&path=/Chaneel-BLUETOWVRAYNG?ed=2048#www.speedtest.net:80
-trojan://2yze019t-3bxn-z96s-3c5j-n1k0z2ccexz8@127.0.0.1:8080?security=tls&type=tcp#For enhanced GitHub access, visit Argh94 now!
-trojan://9yuqlqq4-vcs2-691i-3m9o-dtqx3tey2fv4@127.0.0.1:8081?security=tls&type=tcp#</> Collector v5.0
+trojan://tjo5mmu3-crc2-8zui-xryy-uu7t5ewmix93@127.0.0.1:8080?security=tls&type=tcp#For enhanced GitHub access, visit Argh94 now!
+trojan://8x2ur3on-9tqn-qd2q-wuvz-3bfj2sri8xrk@127.0.0.1:8081?security=tls&type=tcp#</> Collector v5.0
