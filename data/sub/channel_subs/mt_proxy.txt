@@ -1,6 +1,6 @@
-trojan://hi49o9r8-2a8n-cxxi-4egl-ki7tdsj4urbs@127.0.0.1:1080?security=tls&type=tcp#🕒 LAST UPDATE: 2025/08/27 | 19:54
-trojan://acy5k34c-z2yl-hgax-5dmc-6bl0eofvmsm8@127.0.0.1:2080?security=tls&type=tcp#This is a free trial project.
-trojan://f4bt87rh-85tt-7doj-kao8-4jl6azst7eg1@127.0.0.1:4080?security=tls&type=tcp#「 GitHub Argh94 ☕ 」
+trojan://xrqpssaf-pzaq-56rb-uv9i-eo0x9y7rts41@127.0.0.1:1080?security=tls&type=tcp#🕒 LAST UPDATE: 2025/08/28 | 00:03
+trojan://wuray957-iy7p-hgsi-d19r-rzl78h0e0ifa@127.0.0.1:2080?security=tls&type=tcp#This is a free trial project.
+trojan://6n572lbg-psjv-sirv-90x4-5hmqjnakuqf8@127.0.0.1:4080?security=tls&type=tcp#「 GitHub Argh94 ☕ 」
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1MTdUM0J2cFlhYWl1VzJj@series-a2-mec.varzesh360.co:443#series-a2-mec.varzesh360.co:443
 trojan://telegram-id-privatevpns@15.188.226.27:22222?sni=trojan.burgerip.co.uk&peer=trojan.burgerip.co.uk&security=tls#15.188.226.27:22222
 trojan://telegram-id-privatevpns@35.177.223.124:22222?sni=trojan.burgerip.co.uk&peer=trojan.burgerip.co.uk&security=tls#35.177.223.124:22222
@@ -9,5 +9,5 @@ trojan://telegram-id-privatevpns@3.70.33.164:22222?sni=trojan.burgerip.co.uk&pee
 trojan://telegram-id-privatevpns@3.78.152.130:22222?sni=trojan.burgerip.co.uk&peer=trojan.burgerip.co.uk&security=tls#3.78.152.130:22222
 vless://4f0ec48d-85ff-4163-bac7-eae00246fb17@prod6-cloud03-net03.cyberscaler.com:6068?type=tcp&security=none#prod6-cloud03-net03.cyberscaler.com:6068
 vless://80d1fe59-60f4-4272-a280-820e1ef0a754@104.18.26.90:443?type=ws&security=tls&path=/Telegram-XV2ray---Telegram-XV2ray---Telegram-XV2ray---Telegram-XV2ray---Telegram-XV2ray---Telegram-XV2ray---Telegram-XV2ray---Telegram-XV2ray---Telegram-XV2ray---Telegram-XV2ray---Telegram-XV2ray---Telegram-XV2ray---Telegram-XV2ray?ed=2048&sni=pages.dev#104.18.26.90:443
-trojan://ay0gw3pr-abrp-5v7o-uokv-rzocjuupwzc8@127.0.0.1:8080?security=tls&type=tcp#For enhanced GitHub access, visit Argh94 now!
-trojan://at49ej4s-9na4-njoe-u9vv-ca32esjzgqt3@127.0.0.1:8081?security=tls&type=tcp#</> Collector v5.0
+trojan://802wiwt7-winq-oinb-e2n7-rdueff3awjzb@127.0.0.1:8080?security=tls&type=tcp#For enhanced GitHub access, visit Argh94 now!
+trojan://cu795x08-kyyn-xh78-1wz3-o3mtzk2jdvq5@127.0.0.1:8081?security=tls&type=tcp#</> Collector v5.0

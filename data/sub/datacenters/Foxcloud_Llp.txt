@@ -1,8 +1,8 @@
-trojan://5t6lqr0i-pxrz-1u9g-5261-ew8b1tio0u2z@127.0.0.1:1080?security=tls&type=tcp#🕒 LAST UPDATE: 2025/08/27 | 19:54
-trojan://s1r3bmp6-t4dg-ql4v-vhtk-4vwtvlymjgmo@127.0.0.1:2080?security=tls&type=tcp#This is a free trial project.
-trojan://1ej8ulch-ucwz-bzt2-g53o-4zxoymdx48d8@127.0.0.1:4080?security=tls&type=tcp#「 GitHub Argh94 ☕ 」
+trojan://dd0u4ihz-7enf-0ivi-q1h4-skt49dsv8qmm@127.0.0.1:1080?security=tls&type=tcp#🕒 LAST UPDATE: 2025/08/28 | 00:03
+trojan://qv4ubndp-ghy6-j92r-m0hj-a4o6n487dt2w@127.0.0.1:2080?security=tls&type=tcp#This is a free trial project.
+trojan://ej9h3udz-ynr9-e1lj-5gk9-8t2rzo1ey077@127.0.0.1:4080?security=tls&type=tcp#「 GitHub Argh94 ☕ 」
 vless://05f3181c-ae29-480d-bc66-436f8f959005@38.135.122.152:443?type=tcp&security=reality&sni=cdnjs.com&fp=chrome&flow=xtls-rprx-vision&pbk=1he5EyHxI595x0mNkFNxOebUOQZGVGIy_c92bn1qO2o&sid=ac31827454d7f693#US 🇺🇸 ┇ VLESS-TCP-RLT - Foxcloud Llp ┇ 38.135.122.152
 vless://05f3181c-ae29-480d-bc66-436f8f959005@194.156.66.29:443?type=tcp&security=reality&sni=cdnjs.com&fp=chrome&flow=xtls-rprx-vision&pbk=1he5EyHxI595x0mNkFNxOebUOQZGVGIy_c92bn1qO2o&sid=ac31827454d7f693#NL 🇳🇱 ┇ VLESS-TCP-RLT - Foxcloud Llp ┇ 194.156.66.29
 vless://c8d98220-eee5-47ab-b311-b5a52c24d808@194.156.65.205:443?type=tcp&security=reality&sni=cdnjs.com&fp=chrome&flow=xtls-rprx-vision&pbk=1he5EyHxI595x0mNkFNxOebUOQZGVGIy_c92bn1qO2o&sid=ac31827454d7f693#GB 🇬🇧 ┇ VLESS-TCP-RLT - Foxcloud Llp ┇ 194.156.65.205
-trojan://dxjc3mbm-qa5x-ldut-h857-r591txxuu2t2@127.0.0.1:8080?security=tls&type=tcp#For enhanced GitHub access, visit Argh94 now!
-trojan://psz3t8db-de03-gk4t-n2to-pnho6uxnrf07@127.0.0.1:8081?security=tls&type=tcp#</> Collector v5.0
+trojan://3rjfdp41-tbga-hkrk-14sx-0e29xx5fyiaz@127.0.0.1:8080?security=tls&type=tcp#For enhanced GitHub access, visit Argh94 now!
+trojan://n0l2ejy5-7oxs-qs5d-eem3-wqeuv2av61tz@127.0.0.1:8081?security=tls&type=tcp#</> Collector v5.0

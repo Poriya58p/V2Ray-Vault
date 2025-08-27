@@ -1,11 +1,11 @@
-trojan://m9nduxd6-f1jw-uz4q-b1io-mvqt0m8m2led@127.0.0.1:1080?security=tls&type=tcp#🕒 LAST UPDATE: 2025/08/27 | 19:54
-trojan://f9xg51yr-x9k7-4c1r-3gtf-02m87m5p5wxh@127.0.0.1:2080?security=tls&type=tcp#This is a free trial project.
-trojan://27wi184y-f393-kcf4-68wu-avhigi6bcmna@127.0.0.1:4080?security=tls&type=tcp#「 GitHub Argh94 ☕ 」
+trojan://ys3jvw6l-mbmj-3pwh-hgkh-4gup50cuuv06@127.0.0.1:1080?security=tls&type=tcp#🕒 LAST UPDATE: 2025/08/28 | 00:03
+trojan://jq6pedk9-netg-2be3-cfw0-4jbjxm8p0l6j@127.0.0.1:2080?security=tls&type=tcp#This is a free trial project.
+trojan://nlgb3kx6-ja1h-ze16-feyy-nmac4tgacvjd@127.0.0.1:4080?security=tls&type=tcp#「 GitHub Argh94 ☕ 」
 vless://joinshotoV2rayNGFreee@151.101.67.8:80?type=xhttp&security=none&path=/#151.101.67.8:80
 vless://joinshotoV2rayNGFreee@151.101.67.8:80?type=xhttp&security=none&path=/#151.101.67.8:80
 vless://joinshotoV2rayNGFreee@65.108.247.56:80?type=xhttp&security=none&path=/#65.108.247.56:80
 vless://V2rayNGFreee@193.151.151.132:8081?type=tcp&security=none#193.151.151.132:8081
 vless://V2rayNGFreee@193.151.151.132:8081?type=tcp&security=none#193.151.151.132:8081
 vless://V2rayNGFreee@193.151.151.132:8081?type=tcp&security=none#193.151.151.132:8081
-trojan://f2cttph7-fnet-lg1g-nkp7-dwy2haoby5mz@127.0.0.1:8080?security=tls&type=tcp#For enhanced GitHub access, visit Argh94 now!
-trojan://12y58dsz-6snq-qgp1-groe-45ibi7lszcq8@127.0.0.1:8081?security=tls&type=tcp#</> Collector v5.0
+trojan://bf4evpcw-yp6d-dbk2-z48a-ncww79d5imc2@127.0.0.1:8080?security=tls&type=tcp#For enhanced GitHub access, visit Argh94 now!
+trojan://n0uexjn8-oss6-gffb-8h0k-ddl4ykghmnom@127.0.0.1:8081?security=tls&type=tcp#</> Collector v5.0

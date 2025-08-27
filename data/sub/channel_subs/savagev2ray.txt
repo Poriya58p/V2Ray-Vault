@@ -1,6 +1,8 @@
-trojan://xv531f8q-ce5n-kcjm-zjw9-i1qqsjt55wzc@127.0.0.1:1080?security=tls&type=tcp#🕒 LAST UPDATE: 2025/08/27 | 19:54
-trojan://qa52li81-lpvx-0shy-c76v-fh599hzbjxsq@127.0.0.1:2080?security=tls&type=tcp#This is a free trial project.
-trojan://tdd00kkp-5x9y-9x6q-2e5j-dos5aod4y38a@127.0.0.1:4080?security=tls&type=tcp#「 GitHub Argh94 ☕ 」
+trojan://cbac7yth-utln-czqv-l4k8-zv0te591vqly@127.0.0.1:1080?security=tls&type=tcp#🕒 LAST UPDATE: 2025/08/28 | 00:03
+trojan://sulypht5-f80f-wl5q-nlj5-w4id5brrywkr@127.0.0.1:2080?security=tls&type=tcp#This is a free trial project.
+trojan://u2plhv89-0lyh-a301-ggma-k70c2s6upg0g@127.0.0.1:4080?security=tls&type=tcp#「 GitHub Argh94 ☕ 」
+vless://c59b13fe-6c9e-4c59-95f0-835c75d4aaf9@hajlab.ucdavis.edu:80?type=ws&security=none&path=/@XvProxy----@XvProxy----@XvProxy----@XvProxy----@XvProxy----@XvProxy----@XvProxy----@XvProxy----@XvProxy----@XvProxy----@XvProxy----@XvProxy?ed=2048#hajlab.ucdavis.edu:80
+vless://2127b978-c320-4d31-8045-dfb9a643fd54@104.19.54.50:8080?type=ws&security=none&path=/@XvProxy----@XvProxy----@XvProxy----@XvProxy----@XvProxy----@XvProxy----@XvProxy----@XvProxy----@XvProxy----@XvProxy----@XvProxy----@XvProxy?ed=2048#104.19.54.50:8080
 vless://1fe30846-29da-473d-9959-17e02447638a@hajlab.ucdavis.edu:80?type=ws&security=none&path=/@XvProxy----@XvProxy----@XvProxy----@XvProxy----@XvProxy----@XvProxy----@XvProxy----@XvProxy----@XvProxy----@XvProxy----@XvProxy----@XvProxy?ed=2048#hajlab.ucdavis.edu:80
 vless://b703c909-61e9-4945-9bfc-c82bca433dd1@104.19.54.50:8080?type=ws&security=none&path=/@XvProxy----@XvProxy----@XvProxy----@XvProxy----@XvProxy----@XvProxy----@XvProxy----@XvProxy----@XvProxy----@XvProxy----@XvProxy----@XvProxy?ed=2048#104.19.54.50:8080
 vless://5855da6d-0dbb-4fa2-9c89-3674b7a71a18@hajlab.ucdavis.edu:80?type=ws&security=none&path=/@XvProxy----@XvProxy----@XvProxy----@XvProxy----@XvProxy----@XvProxy----@XvProxy----@XvProxy----@XvProxy----@XvProxy----@XvProxy----@XvProxy?ed=2048#hajlab.ucdavis.edu:80
@@ -19,7 +21,6 @@ vless://425ee71d-d5ca-4e00-90dc-e2a1352a91dd@hajlab.ucdavis.edu:80?type=ws&secur
 vless://a86ce4c7-b5a4-42ef-9402-3053d1fa313a@104.19.54.50:8080?type=ws&security=none&path=/@XvProxy----@XvProxy----@XvProxy----@XvProxy----@XvProxy----@XvProxy----@XvProxy----@XvProxy----@XvProxy----@XvProxy----@XvProxy----@XvProxy?ed=2048#104.19.54.50:8080
 vless://7d65ae51-7e92-4d27-9380-7e7cb0a9d828@104.19.54.50:8080?type=ws&security=none&path=/@XvProxy----@XvProxy----@XvProxy----@XvProxy----@XvProxy----@XvProxy----@XvProxy----@XvProxy----@XvProxy----@XvProxy----@XvProxy----@XvProxy?ed=2048#104.19.54.50:8080
 vless://3c7a4e6d-dae6-438c-aef8-2eafd63e7a11@104.19.54.50:8080?type=ws&security=none&path=/@XvProxy----@XvProxy----@XvProxy----@XvProxy----@XvProxy----@XvProxy----@XvProxy----@XvProxy----@XvProxy----@XvProxy----@XvProxy----@XvProxy?ed=2048#104.19.54.50:8080
-vless://b0f312b9-e05b-487d-b190-29516de738b6@172.67.74.133:443?type=ws&security=tls&path=/@XvProxy----@XvProxy----@XvProxy----@XvProxy----@XvProxy----@XvProxy----@XvProxy----@XvProxy----@XvProxy----@XvProxy----@XvProxy----@XvProxy/id5?ed=2560/?@&sni=blog.ruangguru.com.servpn.my.id#172.67.74.133:443
 vless://eff09fb3-17f7-44ee-bc00-6fa5a3e0e9da@panel1.svgspeedtest.net:54401?type=tcp&security=reality&sni=zula.ir&fp=chrome&pbk=AqGO4WCsGfcX046DebowJcVTKANHPazld7XyAHD_RQE&sid=e5201e3c#panel1.svgspeedtest.net:54401
 vless://3a4cc526-861c-4e2d-9a02-c357c72b3cc3@panel1.svgspeedtest.net:54401?type=tcp&security=reality&sni=zula.ir&fp=chrome&pbk=AqGO4WCsGfcX046DebowJcVTKANHPazld7XyAHD_RQE&sid=e5201e3c#panel1.svgspeedtest.net:54401
 vless://6b3bc016-fafc-4051-9680-3b43dd372503@panel1.svgspeedtest.net:54401?type=tcp&security=reality&sni=zula.ir&fp=chrome&pbk=AqGO4WCsGfcX046DebowJcVTKANHPazld7XyAHD_RQE&sid=e5201e3c#panel1.svgspeedtest.net:54401
@@ -42,5 +43,5 @@ warp://188.114.97.204:1002?#188.114.97.204:1002
 warp://188.114.97.2:903?#188.114.97.2:903
 warp://188.114.98.180:903?#188.114.98.180:903
 warp://188.114.98.193:1002?#188.114.98.193:1002
-trojan://dx7k3yq3-i7dp-a4fa-plge-o5aal6jp76qs@127.0.0.1:8080?security=tls&type=tcp#For enhanced GitHub access, visit Argh94 now!
-trojan://ch81x6tt-eaqg-hmvy-tizh-bq9t7nlil2i3@127.0.0.1:8081?security=tls&type=tcp#</> Collector v5.0
+trojan://5towwh3j-ioqn-kv90-02iv-y1hvcwie8ztw@127.0.0.1:8080?security=tls&type=tcp#For enhanced GitHub access, visit Argh94 now!
+trojan://uctjkvzn-u1dk-iax6-qk84-uis86dbqn92k@127.0.0.1:8081?security=tls&type=tcp#</> Collector v5.0

@@ -1,6 +1,6 @@
-trojan://5za5ik49-p24a-8rzi-iz0v-cvqebgojndf5@127.0.0.1:1080?security=tls&type=tcp#🕒 LAST UPDATE: 2025/08/27 | 19:54
-trojan://uj6gexo7-mv8f-w53k-08va-uuuyarq3igb3@127.0.0.1:2080?security=tls&type=tcp#This is a free trial project.
-trojan://1gso7oa3-yjmo-yxgg-j9wb-hvxol39d7vu0@127.0.0.1:4080?security=tls&type=tcp#「 GitHub Argh94 ☕ 」
+trojan://42zw0vv2-dzbf-q0mb-g8dm-kacdy0irseag@127.0.0.1:1080?security=tls&type=tcp#🕒 LAST UPDATE: 2025/08/28 | 00:03
+trojan://uhfy73c4-c1qb-ll3m-3k0j-x32xoyfcz09g@127.0.0.1:2080?security=tls&type=tcp#This is a free trial project.
+trojan://arq3yyb2-2civ-x061-xqcw-m9evxwhgxd6p@127.0.0.1:4080?security=tls&type=tcp#「 GitHub Argh94 ☕ 」
 vless://8d10333a-edf1-4474-a2d9-576a30fdf44a@www.speedtest.net:443?type=ws&security=tls&path=/?ed=1024&sni=dl-pack.motionbetter.ir&fp=chrome#www.speedtest.net:443
 vless://8d10333a-edf1-4474-a2d9-576a30fdf44a@2a01:4f8:1c17:d10d::1:8080?type=grpc&security=none#2a01:4f8:1c17:d10d::1:8080
 vless://8d10333a-edf1-4474-a2d9-576a30fdf44a@cpanel.com:2053?type=grpc&security=tls&sni=dl-pack.motionbetter.ir&fp=chrome#cpanel.com:2053
@@ -10,5 +10,5 @@ vless://8d10333a-edf1-4475-a2d9-576a30fdf44a@cpanel.com:2053?type=grpc&security=
 vless://8d10333a-edf2-4475-a2d9-176a30fdf44a@www.speedtest.net:443?type=ws&security=tls&path=/?ed=1024&sni=dl-pack.motionbetter.ir&fp=chrome#www.speedtest.net:443
 vless://8d10333a-edf2-4475-a2d9-176a30fdf44a@2a01:4f8:1c17:d10d::1:8080?type=grpc&security=none#2a01:4f8:1c17:d10d::1:8080
 vless://8d10333a-edf2-4475-a2d9-176a30fdf44a@cpanel.com:2053?type=grpc&security=tls&sni=dl-pack.motionbetter.ir&fp=chrome#cpanel.com:2053
-trojan://z02hvpp9-dobw-vmpk-45im-6ci0cd6kclg8@127.0.0.1:8080?security=tls&type=tcp#For enhanced GitHub access, visit Argh94 now!
-trojan://wy6zri85-cx9u-opma-07ab-i6fns2tr7e4b@127.0.0.1:8081?security=tls&type=tcp#</> Collector v5.0
+trojan://em8yzupo-p8u7-ukwn-tu22-oxz4b7uamuf3@127.0.0.1:8080?security=tls&type=tcp#For enhanced GitHub access, visit Argh94 now!
+trojan://uy17x343-vxb5-fmfm-kw3j-f6fdy9zk2jzr@127.0.0.1:8081?security=tls&type=tcp#</> Collector v5.0

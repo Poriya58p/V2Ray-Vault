@@ -1,6 +1,6 @@
-trojan://pfwak0z8-sfss-zzp1-s4ty-8gkbwaj8sijj@127.0.0.1:1080?security=tls&type=tcp#🕒 LAST UPDATE: 2025/08/27 | 19:54
-trojan://xec3akrq-xt9o-1ind-x57t-j3lvyid7ya4n@127.0.0.1:2080?security=tls&type=tcp#This is a free trial project.
-trojan://hjbbqell-a127-34jm-sx5d-9f9zrnbku8ki@127.0.0.1:4080?security=tls&type=tcp#「 GitHub Argh94 ☕ 」
+trojan://qe9q9bn9-asw4-64lc-jk49-om1sd944254l@127.0.0.1:1080?security=tls&type=tcp#🕒 LAST UPDATE: 2025/08/28 | 00:03
+trojan://zs9wsqna-lnfv-oxm6-3e2g-bqrix37ym28f@127.0.0.1:2080?security=tls&type=tcp#This is a free trial project.
+trojan://3jjctflm-qhb5-s4xw-xg24-9t8yps3hbp8j@127.0.0.1:4080?security=tls&type=tcp#「 GitHub Argh94 ☕ 」
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@45.87.175.65:8080#45.87.175.65:8080
 vless://db0edd3d-b3f3-453f-e0b2-1d55c74c0c71@cumhuriyet.com.tr:8080?type=ws&security=none&path=/@unlimiteddev----@unlimiteddev-----@unlimiteddev----@unlimiteddev----@unlimiteddev----@unlimiteddev----@unlimiteddev----@unlimiteddev----@unlimitedev----@unlimitedev----@unlimiteddev----@unlimiteddev?ed=2480#cumhuriyet.com.tr:8080
 vless://db0edd3d-b3f3-453f-e0b2-1d55c74c0c71@www.speedtest.net:8080?type=ws&security=none&path=/@unlimiteddev----@unlimiteddev-----@unlimiteddev----@unlimiteddev----@unlimiteddev----@unlimiteddev----@unlimiteddev----@unlimiteddev----@unlimitedev----@unlimitedev----@unlimiteddev----@unlimiteddev?ed=2480#www.speedtest.net:8080
@@ -17,5 +17,5 @@ vless://031335f5-d286-4671-a3d7-45c3a75e670c@172.66.40.99:8080?type=ws&security=
 vless://telegram-id-Arfilter@172.66.40.99:443?type=ws&security=tls&path=/telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray?ed=2048&sni=iSo.2SeDkFjEuIxIjD0Ew9DvKcxoisiEk61.BlOg&fp=firefox#172.66.40.99:443
 vless://96be492b-3388-4693-be03-9caefe6dfff5@91.98.38.6:8443?type=tcp&security=reality&sni=refersion.com&fp=firefox&pbk=r3FLw76bxhgit74mzJTglRM-ujPZ9f-HemByQ-uZqms&sid=27e6b66aa77662fb#91.98.38.6:8443
 vless://96be492b-3388-4693-be03-9caefe6dfff5@46.62.128.241:8443?type=tcp&security=reality&sni=refersion.com&fp=firefox&pbk=r3FLw76bxhgit74mzJTglRM-ujPZ9f-HemByQ-uZqms&sid=27e6b66aa77662fb#46.62.128.241:8443
-trojan://40mkefnq-ft1p-dudz-esiz-use3qpwb8p42@127.0.0.1:8080?security=tls&type=tcp#For enhanced GitHub access, visit Argh94 now!
-trojan://tebsrasc-1biv-fyfq-h816-i2tse5awwmvk@127.0.0.1:8081?security=tls&type=tcp#</> Collector v5.0
+trojan://y5fa03qm-7wmk-eisg-ngju-8evf2kulpjyr@127.0.0.1:8080?security=tls&type=tcp#For enhanced GitHub access, visit Argh94 now!
+trojan://1d5r1i8d-vtqm-zgbl-r04g-r13m4pez24q5@127.0.0.1:8081?security=tls&type=tcp#</> Collector v5.0

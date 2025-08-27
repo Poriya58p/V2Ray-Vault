@@ -1,6 +1,6 @@
-trojan://e9a25w8p-4qph-jgv3-x3un-pfmxmm2102kl@127.0.0.1:1080?security=tls&type=tcp#🕒 LAST UPDATE: 2025/08/27 | 19:54
-trojan://p3dkeowa-7dbz-mu6s-rjmp-g10d2qy51a09@127.0.0.1:2080?security=tls&type=tcp#This is a free trial project.
-trojan://0ympzfpb-yfy4-ajw0-qmt0-f2xs472rnemy@127.0.0.1:4080?security=tls&type=tcp#「 GitHub Argh94 ☕ 」
+trojan://o8v4at7x-4fin-ny0x-loph-5ui3x8d6ek3s@127.0.0.1:1080?security=tls&type=tcp#🕒 LAST UPDATE: 2025/08/28 | 00:03
+trojan://wan4nva0-cv0e-9auk-38i3-ocwce3roh4lu@127.0.0.1:2080?security=tls&type=tcp#This is a free trial project.
+trojan://jhd8c0bt-zxm6-x09f-91x2-5rocym0tzfj0@127.0.0.1:4080?security=tls&type=tcp#「 GitHub Argh94 ☕ 」
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1MTdUM0J2cFlhYWl1VzJj@series-a2-mec.varzesh360.co:443#series-a2-mec.varzesh360.co:443
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTptcHMzRndtRGpMcldhT1Zn@series-a2.samanehha.co:443#series-a2.samanehha.co:443
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@64.74.163.218:990#64.74.163.218:990
@@ -65,5 +65,5 @@ vless://8ca4ca74-fa0c-4c18-86c5-ce6d0382ff14@104.21.32.1:2096?type=ws&security=t
 vless://eb568786-bb3f-4f02-a25c-7183e800a0ba@188.114.97.183:2053?type=ws&security=tls&path=/bPJ4mgkJbA7CnY7q?ed=2560&sni=nOCTYq.pAGES.DEV&fp=randomized#188.114.97.183:2053
 vless://38046915-6d82-4d86-8510-b5bcc569d0ea@www.speedtest.net:443?type=ws&security=tls&path=/@Prime_Verse?ed=2560&sni=PaGes.deV#www.speedtest.net:443
 vless://bf4631cc-27eb-4b8e-ab85-5db1ddab6125@162.55.36.107:577?type=tcp&security=reality&sni=stackoverflow.com&fp=chrome&flow=xtls-rprx-vision&pbk=AU2O1no3apJnMhDrfHwDACAwFDo8-DZkCL66AXSRbh8&sid=9b28132c703433#162.55.36.107:577
-trojan://8fakpie7-f6dc-4ujz-pyzz-s8r2z8x8ltj7@127.0.0.1:8080?security=tls&type=tcp#For enhanced GitHub access, visit Argh94 now!
-trojan://vo8o1tt8-jimf-pha8-rclf-qtn09xn5b3zb@127.0.0.1:8081?security=tls&type=tcp#</> Collector v5.0
+trojan://9nbefbzr-bx1k-vr7s-vrz7-a4wjlw51o260@127.0.0.1:8080?security=tls&type=tcp#For enhanced GitHub access, visit Argh94 now!
+trojan://fjudfrjd-22gb-fjxw-jxe3-1w0peysq5syp@127.0.0.1:8081?security=tls&type=tcp#</> Collector v5.0

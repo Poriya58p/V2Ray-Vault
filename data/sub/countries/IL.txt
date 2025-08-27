@@ -1,7 +1,7 @@
-trojan://epfd438p-g5tf-wyc7-u1oj-sdzgs7sgboc1@127.0.0.1:1080?security=tls&type=tcp#🕒 LAST UPDATE: 2025/08/27 | 19:54
-trojan://7lx24l6f-7ni5-gum4-8402-cj6mxcvorpdd@127.0.0.1:2080?security=tls&type=tcp#This is a free trial project.
-trojan://iztrqjzn-frp6-iasz-tb5b-xzaxvzgyjkzv@127.0.0.1:4080?security=tls&type=tcp#「 GitHub Argh94 ☕ 」
+trojan://3mm55j68-g52g-yh9p-oiam-u09mz1lissj6@127.0.0.1:1080?security=tls&type=tcp#🕒 LAST UPDATE: 2025/08/28 | 00:03
+trojan://ne30hjtt-i60f-58y6-hjkf-bjxnqbqv20gz@127.0.0.1:2080?security=tls&type=tcp#This is a free trial project.
+trojan://rwewqdqd-4rxn-wqni-0k5c-miqcorbeuws7@127.0.0.1:4080?security=tls&type=tcp#「 GitHub Argh94 ☕ 」
 vless://7e296434-2d17-48d3-928d-19eaa34aecb1@77.91.74.189:28495?type=tcp&security=reality&sni=dl.google.com&fp=chrome&pbk=KXMH8QzaRa66F6GxOR1CanBunO2uHdJvri2zCbar2RQ&sid=0ecc2c1392#IL 🇮🇱 ┇ VLESS-TCP-RLT - Pq Hosting Plus S.r.l. ┇ 77.91.74.189
-vless://8886725c-4799-4e86-8ef7-a8594fbb3226@blog.curfuffled.com:443?type=grpc&security=reality&sni=tgju.org&fp=firefox&pbk=-BtPlG7KnJIIIgh77udPqDKTOIMPsJUy0kYhp3CWBwA&sid=975cfc3c7441#IL 🇮🇱 ┇ VLESS-GRPC-RLT - KAMATERA ┇ 103.240.147.14
-trojan://axwc6r5a-x0jg-1m3p-2efx-4bhbdjk3tajk@127.0.0.1:8080?security=tls&type=tcp#For enhanced GitHub access, visit Argh94 now!
-trojan://3knv70g6-o0cd-ckau-x9zw-uflx4l5c66al@127.0.0.1:8081?security=tls&type=tcp#</> Collector v5.0
+vless://15b18878-e774-4f6e-9c33-d8a6e6205fb3@blog.curfuffled.com:443?type=grpc&security=reality&sni=tgju.org&fp=firefox&pbk=-BtPlG7KnJIIIgh77udPqDKTOIMPsJUy0kYhp3CWBwA&sid=975cfc3c7441#IL 🇮🇱 ┇ VLESS-GRPC-RLT - KAMATERA ┇ 103.240.147.14
+trojan://sixy4eyx-hv06-c65x-9a8l-5gut7bu2k4kp@127.0.0.1:8080?security=tls&type=tcp#For enhanced GitHub access, visit Argh94 now!
+trojan://05gkjm6v-wokf-myn8-8mlh-e2zegota2my0@127.0.0.1:8081?security=tls&type=tcp#</> Collector v5.0

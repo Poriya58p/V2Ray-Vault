@@ -1,6 +1,6 @@
-trojan://dwk701xy-voh0-m1j5-6gcv-45m0e4fr75a1@127.0.0.1:1080?security=tls&type=tcp#🕒 LAST UPDATE: 2025/08/27 | 19:54
-trojan://rjllkiza-4jzc-bovu-i1e1-45vm3yk8t46e@127.0.0.1:2080?security=tls&type=tcp#This is a free trial project.
-trojan://2uxr7e4c-ecwo-dqge-l076-ezrj79vxrp95@127.0.0.1:4080?security=tls&type=tcp#「 GitHub Argh94 ☕ 」
+trojan://byx3oq92-1xqm-tg5w-b8o3-k43kmpbkiwdh@127.0.0.1:1080?security=tls&type=tcp#🕒 LAST UPDATE: 2025/08/28 | 00:03
+trojan://qrcg0674-zb6t-2pgt-tr89-o1bdizt3y4on@127.0.0.1:2080?security=tls&type=tcp#This is a free trial project.
+trojan://bczb4rfm-kma6-x25i-tyyp-3eonqytu4fwq@127.0.0.1:4080?security=tls&type=tcp#「 GitHub Argh94 ☕ 」
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTptcHMzRndtRGpMcldhT1Zn@series-a2.samanehha.co:443#series-a2.samanehha.co:443
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1MTdUM0J2cFlhYWl1VzJj@series-a2-mec.samanehha.co:443#series-a2-mec.samanehha.co:443
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpCb2cwRUxtTU05RFN4RGRR@series-a2-me.samanehha.co:443#series-a2-me.samanehha.co:443
@@ -39,5 +39,5 @@ tuic://87bc1693-8860-41d7-acf4-e6edf49abbbb:crivAv10hAdr-fop4Lne@70.34.208.3:443
 tuic://d1bb3aae-ace9-4b0f-9ae5-85ab73acbb43:Mahsaamini@64.176.191.133:443?congestion_control=bbr&udp_relay_mode=native&alpn=h3,spdy/3.1#64.176.191.133:443
 tuic://38e38f61-b1dd-4b34-90d0-f6222fd7393f:e7b1c11f0d40cc95@209.250.254.198:443?sni=www.apple.com&congestion_control=bbr&udp_relay_mode=native&alpn=h3#209.250.254.198:443
 tuic://6313c68a-472b-4999-ba33-094a55ea7549:FRebRlCrO+huXaprEwr6@70.34.198.64:443?sni=www.apple.com&congestion_control=bbr&udp_relay_mode=native&alpn=h3,spdy/3.1#70.34.198.64:443
-trojan://mmjf91e0-kejg-zyu6-s9wa-irtyrd2cyk2w@127.0.0.1:8080?security=tls&type=tcp#For enhanced GitHub access, visit Argh94 now!
-trojan://lj7ak6bo-hp3l-ls2g-k2be-idsa8zw2yof7@127.0.0.1:8081?security=tls&type=tcp#</> Collector v5.0
+trojan://9lbyo7dq-foey-8buh-5vdg-rxsrgd4w0l2y@127.0.0.1:8080?security=tls&type=tcp#For enhanced GitHub access, visit Argh94 now!
+trojan://dssk8ayp-6fuz-vcgq-ynpl-syg9yhhmp80u@127.0.0.1:8081?security=tls&type=tcp#</> Collector v5.0

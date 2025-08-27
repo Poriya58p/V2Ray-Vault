@@ -1,6 +1,6 @@
-trojan://sxamh9um-f8hu-s9lb-lck7-ea8p5ovbsudq@127.0.0.1:1080?security=tls&type=tcp#🕒 LAST UPDATE: 2025/08/27 | 19:54
-trojan://tq9qqd8e-xwev-0tzb-r1ox-egmwl8k66a7d@127.0.0.1:2080?security=tls&type=tcp#This is a free trial project.
-trojan://v3x3cc4h-fhfc-j3ec-c672-1s7ry6xe318n@127.0.0.1:4080?security=tls&type=tcp#「 GitHub Argh94 ☕ 」
+trojan://0l2lb1r9-q48k-tmhf-ladx-a38y0xerej18@127.0.0.1:1080?security=tls&type=tcp#🕒 LAST UPDATE: 2025/08/28 | 00:03
+trojan://b8vc7lbt-hji9-iqsw-54de-81x5ne4782cg@127.0.0.1:2080?security=tls&type=tcp#This is a free trial project.
+trojan://0o9ce4ii-0za1-rc8y-r3fp-r4gghi4hxk1v@127.0.0.1:4080?security=tls&type=tcp#「 GitHub Argh94 ☕ 」
 vless://9c9b8418-239a-4705-be72-31d332dd4272@172.66.40.99:8080?type=ws&security=none&path=/-LiV2ry@LIGHTNING6-TEL--@LIGHTNING6-TEL--@LIGHTNING6-TEL--@LIGHTNING6-JOIN-@LIGHTNING6-TEL--@LIGHTNING6-JOIN-@LIGHTNING6-TEL-@LIGHTNING6-TEL--@LIGHTNING6-JOIN-@LIGHTNING6-TEL--@LIGHTNING6?ed=2048#172.66.40.99:8080
 vless://fcbcca00-44c2-4330-a072-bd0ba626eb0f@172.66.40.99:8080?type=ws&security=none&path=/-LiV2ry@LIGHTNING6-TEL--@LIGHTNING6-TEL--@LIGHTNING6-TEL--@LIGHTNING6-JOIN-@LIGHTNING6-TEL--@LIGHTNING6-JOIN-@LIGHTNING6-TEL-@LIGHTNING6-TEL--@LIGHTNING6-JOIN-@LIGHTNING6-TEL--@LIGHTNING6?ed=2048#172.66.40.99:8080
 vless://9c9b8418-239a-4705-be72-31d332dd4272@172.66.40.99:8080?type=ws&security=none&path=/-LiV2ry@LIGHTNING6-TEL--@LIGHTNING6-TEL--@LIGHTNING6-TEL--@LIGHTNING6-JOIN-@LIGHTNING6-TEL--@LIGHTNING6-JOIN-@LIGHTNING6-TEL-@LIGHTNING6-TEL--@LIGHTNING6-JOIN-@LIGHTNING6-TEL--@LIGHTNING6?ed=2048#172.66.40.99:8080
@@ -11,5 +11,5 @@ vless://8c96d8f8-517c-446f-82f0-c3518623b03b@172.66.40.99:8080?type=ws&security=
 vless://d47ad5b7-88e5-4b18-92a9-be723dfee5d1@172.66.40.99:8080?type=ws&security=none&path=/-LiV2ry@LIGHTNING6-TEL--@LIGHTNING6-TEL--@LIGHTNING6-TEL--@LIGHTNING6-JOIN-@LIGHTNING6-TEL--@LIGHTNING6-JOIN-@LIGHTNING6-TEL-@LIGHTNING6-TEL--@LIGHTNING6-JOIN-@LIGHTNING6-TEL--@LIGHTNING6?ed=2048#172.66.40.99:8080
 vless://031335f5-d286-4671-a3d7-45c3a75e670c@172.66.40.99:8080?type=ws&security=none&path=/-LiV2ry@LIGHTNING6-TEL--@LIGHTNING6-TEL--@LIGHTNING6-TEL--@LIGHTNING6-JOIN-@LIGHTNING6-TEL--@LIGHTNING6-JOIN-@LIGHTNING6-TEL-@LIGHTNING6-TEL--@LIGHTNING6-JOIN-@LIGHTNING6-TEL--@LIGHTNING6?ed=2048#172.66.40.99:8080
 vless://25f6398e-56c3-4b9e-85e2-fa71448fe740@172.66.40.99:8080?type=ws&security=none&path=/-LiV2ry@LIGHTNING6-TEL--@LIGHTNING6-TEL--@LIGHTNING6-TEL--@LIGHTNING6-JOIN-@LIGHTNING6-TEL--@LIGHTNING6-JOIN-@LIGHTNING6-TEL-@LIGHTNING6-TEL--@LIGHTNING6-JOIN-@LIGHTNING6-TEL--@LIGHTNING6?ed=2048#172.66.40.99:8080
-trojan://110p5mvk-mqg0-f3w6-3rlf-p5pl4f15u92z@127.0.0.1:8080?security=tls&type=tcp#For enhanced GitHub access, visit Argh94 now!
-trojan://vjmwwpzv-0hlc-2n4a-zvje-91o73s7oc7j5@127.0.0.1:8081?security=tls&type=tcp#</> Collector v5.0
+trojan://dza69466-7fes-xqll-7l3z-0d2w0mxojdqm@127.0.0.1:8080?security=tls&type=tcp#For enhanced GitHub access, visit Argh94 now!
+trojan://jz2pwfy5-rmbo-g7os-bjs6-rib5f5slvtje@127.0.0.1:8081?security=tls&type=tcp#</> Collector v5.0

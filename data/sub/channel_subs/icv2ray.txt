@@ -1,6 +1,6 @@
-trojan://da4avzxp-p4l0-69kf-3gp6-uzq3hosy9rd6@127.0.0.1:1080?security=tls&type=tcp#🕒 LAST UPDATE: 2025/08/27 | 19:54
-trojan://r4m93btw-iggh-7yvg-ib9f-rleuejs86qom@127.0.0.1:2080?security=tls&type=tcp#This is a free trial project.
-trojan://g83y49as-ekk0-vzra-pto3-8y0kl6qh8t61@127.0.0.1:4080?security=tls&type=tcp#「 GitHub Argh94 ☕ 」
+trojan://rbnmfokz-8qhh-mo37-gaja-mh63qfgg9d2p@127.0.0.1:1080?security=tls&type=tcp#🕒 LAST UPDATE: 2025/08/28 | 00:03
+trojan://e5hbnig6-jz4n-oniz-3jaf-4bzb4rcd7c1j@127.0.0.1:2080?security=tls&type=tcp#This is a free trial project.
+trojan://vcpwx96e-tz8m-z2az-0p6c-94r2693c7hqm@127.0.0.1:4080?security=tls&type=tcp#「 GitHub Argh94 ☕ 」
 vless://5879d109-8c92-448%61-801b-3f3989019934@104.17.147.22:443?type=ws&security=tls&path=/Telegram-XV2ray---Telegram-XV2ray---Telegram-XV2ray---Telegram-XV2ray---Telegram-XV2ray---Telegram-XV2ray---Telegram-XV2ray---Telegram-XV2ray---Telegram-XV2ray---Telegram-XV2ray---Telegram-XV2ray---Telegram-XV2ray---Telegram-XV2ray?ed=2048&sni=pages.dev#104.17.147.22:443
 vless://5879d109-8c92-448%61-801b-3f3989019934@172.66.40.99:443?type=ws&security=tls&path=/Telegram-XV2ray---Telegram-XV2ray---Telegram-XV2ray---Telegram-XV2ray---Telegram-XV2ray---Telegram-XV2ray---Telegram-XV2ray---Telegram-XV2ray---Telegram-XV2ray---Telegram-XV2ray---Telegram-XV2ray---Telegram-XV2ray---Telegram-XV2ray?ed=2048&sni=pages.dev#172.66.40.99:443
 vless://5879d109-8c92-448%61-801b-3f3989019934@172.67.73.233:443?type=ws&security=tls&path=/Telegram-XV2ray---Telegram-XV2ray---Telegram-XV2ray---Telegram-XV2ray---Telegram-XV2ray---Telegram-XV2ray---Telegram-XV2ray---Telegram-XV2ray---Telegram-XV2ray---Telegram-XV2ray---Telegram-XV2ray---Telegram-XV2ray---Telegram-XV2ray?ed=2048&sni=pages.dev#172.67.73.233:443
@@ -89,5 +89,5 @@ vless://%614b%61%61696-9%6135-44%614-d354-b61bb%615c677%61@104.26.5.112:2052?typ
 vless://%614b%61%61696-9%6135-44%614-d354-b61bb%615c677%61@www.speedtest.net:2052?type=ws&security=none&path=/@vmessorg----@vmessorg-----@vmessorg----@vmessorg----@vmessorg----@vmessorg----@vmessorg----@vmessorg----@vmessorg----@vmessorg----@vmessorg----@vmessorg?ed=2480#www.speedtest.net:2052
 vless://738ebc1c-c44a-418e-8c2c-f9e2efe1f4fe@91.99.70.212:443?type=grpc&security=reality&sni=www.cdn77.com&fp=chrome&pbk=Zjzu45fPTjjaIcBoYyaLqieLtsWJD8ujdzNOQodWvnk#91.99.70.212:443
 vless://f076%61%6511-156c-45c5-b252-%61%658dd6fd1494@91.99.70.212:443?type=grpc&security=reality&sni=www.cdn77.com&fp=chrome&pbk=Zjzu45fPTjjaIcBoYyaLqieLtsWJD8ujdzNOQodWvnk#91.99.70.212:443
-trojan://morj0e39-qbej-7xf5-poxj-b4aufbyt7fjc@127.0.0.1:8080?security=tls&type=tcp#For enhanced GitHub access, visit Argh94 now!
-trojan://jnlxuj7k-1j67-0kt5-1fsf-n7e2trt12paw@127.0.0.1:8081?security=tls&type=tcp#</> Collector v5.0
+trojan://hfosd812-itvg-09xk-jcju-zqhkgs7j7p87@127.0.0.1:8080?security=tls&type=tcp#For enhanced GitHub access, visit Argh94 now!
+trojan://95qrqdiq-7jz0-x1lq-y02c-f1mxabltstqg@127.0.0.1:8081?security=tls&type=tcp#</> Collector v5.0

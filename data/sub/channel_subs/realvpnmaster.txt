@@ -1,6 +1,6 @@
-trojan://0hnirbwa-fdhk-yimp-nb2t-ti24f7y9ez0n@127.0.0.1:1080?security=tls&type=tcp#🕒 LAST UPDATE: 2025/08/27 | 19:54
-trojan://pytxonk5-ruv6-ypo2-g1n4-qmh6lsgkc1er@127.0.0.1:2080?security=tls&type=tcp#This is a free trial project.
-trojan://91vfxzm7-o1ef-0rzd-l6by-xa3saayk5iq2@127.0.0.1:4080?security=tls&type=tcp#「 GitHub Argh94 ☕ 」
+trojan://mkz6p1vx-4yvc-r3fh-4yh4-wf5zdrud1331@127.0.0.1:1080?security=tls&type=tcp#🕒 LAST UPDATE: 2025/08/28 | 00:03
+trojan://xna6ru8v-mbtb-5d22-iwa4-ykf4poyfnu1s@127.0.0.1:2080?security=tls&type=tcp#This is a free trial project.
+trojan://lvjl2xcq-zf51-i39s-ua7k-0pyyfxdi0eot@127.0.0.1:4080?security=tls&type=tcp#「 GitHub Argh94 ☕ 」
 vless://452d4d88-ab7e-403d-a49a-473b73a83f8a@103.184.44.104:2052?type=ws&security=none&path=/Telegram,@ TEHRANARGO,Telegram,@ TEHRANARGO,Telegram,@ TEHRANARGO,Telegram,@ TEHRANARGO,Telegram,@ TEHRANARGO,Telegram,@ TEHRANARGO,Telegram,@ TEHRANARGO#103.184.44.104:2052
 vless://db5a8d71-b3f3-4e5c-a2a9-e7f78c9d141c@185.146.173.185:2095?type=ws&security=none&path=/#185.146.173.185:2095
 vless://53ed61cd-8be2-46eb-b7c2-850a732ed849@185.146.173.24:8880?type=ws&security=none&path=/Tel:@Daily_ConfigsTel:@Daily_ConfigsTel:@Daily_ConfigsTel:@Daily_ConfigsTel:@Daily_Configs#185.146.173.24:8880
@@ -16,5 +16,5 @@ vless://b2449438-5b50-4ddf-ad7d-fe66f3eb7753@lightning6-joinbed.filj.top:8880?ty
 vless://f602bb71-7011-4b59-8f04-eb50040bf2e3@lightning6-joinbed.filj.top:8880?type=ws&security=none&path=/@LIGHTNING6-TEL--@LIGHTNING6-TEL--@LIGHTNING6-TEL--@LIGHTNING6-JOIN-@LIGHTNING6-TEL--@LIGHTNING6-JOIN-@LIGHTNING6-TEL-@LIGHTNING6-TEL--@LIGHTNING6-JOIN-@LIGHTNING6-TEL--@LIGHTNING6-@LiV2ray#lightning6-joinbed.filj.top:8880
 vless://fe04082c-3ed6-40fc-ac9e-f11487996e39@lightning6-joinbed.filj.top:8880?type=ws&security=none&path=/@LIGHTNING6-TEL--@LIGHTNING6-TEL--@LIGHTNING6-TEL--@LIGHTNING6-JOIN-@LIGHTNING6-TEL--@LIGHTNING6-JOIN-@LIGHTNING6-TEL-@LIGHTNING6-TEL--@LIGHTNING6-JOIN-@LIGHTNING6-TEL--@LIGHTNING6-@LiV2ray#lightning6-joinbed.filj.top:8880
 vless://fe04082c-3ed6-40fc-ac9e-f11487996e39@lightning6-joinbed.filj.top:8880?type=ws&security=none&path=/@LIGHTNING6-TEL--@LIGHTNING6-TEL--@LIGHTNING6-TEL--@LIGHTNING6-JOIN-@LIGHTNING6-TEL--@LIGHTNING6-JOIN-@LIGHTNING6-TEL-@LIGHTNING6-TEL--@LIGHTNING6-JOIN-@LIGHTNING6-TEL--@LIGHTNING6-@LiV2ray?ed=1024#lightning6-joinbed.filj.top:8880
-trojan://vjo5xfuu-lnmp-6vmd-24k0-favsqzowdbxe@127.0.0.1:8080?security=tls&type=tcp#For enhanced GitHub access, visit Argh94 now!
-trojan://4mzo25xw-p2dv-mluc-ab94-lmqdsnrmjert@127.0.0.1:8081?security=tls&type=tcp#</> Collector v5.0
+trojan://txhkwss0-vwp0-rp3a-6zq4-ob7g1hlru7qg@127.0.0.1:8080?security=tls&type=tcp#For enhanced GitHub access, visit Argh94 now!
+trojan://xsmh2g1b-4y1i-i478-98k5-f8zu53y5fc0h@127.0.0.1:8081?security=tls&type=tcp#</> Collector v5.0

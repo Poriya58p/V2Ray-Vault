@@ -1,6 +1,6 @@
-trojan://aluodjsm-4cbe-o060-sgq5-kvmxnj43kb5x@127.0.0.1:1080?security=tls&type=tcp#🕒 LAST UPDATE: 2025/08/27 | 19:54
-trojan://6a84a7np-5e67-i6w4-9kqe-m3yee92fcu8b@127.0.0.1:2080?security=tls&type=tcp#This is a free trial project.
-trojan://rppo1rx5-y7h3-ftk9-g8bc-8mkhd4yiiser@127.0.0.1:4080?security=tls&type=tcp#「 GitHub Argh94 ☕ 」
+trojan://mim8dyyc-7xvf-zb69-ow35-ateonh6z2xgg@127.0.0.1:1080?security=tls&type=tcp#🕒 LAST UPDATE: 2025/08/28 | 00:03
+trojan://j97i2o6x-dh97-na1v-i0mt-cjzlatxkya4c@127.0.0.1:2080?security=tls&type=tcp#This is a free trial project.
+trojan://gs5eqw00-mzld-bead-hajp-jkaitqkco1gr@127.0.0.1:4080?security=tls&type=tcp#「 GitHub Argh94 ☕ 」
 vless://DIGIV2RAy@www.speedtest.net:2052?type=ws&security=none&path=/tm-Digiv2-__teldIGIv2__-DIGiv#www.speedtest.net:2052
 vless://DIGIV2RAy@www.speedtest.net:2052?type=httpupgrade&security=none&path=/tm-Digiv2-__teldIGIv2__-DIGIV#www.speedtest.net:2052
 vless://DIGIV2RAY@www.speedtest.net:2052?type=ws&security=none&path=/tm-Digiv2-__teldIGIv2__-DIGiv#www.speedtest.net:2052
@@ -11,5 +11,5 @@ vless://DIGIV2RAY@www.speedtest.net:2052?type=ws&security=none&path=/tm-Digiv2-_
 vless://DIGIV2RAY@www.speedtest.net:2052?type=httpupgrade&security=none&path=/tm-Digiv2-__teldIGIv2__-DIGIV#www.speedtest.net:2052
 vless://DIGIV2RAY@www.speedtest.net:2052?type=ws&security=none&path=/tm-Digiv2-__teldIGIv2__-DIGiv#www.speedtest.net:2052
 vless://DIGIV2RAY@www.speedtest.net:2052?type=httpupgrade&security=none&path=/tm-Digiv2-__teldIGIv2__-DIGIV#www.speedtest.net:2052
-trojan://356fqaxp-98tj-xryh-cmvh-k346vnyg62q3@127.0.0.1:8080?security=tls&type=tcp#For enhanced GitHub access, visit Argh94 now!
-trojan://y1n4ydaf-biga-gwaf-4uhe-rh41pxw7g4bw@127.0.0.1:8081?security=tls&type=tcp#</> Collector v5.0
+trojan://8x13fm3p-wn9x-wiv5-u5va-0xt5crnniwmx@127.0.0.1:8080?security=tls&type=tcp#For enhanced GitHub access, visit Argh94 now!
+trojan://2r1x54tm-l19f-155b-aom5-at9ypk90kbaj@127.0.0.1:8081?security=tls&type=tcp#</> Collector v5.0

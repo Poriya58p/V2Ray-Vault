@@ -1,7 +1,7 @@
-trojan://qpuv67dm-gqv5-4yhi-b5pq-7mildmx4il0m@127.0.0.1:1080?security=tls&type=tcp#🕒 LAST UPDATE: 2025/08/27 | 19:54
-trojan://2nw7839h-zjjr-2bnd-gahw-vrlnb9q65wep@127.0.0.1:2080?security=tls&type=tcp#This is a free trial project.
-trojan://wh1rblj0-tnnc-lbca-845d-lp8bofd3kexc@127.0.0.1:4080?security=tls&type=tcp#「 GitHub Argh94 ☕ 」
-vmess://eyJ2IjoiMiIsInBzIjoiTkwgXHVkODNjXHVkZGYzXHVkODNjXHVkZGYxIFx1MjUwNyBWTUVTUy1UQ1AtTlRMUyAtIEFsaSBNb25mYXJlZCBcdTI1MDcgMTc2LjEyMC4xNy42NyIsImFkZCI6IjE3Ni4xMjAuMTcuNjciLCJwb3J0Ijo0MjI3MCwiaWQiOiIzYzBmOWNmNC02YTBjLTQyZjMtYTZkZS04OWM3OWQ0YWY4ZTMiLCJhaWQiOjAsInNjeSI6ImF1dG8iLCJuZXQiOiJ0Y3AiLCJ0eXBlIjoibm9uZSJ9
+trojan://733rfglh-lsxu-hok7-jg7s-11jdogm2p5h2@127.0.0.1:1080?security=tls&type=tcp#🕒 LAST UPDATE: 2025/08/28 | 00:03
+trojan://qn0542d1-nasv-tyjc-qt9w-o55u4kqljh3t@127.0.0.1:2080?security=tls&type=tcp#This is a free trial project.
+trojan://qw0h70ac-0r0d-hm9l-nciv-4nfyarhyjgyb@127.0.0.1:4080?security=tls&type=tcp#「 GitHub Argh94 ☕ 」
 vmess://eyJ2IjoiMiIsInBzIjoiSVIgXHVkODNjXHVkZGVlXHVkODNjXHVkZGY3IFx1MjUwNyBWTUVTUy1UQ1AtTlRMUyAtIEFsaSBNb25mYXJlZCBcdTI1MDcgMTc4LjIzOS4xNDkuMTIxIiwiYWRkIjoicGwuc25hcHBpcnR1bi5uaWthc3RvcmluZy5pciIsInBvcnQiOjE2MTYsImlkIjoiMDEyNzdmNzAtZDZkMy00YjM4LTg4ODYtNjgxYmY1YWRjZmQ0IiwiYWlkIjowLCJzY3kiOiJhdXRvIiwibmV0IjoidGNwIiwidHlwZSI6Imh0dHAiLCJwYXRoIjoiLyJ9
-trojan://56podl75-alnx-tf2x-66fo-o6utrz7gwxw6@127.0.0.1:8080?security=tls&type=tcp#For enhanced GitHub access, visit Argh94 now!
-trojan://be68ae1p-oroh-gbh3-4cqs-swrjccadh5tz@127.0.0.1:8081?security=tls&type=tcp#</> Collector v5.0
+vmess://eyJ2IjoiMiIsInBzIjoiTkwgXHVkODNjXHVkZGYzXHVkODNjXHVkZGYxIFx1MjUwNyBWTUVTUy1UQ1AtTlRMUyAtIEFsaSBNb25mYXJlZCBcdTI1MDcgMTc2LjEyMC4xNy42NyIsImFkZCI6IjE3Ni4xMjAuMTcuNjciLCJwb3J0Ijo0MjI3MCwiaWQiOiIzYzBmOWNmNC02YTBjLTQyZjMtYTZkZS04OWM3OWQ0YWY4ZTMiLCJhaWQiOjAsInNjeSI6ImF1dG8iLCJuZXQiOiJ0Y3AiLCJ0eXBlIjoibm9uZSJ9
+trojan://blesup5m-rsp0-2d15-ocw2-rckyorpi87cv@127.0.0.1:8080?security=tls&type=tcp#For enhanced GitHub access, visit Argh94 now!
+trojan://adp1yjoo-fhdz-1azp-3h2i-uma3nauta959@127.0.0.1:8081?security=tls&type=tcp#</> Collector v5.0

@@ -1,10 +1,8 @@
-trojan://oapuqgm7-phgd-7im2-3w9b-j2wldvu9c3vn@127.0.0.1:1080?security=tls&type=tcp#🕒 LAST UPDATE: 2025/08/27 | 19:54
-trojan://kgso4eza-1q0v-6h5t-kfi8-u1xofb4sgiae@127.0.0.1:2080?security=tls&type=tcp#This is a free trial project.
-trojan://qx3suuyb-19lv-shdw-f7o5-toiwd0p2i8v5@127.0.0.1:4080?security=tls&type=tcp#「 GitHub Argh94 ☕ 」
+trojan://248v6iic-48up-0wwv-jn80-fgu1utfod0sj@127.0.0.1:1080?security=tls&type=tcp#🕒 LAST UPDATE: 2025/08/28 | 00:03
+trojan://b04lp3dt-6kz5-2pky-8n5k-3zkb7pe84gb3@127.0.0.1:2080?security=tls&type=tcp#This is a free trial project.
+trojan://jb7x3se9-7w04-ejs1-0rzm-r6vmhz1rdako@127.0.0.1:4080?security=tls&type=tcp#「 GitHub Argh94 ☕ 」
 vmess://eyJ2IjoiMiIsInBzIjoiXHUyNzA1IEB2aXN0YXYycmF5ICBcdWQ4M2RcdWRjNDhcdWQ4M2RcdWRjNDhcdTA2YTlcdTA2MjdcdTA2NDZcdTA2MjdcdTA2NDQgXHUwNjQ1XHUwNjI3IiwiYWRkIjoiY3BhbmVsLmVyYWRlMzIuaXIiLCJwb3J0IjoxMDAsImlkIjoiMDA5MTRkZTQtYTA2OS00YTE0LWFhMzctZjI4OWJiZDZmNzY5IiwiYWlkIjowLCJzY3kiOiJhdXRvIiwibmV0IjoidGNwIiwidHlwZSI6Im5vbmUiLCJwYXRoIjoiLyJ9
 vmess://eyJ2IjoiMiIsInBzIjoiXHUyNzA1IEB2aXN0YXYycmF5ICBcdWQ4M2RcdWRjNDhcdWQ4M2RcdWRjNDhcdTA2YTlcdTA2MjdcdTA2NDZcdTA2MjdcdTA2NDQgXHUwNjQ1XHUwNjI3IiwiYWRkIjoiMjA5LjEyNi44NC4xODkiLCJwb3J0Ijo0NDMsImlkIjoiMmM5ODExNjQtOWI5My00YmNhLTk0ZmYtYjc4ZDNmODQ5OGQ3IiwiYWlkIjowLCJzY3kiOiJhdXRvIiwibmV0Ijoid3MiLCJ0eXBlIjoiLS0tIiwicGF0aCI6Ii92bWVzc3dzIn0
-vless://6780a3c0-a98c-4622-b894-8e34167f7b31@172.67.74.133:443?type=ws&security=tls&path=/id5?ed=2560/?@&sni=blog.ruangguru.com.servpn.my.id#172.67.74.133:443
-vless://0fbf4f81-2598-4b6a-a623-0ead4cb9efa8@privasi.turah.my.id:443?type=ws&security=tls&path=/Free-CF-Proxy-AD192.3.113.4-19318?ed=2048@&sni=privasi.turah.my.id&fp=chrome#privasi.turah.my.id:443
 vless://41b8c97a-7fac-4191-8922-f58d42a9acf7@app-stg.gopay.co.id.servpn.my.id:443?type=ws&security=tls&path=/id5?ed=2048@&sni=app-stg.gopay.co.id.servpn.my.id&fp=chrome#app-stg.gopay.co.id.servpn.my.id:443
 vless://aaaaaaa1-bbbb-4ccc-accc-eeeeeeeeeee1@web.xhamster.biz.id:443?type=ws&security=tls&path=/Free-CF-Proxy-AE17&sni=web.xhamster.biz.id#web.xhamster.biz.id:443
 vless://e4824193-4f54-453b-d037-88368e85ef0e@45.82.251.180:8880?type=grpc&security=none#45.82.251.180:8880
@@ -29,5 +27,9 @@ vless://e999db7a-1b17-4da6-bc37-c9fa24af2e93@ipw.gfdv54cvghhgfhgj-njhgj64.info:4
 vless://3d7dd548-5456-4f28-8019-393fbfab3312@104.26.0.108:443?type=ws&security=tls&path=/sg3/?-ShadowProxy66&sni=app-stg.gopay.co.id.servpn.my.id&fp=chrome#104.26.0.108:443
 vless://65a32d27-7a02-45a8-b90a-29f6bebc87ae@104.26.1.108:443?type=ws&security=tls&path=/sg3?ed=2560/?ed=2048&sni=blog.ruangguru.com.servpn.my.id&fp=randomized#104.26.1.108:443
 vless://e999db7a-1b17-4da6-bc37-c9fa24af2e93@ipw.gfdv54cvghhgfhgj-njhgj64.info:2096?type=ws&security=tls&path=/&sni=J1oG84r7Qf.WaSaBi7890.OrG&fp=chrome#ipw.gfdv54cvghhgfhgj-njhgj64.info:2096
-trojan://gve9h62p-q9eg-i989-4f7p-mxzxxsugmxax@127.0.0.1:8080?security=tls&type=tcp#For enhanced GitHub access, visit Argh94 now!
-trojan://wt7ii1ne-ashq-2y2n-41z4-ed28qa0zv2l5@127.0.0.1:8081?security=tls&type=tcp#</> Collector v5.0
+vless://0132166f-e702-48ed-a9e7-b07af768faf8@25.129.199.251:8880?type=ws&security=none&path=/&sni=cf.d3z.net#25.129.199.251:8880
+vless://5da52d2d-1ab8-48d0-8421-8354fd6ce7d3@www.visa.com.tw:443?type=ws&security=tls&path=/&sni=rAyAn-cOnFiG-04.rAyAn-iI.DnS-DyNaMiC.NeT&fp=chrome#www.visa.com.tw:443
+vless://5da1f823-b460-407c-86d7-13b9b00a62f2@ch.napsternetx.ir:2096?type=tcp&security=none#ch.napsternetx.ir:2096
+vless://855793d3-b604-4031-97c1-3f20d7a57b1e@c20f6d3f4b1883b1c20f6d3f4b1883b1c20f6d3f4b1883b1.jewelll.ir:17500?type=tcp&security=none#c20f6d3f4b1883b1c20f6d3f4b1883b1c20f6d3f4b1883b1.jewelll.ir:17500
+trojan://jx81o3io-6gih-7k41-p22n-eng2zkar5017@127.0.0.1:8080?security=tls&type=tcp#For enhanced GitHub access, visit Argh94 now!
+trojan://w4hszqm4-qwjn-p5s3-b29g-s5og17i5ylvr@127.0.0.1:8081?security=tls&type=tcp#</> Collector v5.0

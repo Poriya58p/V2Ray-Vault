@@ -1,11 +1,11 @@
-trojan://7zpyvmdu-md4h-vv8y-pzhi-4k6cc8e7xyb5@127.0.0.1:1080?security=tls&type=tcp#🕒 LAST UPDATE: 2025/08/27 | 19:54
-trojan://mp23ylwd-ylxl-qzm2-oz3r-u8qurnk03e0q@127.0.0.1:2080?security=tls&type=tcp#This is a free trial project.
-trojan://cot6bvhw-vn2u-d3nz-9ds7-sikakjps6kcq@127.0.0.1:4080?security=tls&type=tcp#「 GitHub Argh94 ☕ 」
+trojan://vyn0fbw6-d7zy-z0r9-zsra-d5btfczvu95a@127.0.0.1:1080?security=tls&type=tcp#🕒 LAST UPDATE: 2025/08/28 | 00:03
+trojan://dgitgcuq-r37n-yyfq-av6r-dzvc6rxr8b4d@127.0.0.1:2080?security=tls&type=tcp#This is a free trial project.
+trojan://i2uwilui-j86o-rt77-olu5-ha56zcenq4km@127.0.0.1:4080?security=tls&type=tcp#「 GitHub Argh94 ☕ 」
 ss://YWVzLTI1Ni1nY206NDE5NGNlNWIxZjM2ZjY2MA@176.32.35.68:30101#RU 🇷🇺 ┇ SHADOWSOCKS-TCP-NTLS - LLC Baxet ┇ 176.32.35.68
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpsZW9iWHlWbGxEN0FTZENHUmhYNlYy@176.32.39.154:64726#RU 🇷🇺 ┇ SHADOWSOCKS-TCP-NTLS - LLC Baxet ┇ 176.32.39.154
 hysteria2://dongtaiwang.com@45.129.2.108:50850?insecure=1#RU 🇷🇺 ┇ HYSTERIA2-TCP-NTLS - LLC Baxet ┇ 45.129.2.108
 trojan://8OXD5VVt8s@176.32.39.29:443?sni=journalofbigdata.springeropen.com&peer=journalofbigdata.springeropen.com&security=reality#RU 🇷🇺 ┇ TROJAN-TCP-REALITY - LLC Baxet ┇ 176.32.39.29
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpsZW9iWHlWbGxEN0FTZENHUmhYNlYy@176.32.39.154:64726#RU 🇷🇺 ┇ SHADOWSOCKS-TCP-NTLS - LLC Baxet ┇ 176.32.39.154
-vmess://eyJ2IjoiMiIsInBzIjoiUlUgXHVkODNjXHVkZGY3XHVkODNjXHVkZGZhIFx1MjUwNyBWTUVTUy1XUy1OVExTIC0gTExDIEJheGV0IFx1MjUwNyA0NS4xNDAuMTY4LjEyMiIsImFkZCI6ImFlcnlyaXhzcDYzMHd3MS5sb3ZlYmFpcGlhby5uZXQiLCJwb3J0Ijo1NDI5OCwiaWQiOiI1Mjc2ZWMzMC1hMDg0LTQzOGQtODVhMC01ZDk3OTNlNmNjYjgiLCJhaWQiOjAsInNjeSI6ImF1dG8iLCJuZXQiOiJ3cyIsInR5cGUiOiItLS0iLCJwYXRoIjoiL3poIn0
 vmess://eyJ2IjoiMiIsInBzIjoiUlUgXHVkODNjXHVkZGY3XHVkODNjXHVkZGZhIFx1MjUwNyBWTUVTUy1XUy1OVExTIC0gTExDIEJheGV0IFx1MjUwNyAxODUuMTQzLjIyMC45OSIsImFkZCI6IjE4NS4xNDMuMjIwLjk5IiwicG9ydCI6NDgyNTcsImlkIjoiYTVmNzkwNjItYTBhYS00NDVhLWYwODctNmI3MTIxZWUxMTBlIiwiYWlkIjowLCJzY3kiOiJhdXRvIiwibmV0Ijoid3MiLCJwYXRoIjoiLz9lZD0yMDQ4In0
-trojan://11r68g3d-6owg-fgsi-w2db-lpev07xktcj3@127.0.0.1:8080?security=tls&type=tcp#For enhanced GitHub access, visit Argh94 now!
-trojan://ee8xm6wd-d8kb-85vn-ntv0-kmx4w97e5fl6@127.0.0.1:8081?security=tls&type=tcp#</> Collector v5.0
+vmess://eyJ2IjoiMiIsInBzIjoiUlUgXHVkODNjXHVkZGY3XHVkODNjXHVkZGZhIFx1MjUwNyBWTUVTUy1XUy1OVExTIC0gTExDIEJheGV0IFx1MjUwNyA0NS4xNDAuMTY4LjEyMiIsImFkZCI6ImFlcnlyaXhzcDYzMHd3MS5sb3ZlYmFpcGlhby5uZXQiLCJwb3J0Ijo1NDI5OCwiaWQiOiI1Mjc2ZWMzMC1hMDg0LTQzOGQtODVhMC01ZDk3OTNlNmNjYjgiLCJhaWQiOjAsInNjeSI6ImF1dG8iLCJuZXQiOiJ3cyIsInR5cGUiOiItLS0iLCJwYXRoIjoiL3poIn0
+trojan://f9i6ta3f-co55-20sl-gaq1-o9fglb4vlj76@127.0.0.1:8080?security=tls&type=tcp#For enhanced GitHub access, visit Argh94 now!
+trojan://bmq34oei-afmx-r18o-rbek-ouhgv8r0dusd@127.0.0.1:8081?security=tls&type=tcp#</> Collector v5.0

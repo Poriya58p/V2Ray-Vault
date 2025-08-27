@@ -1,7 +1,7 @@
-trojan://atjvu1ya-92o9-f9nj-kcqv-5mzpnra1d9e3@127.0.0.1:1080?security=tls&type=tcp#🕒 LAST UPDATE: 2025/08/27 | 19:54
-trojan://0n7s80cq-2x05-9ndp-8d92-xhs1rsx4wnde@127.0.0.1:2080?security=tls&type=tcp#This is a free trial project.
-trojan://l4ewqp0d-r0kx-y5mh-a1h6-p35q8lpoz92p@127.0.0.1:4080?security=tls&type=tcp#「 GitHub Argh94 ☕ 」
-trojan://ttfang@50.62.91.194:2096?sni=ttfang.fange.me&peer=ttfang.fange.me&security=tls#US 🇺🇸 ┇ TROJAN-TCP-TLS - GO-DADDY-COM-LLC ┇ 50.62.91.194
+trojan://su16m6ym-b6hb-9ow8-8axk-glhrzvdkjoyr@127.0.0.1:1080?security=tls&type=tcp#🕒 LAST UPDATE: 2025/08/28 | 00:03
+trojan://jj1yfpzc-b5xy-dhg0-lrs0-9cn39flfs3jp@127.0.0.1:2080?security=tls&type=tcp#This is a free trial project.
+trojan://y7fwzdyd-rur6-nsm4-hz5p-9raf4wlb61kj@127.0.0.1:4080?security=tls&type=tcp#「 GitHub Argh94 ☕ 」
 trojan://ttfang@72.167.243.194:2096?sni=ttfang.fange.me&peer=ttfang.fange.me&security=tls#US 🇺🇸 ┇ TROJAN-TCP-TLS - GO-DADDY-COM-LLC ┇ 72.167.243.194
-trojan://86i8xedv-il74-ddyt-dfp3-f3wg37fq71ph@127.0.0.1:8080?security=tls&type=tcp#For enhanced GitHub access, visit Argh94 now!
-trojan://x5irmhld-lh2s-ndfd-8f93-sj444onclq4y@127.0.0.1:8081?security=tls&type=tcp#</> Collector v5.0
+trojan://ttfang@50.62.91.194:2096?sni=ttfang.fange.me&peer=ttfang.fange.me&security=tls#US 🇺🇸 ┇ TROJAN-TCP-TLS - GO-DADDY-COM-LLC ┇ 50.62.91.194
+trojan://q32vdvab-x5d6-kryn-kb8h-tx9ziaclw3we@127.0.0.1:8080?security=tls&type=tcp#For enhanced GitHub access, visit Argh94 now!
+trojan://m41mw8ee-ts7d-g5zw-k528-8n7wo879gv4g@127.0.0.1:8081?security=tls&type=tcp#</> Collector v5.0

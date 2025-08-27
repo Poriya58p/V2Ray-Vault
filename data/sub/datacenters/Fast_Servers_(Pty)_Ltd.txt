@@ -1,7 +1,7 @@
-trojan://9n8g0ket-qf8p-shl7-0t97-slsbxqxvk8as@127.0.0.1:1080?security=tls&type=tcp#🕒 LAST UPDATE: 2025/08/27 | 19:54
-trojan://38bhr47t-1aox-j17c-j6b4-yklq7g2v48k4@127.0.0.1:2080?security=tls&type=tcp#This is a free trial project.
-trojan://9d0vqwd5-248k-fa2a-srf7-6n0nm020wo3g@127.0.0.1:4080?security=tls&type=tcp#「 GitHub Argh94 ☕ 」
-vless://49ed01ad-3bb4-204f-b0ff-a58f658fd618@5.181.171.10:443?type=tcp&security=reality&sni=speed.cloudflare.com&flow=xtls-rprx-vision&pbk=YNGotlyAx3ELUmi4lxOUjiEDmibqf1pPUTE9o3YYT2Y#RU 🇷🇺 ┇ VLESS-TCP-RLT - Fast Servers (Pty) Ltd ┇ 5.181.171.10
+trojan://rqn7c2v7-dxca-nt2x-mcql-mxq3x7zk1t9z@127.0.0.1:1080?security=tls&type=tcp#🕒 LAST UPDATE: 2025/08/28 | 00:03
+trojan://hfz44n3b-pwt3-ri3t-q65f-rfg0cen9x6tt@127.0.0.1:2080?security=tls&type=tcp#This is a free trial project.
+trojan://ofoosypr-ccvj-vm36-aw72-d5xa1z2ggwx0@127.0.0.1:4080?security=tls&type=tcp#「 GitHub Argh94 ☕ 」
 vless://8e6acce9-8b56-7190-d491-7d84f8189e26@5.181.171.2:443?type=tcp&security=reality&sni=speed.cloudflare.com&fp=chrome&flow=xtls-rprx-vision&pbk=YNGotlyAx3ELUmi4lxOUjiEDmibqf1pPUTE9o3YYT2Y#RU 🇷🇺 ┇ VLESS-TCP-RLT - Fast Servers (Pty) Ltd ┇ 5.181.171.2
-trojan://6asjqalj-bfc9-jef6-ejuv-tznhbj6bof71@127.0.0.1:8080?security=tls&type=tcp#For enhanced GitHub access, visit Argh94 now!
-trojan://z3tdadn6-gmy1-3t3p-sz99-2r1wfinu29fo@127.0.0.1:8081?security=tls&type=tcp#</> Collector v5.0
+vless://49ed01ad-3bb4-204f-b0ff-a58f658fd618@5.181.171.10:443?type=tcp&security=reality&sni=speed.cloudflare.com&flow=xtls-rprx-vision&pbk=YNGotlyAx3ELUmi4lxOUjiEDmibqf1pPUTE9o3YYT2Y#RU 🇷🇺 ┇ VLESS-TCP-RLT - Fast Servers (Pty) Ltd ┇ 5.181.171.10
+trojan://yr9xuys2-vtlc-4p0q-51c6-3lfaq3pp3sqe@127.0.0.1:8080?security=tls&type=tcp#For enhanced GitHub access, visit Argh94 now!
+trojan://2771cdxb-l6he-y6nt-6z9z-dbs0rvlzyfdb@127.0.0.1:8081?security=tls&type=tcp#</> Collector v5.0
