@@ -1,7 +1,7 @@
-trojan://q3qzziuv-amwq-p6ji-wrio-mazg92oc4eay@127.0.0.1:1080?security=tls&type=tcp#🕒 LAST UPDATE: 2025/08/26 | 23:53
-trojan://gjfn7cur-2fqw-1h08-2il0-p0riulhyff8o@127.0.0.1:2080?security=tls&type=tcp#This is a free trial project.
-trojan://fsi1fxxl-jihb-hzeo-japu-ejmzrxdsbexf@127.0.0.1:4080?security=tls&type=tcp#「 GitHub Argh94 ☕ 」
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@103.243.215.17:990#MY 🇲🇾 ┇ SHADOWSOCKS-TCP-NTLS - Gigabit Hosting Sdn Bhd ┇ 103.243.215.17
+trojan://cumgtkiw-aldu-1hvp-gnke-egcxdvwgtg6d@127.0.0.1:1080?security=tls&type=tcp#🕒 LAST UPDATE: 2025/08/27 | 04:36
+trojan://klav72xq-it9e-t7nh-mnsg-cch1sepiq251@127.0.0.1:2080?security=tls&type=tcp#This is a free trial project.
+trojan://qmed91o0-dj8i-7y8l-63l6-2gbhenuj8478@127.0.0.1:4080?security=tls&type=tcp#「 GitHub Argh94 ☕ 」
 vmess://eyJ2IjoiMiIsInBzIjoiTVkgXHVkODNjXHVkZGYyXHVkODNjXHVkZGZlIFx1MjUwNyBWTUVTUy1UQ1AtTlRMUyAtIFBxIEhvc3RpbmcgUGx1cyBTLnIubC4gXHUyNTA3IDQ1LjEyOC41NC44NCIsImFkZCI6IjQ1LjEyOC41NC44NCIsInBvcnQiOjM3MzEzLCJpZCI6IjcyZmViODMzLTQxOTYtNGE3MC1hM2Y1LWFlYjAxMWY3ZDUzNCIsImFpZCI6MCwic2N5IjoiYXV0byIsIm5ldCI6InRjcCIsInR5cGUiOiJub25lIn0
-trojan://mdqeu569-6anh-1l2t-8f6z-0ezjr2r1ry82@127.0.0.1:8080?security=tls&type=tcp#For enhanced GitHub access, visit Argh94 now!
-trojan://h81249v8-89ku-9ica-hcmm-0jug31u90c69@127.0.0.1:8081?security=tls&type=tcp#</> Collector v5.0
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@103.243.215.17:990#MY 🇲🇾 ┇ SHADOWSOCKS-TCP-NTLS - Gigabit Hosting Sdn Bhd ┇ 103.243.215.17
+trojan://5un3lltu-0byl-c8vt-g18s-ue5sft73fymb@127.0.0.1:8080?security=tls&type=tcp#For enhanced GitHub access, visit Argh94 now!
+trojan://wi1l97h4-b54y-96cf-mxe0-lsaesick5doq@127.0.0.1:8081?security=tls&type=tcp#</> Collector v5.0

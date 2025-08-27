@@ -1,6 +1,6 @@
-trojan://palqxs5f-hik2-0y9e-b1xg-0hr8nqzscopo@127.0.0.1:1080?security=tls&type=tcp#🕒 LAST UPDATE: 2025/08/26 | 23:53
-trojan://2hqari4e-j1mj-3d71-w6ze-nwcsfhgzplml@127.0.0.1:2080?security=tls&type=tcp#This is a free trial project.
-trojan://i2z6molk-gofi-lu8e-4z6b-4h7r5f6nedtl@127.0.0.1:4080?security=tls&type=tcp#「 GitHub Argh94 ☕ 」
+trojan://hhezjo44-yeh0-nw8k-gvua-3zxyjl06bt13@127.0.0.1:1080?security=tls&type=tcp#🕒 LAST UPDATE: 2025/08/27 | 04:36
+trojan://vfi7ab6r-tmf0-tqdi-8w0v-hgpc1o7z3ywo@127.0.0.1:2080?security=tls&type=tcp#This is a free trial project.
+trojan://ujiu9zh9-w1rw-buqo-gstt-pid26eqmunzi@127.0.0.1:4080?security=tls&type=tcp#「 GitHub Argh94 ☕ 」
 vless://c2983ded-01b7-48ed-93df-827308a8a74f@www.parsvds.ir:8080?type=ws&security=none&path=/telegram=V_2RAYNGVPN#www.parsvds.ir:8080
 vless://220bafe5-d259-453f-b6b5-9f8988521a66@www.speedtest.net:80?type=httpupgrade&security=none&path=/telegram=V_2RAYNGVPN#www.speedtest.net:80
 vless://bfe63cc5-412d-4aa7-b04e-75c9d52b5831@www.zula.ir:80?type=httpupgrade&security=none&path=/telegram=V_2RAYNGVPN#www.zula.ir:80
@@ -14,5 +14,5 @@ vless://4b109a2c-9c17-4d1c-9794-4e0a585e498f@www.parsvds.ir:8080?type=ws&securit
 vless://91440b27-a0e5-4107-9aee-478361210fcd@www.speedtest.net:80?type=httpupgrade&security=none&path=/telegram=V_2RAYNGVPN#www.speedtest.net:80
 vless://55737b22-c50a-491a-8cd3-69f84e67e3f7@www.zula.ir:80?type=httpupgrade&security=none&path=/telegram=V_2RAYNGVPN#www.zula.ir:80
 vless://d3153cb1-c5e5-480e-9929-d5c608cf0535@www.parsvds.ir:8080?type=ws&security=none&path=/telegram=V_2RAYNGVPN#www.parsvds.ir:8080
-trojan://nvkwln00-o5vp-9alw-9sur-c71jkxknjuid@127.0.0.1:8080?security=tls&type=tcp#For enhanced GitHub access, visit Argh94 now!
-trojan://2vw4z75q-uqq7-fbn1-qikx-3vmk6f4etw2h@127.0.0.1:8081?security=tls&type=tcp#</> Collector v5.0
+trojan://xnmbvsl8-tqcd-qqkv-rr4z-7wu97n6kfwx6@127.0.0.1:8080?security=tls&type=tcp#For enhanced GitHub access, visit Argh94 now!
+trojan://3x6qbncl-nggp-uqk8-q7hi-t0uh9duiz5b7@127.0.0.1:8081?security=tls&type=tcp#</> Collector v5.0

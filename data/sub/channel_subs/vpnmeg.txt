@@ -1,8 +1,8 @@
-trojan://cgg5rtu4-0yy1-85nv-9s34-7iism8lmim6v@127.0.0.1:1080?security=tls&type=tcp#🕒 LAST UPDATE: 2025/08/26 | 23:53
-trojan://jq8vam9x-g33q-ltr2-53th-e1yloq9iacd1@127.0.0.1:2080?security=tls&type=tcp#This is a free trial project.
-trojan://kkrxitjm-032i-ttb8-b0zm-3bd8b6w0cm0y@127.0.0.1:4080?security=tls&type=tcp#「 GitHub Argh94 ☕ 」
+trojan://jzvxu5ng-f8zo-igr9-7nvj-8y0wape07q2g@127.0.0.1:1080?security=tls&type=tcp#🕒 LAST UPDATE: 2025/08/27 | 04:36
+trojan://fskjvag4-7ytb-i2ec-4y8d-f20i2vfxlzry@127.0.0.1:2080?security=tls&type=tcp#This is a free trial project.
+trojan://v66ol683-nbgr-qody-ptip-x50x9p09rfdu@127.0.0.1:4080?security=tls&type=tcp#「 GitHub Argh94 ☕ 」
 vless://Telegram-VPNCUSTOMIZE-@151.101.1.6:80?type=ws&security=auto&path=/@VPNCUSTOMIZE-----@VPNCUSTOMIZE-----@VPNCUSTOMIZE---@VPNCUSTOMIZE---@VPNCUSTOMIZE---@VPNCUSTOMIZE---@VPNCUSTOMIZE?ed=2560&sni=hajlab.ucdavis.edu&fp=randomized#151.101.1.6:80
 vless://Channel-VPNCUSTOMIZE@fishlab.ucdavis.edu:443?type=ws&security=tls&path=/@VPNCUSTOMIZE-----@VPNCUSTOMIZE-----@VPNCUSTOMIZE---@VPNCUSTOMIZE---@VPNCUSTOMIZE---@VPNCUSTOMIZE---@VPNCUSTOMIZE?ed=2560&sni=fishlab.ucdavis.edu#fishlab.ucdavis.edu:443
 vless://-VPNCUSTOMIZE-@fishlab.ucdavis.edu:443?type=ws&security=tls&path=/@VPNCUSTOMIZE-----@VPNCUSTOMIZE-----@VPNCUSTOMIZE---@VPNCUSTOMIZE---@VPNCUSTOMIZE---@VPNCUSTOMIZE---@VPNCUSTOMIZE?ed=2560&sni=fishlab.ucdavis.edu#fishlab.ucdavis.edu:443
-trojan://9cej7amw-v73t-9s88-t9tk-ryjjpq7gjd21@127.0.0.1:8080?security=tls&type=tcp#For enhanced GitHub access, visit Argh94 now!
-trojan://11o8wzqr-xg2x-ai5j-1coy-2bql4333cmud@127.0.0.1:8081?security=tls&type=tcp#</> Collector v5.0
+trojan://pw9kr2g7-478l-zxcx-l5cs-pfxa1xu5p2gm@127.0.0.1:8080?security=tls&type=tcp#For enhanced GitHub access, visit Argh94 now!
+trojan://wwmj0tpd-aqyo-ww0x-2r8j-gadbu0csol63@127.0.0.1:8081?security=tls&type=tcp#</> Collector v5.0

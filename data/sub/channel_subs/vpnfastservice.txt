@@ -1,6 +1,6 @@
-trojan://udk3ihuh-7egg-zu7j-1135-1odcp48ghakz@127.0.0.1:1080?security=tls&type=tcp#🕒 LAST UPDATE: 2025/08/26 | 23:53
-trojan://5fep6r60-2ghn-g02m-xf2s-qlbginvux7pq@127.0.0.1:2080?security=tls&type=tcp#This is a free trial project.
-trojan://3kuz0xh3-ypzh-8d3u-53gb-v5rk3duie1hk@127.0.0.1:4080?security=tls&type=tcp#「 GitHub Argh94 ☕ 」
+trojan://2jy0uawy-5sxh-ku9s-9txx-gq58hwpelgld@127.0.0.1:1080?security=tls&type=tcp#🕒 LAST UPDATE: 2025/08/27 | 04:36
+trojan://l03egprt-jw5c-qia7-fnx9-5q8gznq4hw92@127.0.0.1:2080?security=tls&type=tcp#This is a free trial project.
+trojan://bw9y1lvh-dpoq-ypgj-fvad-e8r13pv2q9o7@127.0.0.1:4080?security=tls&type=tcp#「 GitHub Argh94 ☕ 」
 vless://8ac8ed29-e250-41a4-b1ff-31ce32eb2f12@tunnel-germany-1.fastservice.cam:4001?type=tcp&security=none&path=/#tunnel-germany-1.fastservice.cam:4001
 vless://b2a9f183-b554-473b-a336-1864b86f9fd6@tt1.hennessypro.site:4001?type=tcp&security=none#tt1.hennessypro.site:4001
 vless://03cc6a8a-73fe-4e81-8bba-f66b145575ea@tt1.hennessypro.site:4001?type=tcp&security=none#tt1.hennessypro.site:4001
@@ -8,5 +8,5 @@ vless://9af68224-c0ba-4323-a86c-f095b88a26e8@tt1.hennessypro.site:4001?type=tcp&
 vless://062c145d-30ec-4e48-93d0-36094ef84d10@tt1.hennessypro.site:4001?type=tcp&security=none#tt1.hennessypro.site:4001
 vless://3261a195-57f6-4a78-b4e6-a239d75dfc67@tt1.hennessypro.site:4001?type=tcp&security=none#tt1.hennessypro.site:4001
 vless://db3aa917-1354-42a8-a421-3467d74124dd@tt1.hennessypro.site:4001?type=tcp&security=none#tt1.hennessypro.site:4001
-trojan://98a0ei7p-3lp1-ecro-yq78-excnijvoobaq@127.0.0.1:8080?security=tls&type=tcp#For enhanced GitHub access, visit Argh94 now!
-trojan://r3c1e9ky-s65v-xd11-3xzw-77q4ovvkvshq@127.0.0.1:8081?security=tls&type=tcp#</> Collector v5.0
+trojan://0460pf18-vs14-37it-t4zf-yxjoo5ni7ud1@127.0.0.1:8080?security=tls&type=tcp#For enhanced GitHub access, visit Argh94 now!
+trojan://gkq13gm0-exb6-m7iy-9jgc-qvt5gmx1wonq@127.0.0.1:8081?security=tls&type=tcp#</> Collector v5.0

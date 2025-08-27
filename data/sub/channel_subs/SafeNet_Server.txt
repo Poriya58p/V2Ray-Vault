@@ -1,6 +1,6 @@
-trojan://5vv3f2i4-brg7-l451-z6jp-gs80fvzwvf5n@127.0.0.1:1080?security=tls&type=tcp#🕒 LAST UPDATE: 2025/08/26 | 23:53
-trojan://tu7p8jm9-pzyt-c2s0-39t3-2jlpr7ktpty7@127.0.0.1:2080?security=tls&type=tcp#This is a free trial project.
-trojan://u28l8s3g-4okx-5f37-xcba-nadfhhsdb0vy@127.0.0.1:4080?security=tls&type=tcp#「 GitHub Argh94 ☕ 」
+trojan://a043h3hv-rbes-v8e8-w1ca-pwzt3lcomg0w@127.0.0.1:1080?security=tls&type=tcp#🕒 LAST UPDATE: 2025/08/27 | 04:36
+trojan://ez5rcj7f-kcbx-fnq8-vkni-b53qujwpppfh@127.0.0.1:2080?security=tls&type=tcp#This is a free trial project.
+trojan://xhxz2rf5-hopt-48kz-wagx-tmg9rqoxprsf@127.0.0.1:4080?security=tls&type=tcp#「 GitHub Argh94 ☕ 」
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpzNVA0WlRMbENZWmF5Nnd1R1h4SGlt@81.19.141.45:443#81.19.141.45:443
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTppc29YaVh0RWNqZjBaT05Uc0lDb3dZ@77.83.246.74:443#77.83.246.74:443
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTppc29YaVh0RWNqZjBaT05Uc0lDb3dZ@77.83.246.74:443#77.83.246.74:443
@@ -11,5 +11,5 @@ vless://7d31065b-980c-4295-83f0-23bde0eee9cc@185.234.64.228:443?type=ws&security
 vless://0fc95877-cdc3-458f-8b00-d554c99ecbfb@cb6.connectbaash.info:4406?type=tcp&security=none#cb6.connectbaash.info:4406
 vless://0fc95877-cdc3-458f-8b00-d554c99ecbfb@cb6.connectbaash.info:4406?type=tcp&security=none#cb6.connectbaash.info:4406
 vless://7d31065b-980c-4295-83f0-23bde0eee9cc@185.234.64.228:443?type=ws&security=tls&path=/qnbufdws#185.234.64.228:443
-trojan://ycs42mnz-lbij-wvny-fdsc-v1bodqtla0jt@127.0.0.1:8080?security=tls&type=tcp#For enhanced GitHub access, visit Argh94 now!
-trojan://p83kx290-vsba-sjoy-kv7x-lq6r46n14ms3@127.0.0.1:8081?security=tls&type=tcp#</> Collector v5.0
+trojan://35rh4cte-bpc2-b7re-m1ue-3x3x5kfm3ka4@127.0.0.1:8080?security=tls&type=tcp#For enhanced GitHub access, visit Argh94 now!
+trojan://ezjhir9z-b7ac-1s8k-gl7h-rcqgpb2szaa9@127.0.0.1:8081?security=tls&type=tcp#</> Collector v5.0

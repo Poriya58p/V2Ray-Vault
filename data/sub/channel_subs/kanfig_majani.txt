@@ -1,6 +1,6 @@
-trojan://yxw0ib6f-lftf-247f-rtu8-knwfyk46nw9z@127.0.0.1:1080?security=tls&type=tcp#🕒 LAST UPDATE: 2025/08/26 | 23:53
-trojan://t3xgo23t-lslt-uh6v-mlr6-zaffoy2a8akw@127.0.0.1:2080?security=tls&type=tcp#This is a free trial project.
-trojan://e5k9rij4-zeqv-7k02-ictg-pz9ok9n9aw7e@127.0.0.1:4080?security=tls&type=tcp#「 GitHub Argh94 ☕ 」
+trojan://can4vf3r-20w2-nit7-8itd-jedgafoxlk9b@127.0.0.1:1080?security=tls&type=tcp#🕒 LAST UPDATE: 2025/08/27 | 04:36
+trojan://0lf2ia5z-m534-mtmp-tfne-5lqoqc5migmh@127.0.0.1:2080?security=tls&type=tcp#This is a free trial project.
+trojan://u1q493cd-d3pd-3ijr-zpoo-f4mqufipiso5@127.0.0.1:4080?security=tls&type=tcp#「 GitHub Argh94 ☕ 」
 vless://e4824193-4f54-453b-d037-88368e85ef0e@45.82.251.63:8880?type=grpc&security=none#45.82.251.63:8880
 vless://aaaaaaa1-bbbb-4ccc-accc-eeeeeeeeeee1@web.xhamster.biz.id:443?type=ws&security=tls&path=/Free-CF-Proxy-AT4&sni=web.xhamster.biz.id#web.xhamster.biz.id:443
 vless://43791e7f-8e02-4189-9533-4f842bcacd79@charming-process.seotoolsforyou.co.uk:80?type=ws&security=none&path=/#charming-process.seotoolsforyou.co.uk:80
@@ -44,5 +44,5 @@ vless://aaaaaaa1-bbbb-4ccc-accc-eeeeeeeeeee1@web.xhamster.biz.id:443?type=ws&sec
 vless://edb4c373-ac92-4430-8f42-94439ca829b9@magical-fish.seotoolsforyou.co.uk:80?type=ws&security=none&path=/#magical-fish.seotoolsforyou.co.uk:80
 vless://43791e7f-8e02-4189-9533-4f842bcacd79@charming-process.seotoolsforyou.co.uk:80?type=ws&security=none&path=/#charming-process.seotoolsforyou.co.uk:80
 vless://e4824193-4f54-453b-d037-88368e85ef0e@45.82.251.93:8880?type=grpc&security=none#45.82.251.93:8880
-trojan://j5521c6l-lrgo-1ovj-p82d-hi5w0zcg4ij9@127.0.0.1:8080?security=tls&type=tcp#For enhanced GitHub access, visit Argh94 now!
-trojan://83impjwj-71a8-e9ur-sulw-2yd1khulr064@127.0.0.1:8081?security=tls&type=tcp#</> Collector v5.0
+trojan://zhty0m21-6u7g-8kjg-jppk-6mf5ng8s8t0v@127.0.0.1:8080?security=tls&type=tcp#For enhanced GitHub access, visit Argh94 now!
+trojan://otp1gcy9-3bhz-u1r9-qkh4-6yzdhgzo7zem@127.0.0.1:8081?security=tls&type=tcp#</> Collector v5.0

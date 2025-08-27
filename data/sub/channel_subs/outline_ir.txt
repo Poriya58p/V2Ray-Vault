@@ -1,7 +1,6 @@
-trojan://g8lhbzuw-n1ec-6w28-y0pp-gymubi67gq7n@127.0.0.1:1080?security=tls&type=tcp#🕒 LAST UPDATE: 2025/08/26 | 23:53
-trojan://5dsin63f-k5y2-lwy7-chyh-hqfemefiewmw@127.0.0.1:2080?security=tls&type=tcp#This is a free trial project.
-trojan://poefngl9-m74l-ymbx-0ddo-i138pbjzdz9q@127.0.0.1:4080?security=tls&type=tcp#「 GitHub Argh94 ☕ 」
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpFbEtIMUhLdVF1VzZ1UlR0c2VMWUI4@94.159.96.245:11902#94.159.96.245:11902
+trojan://pybbtr0q-i82f-je03-ocm1-akqxp44ck2g4@127.0.0.1:1080?security=tls&type=tcp#🕒 LAST UPDATE: 2025/08/27 | 04:36
+trojan://lfx1rngc-i7t1-es5m-42vo-xtbvckcmjs7a@127.0.0.1:2080?security=tls&type=tcp#This is a free trial project.
+trojan://qk54nudu-o10v-g42o-vs05-fjij1uuabrui@127.0.0.1:4080?security=tls&type=tcp#「 GitHub Argh94 ☕ 」
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjdklJODVUclc2bjBPR3lmcEhWUzF1@45.87.175.199:8080#45.87.175.199:8080
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjdklJODVUclc2bjBPR3lmcEhWUzF1@45.87.175.200:8080#45.87.175.200:8080
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpFbEtIMUhLdVF1VzZ1UlR0c2VMWUI4@94.159.96.245:11902#94.159.96.245:11902
@@ -14,5 +13,6 @@ vless://90c7ad5e-cd15-4314-b39b-aeabd397d592@104.18.12.229:2087?type=ws&security
 vless://10f655e9-eb23-4f13-a9eb-b93c8057962c@speedtest.net:80?type=xhttp&security=none&path=/#speedtest.net:80
 vless://6780a3c0-a98c-4622-b894-8e34167f7b31@172.67.74.133:443?type=ws&security=tls&path=/id5/?ed=#TELEGRAM-MARAMBASHI_MARAMBASHI_MARAMBASHI?ed=512&sni=blog.ruangguru.com.servpn.my.id#172.67.74.133:443
 vless://6780a3c0-a98c-4622-b894-8e34167f7b31@172.66.40.99:443?type=ws&security=tls&path=/id5?ed=#TELEGRAM-MARAMBASHI_MARAMBASHI_MARAMBASHI?ed=512&sni=blog.ruangguru.com.servpn.my.id#172.66.40.99:443
-trojan://ayi835rz-hxq6-x1ta-xnv9-mldwdyl764eo@127.0.0.1:8080?security=tls&type=tcp#For enhanced GitHub access, visit Argh94 now!
-trojan://bjnatxfn-odjp-tgqe-kgme-zdaybuqok6lm@127.0.0.1:8081?security=tls&type=tcp#</> Collector v5.0
+vless://39ca66b9-a34c-4031-a6ce-8846f75d8cb9@172.67.74.133:443?type=ws&security=tls&path=/sg10/?TELEGRAM_CHANEL_JKVPN_JKVPN_JKVPN&sni=app-stg.gopay.co.id.servpn.my.id#172.67.74.133:443
+trojan://445q446j-xpqb-igxn-e6m5-xh9tk7l075av@127.0.0.1:8080?security=tls&type=tcp#For enhanced GitHub access, visit Argh94 now!
+trojan://co4gbfcy-8tb3-ty6l-d5rd-qmb8hsc94p9q@127.0.0.1:8081?security=tls&type=tcp#</> Collector v5.0

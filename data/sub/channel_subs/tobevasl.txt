@@ -1,6 +1,6 @@
-trojan://qoprrd7m-09br-d2w9-xnyv-evi0d4tbrzll@127.0.0.1:1080?security=tls&type=tcp#🕒 LAST UPDATE: 2025/08/26 | 23:53
-trojan://2khw9woh-ica9-r264-p2co-ccok807q72wu@127.0.0.1:2080?security=tls&type=tcp#This is a free trial project.
-trojan://1ljpats0-k7oh-u9wc-nu87-add430wg8frg@127.0.0.1:4080?security=tls&type=tcp#「 GitHub Argh94 ☕ 」
+trojan://a1by8x6q-h9js-fbyk-y532-jf7do8n0eylw@127.0.0.1:1080?security=tls&type=tcp#🕒 LAST UPDATE: 2025/08/27 | 04:36
+trojan://gwckq7ci-m2n1-56yl-z04a-vfa6lthapout@127.0.0.1:2080?security=tls&type=tcp#This is a free trial project.
+trojan://t4hafq8z-a6g4-2umr-nw75-mpxxcliz1qy4@127.0.0.1:4080?security=tls&type=tcp#「 GitHub Argh94 ☕ 」
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1MTdUM0J2cFlhYWl1VzJj@131.145.7.68:443#131.145.7.68:443
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo1MXlsb1FDOEQ5dzFXYWU3Rkh0STY1@20.91.252.21:48172#20.91.252.21:48172
 ss://YWVzLTI1Ni1nY206WVRrMVlUSTBaRGhoT0dOaFpESmhaalZpTTJWaU4yUTJabUl4WlRjMg@ir.npvnot.com:10101#ir.npvnot.com:10101
@@ -52,5 +52,5 @@ vless://d98bfdd5-5824-458f-889f-1b318fe8a945@31.47.45.96:29968?type=tcp&security
 vless://5c087b17-c044-42c3-8ff4-615dc53feee1@marz.querenciavib.xyz:8443?type=tcp&security=none#marz.querenciavib.xyz:8443
 vless://a149af65-8679-4572-a1d1-2d7af3fa7c3f@91.107.167.104:55713?type=tcp&security=none#91.107.167.104:55713
 vless://db67312c-8388-470c-a8aa-9995732a6f8d@85.9.99.89:450?type=tcp&security=none#85.9.99.89:450
-trojan://cgcd6f27-e6dl-wnss-ruvp-3c0gwmwkeu52@127.0.0.1:8080?security=tls&type=tcp#For enhanced GitHub access, visit Argh94 now!
-trojan://swrgms9x-sv1j-e88h-b8uq-s7gona6flrhv@127.0.0.1:8081?security=tls&type=tcp#</> Collector v5.0
+trojan://3c6y1xa8-wxp0-f5jb-9b8o-npb81chs05cy@127.0.0.1:8080?security=tls&type=tcp#For enhanced GitHub access, visit Argh94 now!
+trojan://er7kesdd-95rm-z4o7-67vr-z54wsnobpf78@127.0.0.1:8081?security=tls&type=tcp#</> Collector v5.0

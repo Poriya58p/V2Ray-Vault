@@ -1,8 +1,8 @@
-trojan://0mlzoz3b-71iq-nz3a-eyr1-m486sc6v4o1y@127.0.0.1:1080?security=tls&type=tcp#🕒 LAST UPDATE: 2025/08/26 | 23:53
-trojan://562tmyam-31cd-ifx4-cel6-e1xd5e19rphn@127.0.0.1:2080?security=tls&type=tcp#This is a free trial project.
-trojan://ped1khu3-w9p4-n54z-ibfa-egaqnmsbtsno@127.0.0.1:4080?security=tls&type=tcp#「 GitHub Argh94 ☕ 」
+trojan://8fdtlor1-464x-whxk-xcsx-fqqdpxbjvszl@127.0.0.1:1080?security=tls&type=tcp#🕒 LAST UPDATE: 2025/08/27 | 04:36
+trojan://al9pvgdn-z06p-e3bw-vjbv-k3fjx21fuca7@127.0.0.1:2080?security=tls&type=tcp#This is a free trial project.
+trojan://s9q6urm0-q1b1-3aee-3fik-suqktokgnd1f@127.0.0.1:4080?security=tls&type=tcp#「 GitHub Argh94 ☕ 」
 vless://f9e5a31e-a5c2-48e0-a5e9-01461464406d@209.38.222.192:8443?type=ws&security=none&path=/Telegram-@FNET00#209.38.222.192:8443
 vless://dfee545b-6087-4f13-b2a3-41cc9642d583@209.38.222.192:2096?type=grpc&security=none#209.38.222.192:2096
 vless://65cd9b4b-90a1-43f4-9682-3e33c8a29b0e@82.25.101.123:34712?type=tcp&security=none#82.25.101.123:34712
-trojan://6b5r9n4l-pler-cnny-b88k-025gkhe44ktv@127.0.0.1:8080?security=tls&type=tcp#For enhanced GitHub access, visit Argh94 now!
-trojan://5m00q9f6-5560-u97f-0myk-7lpetrhm4y50@127.0.0.1:8081?security=tls&type=tcp#</> Collector v5.0
+trojan://yzd2xiv2-unit-sbro-wd44-no491eae7a84@127.0.0.1:8080?security=tls&type=tcp#For enhanced GitHub access, visit Argh94 now!
+trojan://p9cexss2-blk2-40nb-ae0g-j73830b0iwfi@127.0.0.1:8081?security=tls&type=tcp#</> Collector v5.0

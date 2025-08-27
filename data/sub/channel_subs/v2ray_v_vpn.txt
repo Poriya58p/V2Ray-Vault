@@ -1,6 +1,6 @@
-trojan://m8zikaqj-36zk-et6z-vozl-gm4dmfinbjt8@127.0.0.1:1080?security=tls&type=tcp#🕒 LAST UPDATE: 2025/08/26 | 23:53
-trojan://j8op0hxd-zue5-z12j-w4rr-zqjvvl2oirpf@127.0.0.1:2080?security=tls&type=tcp#This is a free trial project.
-trojan://canu13ld-cqqn-7qti-ap7x-17z4056mo1ny@127.0.0.1:4080?security=tls&type=tcp#「 GitHub Argh94 ☕ 」
+trojan://aq83no38-b554-3ufm-l4x1-9t5qjbpca91x@127.0.0.1:1080?security=tls&type=tcp#🕒 LAST UPDATE: 2025/08/27 | 04:36
+trojan://f35jxo6f-b9zj-qutz-qbga-aragivcmnt5e@127.0.0.1:2080?security=tls&type=tcp#This is a free trial project.
+trojan://7n8otacr-ew7g-b2pn-f4v3-m55tc362j7jf@127.0.0.1:4080?security=tls&type=tcp#「 GitHub Argh94 ☕ 」
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@64.74.163.130:990#64.74.163.130:990
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@193.29.139.240:8080#193.29.139.240:8080
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpGM25ZNzNkaTVvbldWM2dvdGJwSTBR@83.147.216.70:64519#83.147.216.70:64519
@@ -33,5 +33,5 @@ vless://bc4f49dc-2c50-49ac-b8fa-d3020a5e65de@91.99.125.215:443?type=tcp&security
 vless://6b02f80a-def4-4e24-92eb-7d1beb33f3ed@104.21.72.109:80?type=ws&security=none&path=/TELEGRAM_CHANEL_JKVPN_JKVPN_JKVPN?ed=2560&sni=dfgopee-workers.dev&fp=randomized#104.21.72.109:80
 vless://Parsashonam-302@2a01:4f8:1c1a:dc2b::1:8888?type=tcp&security=none#2a01:4f8:1c1a:dc2b::1:8888
 vless://8e6acce9-8b56-7190-d491-7d84f8189e26@5.181.171.2:443?type=tcp&security=reality&sni=speed.cloudflare.com&fp=chrome&flow=xtls-rprx-vision&pbk=YNGotlyAx3ELUmi4lxOUjiEDmibqf1pPUTE9o3YYT2Y#5.181.171.2:443
-trojan://3k3luk5o-uzxe-yigt-o6iz-rt2kku3yeugk@127.0.0.1:8080?security=tls&type=tcp#For enhanced GitHub access, visit Argh94 now!
-trojan://h0o7n99c-d7oe-oyb5-pyjz-tf4583c27zrd@127.0.0.1:8081?security=tls&type=tcp#</> Collector v5.0
+trojan://1u53nhhp-jmbo-yltm-dfap-k866lz7cuvs5@127.0.0.1:8080?security=tls&type=tcp#For enhanced GitHub access, visit Argh94 now!
+trojan://3llb1fis-dcgm-t356-recx-3z9uw9721wtq@127.0.0.1:8081?security=tls&type=tcp#</> Collector v5.0

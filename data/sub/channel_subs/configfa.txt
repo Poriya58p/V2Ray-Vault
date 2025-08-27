@@ -1,6 +1,6 @@
-trojan://eet4n3eh-0fbl-qupj-v07h-ph2hvxfufj1l@127.0.0.1:1080?security=tls&type=tcp#🕒 LAST UPDATE: 2025/08/26 | 23:53
-trojan://fb2hzy0m-yfua-py6y-t0yx-7l0i0vxkxo7m@127.0.0.1:2080?security=tls&type=tcp#This is a free trial project.
-trojan://bksnvdd1-oloj-5gby-s7js-o31yrl4hm5c0@127.0.0.1:4080?security=tls&type=tcp#「 GitHub Argh94 ☕ 」
+trojan://4nk8pfdv-feyv-urqi-aryk-bqt62er8slzy@127.0.0.1:1080?security=tls&type=tcp#🕒 LAST UPDATE: 2025/08/27 | 04:36
+trojan://z5777iit-xkrb-gbee-uwda-jtmh4iaz28su@127.0.0.1:2080?security=tls&type=tcp#This is a free trial project.
+trojan://nz0m2qez-oykl-d219-csll-py971jfoqe5m@127.0.0.1:4080?security=tls&type=tcp#「 GitHub Argh94 ☕ 」
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@103.104.247.45:8080#103.104.247.45:8080
 vless://7d18fc67-1994-4f7e-8ff8-c024223f33bb@braze.com:443?type=ws&security=tls&path=/cbde4058-6b81-432b-8689-dd7ce10e479c&sni=revcloud.migacpi.org#braze.com:443
 vless://7d18fc67-1994-4f7e-8ff8-c024223f33bb@vinted.fr:443?type=ws&security=tls&path=/cbde4058-6b81-432b-8689-dd7ce10e479c&sni=revcloud.migacpi.org#vinted.fr:443
@@ -21,5 +21,5 @@ hysteria2://3hszBhqVsUhqOOFWJlev6k6Tkc@47.129.224.62:22509?sni=bing.com&insecure
 hysteria2://5OiuCsPmULZ0lJwts89fegLJE@52.221.210.182:17193?sni=bing.com&insecure=1#52.221.210.182:17193
 hysteria2://XK52yierGckONMJWbJnuskD3unI@47.242.195.121:12854?sni=bing.com&insecure=1#47.242.195.121:12854
 hysteria2://NjEkAYYNqFKUbrksyW1COBtdpU@47.239.220.214:2428?sni=bing.com&insecure=1#47.239.220.214:2428
-trojan://ofv9coio-x6ch-vm2n-3ugr-mqaa54w5a8kj@127.0.0.1:8080?security=tls&type=tcp#For enhanced GitHub access, visit Argh94 now!
-trojan://pyt5licc-lslq-r1x9-to82-td7bsv2iaw0j@127.0.0.1:8081?security=tls&type=tcp#</> Collector v5.0
+trojan://opfjrl64-3dmv-zvj8-mvxm-8yuffs01t21e@127.0.0.1:8080?security=tls&type=tcp#For enhanced GitHub access, visit Argh94 now!
+trojan://cj4p4e76-kyxe-kuy6-5vul-eefqyh67ows2@127.0.0.1:8081?security=tls&type=tcp#</> Collector v5.0
