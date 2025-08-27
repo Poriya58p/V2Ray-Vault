@@ -1,6 +1,6 @@
-trojan://fp8clgbn-hw69-shi8-fgec-rw14gsby95fg@127.0.0.1:1080?security=tls&type=tcp#🕒 LAST UPDATE: 2025/08/27 | 04:36
-trojan://baottfn4-d2e0-lf38-qsq2-tlrehwnmugly@127.0.0.1:2080?security=tls&type=tcp#This is a free trial project.
-trojan://wjxha1md-agdx-jhxd-5vun-wb7r0tmrwolf@127.0.0.1:4080?security=tls&type=tcp#「 GitHub Argh94 ☕ 」
+trojan://q1tzwf9r-enjw-qe7f-kcwk-q4g27gvprygz@127.0.0.1:1080?security=tls&type=tcp#🕒 LAST UPDATE: 2025/08/27 | 07:53
+trojan://rqpf3bsg-urib-npa7-xw2h-wuyqo733d88v@127.0.0.1:2080?security=tls&type=tcp#This is a free trial project.
+trojan://bhfnuwwv-j9ki-5yr7-jwvc-k1enq6cy737c@127.0.0.1:4080?security=tls&type=tcp#「 GitHub Argh94 ☕ 」
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1MTdUM0J2cFlhYWl1VzJj@series-a2-mec.varzesh360.co:443#series-a2-mec.varzesh360.co:443
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo0YTJyZml4b3BoZGpmZmE4S1ZBNEFh@45.87.175.157:8080#45.87.175.157:8080
 vless://020ef3e7-8419-482b-873b-ab9cf4b770f0@dash.imgdownload.sbs:4384?type=tcp&security=none#dash.imgdownload.sbs:4384
@@ -9,5 +9,5 @@ vless://88b9da00-7a25-45ec-859b-14ad57a6bd2b@91.99.179.201:443?type=tcp&security
 vless://dbb3c682-8564-4c02-aec9-23ecf7981820@104.19.219.139:443?type=ws&security=tls&path=/api/v1&sni=ARC-448.Pages.DEV&fp=firefox#104.19.219.139:443
 vless://f278037e-ce36-4634-9b4d-fca93e345a35@104.16.191.195:80?type=ws&security=none&path=/Tel-@V2ray_Alpha/?ed=2560&sni=barayeiran.mahiozonboroon.qzz.io&fp=random#104.16.191.195:80
 vless://bb7b030f-fd37-488a-be1f-1a26d874cb26@91.99.126.93:8443?type=xhttp&security=none&path=/xhttp#91.99.126.93:8443
-trojan://jezyouwr-zozj-aznr-ipo3-vmfhqpou5170@127.0.0.1:8080?security=tls&type=tcp#For enhanced GitHub access, visit Argh94 now!
-trojan://e11pl70w-w88m-ilrl-u72n-e9axy7ea3p0x@127.0.0.1:8081?security=tls&type=tcp#</> Collector v5.0
+trojan://85x81ju4-mf4w-twle-4n6k-7hig8e958bpx@127.0.0.1:8080?security=tls&type=tcp#For enhanced GitHub access, visit Argh94 now!
+trojan://k49ccddc-a3il-e3jq-4lao-cp5inyky0agz@127.0.0.1:8081?security=tls&type=tcp#</> Collector v5.0

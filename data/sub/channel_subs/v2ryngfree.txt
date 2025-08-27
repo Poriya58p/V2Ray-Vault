@@ -1,6 +1,6 @@
-trojan://octmynfa-tdtv-d9zo-ra6d-cxfq10ss17pc@127.0.0.1:1080?security=tls&type=tcp#🕒 LAST UPDATE: 2025/08/27 | 04:36
-trojan://8y2ut19f-l0bc-gzad-b3j4-9ts3w4ag7dz9@127.0.0.1:2080?security=tls&type=tcp#This is a free trial project.
-trojan://8b2tp4vd-ywkn-poun-ph3e-lyr0uu9disa6@127.0.0.1:4080?security=tls&type=tcp#「 GitHub Argh94 ☕ 」
+trojan://svd5qq3i-d780-rypp-670q-1xrbs4j61ard@127.0.0.1:1080?security=tls&type=tcp#🕒 LAST UPDATE: 2025/08/27 | 07:53
+trojan://hp4gmtfw-kob7-yb0m-s1g5-viq8xkxnmjrc@127.0.0.1:2080?security=tls&type=tcp#This is a free trial project.
+trojan://3dmmsmyo-5lu3-r9ze-bk9q-6pa5r2mwhlj5@127.0.0.1:4080?security=tls&type=tcp#「 GitHub Argh94 ☕ 」
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpCb2cwRUxtTU05RFN4RGRR@fast_2ray_telchannelll.fast2rayy.eu.org:443#fast_2ray_telchannelll.fast2rayy.eu.org:443
 vmess://eyJ2IjoiMiIsInBzIjoiQHYycnluZ2ZyZWUgXHUwNjMzXHUwNjMxXHUwNjg2IFx1MDZhOVx1MDY0NiBcdTA2MjhcdTA2Y2NcdTA2MjcgXHUwNjJhXHUwNjQ4IFx1MDZhOVx1MDYyN1x1MDY0Nlx1MDYyN1x1MDY0NCIsImFkZCI6IjYyLjYwLjE0Ny4yMyIsInBvcnQiOjUwMDEsImlkIjoiYmYzMzFhMzctZjliOC00YTVkLWJjMjMtZjc2ZGNiOGQ2MTc4IiwiYWlkIjowLCJzY3kiOiJhdXRvIiwibmV0IjoidGNwIiwidHlwZSI6Imh0dHAiLCJwYXRoIjoiLyJ9
 vmess://eyJ2IjoiMiIsInBzIjoiQHYycnluZ2ZyZWUgXHUwNjMzXHUwNjMxXHUwNjg2IFx1MDZhOVx1MDY0NiBcdTA2MjhcdTA2Y2NcdTA2MjcgXHUwNjJhXHUwNjQ4IFx1MDZhOVx1MDYyN1x1MDY0Nlx1MDYyN1x1MDY0NCIsImFkZCI6ImdpZnQuZmFzdHNoYWRvdy5pbmZvIiwicG9ydCI6NzQ0MywiaWQiOiI0MTk2MDA4ZC0zM2U2LTQ4N2UtODk1Ny1iMzcxZGVmNDllYjkiLCJhaWQiOjAsInNjeSI6ImF1dG8iLCJuZXQiOiJ0Y3AiLCJ0eXBlIjoibm9uZSJ9
@@ -12,5 +12,5 @@ vless://bd08e1b7-e20b-414b-abca-f40ed69b5253@78.141.196.65:2053?type=tcp&securit
 vless://c566c1a7-5040-4f1a-95b0-3f97e256ea27@2001:19f0:7400:8c45:5400:04ff:feef:4ccb:2083?type=tcp&security=none#2001:19f0:7400:8c45:5400:04ff:feef:4ccb:2083
 vless://889cd5fb-82b9-4612-819e-cbe33044c38e@104.238.171.160:2053?type=ws&security=none&path=/@v2ryngfree@v2ryngfree@v2ryngfree#104.238.171.160:2053
 vless://1c7f075c-0021-4f4b-8fbd-326672770d61@2a05:f480:1000:0300:5400:04ff:fef0:6bd0:2053?type=ws&security=none&path=/@v2ryngfree@v2ryngfree@v2ryngfree#2a05:f480:1000:0300:5400:04ff:fef0:6bd0:2053
-trojan://vi17gm3r-8ji4-3sbi-m2en-w3097x6x29wn@127.0.0.1:8080?security=tls&type=tcp#For enhanced GitHub access, visit Argh94 now!
-trojan://tac4oguo-bgt3-tta8-pb7z-ecsjt8cc1l3i@127.0.0.1:8081?security=tls&type=tcp#</> Collector v5.0
+trojan://b41msjag-il1u-oeum-95d9-8crz6n9mtlvi@127.0.0.1:8080?security=tls&type=tcp#For enhanced GitHub access, visit Argh94 now!
+trojan://bn75ubnh-5e3q-c44w-izc9-12smbsh0r5z9@127.0.0.1:8081?security=tls&type=tcp#</> Collector v5.0

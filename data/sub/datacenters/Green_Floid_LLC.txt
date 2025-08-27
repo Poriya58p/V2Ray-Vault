@@ -1,7 +1,7 @@
-trojan://phhj0x2d-7qdq-3ss8-nrrr-11g97bawo38o@127.0.0.1:1080?security=tls&type=tcp#🕒 LAST UPDATE: 2025/08/27 | 04:36
-trojan://t9ixqw46-vrh3-6zi9-f9fe-j3ibijjx8psg@127.0.0.1:2080?security=tls&type=tcp#This is a free trial project.
-trojan://z0fhvbvf-adon-hxka-heft-igyb5it2o1u4@127.0.0.1:4080?security=tls&type=tcp#「 GitHub Argh94 ☕ 」
-vmess://eyJ2IjoiMiIsInBzIjoiQ1ogXHVkODNjXHVkZGU4XHVkODNjXHVkZGZmIFx1MjUwNyBWTUVTUy1UQ1AtTlRMUyAtIEdyZWVuIEZsb2lkIExMQyBcdTI1MDcgNjIuMjMzLjU3LjM4IiwiYWRkIjoiNjIuMjMzLjU3LjM4IiwicG9ydCI6NDQzLCJpZCI6ImM2NmQxYzAzLWVmNWUtNDk5NC1hN2E0LWQ0MTg1NTg2N2YxMyIsImFpZCI6MCwic2N5IjoiYXV0byIsIm5ldCI6InRjcCIsInR5cGUiOiJodHRwIiwicGF0aCI6Ii8ifQ
+trojan://81aj974t-hp5q-7r1f-655f-ww9ej3bwl5y1@127.0.0.1:1080?security=tls&type=tcp#🕒 LAST UPDATE: 2025/08/27 | 07:53
+trojan://6buk1uxr-azlq-1gf4-b2wl-895fsa49ma0i@127.0.0.1:2080?security=tls&type=tcp#This is a free trial project.
+trojan://tq3kn4lu-la1b-rmi0-g8xw-vcs373ns46vf@127.0.0.1:4080?security=tls&type=tcp#「 GitHub Argh94 ☕ 」
 vmess://eyJ2IjoiMiIsInBzIjoiVVMgXHVkODNjXHVkZGZhXHVkODNjXHVkZGY4IFx1MjUwNyBWTUVTUy1XUy1OVExTIC0gR3JlZW4gRmxvaWQgTExDIFx1MjUwNyAxOTUuMjExLjk5LjE0MyIsImFkZCI6IjE5NS4yMTEuOTkuMTQzIiwicG9ydCI6ODQ0MywiaWQiOiIyZTUxNGEzNi03YWU4LTRiNmEtOWUzNi05YzIwZTcyMjg4MjQiLCJhaWQiOjAsInNjeSI6ImF1dG8iLCJuZXQiOiJ3cyIsInR5cGUiOiItLS0iLCJwYXRoIjoiLyJ9
-trojan://kinha6fe-rmh8-z378-rd10-q0bqtaqgyy1v@127.0.0.1:8080?security=tls&type=tcp#For enhanced GitHub access, visit Argh94 now!
-trojan://2oiimzzo-tn0v-r05r-vb3j-kb3b2sl2iksr@127.0.0.1:8081?security=tls&type=tcp#</> Collector v5.0
+vmess://eyJ2IjoiMiIsInBzIjoiQ1ogXHVkODNjXHVkZGU4XHVkODNjXHVkZGZmIFx1MjUwNyBWTUVTUy1UQ1AtTlRMUyAtIEdyZWVuIEZsb2lkIExMQyBcdTI1MDcgNjIuMjMzLjU3LjM4IiwiYWRkIjoiNjIuMjMzLjU3LjM4IiwicG9ydCI6NDQzLCJpZCI6ImM2NmQxYzAzLWVmNWUtNDk5NC1hN2E0LWQ0MTg1NTg2N2YxMyIsImFpZCI6MCwic2N5IjoiYXV0byIsIm5ldCI6InRjcCIsInR5cGUiOiJodHRwIiwicGF0aCI6Ii8ifQ
+trojan://prpgccqj-di9h-baey-1g1z-i3xkhvpmglvf@127.0.0.1:8080?security=tls&type=tcp#For enhanced GitHub access, visit Argh94 now!
+trojan://9ztctksr-vfrc-nnpg-ee1a-pesxtouhtbhi@127.0.0.1:8081?security=tls&type=tcp#</> Collector v5.0

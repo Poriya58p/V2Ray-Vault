@@ -1,8 +1,8 @@
-trojan://187uwz0o-dhaq-8v2i-0607-fghcvlhrwq3p@127.0.0.1:1080?security=tls&type=tcp#🕒 LAST UPDATE: 2025/08/27 | 04:36
-trojan://knwawxeq-6ko3-ayrg-qain-eezy44jjijbi@127.0.0.1:2080?security=tls&type=tcp#This is a free trial project.
-trojan://o0l9h5fx-h3mi-kxwt-qyhs-c2dcic1tr76c@127.0.0.1:4080?security=tls&type=tcp#「 GitHub Argh94 ☕ 」
+trojan://mypvohlc-z2k1-75ds-cv81-x42jyklrcat5@127.0.0.1:1080?security=tls&type=tcp#🕒 LAST UPDATE: 2025/08/27 | 07:53
+trojan://ueyo5xh7-rpl4-vipx-88ir-8waw0i828u0p@127.0.0.1:2080?security=tls&type=tcp#This is a free trial project.
+trojan://0skq4njn-2nom-5lsl-cz1u-q8d7ebqjix0q@127.0.0.1:4080?security=tls&type=tcp#「 GitHub Argh94 ☕ 」
 vmess://eyJ2IjoiMiIsInBzIjoiTFYgXHVkODNjXHVkZGYxXHVkODNjXHVkZGZiIFx1MjUwNyBWTUVTUy1XUy1OVExTIC0gU0lBIFZFRVNQIFx1MjUwNyAyMTYuMTczLjY5LjI1MCIsImFkZCI6IjIxNi4xNzMuNjkuMjUwIiwicG9ydCI6ODQ0MywiaWQiOiI5MTM4MjA5Mi0yMzMwLTQ1NWItOGExYy05YzEyOWNmZTY2MWEiLCJhaWQiOjAsInNjeSI6ImF1dG8iLCJuZXQiOiJ3cyIsInR5cGUiOiItLS0iLCJwYXRoIjoiLyJ9
-vless://id8127942053@s2.nodu10.ru:443?type=tcp&security=reality&sni=www.apple.com&fp=edge&flow=xtls-rprx-vision&pbk=BSLYXa-gOix_3BBelaROYqH4u_kAiyfcN5-VE9qkmHE&sid=a61d6960f49e#LV 🇱🇻 ┇ VLESS-TCP-RLT - SIA VEESP ┇ 185.145.245.187
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTozNjBlMjFkMjE5NzdkYzEx@216.173.70.187:57456#LV 🇱🇻 ┇ SHADOWSOCKS-TCP-NTLS - SIA VEESP ┇ 216.173.70.187
-trojan://hvhfbfd3-2com-zq55-ctq6-853g34r6qab6@127.0.0.1:8080?security=tls&type=tcp#For enhanced GitHub access, visit Argh94 now!
-trojan://fuhfldd9-9nxn-vri8-sa7t-7i2t1icnb2k0@127.0.0.1:8081?security=tls&type=tcp#</> Collector v5.0
+vless://id8127942053@s2.nodu10.ru:443?type=tcp&security=reality&sni=www.apple.com&fp=edge&flow=xtls-rprx-vision&pbk=BSLYXa-gOix_3BBelaROYqH4u_kAiyfcN5-VE9qkmHE&sid=a61d6960f49e#LV 🇱🇻 ┇ VLESS-TCP-RLT - SIA VEESP ┇ 185.145.245.187
+trojan://w89i42bq-g29u-g9l4-jdxl-ywaszd6w1smy@127.0.0.1:8080?security=tls&type=tcp#For enhanced GitHub access, visit Argh94 now!
+trojan://0k9p0ilv-fx5p-ff8a-x5yf-phjev56ik34f@127.0.0.1:8081?security=tls&type=tcp#</> Collector v5.0

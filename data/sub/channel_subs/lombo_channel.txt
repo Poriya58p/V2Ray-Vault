@@ -1,9 +1,9 @@
-trojan://5j6b0lc7-zc6d-z6kh-8u61-s3scdnkctx3u@127.0.0.1:1080?security=tls&type=tcp#🕒 LAST UPDATE: 2025/08/27 | 04:36
-trojan://p3w05q2d-xupa-5645-9xq1-6mbzcxsk3mdw@127.0.0.1:2080?security=tls&type=tcp#This is a free trial project.
-trojan://l1gnj8yr-ur13-z8xm-wjo8-bp1rch2d42pj@127.0.0.1:4080?security=tls&type=tcp#「 GitHub Argh94 ☕ 」
+trojan://tcx4x652-rv1b-exc8-zz2u-2feohmvz30oi@127.0.0.1:1080?security=tls&type=tcp#🕒 LAST UPDATE: 2025/08/27 | 07:53
+trojan://l4uxxts3-gwhk-6mz6-t17z-k27nf8ce4p8z@127.0.0.1:2080?security=tls&type=tcp#This is a free trial project.
+trojan://93vhtmmd-wrv3-qmfi-dvgk-qur7hnqpnpsb@127.0.0.1:4080?security=tls&type=tcp#「 GitHub Argh94 ☕ 」
 vless://f5931ddd-a7cc-4057-8e62-73c9e1f54e49@biography.com:80?type=ws&security=none&path=/networkfi?ed=1024#biography.com:80
 vless://f5931ddd-a7cc-4057-8e62-73c9e1f54e49@biography.com:80?type=ws&security=none&path=/networkfi?ed=1024#biography.com:80
 vless://77e6e498-98e4-4a0b-93cb-8e2c117c0ad3@81.12.96.39:22631?type=tcp&security=none#81.12.96.39:22631
 vless://153ee04c-dcc1-4ef8-a146-8fb31cec1f48@91.99.193.96:443?type=tcp&security=none#91.99.193.96:443
-trojan://jppu45ze-pnkh-np26-tsd0-xiurpgl9w79u@127.0.0.1:8080?security=tls&type=tcp#For enhanced GitHub access, visit Argh94 now!
-trojan://uxl2e61i-n2gu-wrdd-c5he-atg52g0vzmfd@127.0.0.1:8081?security=tls&type=tcp#</> Collector v5.0
+trojan://4g8uj4s2-c3se-9h03-ci6a-9o3vmykh6g6n@127.0.0.1:8080?security=tls&type=tcp#For enhanced GitHub access, visit Argh94 now!
+trojan://nlpncb3z-gzzw-zamz-r8hp-l4lwa5nyar4a@127.0.0.1:8081?security=tls&type=tcp#</> Collector v5.0

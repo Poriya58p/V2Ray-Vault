@@ -1,6 +1,6 @@
-trojan://20hvidqt-pbor-pi2l-hp1b-7g6uy1vde2oq@127.0.0.1:1080?security=tls&type=tcp#🕒 LAST UPDATE: 2025/08/27 | 04:36
-trojan://7tvef46p-rhmp-zf6e-ay9d-jgo8xej7wmit@127.0.0.1:2080?security=tls&type=tcp#This is a free trial project.
-trojan://bozyp418-x9io-hkhj-7kjo-z3phxagqihd2@127.0.0.1:4080?security=tls&type=tcp#「 GitHub Argh94 ☕ 」
+trojan://el7v1rm9-58ng-rljs-3hrv-jsfhtfa6g8tl@127.0.0.1:1080?security=tls&type=tcp#🕒 LAST UPDATE: 2025/08/27 | 07:53
+trojan://nmmsqyd6-d4oi-kkql-ku8p-oigmnkwr9oig@127.0.0.1:2080?security=tls&type=tcp#This is a free trial project.
+trojan://w9ak0m0p-stxo-5yp6-25kf-8pv9y4prakob@127.0.0.1:4080?security=tls&type=tcp#「 GitHub Argh94 ☕ 」
 vless://65b02abb-565e-4414-c683-5fc379e04c55@85.133.201.99:23662?type=tcp&security=none#85.133.201.99:23662
 vless://65b02abb-565e-4414-c683-5fc379e04c55@85.133.201.99:23662?type=tcp&security=none#85.133.201.99:23662
 vless://8d10333a-edf1-4474-a2d9-576a30fdf44a@www.speedtest.net:443?type=ws&security=tls&path=/?ed=1024&sni=dl-pack.motionbetter.ir&fp=chrome#www.speedtest.net:443
@@ -12,5 +12,5 @@ vless://8d10333a-edf1-4475-a2d9-576a30fdf44a@cpanel.com:2053?type=grpc&security=
 vless://8d10333a-edf2-4475-a2d9-176a30fdf44a@www.speedtest.net:443?type=ws&security=tls&path=/?ed=1024&sni=dl-pack.motionbetter.ir&fp=chrome#www.speedtest.net:443
 vless://8d10333a-edf2-4475-a2d9-176a30fdf44a@2a01:4f8:1c17:d10d::1:8080?type=grpc&security=none#2a01:4f8:1c17:d10d::1:8080
 vless://8d10333a-edf2-4475-a2d9-176a30fdf44a@cpanel.com:2053?type=grpc&security=tls&sni=dl-pack.motionbetter.ir&fp=chrome#cpanel.com:2053
-trojan://nudz4ex9-5k3m-bzn8-0pub-tqrs67f0f2um@127.0.0.1:8080?security=tls&type=tcp#For enhanced GitHub access, visit Argh94 now!
-trojan://n4rvdc9q-ur9o-h3o1-6uqq-4r0o9vw8jd0n@127.0.0.1:8081?security=tls&type=tcp#</> Collector v5.0
+trojan://awy5mat7-m9hu-5338-56gl-jo3ue7evjb7x@127.0.0.1:8080?security=tls&type=tcp#For enhanced GitHub access, visit Argh94 now!
+trojan://epus54g8-4lls-vdk2-qtlz-3lveft54sa41@127.0.0.1:8081?security=tls&type=tcp#</> Collector v5.0

@@ -1,6 +1,6 @@
-trojan://bz8ttas3-o9og-t8za-pn89-49v7qxl6h22n@127.0.0.1:1080?security=tls&type=tcp#🕒 LAST UPDATE: 2025/08/27 | 04:36
-trojan://zgi2nc6e-9gng-jnvv-84sy-sf9p2dv8hseb@127.0.0.1:2080?security=tls&type=tcp#This is a free trial project.
-trojan://4pgbddwe-9sdi-wkon-bzk5-g0ioee2ya8dw@127.0.0.1:4080?security=tls&type=tcp#「 GitHub Argh94 ☕ 」
+trojan://mau7kck4-6qu9-r1lo-7jel-rnur96uwbr21@127.0.0.1:1080?security=tls&type=tcp#🕒 LAST UPDATE: 2025/08/27 | 07:53
+trojan://d1wsdi2u-z6es-yvp6-85r3-fdp3jqi0shxy@127.0.0.1:2080?security=tls&type=tcp#This is a free trial project.
+trojan://27i4yelx-sls9-2q9k-eg4o-hisxwpunji4h@127.0.0.1:4080?security=tls&type=tcp#「 GitHub Argh94 ☕ 」
 trojan://d6b8011a-c725-435a-9fec-bf6d3530392c@156.238.19.8:443?sni=vle.amclubsvip.dpdns.org&peer=vle.amclubsvip.dpdns.org&security=tls#156.238.19.8:443
 vmess://eyJ2IjoiMiIsInBzIjoiVk1FU1MtXHU2NzJhXHU3N2U1Plx1ODJmMVx1NTZmZC1ORlx1ODllM1x1OTUwMVx1NmNlMlx1NTE3MFx1NTczMFx1NTMzYVx1OTc1ZVx1ODFlYVx1NTIzNlx1NTI2Ny1DaGF0R1BULVRpa1Rvay1iNjJhOTQ4Yy1mYWEyLTRlOGEtYmY4YS0zZmYzMTIxYzg3NWEuYXNvdWwtYXZhLnRvcDo0NDMiLCJhZGQiOiJiNjJhOTQ4Yy1mYWEyLTRlOGEtYmY4YS0zZmYzMTIxYzg3NWEuYXNvdWwtYXZhLnRvcCIsInBvcnQiOjQ0MywiaWQiOiI1ZjcyNmZlMy1kODJlLTRkYTUtYTcxMS04YWYwY2JiMmI2ODIiLCJhaWQiOjAsInNjeSI6ImF1dG8iLCJuZXQiOiJ3cyIsInBhdGgiOiIvYXp1bWFzZS5yZW4iLCJ0bHMiOiJ0bHMifQ
 vless://9e769ce1-34be-4e3f-b0a6-823f30eb8f69@104.17.147.22:2087?type=ws&security=tls&path=/&sni=smart.v2plusify.org#104.17.147.22:2087
@@ -12,5 +12,5 @@ vless://fe1888f8-2361-11f0-9970-45e1d80c4039@89.23.108.188:443?type=tcp&security
 hysteria2://de8854c7-fa17-4266-ae18-50a9732a0c4e@it1.1010991.xyz:3001?sni=it1.1010991.xyz&insecure=1#it1.1010991.xyz:3001
 hysteria2://a16d62f6-048d-11f0-af5a-f23c93136cb3@b9c3912b-t07z40-t1l1nh-d6ar.la.shifen.uk:1743?sni=b9c3912b-t07z40-t1l1nh-d6ar.la.shifen.uk&insecure=0#b9c3912b-t07z40-t1l1nh-d6ar.la.shifen.uk:1743
 hysteria2://d5488371-4d89-4699-890f-7abeb28c4076@hsmg.huasuan666.top:22151?sni=hsmg.huasuan666.top&insecure=1#hsmg.huasuan666.top:22151
-trojan://tjn05me7-7022-ygzv-g3cg-0t8dd1kwlivr@127.0.0.1:8080?security=tls&type=tcp#For enhanced GitHub access, visit Argh94 now!
-trojan://6tzht45p-pjkp-ibxy-0bg1-kxj3rohfnqsf@127.0.0.1:8081?security=tls&type=tcp#</> Collector v5.0
+trojan://qlgwm0zs-mi1s-nuel-0nhd-xo54j3y7rtnd@127.0.0.1:8080?security=tls&type=tcp#For enhanced GitHub access, visit Argh94 now!
+trojan://tcx5ek4h-crne-tay1-6mxg-qe00g9un0gnw@127.0.0.1:8081?security=tls&type=tcp#</> Collector v5.0

@@ -1,7 +1,7 @@
-trojan://18xm84fp-egwr-dee8-kjeh-pu529f1zxqps@127.0.0.1:1080?security=tls&type=tcp#🕒 LAST UPDATE: 2025/08/27 | 04:36
-trojan://98kk8b4a-w3mp-q9d6-w93a-85qd9vu37cle@127.0.0.1:2080?security=tls&type=tcp#This is a free trial project.
-trojan://ub7xyqhg-7giz-hkeq-eo5e-bwnqxuhwq23i@127.0.0.1:4080?security=tls&type=tcp#「 GitHub Argh94 ☕ 」
-ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw@37.235.49.168:989#IS 🇮🇸 ┇ SHADOWSOCKS-TCP-NTLS - Advania Island ehf ┇ 37.235.49.168
+trojan://9qw0j135-dcbs-gydz-9nfn-e31gl022dyfc@127.0.0.1:1080?security=tls&type=tcp#🕒 LAST UPDATE: 2025/08/27 | 07:53
+trojan://g69ypbuz-iq4a-ud70-yfrv-49o6l7vhyksk@127.0.0.1:2080?security=tls&type=tcp#This is a free trial project.
+trojan://wsa77hz9-3j3k-cu2r-61fu-5p3btrw4l8w6@127.0.0.1:4080?security=tls&type=tcp#「 GitHub Argh94 ☕ 」
 ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw@37.235.49.152:989#IS 🇮🇸 ┇ SHADOWSOCKS-TCP-NTLS - Advania Island ehf ┇ 37.235.49.152
-trojan://rbuweokc-ifrw-la6k-qjhq-vp8s4r43vvp5@127.0.0.1:8080?security=tls&type=tcp#For enhanced GitHub access, visit Argh94 now!
-trojan://oj05u4as-c9zi-pwjy-fyp1-aynqb9mpt9ij@127.0.0.1:8081?security=tls&type=tcp#</> Collector v5.0
+ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw@37.235.49.168:989#IS 🇮🇸 ┇ SHADOWSOCKS-TCP-NTLS - Advania Island ehf ┇ 37.235.49.168
+trojan://nkhmk4f1-9hck-ke4p-f20d-wqwqmvvf6jrm@127.0.0.1:8080?security=tls&type=tcp#For enhanced GitHub access, visit Argh94 now!
+trojan://aw02ndaw-2k04-in2m-fqtm-9c40zesoa2v2@127.0.0.1:8081?security=tls&type=tcp#</> Collector v5.0

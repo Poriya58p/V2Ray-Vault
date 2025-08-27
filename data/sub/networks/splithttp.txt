@@ -1,6 +1,6 @@
-trojan://o4tvszuo-b8rm-vd2q-bm8a-4b4a04fza538@127.0.0.1:1080?security=tls&type=tcp#🕒 LAST UPDATE: 2025/08/27 | 04:36
-trojan://rfswh6vs-be6y-x9u4-09v1-92fqagmzcb3v@127.0.0.1:2080?security=tls&type=tcp#This is a free trial project.
-trojan://6g0zgqzc-l4yd-5hnq-guer-tmhkxzdm44ed@127.0.0.1:4080?security=tls&type=tcp#「 GitHub Argh94 ☕ 」
+trojan://4h3kuysr-c5rk-124a-43zg-vcr0jqsfoqsd@127.0.0.1:1080?security=tls&type=tcp#🕒 LAST UPDATE: 2025/08/27 | 07:53
+trojan://ugrigpe7-su12-39l0-pzdc-451nst50oatg@127.0.0.1:2080?security=tls&type=tcp#This is a free trial project.
+trojan://ubmpes0s-5tsu-vdpc-3g59-vgzbzuz8s6dv@127.0.0.1:4080?security=tls&type=tcp#「 GitHub Argh94 ☕ 」
 vless://b5e5c843-eb6b-438d-93c5-4faa71780ac4@139.162.146.9:443?type=splithttp&security=reality&path=/&sni=eu.account.battle.net&fp=chrome&pbk=JrQipo4fliL8f9hLW49Wpr96XjYFaZPsom7hzlvaMio&sid=02#DE 🇩🇪 ┇ VLESS-SPLITHTTP-RLT - Akamai Connected Cloud ┇ 139.162.146.9
-trojan://nzfgzobt-lwoo-dgzq-3yyk-rp4nk9bge7bd@127.0.0.1:8080?security=tls&type=tcp#For enhanced GitHub access, visit Argh94 now!
-trojan://qqyl06ie-pgtq-yyk5-jb9z-q7hikhmnfxqx@127.0.0.1:8081?security=tls&type=tcp#</> Collector v5.0
+trojan://11jhxs4r-65h3-9rof-a898-4llzxq9kw063@127.0.0.1:8080?security=tls&type=tcp#For enhanced GitHub access, visit Argh94 now!
+trojan://rug667d1-mdmr-h06f-arc4-p7otby1nwl6e@127.0.0.1:8081?security=tls&type=tcp#</> Collector v5.0

@@ -1,7 +1,7 @@
-trojan://6mvnj5gb-f087-n9gb-3ec7-kd3dup679vmw@127.0.0.1:1080?security=tls&type=tcp#🕒 LAST UPDATE: 2025/08/27 | 04:36
-trojan://pem2wphu-1tad-uuug-mja7-2pu5sx6onc08@127.0.0.1:2080?security=tls&type=tcp#This is a free trial project.
-trojan://f9t0eor5-y788-oej8-727s-k0vwearkjrdv@127.0.0.1:4080?security=tls&type=tcp#「 GitHub Argh94 ☕ 」
+trojan://bubhud05-42lh-i8c7-d2hg-nro0wb165a0r@127.0.0.1:1080?security=tls&type=tcp#🕒 LAST UPDATE: 2025/08/27 | 07:53
+trojan://gi8alcot-aplp-2whg-9tos-st8ig4fyyp1c@127.0.0.1:2080?security=tls&type=tcp#This is a free trial project.
+trojan://vuuvre02-j88z-efex-vcib-qjf1peei2vy7@127.0.0.1:4080?security=tls&type=tcp#「 GitHub Argh94 ☕ 」
 ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw@185.153.197.5:989#MD 🇲🇩 ┇ SHADOWSOCKS-TCP-NTLS - ''it Fruit'' S.r.l. ┇ 185.153.197.5
 vless://c8d98220-eee5-47ab-b311-b5a52c24d808@194.156.67.206:443?type=tcp&security=reality&sni=cdnjs.com&fp=chrome&flow=xtls-rprx-vision&pbk=1he5EyHxI595x0mNkFNxOebUOQZGVGIy_c92bn1qO2o&sid=ac31827454d7f693#MD 🇲🇩 ┇ VLESS-TCP-RLT - Foxcloud Communications Srl ┇ 194.156.67.206
-trojan://e42rc22d-agpf-rpdb-sh70-5mbwtek7lz49@127.0.0.1:8080?security=tls&type=tcp#For enhanced GitHub access, visit Argh94 now!
-trojan://fi6r57tb-porg-436v-d5f4-79nd0ve9givk@127.0.0.1:8081?security=tls&type=tcp#</> Collector v5.0
+trojan://erop0tbl-19ol-6a2b-qrvl-q9v7xb7p7qm2@127.0.0.1:8080?security=tls&type=tcp#For enhanced GitHub access, visit Argh94 now!
+trojan://nqw9q52d-p69c-3fve-zjc9-ay5j4xwre09v@127.0.0.1:8081?security=tls&type=tcp#</> Collector v5.0

@@ -1,6 +1,6 @@
-trojan://x0t5azod-6sff-toh1-06ec-y6q7y7ate1sc@127.0.0.1:1080?security=tls&type=tcp#🕒 LAST UPDATE: 2025/08/27 | 04:36
-trojan://towx5ral-ighe-uf0q-f5fc-kvk9v5z7gz1v@127.0.0.1:2080?security=tls&type=tcp#This is a free trial project.
-trojan://zk8hmq76-0rr7-gds8-p67t-tthiswmf2ca0@127.0.0.1:4080?security=tls&type=tcp#「 GitHub Argh94 ☕ 」
+trojan://a53rc3n4-jit8-mycv-gajq-mqxqs0zmuyzc@127.0.0.1:1080?security=tls&type=tcp#🕒 LAST UPDATE: 2025/08/27 | 07:53
+trojan://rcym4lhl-5d8t-2e2d-6ejd-4hqnjth3s7sa@127.0.0.1:2080?security=tls&type=tcp#This is a free trial project.
+trojan://xy6b37ao-betd-ek97-hg96-2g8fxnwu1m90@127.0.0.1:4080?security=tls&type=tcp#「 GitHub Argh94 ☕ 」
 vless://39ca66b9-a34c-4031-a6ce-8846f75d8cb9@172.67.74.133:443?type=ws&security=tls&path=/sg10/?TELEGRAM_CHANEL_JKVPN_JKVPN_JKVPN&sni=app-stg.gopay.co.id.servpn.my.id#172.67.74.133:443
 vless://4efcd0e6-df31-4cdb-8333-0d5b753f26a5@5.35.103.218:2083?type=tcp&security=none#5.35.103.218:2083
 vless://5e802e1a-3c82-41ec-aaca-f6371b8b86a5@160.153.0.11:2083?type=ws&security=tls&path=/CPI&sni=fraG2.MAhSAAmINI.cC&fp=chrome#160.153.0.11:2083
@@ -18,5 +18,5 @@ vless://e7cd4ffe-1f24-412e-856e-857559fd2aa8@5.35.103.218:2083?type=tcp&security
 vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@54.93.38.12:22224?type=ws&security=tls&path=/telegram-channel-vlessconfig&sni=trojan.burgerip.co.uk#54.93.38.12:22224
 vless://d2dc2527-33d5-46f3-f39c-36da72fb1a62@54.37.205.0:59332?type=tcp&security=none#54.37.205.0:59332
 vless://f076ae11-156c-45c5-b252-ae8dd6fd1494@91.99.70.212:443?type=grpc&security=reality&sni=www.cdn77.com&fp=chrome&pbk=Zjzu45fPTjjaIcBoYyaLqieLtsWJD8ujdzNOQodWvnk#91.99.70.212:443
-trojan://n5hz1hy0-xxpy-wa6z-vezd-5wiuyuy0hcg7@127.0.0.1:8080?security=tls&type=tcp#For enhanced GitHub access, visit Argh94 now!
-trojan://2l1zpzke-npyi-stu2-rwsr-llw6g9z1nsw3@127.0.0.1:8081?security=tls&type=tcp#</> Collector v5.0
+trojan://9341jumu-cmr4-culc-xxrg-ce77mvvzym2r@127.0.0.1:8080?security=tls&type=tcp#For enhanced GitHub access, visit Argh94 now!
+trojan://mj01u2zs-j7id-mack-olna-lpgtiumpfozr@127.0.0.1:8081?security=tls&type=tcp#</> Collector v5.0

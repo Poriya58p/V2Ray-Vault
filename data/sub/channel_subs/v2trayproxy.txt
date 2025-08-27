@@ -1,6 +1,6 @@
-trojan://dfqocb2b-nynf-xwnz-ulcz-36a65ek2jlxc@127.0.0.1:1080?security=tls&type=tcp#🕒 LAST UPDATE: 2025/08/27 | 04:36
-trojan://xq3v125b-xrhh-gqcp-sk4m-xlmf1uydnkuf@127.0.0.1:2080?security=tls&type=tcp#This is a free trial project.
-trojan://lhwahu67-uq4i-g8fd-7qkd-rknwv2p2fcqr@127.0.0.1:4080?security=tls&type=tcp#「 GitHub Argh94 ☕ 」
+trojan://ma9j2j4d-9dnj-ooy4-qcsk-iagfbrcfubkl@127.0.0.1:1080?security=tls&type=tcp#🕒 LAST UPDATE: 2025/08/27 | 07:53
+trojan://ruxemzlm-y8h2-zkld-be14-2rzxyqefdrkd@127.0.0.1:2080?security=tls&type=tcp#This is a free trial project.
+trojan://xqj6einq-gv4n-xxon-ieke-oo71jpb1yhw8@127.0.0.1:4080?security=tls&type=tcp#「 GitHub Argh94 ☕ 」
 vless://496e91a6-c90c-483d-adb1-133d04d8e725@blog.ruangguru.com.servpn.my.id:443?type=ws&security=tls&path=/sg1&sni=blog.ruangguru.com.servpn.my.id#blog.ruangguru.com.servpn.my.id:443
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@185.231.205.181:8880?type=grpc&security=none#185.231.205.181:8880
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@94.131.9.172:8880?type=grpc&security=none#94.131.9.172:8880
@@ -75,5 +75,5 @@ hysteria2://8b583292-c936-4723-a8c7-8adb8ecf5044@hsxjp.huasuan666.top:22154?sni=
 hysteria2://NjEkAYYNqFKUbrksyW1COBtdpU@47.239.220.214:2428?sni=47.239.220.214&insecure=1#47.239.220.214:2428
 hysteria2://3hszBhqVsUhqOOFWJlev6k6Tkc@47.129.224.62:22509?sni=bing.com&insecure=1#47.129.224.62:22509
 hysteria2://RzQrEkAmnGs86IhmSVUk9Q5cn9M@47.236.104.81:30308?sni=bing.com&insecure=1#47.236.104.81:30308
-trojan://elzqqldg-ktck-w0al-p3wq-z3j50nt4h5ss@127.0.0.1:8080?security=tls&type=tcp#For enhanced GitHub access, visit Argh94 now!
-trojan://4pqhd57z-bm1d-plus-72ty-fiww32grh97p@127.0.0.1:8081?security=tls&type=tcp#</> Collector v5.0
+trojan://86xckb09-dc7g-xkyx-se33-6gnxks956h5q@127.0.0.1:8080?security=tls&type=tcp#For enhanced GitHub access, visit Argh94 now!
+trojan://q81rp27u-vgbz-wk8p-g3xl-8a9kif7rhmr8@127.0.0.1:8081?security=tls&type=tcp#</> Collector v5.0

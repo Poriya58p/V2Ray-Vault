@@ -1,8 +1,8 @@
-trojan://k2cop6be-9yy4-vbio-jeox-y1rtk8vqqiek@127.0.0.1:1080?security=tls&type=tcp#🕒 LAST UPDATE: 2025/08/27 | 04:36
-trojan://8td6d73x-d1uw-j0tt-pqmm-ev7oqiuh8wov@127.0.0.1:2080?security=tls&type=tcp#This is a free trial project.
-trojan://knvk5xtr-uxd6-qxhs-7a6a-a07uyp7najib@127.0.0.1:4080?security=tls&type=tcp#「 GitHub Argh94 ☕ 」
-trojan://mZMgM1vKw5@85.255.9.247:1935?sni=x1-czech-aruba-v2.devefun.org&peer=x1-czech-aruba-v2.devefun.org&security=tls#CZ 🇨🇿 ┇ TROJAN-TCP-TLS - INTERNET CZ, a.s. ┇ 85.255.9.247
+trojan://5ilej684-vb39-mod0-0rfy-d5kup7wi9epg@127.0.0.1:1080?security=tls&type=tcp#🕒 LAST UPDATE: 2025/08/27 | 07:53
+trojan://b3fmc232-thvp-ytun-3vsx-lk3qpunv30tl@127.0.0.1:2080?security=tls&type=tcp#This is a free trial project.
+trojan://4qyimjy3-y7l7-gf87-hysq-4v0692jmc1ek@127.0.0.1:4080?security=tls&type=tcp#「 GitHub Argh94 ☕ 」
 vless://c8da575a-b3ab-4949-985c-d151335b5301@194.182.79.182:29706?type=grpc&security=reality&sni=sourceforge.net&fp=chrome&pbk=9EHYRTmUgCJodNs5L4wTxoxniVtvsXFonfQ1H72LqRQ&sid=ef8dfc4f801d89#CZ 🇨🇿 ┇ VLESS-GRPC-RLT - INTERNET CZ, a.s. ┇ 194.182.79.182
+trojan://mZMgM1vKw5@85.255.9.247:1935?sni=x1-czech-aruba-v2.devefun.org&peer=x1-czech-aruba-v2.devefun.org&security=tls#CZ 🇨🇿 ┇ TROJAN-TCP-TLS - INTERNET CZ, a.s. ┇ 85.255.9.247
 vless://aa374d55-b368-4121-8f02-7e6bd9ef1924@194.182.79.43:25245?type=grpc&security=reality&sni=journalofbigdata.springeropen.com&fp=chrome&pbk=uv1gMqjxJ-bF5Xjix_d5M4qGK0-VmGyrU5ZMtiXrhHg&sid=16b619c73e22#CZ 🇨🇿 ┇ VLESS-GRPC-RLT - INTERNET CZ, a.s. ┇ 194.182.79.43
-trojan://6v8e4fjc-vfi2-8tym-3fzk-lpe94knqwv27@127.0.0.1:8080?security=tls&type=tcp#For enhanced GitHub access, visit Argh94 now!
-trojan://ppmg41ns-424w-4auw-htwx-gx5pfr7cx7rj@127.0.0.1:8081?security=tls&type=tcp#</> Collector v5.0
+trojan://1m07uh1n-niu0-pb1e-diiz-k0g18md86kri@127.0.0.1:8080?security=tls&type=tcp#For enhanced GitHub access, visit Argh94 now!
+trojan://50mxzyty-57fd-j5w1-klcd-skavia7csdtd@127.0.0.1:8081?security=tls&type=tcp#</> Collector v5.0

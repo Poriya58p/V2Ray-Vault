@@ -1,6 +1,6 @@
-trojan://trf18ncz-egdn-zjsq-n8vj-dfzby7bkhssf@127.0.0.1:1080?security=tls&type=tcp#🕒 LAST UPDATE: 2025/08/27 | 04:36
-trojan://qly7o059-hgpm-oybz-tfog-5uu06agn74pp@127.0.0.1:2080?security=tls&type=tcp#This is a free trial project.
-trojan://o07l762y-paht-xbk6-is13-lhcajh3qnavj@127.0.0.1:4080?security=tls&type=tcp#「 GitHub Argh94 ☕ 」
+trojan://m3wlys6g-jmb9-3tda-b65e-1a28qhm0qvr8@127.0.0.1:1080?security=tls&type=tcp#🕒 LAST UPDATE: 2025/08/27 | 07:53
+trojan://psyi8e6h-l1nx-7p7q-28jc-42bu2zt7uqk8@127.0.0.1:2080?security=tls&type=tcp#This is a free trial project.
+trojan://mgatgtcp-d7f3-i430-plki-6vdng06g1gxr@127.0.0.1:4080?security=tls&type=tcp#「 GitHub Argh94 ☕ 」
 vless://98f18f76-bb78-4%61b9-b949-bfc%618741c%6522@188.114.97.1:80?type=ws&security=none&path=/telegram,@BINEXTIFY-telegram,@BINEXTIFY-telegram,@BINEXTIFY-telegram,@BINEXTIFY-telegram,@BINEXTIFY-telegram,@BINEXTIFY-telegram,@BINEXTIFY-telegram,@BINEXTIFY-telegram,@BINEXTIFY?ed=2560#188.114.97.1:80
 vless://76dff5cb-4b6%65-48%652-%65c19-2bc4f4dd1395@104.17.148.22:2095?type=httpupgrade&security=none&path=/telegram,@BINEXTIFY-telegram,@BINEXTIFY-telegram,@BINEXTIFY-telegram,@BINEXTIFY-telegram,@BINEXTIFY-telegram,@BINEXTIFY-telegram,@BINEXTIFY-telegram,@BINEXTIFY-telegram,@BINEXTIFY?ed=2560#104.17.148.22:2095
 vless://%619013c%65%65-7b9d-4776-d1d0-f46840008%65%611@172.66.40.99:80?type=ws&security=none&path=/@vmessorg----@vmessorg-----@vmessorg----@vmessorg----@vmessorg----@vmessorg----@vmessorg----@vmessorg----@vmessorg----@vmessorg----@vmessorg----@vmessorg?ed=2480#172.66.40.99:80
@@ -66,5 +66,5 @@ vless://2cd455a4-c698-42de-9830-ac628dbe2e26@91.99.70.212:443?type=grpc&security
 vless://tm-H%71V2rayNG@full.vvir.ir:443?type=tcp&security=reality&sni=google.com&fp=chrome&flow=xtls-rprx-vision&pbk=tmdA-JLXg99x-LdvzAZnIV2J7QlHAe7F7xSRLh4ljHM&sid=e1#full.vvir.ir:443
 vless://738ebc1c-c44a-418e-8c2c-f9e2efe1f4fe@91.99.70.212:443?type=grpc&security=reality&sni=www.cdn77.com&fp=chrome&pbk=Zjzu45fPTjjaIcBoYyaLqieLtsWJD8ujdzNOQodWvnk#91.99.70.212:443
 vless://f076%61%6511-156c-45c5-b252-%61%658dd6fd1494@91.99.70.212:443?type=grpc&security=reality&sni=www.cdn77.com&fp=chrome&pbk=Zjzu45fPTjjaIcBoYyaLqieLtsWJD8ujdzNOQodWvnk#91.99.70.212:443
-trojan://iudmitm3-7ssx-04cu-nsel-9cwrh4yw6ly0@127.0.0.1:8080?security=tls&type=tcp#For enhanced GitHub access, visit Argh94 now!
-trojan://oojace25-sqy9-kpjx-d208-oaepnq1rnf44@127.0.0.1:8081?security=tls&type=tcp#</> Collector v5.0
+trojan://zv7exwtz-576x-t82w-6qts-ucdexfk04d6o@127.0.0.1:8080?security=tls&type=tcp#For enhanced GitHub access, visit Argh94 now!
+trojan://alsjb782-cwv0-093h-rjyn-56hyt2236ybh@127.0.0.1:8081?security=tls&type=tcp#</> Collector v5.0

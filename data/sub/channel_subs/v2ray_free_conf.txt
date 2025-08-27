@@ -1,6 +1,6 @@
-trojan://6flsgwlz-uv5x-n6yj-m1bg-7szcbck37crk@127.0.0.1:1080?security=tls&type=tcp#🕒 LAST UPDATE: 2025/08/27 | 04:36
-trojan://rbr42mdo-wpqp-4ebu-j4j8-qg4ml0ke1s9d@127.0.0.1:2080?security=tls&type=tcp#This is a free trial project.
-trojan://v685n5mv-9v6d-o89r-ajes-rlkffcafeb4q@127.0.0.1:4080?security=tls&type=tcp#「 GitHub Argh94 ☕ 」
+trojan://3kepqusr-qj96-hwsq-zdm0-a4t4iukr71da@127.0.0.1:1080?security=tls&type=tcp#🕒 LAST UPDATE: 2025/08/27 | 07:53
+trojan://6sxbcelg-f46h-n4fm-29r4-eeyx4p7aisgn@127.0.0.1:2080?security=tls&type=tcp#This is a free trial project.
+trojan://t25pgfpo-qstz-9bcz-6ovc-busdyy0dq8mb@127.0.0.1:4080?security=tls&type=tcp#「 GitHub Argh94 ☕ 」
 ss://cmM0LW1kNToxNGZGUHJiZXpFM0hEWnpzTU9yNg@107.155.57.11:8080#107.155.57.11:8080
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTozNjBlMjFkMjE5NzdkYzEx@us.vmagnum.win:57456#us.vmagnum.win:57456
 ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw@192.36.27.94:989#192.36.27.94:989
@@ -8,17 +8,17 @@ ss://YWVzLTI1Ni1nY206N2FlNGU2OGNmNzdmNjA4OQ@45.140.169.26:29901#45.140.169.26:29
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpxc2NhdkY1VXZpSUwtOFYtRTRyYUJB@185.245.107.61:2222#185.245.107.61:2222
 ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw@46.183.184.60:989#46.183.184.60:989
 ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw@185.47.252.251:989#185.47.252.251:989
-trojan://telegram-id-privatevpns@13.36.1.17:22222?sni=trojan.burgerip.co.uk&peer=trojan.burgerip.co.uk&security=tls#13.36.1.17:22222
-trojan://telegram-id-privatevpns@63.176.195.158:22222?sni=trojan.burgerip.co.uk&peer=trojan.burgerip.co.uk&security=tls#63.176.195.158:22222
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpHIXlCd1BXSDNWYW8@217.197.161.164:803#217.197.161.164:803
 trojan://telegram-id-privatevpns@63.178.135.7:22222?sni=trojan.burgerip.co.uk&peer=trojan.burgerip.co.uk&security=tls#63.178.135.7:22222
 trojan://telegram-id-privatevpns@3.72.135.219:22222?sni=trojan.burgerip.co.uk&peer=trojan.burgerip.co.uk&security=tls#3.72.135.219:22222
+trojan://telegram-id-privatevpns@13.39.190.179:22222?sni=trojan.burgerip.co.uk&peer=trojan.burgerip.co.uk&security=tls#13.39.190.179:22222
 vmess://eyJ2IjoiMiIsInBzIjoiXHVkODNkXHVkZWE5IENGIHwgXHVkODNkXHVkZDEyIFZNRVNTIHwgQGlyYW5fbWVocl92cG4gWzEyXSIsImFkZCI6Ind3dy5zcGVlZHRlc3QubmV0IiwicG9ydCI6NDQzLCJpZCI6ImUyZmIyOGI4LWE0NTctNGJkMi04MDFlLTU2ZmRjY2NiZDg4ZSIsImFpZCI6MCwic2N5IjoiYXV0byIsIm5ldCI6IndzIiwidHlwZSI6Ii0tLSIsInBhdGgiOiIvbGlua3Zrd3NzcyIsInRscyI6InRscyJ9
 vmess://eyJ2IjoiMiIsInBzIjoiXHUyNjFlIFx1ZDgzNVx1ZGRkZFx1ZDgzNVx1ZGRmY1x1ZDgzNVx1ZGRmNlx1ZDgzNVx1ZGRmYiBcdTI3YTAgQFZpdHVyZXkiLCJhZGQiOiI5MS4yMTguMTQzLjEzMyIsInBvcnQiOjIwMDg2LCJpZCI6ImE0NDBlMGQzLWQzOWEtNGJkOC1hMmM0LWUyMmE2YWVmOTZlMCIsImFpZCI6MCwic2N5IjoiYXV0byIsIm5ldCI6IndzIiwidHlwZSI6Ii0tLSIsInBhdGgiOiIvPy0tVEVMRUdSQU0tVklUVVJFWS0tLS1URUxFR1JBTS1WSVRVUkVZLS0tLVRFTEVHUkFNLVZJVFVSRVktLS0tVEVMRUdSQU0tVklUVVJFWSJ9
 vmess://eyJ2IjoiMiIsInBzIjoiXHVkODNjXHVkZGY1XHVkODNjXHVkZGYxIFBvbGFuZCIsImFkZCI6InBsLnNuYXBwaXJ0dW4ubmlrYXN0b3JpbmcuaXIiLCJwb3J0IjoxNjE2LCJpZCI6IjAxMjc3ZjcwLWQ2ZDMtNGIzOC04ODg2LTY4MWJmNWFkY2ZkNCIsImFpZCI6MCwic2N5IjoiYXV0byIsIm5ldCI6InRjcCIsInR5cGUiOiJodHRwIiwicGF0aCI6Ii8ifQ
-vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@35.180.142.18:22224?type=ws&security=tls&path=/telegram-channel-vlessconfig&sni=trojan.burgerip.co.uk#35.180.142.18:22224
+vmess://eyJ2IjoiMiIsInBzIjoiVGVsZWdyYW06QGNvbmZpZ19wcm94eSBcdWQ4M2RcdWRkMjUiLCJhZGQiOiIxMDQuMjYuNS41NyIsInBvcnQiOjIwODIsImlkIjoiNWYzZjA5YWQtODljYi00ZTk0LWE3YWQtYWE4MjM5OTEzNTU1IiwiYWlkIjowLCJzY3kiOiJhdXRvIiwibmV0Ijoid3MiLCJ0eXBlIjoiYXV0byIsImhvc3QiOiJpcDI2LjY5MjkxOTgueHl6IiwicGF0aCI6ImdpdGh1Yi5jb20vQWx2aW45OTk5Iiwic25pIjoiaXAyNi42OTI5MTk4Lnh5eiJ9
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@185.231.205.139:8880?type=grpc&security=none#185.231.205.139:8880
 vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@63.178.135.7:22224?type=ws&security=tls&path=/telegram-channel-vlessconfig&sni=trojan.burgerip.co.uk#63.178.135.7:22224
 vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@54.93.38.12:22224?type=ws&security=tls&path=/telegram-channel-vlessconfig&sni=trojan.burgerip.co.uk#54.93.38.12:22224
 vless://d2dc2527-33d5-46f3-f39c-36da72fb1a62@54.37.205.0:59332?type=tcp&security=none#54.37.205.0:59332
-trojan://2kiht6a5-0rua-26df-dzno-w06d9inn5lce@127.0.0.1:8080?security=tls&type=tcp#For enhanced GitHub access, visit Argh94 now!
-trojan://imymrqsa-48k9-tiqs-0dfm-d02azgbtlqy7@127.0.0.1:8081?security=tls&type=tcp#</> Collector v5.0
+trojan://ykjqim9v-uw4s-4dkm-m25v-zn61vjedody6@127.0.0.1:8080?security=tls&type=tcp#For enhanced GitHub access, visit Argh94 now!
+trojan://jwu0s42z-f2ov-9r9w-xyql-rlkyummg7uv5@127.0.0.1:8081?security=tls&type=tcp#</> Collector v5.0
