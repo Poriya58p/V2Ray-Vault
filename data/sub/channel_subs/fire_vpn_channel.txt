@@ -1,7 +1,7 @@
-trojan://zz6ogei4-v5i1-16m2-g2nx-ortedwrodhwb@127.0.0.1:1080?security=tls&type=tcp#🕒 LAST UPDATE: 2025/08/27 | 11:55
-trojan://i03ccw5a-zixl-m3z7-h4c3-mwnb2fh1kocy@127.0.0.1:2080?security=tls&type=tcp#This is a free trial project.
-trojan://byjd9wbz-tht6-0f0q-9bdt-og5ckya40hfx@127.0.0.1:4080?security=tls&type=tcp#「 GitHub Argh94 ☕ 」
+trojan://8yszqct7-6f3l-joht-g2u8-7il9ximioo9d@127.0.0.1:1080?security=tls&type=tcp#🕒 LAST UPDATE: 2025/08/27 | 16:03
+trojan://fqcnwn00-fzle-lyhc-j1k2-6knc5hsz2uv2@127.0.0.1:2080?security=tls&type=tcp#This is a free trial project.
+trojan://9qcj6xh6-m252-83ab-uwkd-i9ku8a86llwf@127.0.0.1:4080?security=tls&type=tcp#「 GitHub Argh94 ☕ 」
 vless://ac864844-c86b-4ac5-bbe9-50fcc05123f2@2a00:7c80:0000:0192:aaa1:bbb3:1bb8:f32e:443?type=tcp&security=reality&sni=srhrforall.org&fp=chrome&flow=xtls-rprx-vision&pbk=Uu4tcBEWuNn0SKnDk2Jy_o5Te2VA76M68hMlVYj9kiQ&sid=6412#2a00:7c80:0000:0192:aaa1:bbb3:1bb8:f32e:443
 vless://694e7135-1a12-4ad0-a53f-b9217746bf9e@82.153.220.10:443?type=tcp&security=reality&sni=srhrforall.org&fp=chrome&flow=xtls-rprx-vision&pbk=Uu4tcBEWuNn0SKnDk2Jy_o5Te2VA76M68hMlVYj9kiQ&sid=6412#82.153.220.10:443
-trojan://wz0gfhwr-h842-zu9x-a0k2-qln8y4a5d4wg@127.0.0.1:8080?security=tls&type=tcp#For enhanced GitHub access, visit Argh94 now!
-trojan://hake0hru-xrlt-kxk7-9ya6-w1ilsgfl66bp@127.0.0.1:8081?security=tls&type=tcp#</> Collector v5.0
+trojan://kgt746ep-hvzz-9fzr-07vu-8rio2poe0540@127.0.0.1:8080?security=tls&type=tcp#For enhanced GitHub access, visit Argh94 now!
+trojan://n7icvwhd-l9mf-q216-nuqk-0u0zd50mpnod@127.0.0.1:8081?security=tls&type=tcp#</> Collector v5.0

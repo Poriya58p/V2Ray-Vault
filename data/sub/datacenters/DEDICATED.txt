@@ -1,12 +1,12 @@
-trojan://zatvvzdn-3jqf-xoy2-6jnz-bc1jaze6jrnm@127.0.0.1:1080?security=tls&type=tcp#🕒 LAST UPDATE: 2025/08/27 | 11:55
-trojan://kc0oj8ds-myme-cker-y6kv-07w8081qapp6@127.0.0.1:2080?security=tls&type=tcp#This is a free trial project.
-trojan://gn3dd5cl-ce7m-z842-4aix-9ss82l0efh77@127.0.0.1:4080?security=tls&type=tcp#「 GitHub Argh94 ☕ 」
-tuic://764b539f-2d3c-4772-9731-5ebf6984af98:dongtaiwang.com@64.110.25.10:11227?sni=bing.com&congestion_control=bbr&udp_relay_mode=native&alpn=h3#US 🇺🇸 ┇ TUIC-TCP-NTLS - DEDICATED ┇ 64.110.25.10
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@104.192.225.138:990#US 🇺🇸 ┇ SHADOWSOCKS-TCP-NTLS - DEDICATED ┇ 104.192.225.138
+trojan://g10b9s0j-7zst-jd29-tiln-u4uap8rhwmbm@127.0.0.1:1080?security=tls&type=tcp#🕒 LAST UPDATE: 2025/08/27 | 16:03
+trojan://nf2ici3v-8slm-pj3a-1x51-pdzz6hac6mis@127.0.0.1:2080?security=tls&type=tcp#This is a free trial project.
+trojan://02ozdptd-jfg5-wgo0-sbj8-q0w585pasbx8@127.0.0.1:4080?security=tls&type=tcp#「 GitHub Argh94 ☕ 」
 ss://YWVzLTI1Ni1nY206ZG9uZ3RhaXdhbmcuY29t@167.160.91.118:10077#US 🇺🇸 ┇ SHADOWSOCKS-TCP-NTLS - DEDICATED ┇ 167.160.91.118
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@104.192.225.138:990#US 🇺🇸 ┇ SHADOWSOCKS-TCP-NTLS - DEDICATED ┇ 104.192.225.138
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@64.74.163.218:990#US 🇺🇸 ┇ SHADOWSOCKS-TCP-NTLS - DEDICATED ┇ 64.74.163.218
+tuic://764b539f-2d3c-4772-9731-5ebf6984af98:dongtaiwang.com@64.110.25.10:11227?sni=bing.com&congestion_control=bbr&udp_relay_mode=native&alpn=h3#US 🇺🇸 ┇ TUIC-TCP-NTLS - DEDICATED ┇ 64.110.25.10
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp4T1VDRjZJRmFlWVpXNW55aTZaU2Ez@104.192.227.162:443#US 🇺🇸 ┇ SHADOWSOCKS-TCP-NTLS - DEDICATED ┇ 104.192.227.162
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@64.74.163.130:990#US 🇺🇸 ┇ SHADOWSOCKS-TCP-NTLS - DEDICATED ┇ 64.74.163.130
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpueldJSmxYeExrcE03VzRwNEZBNVNO@104.192.227.162:443#US 🇺🇸 ┇ SHADOWSOCKS-TCP-NTLS - DEDICATED ┇ 104.192.227.162
 ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw@104.192.226.106:989#US 🇺🇸 ┇ SHADOWSOCKS-TCP-NTLS - DEDICATED ┇ 104.192.226.106
-trojan://ynhxcxij-igx2-w2lt-nnwk-2v1yshbc63cd@127.0.0.1:8080?security=tls&type=tcp#For enhanced GitHub access, visit Argh94 now!
-trojan://u4d70vt3-wg8c-w3nb-6iu3-4h0vl5b93nlg@127.0.0.1:8081?security=tls&type=tcp#</> Collector v5.0
+trojan://wboh27ue-w2z0-lyu4-050w-30qiclm74of0@127.0.0.1:8080?security=tls&type=tcp#For enhanced GitHub access, visit Argh94 now!
+trojan://y17r9apd-t4jl-mx1l-axkj-fndd5moh7i0x@127.0.0.1:8081?security=tls&type=tcp#</> Collector v5.0

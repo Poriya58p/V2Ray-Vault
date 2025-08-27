@@ -1,6 +1,6 @@
-trojan://kcyopo44-0t5q-x6rb-829f-k6wubd31sm8x@127.0.0.1:1080?security=tls&type=tcp#🕒 LAST UPDATE: 2025/08/27 | 11:55
-trojan://ugbv9ewo-enip-kqbh-7r29-bjgv2zq4nlb2@127.0.0.1:2080?security=tls&type=tcp#This is a free trial project.
-trojan://ic247d8x-xwmu-4bgr-gesn-9f7vj01pme7h@127.0.0.1:4080?security=tls&type=tcp#「 GitHub Argh94 ☕ 」
+trojan://sry91phw-rszk-dagu-1rso-7fufr7botdwa@127.0.0.1:1080?security=tls&type=tcp#🕒 LAST UPDATE: 2025/08/27 | 16:03
+trojan://1fng0o5w-dm28-u8ta-r6gi-cseiib3h1kyl@127.0.0.1:2080?security=tls&type=tcp#This is a free trial project.
+trojan://dtu1srz1-bjaq-y41m-coos-8orq7j80uyqo@127.0.0.1:4080?security=tls&type=tcp#「 GitHub Argh94 ☕ 」
 vmess://eyJ2IjoiMiIsInBzIjoiQG1hc3RlcnZwbnNob3AxIFx1MDZhOVx1MDYyN1x1MDY0Nlx1MDY0MVx1MDZjY1x1MDZhZiBcdTA2NDdcdTA2MjdcdTA2Y2MgXHUwNjI4XHUwNmNjXHUwNjM0XHUwNjJhXHUwNjMxIFx1MDYyY1x1MDY0OFx1MDZjY1x1MDY0NiBcdTA2MzRcdTA2NDgiLCJhZGQiOiJnZXItdjJyYXlwcm8xLmRkbnMubmV0IiwicG9ydCI6NDM0NzgsImlkIjoiZGM5MzM2MWQtNWRiYy00ODBlLTlkYjYtMjk0MGE4NDI4ZDNlIiwiYWlkIjowLCJzY3kiOiJhdXRvIiwibmV0IjoidGNwIiwidHlwZSI6Imh0dHAiLCJwYXRoIjoiL0BWXzJyYXluZ1ZwbiJ9
 vmess://eyJ2IjoiMiIsInBzIjoiSm9pbiBAbWFzdGVydnBuc2hvcDEiLCJhZGQiOiIxNjIuNTUuMTc0LjE1MiIsInBvcnQiOjUxNTQwLCJpZCI6IjkxMGU1ZTA3LWZjNTctNGMzYS04ZjE2LTVkZmE3MDVjYWE1MSIsImFpZCI6MCwic2N5IjoiYXV0byIsIm5ldCI6InRjcCIsInR5cGUiOiJodHRwIiwicGF0aCI6Ii8ifQ
 vmess://eyJ2IjoiMiIsInBzIjoiSm9pbiBUbyBAbWFzdGVydnBuc2hvcDEiLCJhZGQiOiIxMjguMTQwLjEyNC4xMjAiLCJwb3J0Ijo0NzUyOSwiaWQiOiI5NGI4OWFiMi0yY2U2LTQ1NGQtYjAzNi1kM2JiODU1Y2U1NGQiLCJhaWQiOjAsInNjeSI6ImF1dG8iLCJuZXQiOiJ0Y3AiLCJ0eXBlIjoiaHR0cCIsInBhdGgiOiIvIn0
@@ -18,5 +18,5 @@ vless://564661a9-5f13-47cb-b6ba-9f92e395a081@128.140.117.198:441?type=grpc&secur
 vless://a80243fc-a7b6-4599-8278-a715cd270a82@128.140.117.198:444?type=grpc&security=reality&sni=Ftp.debian.org&fp=chrome&pbk=e-jUrqRVq4C-5AUOZJfzCY9SskQLOMcPk8mHI_njCRA&sid=76a4a473#128.140.117.198:444
 vless://93a40728-7809-44db-ad86-855011dd5c3e@128.140.117.198:430?type=grpc&security=reality&sni=www.speedtest.net&fp=firefox&pbk=jaYIbvyEAh_xCPfv7hQfFi9XXv0b4JhIlcBZ1h6zuh4&sid=6e0060dc#128.140.117.198:430
 vless://93a40728-7809-44db-ad86-855011dd5c3e@128.140.117.198:430?type=grpc&security=reality&sni=www.speedtest.net&fp=firefox&pbk=jaYIbvyEAh_xCPfv7hQfFi9XXv0b4JhIlcBZ1h6zuh4&sid=6e0060dc#128.140.117.198:430
-trojan://8odjo6hl-5xu7-bga4-vedu-rqcxk0k6uzq6@127.0.0.1:8080?security=tls&type=tcp#For enhanced GitHub access, visit Argh94 now!
-trojan://rfv9k5tm-eqgr-bcpa-cgv2-dvhk0edc21f7@127.0.0.1:8081?security=tls&type=tcp#</> Collector v5.0
+trojan://2o6qzrni-zg6r-uboo-x54r-ncj3spv3as6q@127.0.0.1:8080?security=tls&type=tcp#For enhanced GitHub access, visit Argh94 now!
+trojan://9ie7bbsa-lp9w-l1tu-3dwv-t27eu7l58bc8@127.0.0.1:8081?security=tls&type=tcp#</> Collector v5.0

@@ -1,10 +1,6 @@
-trojan://axzqe2pf-sosf-jzkt-m9vt-xou2el4l1bwh@127.0.0.1:1080?security=tls&type=tcp#🕒 LAST UPDATE: 2025/08/27 | 11:55
-trojan://0uxgoi0g-dlm7-5j2t-wtrw-rsndhhvcy87c@127.0.0.1:2080?security=tls&type=tcp#This is a free trial project.
-trojan://hsxdm2fm-cevh-wb1l-h71o-haxxjnt10c1d@127.0.0.1:4080?security=tls&type=tcp#「 GitHub Argh94 ☕ 」
-vless://98f18f76-bb78-4%61b9-b949-bfc%618741c%6522@188.114.97.1:80?type=ws&security=none&path=/telegram,@BINEXTIFY-telegram,@BINEXTIFY-telegram,@BINEXTIFY-telegram,@BINEXTIFY-telegram,@BINEXTIFY-telegram,@BINEXTIFY-telegram,@BINEXTIFY-telegram,@BINEXTIFY-telegram,@BINEXTIFY?ed=2560#188.114.97.1:80
-vless://76dff5cb-4b6%65-48%652-%65c19-2bc4f4dd1395@104.17.148.22:2095?type=httpupgrade&security=none&path=/telegram,@BINEXTIFY-telegram,@BINEXTIFY-telegram,@BINEXTIFY-telegram,@BINEXTIFY-telegram,@BINEXTIFY-telegram,@BINEXTIFY-telegram,@BINEXTIFY-telegram,@BINEXTIFY-telegram,@BINEXTIFY?ed=2560#104.17.148.22:2095
-vless://%619013c%65%65-7b9d-4776-d1d0-f46840008%65%611@172.66.40.99:80?type=ws&security=none&path=/@vmessorg----@vmessorg-----@vmessorg----@vmessorg----@vmessorg----@vmessorg----@vmessorg----@vmessorg----@vmessorg----@vmessorg----@vmessorg----@vmessorg?ed=2480#172.66.40.99:80
-vless://%619013c%65%65-7b9d-4776-d1d0-f46840008%65%611@104.26.10.194:80?type=ws&security=none&path=/@vmessorg----@vmessorg-----@vmessorg----@vmessorg----@vmessorg----@vmessorg----@vmessorg----@vmessorg----@vmessorg----@vmessorg----@vmessorg----@vmessorg?ed=2480#104.26.10.194:80
+trojan://gupu0vvj-twn7-lwq9-2jq7-o7dawcy5hj1c@127.0.0.1:1080?security=tls&type=tcp#🕒 LAST UPDATE: 2025/08/27 | 16:03
+trojan://fzlcqmp8-fxkb-z2oo-6bqo-3eupi5en8wo0@127.0.0.1:2080?security=tls&type=tcp#This is a free trial project.
+trojan://0ha5oabe-6wb2-dtvb-w71b-oad1ona0m5qq@127.0.0.1:4080?security=tls&type=tcp#「 GitHub Argh94 ☕ 」
 vless://t%65l%65g%72%61m-%69d-%41%72f%69lt%65%72@172.66.40.99:443?type=ws&security=tls&path=/telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray?ed=2048&sni=jSa.2SeDkFjEuIxIjD0Ew9DvKcxoisiEk61.BlOg&fp=firefox#172.66.40.99:443
 vless://f08f2f%659-7f93-4797-%61563-6b%619%613146b%61%65@172.66.40.99:443?type=ws&security=tls&path=/telegram-CONFiGLiNE,telegram-CONFiGLiNE,telegram-CONFiGLiNE,telegram-CONFiGLiNE,telegram-CONFiGLiNE,telegram-CONFiGLiNE,telegram-CONFiGLiNE,telegram-CONFiGLiNE?ed=2048&sni=hE136.maShkesTan.CoM&fp=firefox#172.66.40.99:443
 vless://3c6f7783-%651%654-40b0-b227-1d%65d%65937d7b5@172.66.40.99:8080?type=ws&security=none&path=/telegram-CONFiGLiNE,telegram-CONFiGLiNE,telegram-CONFiGLiNE,telegram-CONFiGLiNE,telegram-CONFiGLiNE,telegram-CONFiGLiNE,telegram-CONFiGLiNE,telegram-CONFiGLiNE?ed=2048#172.66.40.99:8080
@@ -62,9 +58,13 @@ vless://73%616237b-4cdf-42%657-%61%61b6-c80b5948%65%61d%65@104.17.148.22:8080?ty
 vless://73%616237b-4cdf-42%657-%61%61b6-c80b5948%65%61d%65@172.67.72.39:8080?type=ws&security=none&path=/@unlimiteddev----@unlimiteddev-----@unlimiteddev----@unlimiteddev----@unlimiteddev----@unlimiteddev----@unlimiteddev----@unlimiteddev----@unlimitedev----@unlimitedev----@unlimiteddev----@unlimiteddev?ed=2480#172.67.72.39:8080
 vless://d92b3c97-8423-4%61%65c-%612c2-209bf1b%652b09@172.66.40.99:8080?type=ws&security=none&path=/Telegram--ip_configs--Join--ip_configs--Telegram--ip_configs--Join--ip_configs--Telegram--ip_configs--Join--ip_configs--Telegram--ip_configs--Join--ip_configs--Telegram--ip_configs--Join--ip_configs?ed=2048#172.66.40.99:8080
 vless://d47%61d5b7-88%655-4b18-92%619-b%65723df%65%655d1@172.66.40.99:8080?type=ws&security=none&path=/-LiV2ry@LIGHTNING6-TEL--@LIGHTNING6-TEL--@LIGHTNING6-TEL--@LIGHTNING6-JOIN-@LIGHTNING6-TEL--@LIGHTNING6-JOIN-@LIGHTNING6-TEL-@LIGHTNING6-TEL--@LIGHTNING6-JOIN-@LIGHTNING6-TEL--@LIGHTNING6?ed=2048#172.66.40.99:8080
+vless://%614b%61%61696-9%6135-44%614-d354-b61bb%615c677%61@104.26.5.112:2052?type=ws&security=none&path=/@vmessorg----@vmessorg-----@vmessorg----@vmessorg----@vmessorg----@vmessorg----@vmessorg----@vmessorg----@vmessorg----@vmessorg----@vmessorg----@vmessorg?ed=2480#104.26.5.112:2052
+vless://%614b%61%61696-9%6135-44%614-d354-b61bb%615c677%61@www.speedtest.net:2052?type=ws&security=none&path=/@vmessorg----@vmessorg-----@vmessorg----@vmessorg----@vmessorg----@vmessorg----@vmessorg----@vmessorg----@vmessorg----@vmessorg----@vmessorg----@vmessorg?ed=2480#www.speedtest.net:2052
+vless://6b758c57-3a4b-41f3-be1e-25025eba8bfc@172.66.40.99:80?type=ws&security=none&path=/Join----VPNCUSTOMIZE---Join----VPNCUSTOMIZE#172.66.40.99:80
+vless://72a94d38-9870-4f3a-9aee-56caf115a475@138.199.239.38:42671?type=tcp&security=none#138.199.239.38:42671
 vless://2cd455a4-c698-42de-9830-ac628dbe2e26@91.99.70.212:443?type=grpc&security=reality&sni=www.cdn77.com&fp=chrome&pbk=Zjzu45fPTjjaIcBoYyaLqieLtsWJD8ujdzNOQodWvnk#91.99.70.212:443
 vless://tm-H%71V2rayNG@full.vvir.ir:443?type=tcp&security=reality&sni=google.com&fp=chrome&flow=xtls-rprx-vision&pbk=tmdA-JLXg99x-LdvzAZnIV2J7QlHAe7F7xSRLh4ljHM&sid=e1#full.vvir.ir:443
 vless://738ebc1c-c44a-418e-8c2c-f9e2efe1f4fe@91.99.70.212:443?type=grpc&security=reality&sni=www.cdn77.com&fp=chrome&pbk=Zjzu45fPTjjaIcBoYyaLqieLtsWJD8ujdzNOQodWvnk#91.99.70.212:443
 vless://f076%61%6511-156c-45c5-b252-%61%658dd6fd1494@91.99.70.212:443?type=grpc&security=reality&sni=www.cdn77.com&fp=chrome&pbk=Zjzu45fPTjjaIcBoYyaLqieLtsWJD8ujdzNOQodWvnk#91.99.70.212:443
-trojan://akw99roy-8o5k-qhkq-xljy-lix83nnsl360@127.0.0.1:8080?security=tls&type=tcp#For enhanced GitHub access, visit Argh94 now!
-trojan://wg1b04bg-xhdz-ltvm-at9t-aeoj42862m1b@127.0.0.1:8081?security=tls&type=tcp#</> Collector v5.0
+trojan://1nfbxk8d-gd67-tqlv-7x86-tvhvzp4azfi0@127.0.0.1:8080?security=tls&type=tcp#For enhanced GitHub access, visit Argh94 now!
+trojan://m8pxamz0-z8pb-70b1-cksl-lzwgostrzaal@127.0.0.1:8081?security=tls&type=tcp#</> Collector v5.0

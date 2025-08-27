@@ -1,6 +1,6 @@
-trojan://5znhwswf-nspf-z0us-ij0b-gmsbvnyzxvs7@127.0.0.1:1080?security=tls&type=tcp#🕒 LAST UPDATE: 2025/08/27 | 11:55
-trojan://klau8c3f-y501-j9up-73iv-c1evwq3xb95z@127.0.0.1:2080?security=tls&type=tcp#This is a free trial project.
-trojan://n69x0j65-wi5t-ux1h-dk62-q6kezfm004pc@127.0.0.1:4080?security=tls&type=tcp#「 GitHub Argh94 ☕ 」
-ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw@185.47.252.251:989#PE 🇵🇪 ┇ SHADOWSOCKS-TCP-NTLS - BrainStorm Network, Inc ┇ 185.47.252.251
-trojan://pauoqo40-qxwy-lsuo-7z36-9svaauiyhk02@127.0.0.1:8080?security=tls&type=tcp#For enhanced GitHub access, visit Argh94 now!
-trojan://p7v6yhiq-hntv-v71y-onem-4ztpjdh1qs2f@127.0.0.1:8081?security=tls&type=tcp#</> Collector v5.0
+trojan://w4uymyx5-z6cm-d3lf-i1yb-tvpwm4fmz0fb@127.0.0.1:1080?security=tls&type=tcp#🕒 LAST UPDATE: 2025/08/27 | 16:03
+trojan://oljs37xp-0sek-vb9i-8qh1-iys8fervz3y0@127.0.0.1:2080?security=tls&type=tcp#This is a free trial project.
+trojan://35thqdxm-myd0-1hz7-1x9v-ht9mn9e8cms1@127.0.0.1:4080?security=tls&type=tcp#「 GitHub Argh94 ☕ 」
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@185.47.252.251:990#PE 🇵🇪 ┇ SHADOWSOCKS-TCP-NTLS - BrainStorm Network, Inc ┇ 185.47.252.251
+trojan://0y4juxx2-oxs8-yk2a-jm5b-vhxyz3orfl51@127.0.0.1:8080?security=tls&type=tcp#For enhanced GitHub access, visit Argh94 now!
+trojan://io9r66yf-2nss-5cr0-opjd-wbjl0x9l6wyd@127.0.0.1:8081?security=tls&type=tcp#</> Collector v5.0

@@ -1,8 +1,9 @@
-trojan://9kiilx5c-zuae-16wz-yqc2-6oibm4a7h1wn@127.0.0.1:1080?security=tls&type=tcp#🕒 LAST UPDATE: 2025/08/27 | 11:55
-trojan://byr0j1nh-m1b4-nknc-mwxv-274r7qvnpvly@127.0.0.1:2080?security=tls&type=tcp#This is a free trial project.
-trojan://gjce8idj-fy7a-6ida-yf72-npvwdoeh0938@127.0.0.1:4080?security=tls&type=tcp#「 GitHub Argh94 ☕ 」
+trojan://l403qcw0-r8f4-bp0e-7d5x-ad0zz65el4i7@127.0.0.1:1080?security=tls&type=tcp#🕒 LAST UPDATE: 2025/08/27 | 16:03
+trojan://qg5nj2qf-urz4-c53v-wvyx-8bi08llcnp2b@127.0.0.1:2080?security=tls&type=tcp#This is a free trial project.
+trojan://u6g5a5eq-c2af-4kqg-q6v6-iih5aefzr2ch@127.0.0.1:4080?security=tls&type=tcp#「 GitHub Argh94 ☕ 」
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpCb2cwRUxtTU05RFN4RGRR@16.24.88.48:443#BH 🇧🇭 ┇ SHADOWSOCKS-TCP-NTLS - AMAZON-02 ┇ 16.24.88.48
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpCb2cwRUxtTU05RFN4RGRR@16.24.166.103:443#BH 🇧🇭 ┇ SHADOWSOCKS-TCP-NTLS - AMAZON-02 ┇ 16.24.166.103
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpCb2cwRUxtTU05RFN4RGRR@157.175.135.28:443#BH 🇧🇭 ┇ SHADOWSOCKS-TCP-NTLS - AMAZON-02 ┇ 157.175.135.28
-trojan://uajs1qds-um7u-cekb-p03p-ye25bj2rec40@127.0.0.1:8080?security=tls&type=tcp#For enhanced GitHub access, visit Argh94 now!
-trojan://2as85woy-r11j-ba8f-myue-sojgc62yh20y@127.0.0.1:8081?security=tls&type=tcp#</> Collector v5.0
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpCb2cwRUxtTU05RFN4RGRR@15.184.155.145:443#BH 🇧🇭 ┇ SHADOWSOCKS-TCP-NTLS - AMAZON-02 ┇ 15.184.155.145
+trojan://dnl6dvxq-7v6k-dg09-0mrd-xcmwuwsmnf49@127.0.0.1:8080?security=tls&type=tcp#For enhanced GitHub access, visit Argh94 now!
+trojan://qr09nnk4-dxo1-f5e5-a11q-ug193wro211o@127.0.0.1:8081?security=tls&type=tcp#</> Collector v5.0

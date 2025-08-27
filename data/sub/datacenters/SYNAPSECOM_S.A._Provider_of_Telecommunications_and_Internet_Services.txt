@@ -1,6 +1,7 @@
-trojan://e9np2tda-p1pw-qfy4-wthc-9ggt0v3geftx@127.0.0.1:1080?security=tls&type=tcp#🕒 LAST UPDATE: 2025/08/27 | 11:55
-trojan://dttqs9w7-84zs-mthj-2bfx-6yq5donnhvlz@127.0.0.1:2080?security=tls&type=tcp#This is a free trial project.
-trojan://l1hdrclr-iiw4-kxjm-jsbp-ueeea7kl3qno@127.0.0.1:4080?security=tls&type=tcp#「 GitHub Argh94 ☕ 」
+trojan://wwkameiz-7mw0-xgrc-tjkw-7hiqr2jtpjr0@127.0.0.1:1080?security=tls&type=tcp#🕒 LAST UPDATE: 2025/08/27 | 16:03
+trojan://hxh8yb65-e1xk-unvo-yu2j-p51dr6oj3m4h@127.0.0.1:2080?security=tls&type=tcp#This is a free trial project.
+trojan://a0mgcx12-tn2n-zgr2-c8dm-usbvkk6f68rz@127.0.0.1:4080?security=tls&type=tcp#「 GitHub Argh94 ☕ 」
 ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw@192.71.166.100:989#GR 🇬🇷 ┇ SHADOWSOCKS-TCP-NTLS - SYNAPSECOM S.A. Provider of Telecommunications and Internet Services ┇ 192.71.166.100
-trojan://08gvd7aj-2uy1-c9iy-vbfw-fmw40t4xffp9@127.0.0.1:8080?security=tls&type=tcp#For enhanced GitHub access, visit Argh94 now!
-trojan://stnj0woo-8b8f-8rlk-rhwx-4zfc1pseevuj@127.0.0.1:8081?security=tls&type=tcp#</> Collector v5.0
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@192.71.166.102:990#GR 🇬🇷 ┇ SHADOWSOCKS-TCP-NTLS - SYNAPSECOM S.A. Provider of Telecommunications and Internet Services ┇ 192.71.166.102
+trojan://5fhlmo1c-j2e4-74ho-1imo-pmb0em2pidjr@127.0.0.1:8080?security=tls&type=tcp#For enhanced GitHub access, visit Argh94 now!
+trojan://n21luxfq-a9ri-ty2f-zdms-p7rehi1p4yby@127.0.0.1:8081?security=tls&type=tcp#</> Collector v5.0

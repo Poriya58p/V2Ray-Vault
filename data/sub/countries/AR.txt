@@ -1,7 +1,7 @@
-trojan://7cv3hngl-2wi9-eh6e-hs5e-okec8sgvgq9z@127.0.0.1:1080?security=tls&type=tcp#🕒 LAST UPDATE: 2025/08/27 | 11:55
-trojan://9p645vbc-21uu-x8w3-at7q-2ibuhqhrp8es@127.0.0.1:2080?security=tls&type=tcp#This is a free trial project.
-trojan://787jesyk-y5k9-tqyc-zl6z-d3j66qirhcms@127.0.0.1:4080?security=tls&type=tcp#「 GitHub Argh94 ☕ 」
-vless://23e756ef-8a03-470c-886c-f0a62450a967@66.90.74.84:20012?type=tcp&security=reality&sni=www.timeto.com&fp=chrome&flow=xtls-rprx-vision&pbk=Wt9cTNEcGKp6Qy2n050o5U3sDCEK1C-iuzQFYSzXknU&sid=4a3749e4#AR 🇦🇷 ┇ VLESS-TCP-RLT - FDCSERVERS ┇ 66.90.74.84
+trojan://bumfcrsg-zmcm-8sza-cya2-ep4wqmoeq7rw@127.0.0.1:1080?security=tls&type=tcp#🕒 LAST UPDATE: 2025/08/27 | 16:03
+trojan://k5ij6ddv-57c3-w8yf-sj0k-gj8buv66wqd8@127.0.0.1:2080?security=tls&type=tcp#This is a free trial project.
+trojan://e164jy54-1p7u-vckl-k255-lqa3bepvaxge@127.0.0.1:4080?security=tls&type=tcp#「 GitHub Argh94 ☕ 」
 ss://YWVzLTI1Ni1nY206ZjhmN2FDemNQS2JzRjhwMw@190.103.176.29:989#AR 🇦🇷 ┇ SHADOWSOCKS-TCP-NTLS - SONDATECH S.A.S. ┇ 190.103.176.29
-trojan://1qonkgk3-o149-t0be-1t82-52t64k2rsx66@127.0.0.1:8080?security=tls&type=tcp#For enhanced GitHub access, visit Argh94 now!
-trojan://0ls0fk6h-3z4m-f85n-kz2l-yc2vt2iq699x@127.0.0.1:8081?security=tls&type=tcp#</> Collector v5.0
+vless://23e756ef-8a03-470c-886c-f0a62450a967@66.90.74.84:20012?type=tcp&security=reality&sni=www.timeto.com&fp=chrome&flow=xtls-rprx-vision&pbk=Wt9cTNEcGKp6Qy2n050o5U3sDCEK1C-iuzQFYSzXknU&sid=4a3749e4#AR 🇦🇷 ┇ VLESS-TCP-RLT - FDCSERVERS ┇ 66.90.74.84
+trojan://i66bqqcf-z16t-q3kh-0ima-szxhntyle782@127.0.0.1:8080?security=tls&type=tcp#For enhanced GitHub access, visit Argh94 now!
+trojan://bcg3bg5c-uhtt-qy4x-fm1h-ygd0wp0pnfi7@127.0.0.1:8081?security=tls&type=tcp#</> Collector v5.0

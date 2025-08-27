@@ -1,7 +1,6 @@
-trojan://h8bgzp5c-ydg0-427n-tbwk-4v5u8myeajxm@127.0.0.1:1080?security=tls&type=tcp#🕒 LAST UPDATE: 2025/08/27 | 11:55
-trojan://8oyphs3q-c32g-05p4-wrlv-3emo4gew70ee@127.0.0.1:2080?security=tls&type=tcp#This is a free trial project.
-trojan://g84j6b54-c4z8-zprz-zpjd-6hm4oot91ucl@127.0.0.1:4080?security=tls&type=tcp#「 GitHub Argh94 ☕ 」
-vless://b8074e30-0273-49eb-d36a-e7f83053713c@104.16.1.106:80?type=ws&security=none&path=/FASTSHOVPNTELEGRAM-FASTSHOVPNTELEGRAM-FASTSHOVPNTELEGRAM-FASTSHOVPNTELEGRAM-FASTSHOVPNTELEGRAM?ed=2048#104.16.1.106:80
+trojan://wi6zit15-qpvh-862t-ls0u-pyd90vm9zolx@127.0.0.1:1080?security=tls&type=tcp#🕒 LAST UPDATE: 2025/08/27 | 16:03
+trojan://v5mrbrbr-a5pw-krog-u0gr-av94wfpsgjy7@127.0.0.1:2080?security=tls&type=tcp#This is a free trial project.
+trojan://duhhys0b-jfy4-t3cl-w10e-sp4bfoyz7vrx@127.0.0.1:4080?security=tls&type=tcp#「 GitHub Argh94 ☕ 」
 vless://b8074e30-0273-49eb-d36a-e7f83053713c@104.16.1.106:80?type=ws&security=none&path=/FASTSHOVPNTELEGRAM-FASTSHOVPNTELEGRAM-FASTSHOVPNTELEGRAM-FASTSHOVPNTELEGRAM-FASTSHOVPNTELEGRAM?ed=2048#104.16.1.106:80
 vless://f198252a-31c8-4b0b-d2a5-f85d2c898482@104.16.1.106:80?type=ws&security=none&path=/FASTSHOVPNTELEGRAM-FASTSHOVPNTELEGRAM-FASTSHOVPNTELEGRAM-FASTSHOVPNTELEGRAM-FASTSHOVPNTELEGRAM?ed=2048#104.16.1.106:80
 vless://f198252a-31c8-4b0b-d2a5-f85d2c898482@104.16.1.106:80?type=ws&security=none&path=/FASTSHOVPNTELEGRAM-FASTSHOVPNTELEGRAM-FASTSHOVPNTELEGRAM-FASTSHOVPNTELEGRAM-FASTSHOVPNTELEGRAM?ed=2048#104.16.1.106:80
@@ -20,5 +19,6 @@ vless://1a691112-bf37-4306-98f6-17a74e1576fa@104.16.1.106:80?type=ws&security=no
 vless://1a691112-bf37-4306-98f6-17a74e1576fa@104.16.1.106:80?type=ws&security=none&path=/FASTSHOVPNTELEGRAM-FASTSHOVPNTELEGRAM-FASTSHOVPNTELEGRAM-FASTSHOVPNTELEGRAM-FASTSHOVPNTELEGRAM?ed=2048#104.16.1.106:80
 vless://1a691112-bf37-4306-98f6-17a74e1576fa@104.16.1.106:80?type=ws&security=none&path=/FASTSHOVPNTELEGRAM-FASTSHOVPNTELEGRAM-FASTSHOVPNTELEGRAM-FASTSHOVPNTELEGRAM-FASTSHOVPNTELEGRAM?ed=2048#104.16.1.106:80
 vless://1a691112-bf37-4306-98f6-17a74e1576fa@104.16.1.106:80?type=ws&security=none&path=/FASTSHOVPNTELEGRAM-FASTSHOVPNTELEGRAM-FASTSHOVPNTELEGRAM-FASTSHOVPNTELEGRAM-FASTSHOVPNTELEGRAM?ed=2048#104.16.1.106:80
-trojan://6yly3s3r-lu83-b7r5-tr6l-81w2qb4wqqko@127.0.0.1:8080?security=tls&type=tcp#For enhanced GitHub access, visit Argh94 now!
-trojan://dnhnokso-5nxq-8o9w-6yh5-xn9xlxcgukld@127.0.0.1:8081?security=tls&type=tcp#</> Collector v5.0
+vless://a47d00c8-73de-45cb-f33d-69f2de72df13@104.16.1.106:80?type=ws&security=none&path=/FASTSHOVPNTELEGRAM-FASTSHOVPNTELEGRAM-FASTSHOVPNTELEGRAM-FASTSHOVPNTELEGRAM-FASTSHOVPNTELEGRAM?ed=2048#104.16.1.106:80
+trojan://8h7xm1aq-p0cv-aeug-0c2c-chgi9qnsj6g3@127.0.0.1:8080?security=tls&type=tcp#For enhanced GitHub access, visit Argh94 now!
+trojan://2dpapgp5-s8jc-54ln-puvy-ahm4lrs5lc3b@127.0.0.1:8081?security=tls&type=tcp#</> Collector v5.0

@@ -1,9 +1,9 @@
-trojan://6ua8q0ns-7pn8-smby-90o5-nfqpo3ufgwnq@127.0.0.1:1080?security=tls&type=tcp#🕒 LAST UPDATE: 2025/08/27 | 11:55
-trojan://z68ke1bi-rq41-sx9u-3t78-ncw971t5o23j@127.0.0.1:2080?security=tls&type=tcp#This is a free trial project.
-trojan://dwy403p1-oppf-r022-1ybw-i73srhzo83ps@127.0.0.1:4080?security=tls&type=tcp#「 GitHub Argh94 ☕ 」
-vless://521def48-9d70-4032-af12-814a02352f14@194.87.29.240:443?type=tcp&security=reality&sni=cdnjs.com&fp=chrome&flow=xtls-rprx-vision&pbk=vfmqSXTEjdIOgz43eZTNzBRztAvd1U1dDkSz_mnaSk4&sid=fc7a526a7e61ba3b#DE 🇩🇪 ┇ VLESS-TCP-RLT - WAIcore Ltd ┇ 194.87.29.240
-vless://521def48-9d70-4032-af12-814a02352f14@94.141.123.233:443?type=tcp&security=reality&sni=cdnjs.com&fp=chrome&flow=xtls-rprx-vision&pbk=vfmqSXTEjdIOgz43eZTNzBRztAvd1U1dDkSz_mnaSk4&sid=fc7a526a7e61ba3b#DE 🇩🇪 ┇ VLESS-TCP-RLT - WAIcore Ltd ┇ 94.141.123.233
+trojan://ux49hcvw-lqqg-4asf-gbiz-u0oy5eyr3ose@127.0.0.1:1080?security=tls&type=tcp#🕒 LAST UPDATE: 2025/08/27 | 16:03
+trojan://mvutebiq-r2uz-ghx7-29hb-6a2vin0315i2@127.0.0.1:2080?security=tls&type=tcp#This is a free trial project.
+trojan://69j1dm0c-8zqb-0olz-z7fq-djwt28gshc5r@127.0.0.1:4080?security=tls&type=tcp#「 GitHub Argh94 ☕ 」
 vless://ebac2049-8367-4eab-a1a5-8b742b2fd3b6@87.120.205.207:2025?type=grpc&security=reality&sni=yahoo.com&fp=chrome&pbk=Cnuh4bNEBvRIjrYBEWSVhX8nr5j46lHuyen_IU2rbSk&sid=a76e2f1d45#DE 🇩🇪 ┇ VLESS-GRPC-RLT - WAIcore Ltd ┇ 87.120.205.207
 vless://94103d28-98c9-462a-9098-f3c69163749c@87.120.92.135:443?type=tcp&security=reality&sni=www.latimes.com&fp=chrome&pbk=ERFNXMOphtOIgiaj2XyHxE7NYsXJTErd1bPPnLCWYgw&sid=6038#DE 🇩🇪 ┇ VLESS-TCP-RLT - WAIcore Ltd ┇ 87.120.92.135
-trojan://q009mdv3-t8p5-vtng-zv5h-5j6neqwjq7az@127.0.0.1:8080?security=tls&type=tcp#For enhanced GitHub access, visit Argh94 now!
-trojan://zwkkvvwn-pdbs-n7jq-0lk0-6kwzjzn6pret@127.0.0.1:8081?security=tls&type=tcp#</> Collector v5.0
+vless://521def48-9d70-4032-af12-814a02352f14@94.141.123.233:443?type=tcp&security=reality&sni=cdnjs.com&fp=chrome&flow=xtls-rprx-vision&pbk=vfmqSXTEjdIOgz43eZTNzBRztAvd1U1dDkSz_mnaSk4&sid=fc7a526a7e61ba3b#DE 🇩🇪 ┇ VLESS-TCP-RLT - WAIcore Ltd ┇ 94.141.123.233
+vless://521def48-9d70-4032-af12-814a02352f14@194.87.29.240:443?type=tcp&security=reality&sni=cdnjs.com&fp=chrome&flow=xtls-rprx-vision&pbk=vfmqSXTEjdIOgz43eZTNzBRztAvd1U1dDkSz_mnaSk4&sid=fc7a526a7e61ba3b#DE 🇩🇪 ┇ VLESS-TCP-RLT - WAIcore Ltd ┇ 194.87.29.240
+trojan://40iygxnk-bk01-1y30-99y1-it1o4mtqdyiw@127.0.0.1:8080?security=tls&type=tcp#For enhanced GitHub access, visit Argh94 now!
+trojan://4kmupfii-ojsv-wf2y-11wo-r076tcinoip2@127.0.0.1:8081?security=tls&type=tcp#</> Collector v5.0

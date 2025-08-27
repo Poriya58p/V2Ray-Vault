@@ -1,8 +1,8 @@
-trojan://xh9kksxi-gfzo-vfjv-7rbw-ly2wpsfz5ybu@127.0.0.1:1080?security=tls&type=tcp#🕒 LAST UPDATE: 2025/08/27 | 11:55
-trojan://wntpkqzl-01e3-bw1s-ax84-e1819vkox7v9@127.0.0.1:2080?security=tls&type=tcp#This is a free trial project.
-trojan://6624isa8-v3ig-93m7-fxrg-uonrazxmbar8@127.0.0.1:4080?security=tls&type=tcp#「 GitHub Argh94 ☕ 」
+trojan://83m049yn-4g53-wauy-1zph-ub1yxryi2nbs@127.0.0.1:1080?security=tls&type=tcp#🕒 LAST UPDATE: 2025/08/27 | 16:03
+trojan://fpaucxh8-ll3j-h110-ef4w-u5drqvazuqzl@127.0.0.1:2080?security=tls&type=tcp#This is a free trial project.
+trojan://yfyxmr7g-vrny-nhrv-iggi-u2sx0umjxzir@127.0.0.1:4080?security=tls&type=tcp#「 GitHub Argh94 ☕ 」
 vless://4c54aa59-3f7a-4257-bad6-5f2def2d9fb8@157.173.195.208:8081?type=tcp&security=reality&sni=yahoo.com&fp=chrome&flow=xtls-rprx-vision&pbk=maeBz8hpeApypC47VuYULiB8zupTv1HxlPpRJ5QsOUI&sid=9d41#US 🇺🇸 ┇ VLESS-TCP-RLT - CONTABO-40021 ┇ 157.173.195.208
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjMzQ2MmQzZjYwMjA1Mjhk@85.239.239.182:16309#US 🇺🇸 ┇ SHADOWSOCKS-TCP-NTLS - CONTABO-40021 ┇ 85.239.239.182
 vmess://eyJ2IjoiMiIsInBzIjoiVVMgXHVkODNjXHVkZGZhXHVkODNjXHVkZGY4IFx1MjUwNyBWTUVTUy1XUy1OVExTIC0gQ09OVEFCTy00MDAyMSBcdTI1MDcgMjA5LjEyNi44NC4xODkiLCJhZGQiOiIyMDkuMTI2Ljg0LjE4OSIsInBvcnQiOjQ0MywiaWQiOiIyYzk4MTE2NC05YjkzLTRiY2EtOTRmZi1iNzhkM2Y4NDk4ZDciLCJhaWQiOjAsInNjeSI6ImF1dG8iLCJuZXQiOiJ3cyIsInR5cGUiOiItLS0iLCJwYXRoIjoiL3ZtZXNzd3MifQ
-trojan://jj7hbfw4-c792-wje1-wd4x-toa74swtao6q@127.0.0.1:8080?security=tls&type=tcp#For enhanced GitHub access, visit Argh94 now!
-trojan://66t5ktwi-tjwt-2n0o-bch6-6i49tpleay3b@127.0.0.1:8081?security=tls&type=tcp#</> Collector v5.0
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjMzQ2MmQzZjYwMjA1Mjhk@85.239.239.182:16309#US 🇺🇸 ┇ SHADOWSOCKS-TCP-NTLS - CONTABO-40021 ┇ 85.239.239.182
+trojan://2ti66lko-vbln-ruud-ole3-dea9cmnf3jb5@127.0.0.1:8080?security=tls&type=tcp#For enhanced GitHub access, visit Argh94 now!
+trojan://7ewdzsjs-hz0b-28b8-663a-ud3wm696yhms@127.0.0.1:8081?security=tls&type=tcp#</> Collector v5.0

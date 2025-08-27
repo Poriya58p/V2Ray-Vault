@@ -1,6 +1,6 @@
-trojan://9za9fupo-tgan-umwn-qjr6-zv7juih84yz2@127.0.0.1:1080?security=tls&type=tcp#🕒 LAST UPDATE: 2025/08/27 | 11:55
-trojan://matkqn2u-tgh4-stoc-4raq-sieg8zph6cri@127.0.0.1:2080?security=tls&type=tcp#This is a free trial project.
-trojan://ck5ff8f4-0gt2-shh0-vyjj-22zjn22ufsor@127.0.0.1:4080?security=tls&type=tcp#「 GitHub Argh94 ☕ 」
+trojan://8bqkbhlp-mwoj-4o0s-ja9u-gkteuhdjsgkj@127.0.0.1:1080?security=tls&type=tcp#🕒 LAST UPDATE: 2025/08/27 | 16:03
+trojan://fvhjh19n-y8n6-4x5o-mp9s-8obixesprqfj@127.0.0.1:2080?security=tls&type=tcp#This is a free trial project.
+trojan://0h8k9tw3-8u81-l01i-cztg-hhqjpg0kldst@127.0.0.1:4080?security=tls&type=tcp#「 GitHub Argh94 ☕ 」
 vless://897fbabf-468d-4948-881b-dad1eb24cfe7@chanel.nilmmd.buzz:21842?type=tcp&security=none&path=/#chanel.nilmmd.buzz:21842
 vless://897fbabf-468d-4948-881b-dad1eb24cfe7@chanel.nilmmd.buzz:21842?type=tcp&security=none&path=/#chanel.nilmmd.buzz:21842
 vless://789ce3ce-2f17-4da8-8383-69e06cd095f8@94.130.173.189:31188?type=tcp&security=none#94.130.173.189:31188
@@ -11,5 +11,5 @@ vless://34dc43d7-ee19-4536-bb37-aa56178cbab4@chanel.goldenteam2.shop:443?type=tc
 vless://7f453ff7-fe7d-4970-ab4b-5f00bbb855ce@chanel.nilmmd.shop:443?type=tcp&security=none#chanel.nilmmd.shop:443
 vless://7f453ff7-fe7d-4970-ab4b-5f00bbb855ce@chanel.nilmmd.shop:443?type=tcp&security=none&path=/#chanel.nilmmd.shop:443
 vless://e9e437c2-1ee5-4f0d-ae09-4bfafc835e47@185.143.233.120:2086?type=ws&security=none&path=/wp-admin?ed=2048#185.143.233.120:2086
-trojan://5eppz06k-yoq6-cxr7-3g7u-u2977qpd2w4u@127.0.0.1:8080?security=tls&type=tcp#For enhanced GitHub access, visit Argh94 now!
-trojan://mml3c9nk-wlfe-3xa6-0jd5-qqzsgv53e85z@127.0.0.1:8081?security=tls&type=tcp#</> Collector v5.0
+trojan://0p5a2k12-hi3f-w6o3-lsi1-zk7hyamlxopq@127.0.0.1:8080?security=tls&type=tcp#For enhanced GitHub access, visit Argh94 now!
+trojan://leqlwmgh-6rsr-dii8-ab2f-j9olcsyohn8x@127.0.0.1:8081?security=tls&type=tcp#</> Collector v5.0

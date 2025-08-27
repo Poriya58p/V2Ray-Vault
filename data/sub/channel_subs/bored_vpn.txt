@@ -1,6 +1,6 @@
-trojan://6udiv2tt-oc9f-drgr-z7nw-ov2rg3ygjxnq@127.0.0.1:1080?security=tls&type=tcp#🕒 LAST UPDATE: 2025/08/27 | 11:55
-trojan://y46izv46-v5gb-5qnj-d1pp-8e5e7t4ktn4q@127.0.0.1:2080?security=tls&type=tcp#This is a free trial project.
-trojan://n4vm23kr-tuwt-iye4-51j2-i2hc4m35g3a0@127.0.0.1:4080?security=tls&type=tcp#「 GitHub Argh94 ☕ 」
+trojan://rn2l9le9-0n3j-qt1u-p4de-12uo04gn8thn@127.0.0.1:1080?security=tls&type=tcp#🕒 LAST UPDATE: 2025/08/27 | 16:03
+trojan://jd27s6ee-2q56-qom4-0o78-hwiofpfkf7cn@127.0.0.1:2080?security=tls&type=tcp#This is a free trial project.
+trojan://p7jylzac-itsd-ijb5-8g4r-2v4c7lzj0s8i@127.0.0.1:4080?security=tls&type=tcp#「 GitHub Argh94 ☕ 」
 vless://76dff5cb-4b6%65-48%652-%65c19-2bc4f4dd1395@104.17.148.22:2095?type=httpupgrade&security=none&path=/telegram,@BINEXTIFY-telegram,@BINEXTIFY-telegram,@BINEXTIFY-telegram,@BINEXTIFY-telegram,@BINEXTIFY-telegram,@BINEXTIFY-telegram,@BINEXTIFY-telegram,@BINEXTIFY-telegram,@BINEXTIFY?ed=2560#104.17.148.22:2095
 vless://98f18f76-bb78-4%61b9-b949-bfc%618741c%6522@188.114.97.1:80?type=ws&security=none&path=/telegram,@BINEXTIFY-telegram,@BINEXTIFY-telegram,@BINEXTIFY-telegram,@BINEXTIFY-telegram,@BINEXTIFY-telegram,@BINEXTIFY-telegram,@BINEXTIFY-telegram,@BINEXTIFY-telegram,@BINEXTIFY?ed=2560#188.114.97.1:80
 vless://%619013c%65%65-7b9d-4776-d1d0-f46840008%65%611@104.26.10.194:80?type=ws&security=none&path=/@vmessorg----@vmessorg-----@vmessorg----@vmessorg----@vmessorg----@vmessorg----@vmessorg----@vmessorg----@vmessorg----@vmessorg----@vmessorg----@vmessorg?ed=2480#104.26.10.194:80
@@ -59,8 +59,12 @@ vless://73%616237b-4cdf-42%657-%61%61b6-c80b5948%65%61d%65@172.67.72.39:8080?typ
 vless://73%616237b-4cdf-42%657-%61%61b6-c80b5948%65%61d%65@104.17.148.22:8080?type=ws&security=none&path=/@unlimiteddev----@unlimiteddev-----@unlimiteddev----@unlimiteddev----@unlimiteddev----@unlimiteddev----@unlimiteddev----@unlimiteddev----@unlimitedev----@unlimitedev----@unlimiteddev----@unlimiteddev?ed=2480#104.17.148.22:8080
 vless://d47%61d5b7-88%655-4b18-92%619-b%65723df%65%655d1@172.66.40.99:8080?type=ws&security=none&path=/-LiV2ry@LIGHTNING6-TEL--@LIGHTNING6-TEL--@LIGHTNING6-TEL--@LIGHTNING6-JOIN-@LIGHTNING6-TEL--@LIGHTNING6-JOIN-@LIGHTNING6-TEL-@LIGHTNING6-TEL--@LIGHTNING6-JOIN-@LIGHTNING6-TEL--@LIGHTNING6?ed=2048#172.66.40.99:8080
 vless://d92b3c97-8423-4%61%65c-%612c2-209bf1b%652b09@172.66.40.99:8080?type=ws&security=none&path=/Telegram--ip_configs--Join--ip_configs--Telegram--ip_configs--Join--ip_configs--Telegram--ip_configs--Join--ip_configs--Telegram--ip_configs--Join--ip_configs--Telegram--ip_configs--Join--ip_configs?ed=2048#172.66.40.99:8080
+vless://%614b%61%61696-9%6135-44%614-d354-b61bb%615c677%61@172.66.40.99:2052?type=ws&security=none&path=/@vmessorg----@vmessorg-----@vmessorg----@vmessorg----@vmessorg----@vmessorg----@vmessorg----@vmessorg----@vmessorg----@vmessorg----@vmessorg----@vmessorg?ed=2480#172.66.40.99:2052
+vless://%614b%61%61696-9%6135-44%614-d354-b61bb%615c677%61@www.speedtest.net:2052?type=ws&security=none&path=/@vmessorg----@vmessorg-----@vmessorg----@vmessorg----@vmessorg----@vmessorg----@vmessorg----@vmessorg----@vmessorg----@vmessorg----@vmessorg----@vmessorg?ed=2480#www.speedtest.net:2052
+vless://%614b%61%61696-9%6135-44%614-d354-b61bb%615c677%61@104.26.5.112:2052?type=ws&security=none&path=/@vmessorg----@vmessorg-----@vmessorg----@vmessorg----@vmessorg----@vmessorg----@vmessorg----@vmessorg----@vmessorg----@vmessorg----@vmessorg----@vmessorg?ed=2480#104.26.5.112:2052
+vless://72a94d38-9870-4f3a-9aee-56caf115a475@138.199.239.38:42671?type=tcp&security=none#138.199.239.38:42671
 vless://tm-H%71V2rayNG@full.vvir.ir:443?type=tcp&security=reality&sni=google.com&fp=chrome&flow=xtls-rprx-vision&pbk=tmdA-JLXg99x-LdvzAZnIV2J7QlHAe7F7xSRLh4ljHM&sid=e1#full.vvir.ir:443
 vless://738ebc1c-c44a-418e-8c2c-f9e2efe1f4fe@91.99.70.212:443?type=grpc&security=reality&sni=www.cdn77.com&fp=chrome&pbk=Zjzu45fPTjjaIcBoYyaLqieLtsWJD8ujdzNOQodWvnk#91.99.70.212:443
 vless://f076%61%6511-156c-45c5-b252-%61%658dd6fd1494@91.99.70.212:443?type=grpc&security=reality&sni=www.cdn77.com&fp=chrome&pbk=Zjzu45fPTjjaIcBoYyaLqieLtsWJD8ujdzNOQodWvnk#91.99.70.212:443
-trojan://3xpch3eo-o9wh-0nt6-361o-zuv6hm5y1dx1@127.0.0.1:8080?security=tls&type=tcp#For enhanced GitHub access, visit Argh94 now!
-trojan://exolkd74-50md-lril-fpcn-r52f849s4d8z@127.0.0.1:8081?security=tls&type=tcp#</> Collector v5.0
+trojan://u6y693kk-5tpx-m3os-125m-7bbg9e8hco11@127.0.0.1:8080?security=tls&type=tcp#For enhanced GitHub access, visit Argh94 now!
+trojan://bepgw3rl-e0b1-670n-vlhe-5hzjeksk9x56@127.0.0.1:8081?security=tls&type=tcp#</> Collector v5.0

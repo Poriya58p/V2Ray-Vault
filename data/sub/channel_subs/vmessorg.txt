@@ -1,6 +1,6 @@
-trojan://o7fqm67v-2gx2-ht28-dowy-xy1fbqq9o596@127.0.0.1:1080?security=tls&type=tcp#🕒 LAST UPDATE: 2025/08/27 | 11:55
-trojan://crnz0gkp-1z8d-zfcc-ajml-zvpcg4x0fvjz@127.0.0.1:2080?security=tls&type=tcp#This is a free trial project.
-trojan://o3oqwh47-pi1u-a6uc-oqhf-mursqd9rixcc@127.0.0.1:4080?security=tls&type=tcp#「 GitHub Argh94 ☕ 」
+trojan://soqix572-zuvn-g7lq-7cfy-kxxoztaozo3a@127.0.0.1:1080?security=tls&type=tcp#🕒 LAST UPDATE: 2025/08/27 | 16:03
+trojan://1ojkrkxc-v7nl-4tfo-67kk-flacju46v5ev@127.0.0.1:2080?security=tls&type=tcp#This is a free trial project.
+trojan://wsw4pro0-7e6p-z4i3-0l2o-ljnwtb9f03vl@127.0.0.1:4080?security=tls&type=tcp#「 GitHub Argh94 ☕ 」
 vless://58186ddc-be2e-4148-a680-ccd546994988@cumhuriyet.com.tr:80?type=ws&security=none&path=/@vmessorg----@vmessorg-----@vmessorg----@vmessorg----@vmessorg----@vmessorg----@vmessorg----@vmessorg----@vmessorg----@vmessorg----@vmessorg----@vmessorg?ed=2480#cumhuriyet.com.tr:80
 vless://712e7715-0f22-4a5e-a986-a39427853fa3@cumhuriyet.com.tr:80?type=ws&security=none&path=/@vmessorg----@vmessorg-----@vmessorg----@vmessorg----@vmessorg----@vmessorg----@vmessorg----@vmessorg----@vmessorg----@vmessorg----@vmessorg----@vmessorg?ed=2480#cumhuriyet.com.tr:80
 vless://a9013cee-7b9d-4776-d1d0-f46840008ea1@cumhuriyet.com.tr:80?type=ws&security=none&path=/@vmessorg----@vmessorg-----@vmessorg----@vmessorg----@vmessorg----@vmessorg----@vmessorg----@vmessorg----@vmessorg----@vmessorg----@vmessorg----@vmessorg?ed=2480#cumhuriyet.com.tr:80
@@ -12,5 +12,5 @@ vless://2c102887-2209-42c3-ffb1-35a5ddd831a9@numberland.ir:80?type=ws&security=n
 vless://2c102887-2209-42c3-ffb1-35a5ddd831a9@cumhuriyet.com.tr:80?type=ws&security=none&path=/@vmessorg----@vmessorg-----@vmessorg----@vmessorg----@vmessorg----@vmessorg----@vmessorg----@vmessorg----@vmessorg----@vmessorg----@vmessorg----@vmessorg?ed=2480#cumhuriyet.com.tr:80
 vless://0a2439d3-479f-44ff-f968-649d3bd1acb6@numberland.ir:80?type=ws&security=none&path=/@vmessorg----@vmessorg-----@vmessorg----@vmessorg----@vmessorg----@vmessorg----@vmessorg----@vmessorg----@vmessorg----@vmessorg----@vmessorg----@vmessorg?ed=2480#numberland.ir:80
 vless://a4baa696-9a35-44a4-d354-b61bba5c677a@numberland.ir:2052?type=ws&security=none&path=/@vmessorg----@vmessorg-----@vmessorg----@vmessorg----@vmessorg----@vmessorg----@vmessorg----@vmessorg----@vmessorg----@vmessorg----@vmessorg----@vmessorg?ed=2480#numberland.ir:2052
-trojan://ew6lx6t2-lnmp-3qef-xncn-m3l6jk3chvu5@127.0.0.1:8080?security=tls&type=tcp#For enhanced GitHub access, visit Argh94 now!
-trojan://ruij8yzh-6qgc-i1w8-ur9j-f7n72lyt81xc@127.0.0.1:8081?security=tls&type=tcp#</> Collector v5.0
+trojan://x4h9w1hz-fkjz-e9va-ore0-qpq6bj48yc9y@127.0.0.1:8080?security=tls&type=tcp#For enhanced GitHub access, visit Argh94 now!
+trojan://bbnx1m8u-w57k-mq8f-vqeb-64csgmn5cit3@127.0.0.1:8081?security=tls&type=tcp#</> Collector v5.0
