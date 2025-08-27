@@ -1,6 +1,6 @@
-trojan://ye3zn5jf-z2ij-ndww-64g1-uuw1q3wtaee5@127.0.0.1:1080?security=tls&type=tcp#🕒 LAST UPDATE: 2025/08/27 | 16:03
-trojan://ao0bxz2g-7ld9-y5so-hb72-p8fx7dws3ycf@127.0.0.1:2080?security=tls&type=tcp#This is a free trial project.
-trojan://uwto06l4-7yu9-i9zp-rewr-iylamls9dc4o@127.0.0.1:4080?security=tls&type=tcp#「 GitHub Argh94 ☕ 」
+trojan://ck7nid2n-swrs-eorf-daim-1kuuywsisy9w@127.0.0.1:1080?security=tls&type=tcp#🕒 LAST UPDATE: 2025/08/27 | 19:54
+trojan://zgp30rzf-7nrn-010q-imxa-9c7m5fpag07d@127.0.0.1:2080?security=tls&type=tcp#This is a free trial project.
+trojan://4njcrgia-awsq-zxw0-1cgp-c1vbn7za2bdg@127.0.0.1:4080?security=tls&type=tcp#「 GitHub Argh94 ☕ 」
 vmess://eyJ2IjoiMiIsInBzIjoiXHVkODNjXHVkZGViXHVkODNjXHVkZGVlIHwgY29uZmlna2FkZVx1ZDgzZFx1ZGM0OUBwcm94eXN0b3JlMTEiLCJhZGQiOiI2NS4xMDkuMTkwLjkxLnN1dXBlcm1lYXQuaXIiLCJwb3J0IjoyMDUzLCJpZCI6ImI0NDkzZWVkLWQzMTYtNDVkNS1hZGRmLTk4NTdmZmViYTMwZSIsImFpZCI6MCwic2N5IjoiYXV0byIsIm5ldCI6InRjcCIsInR5cGUiOiJub25lIn0
 vless://0ae30c98-5d21-43e4-91d6-f57916195961@cname.proxystore11.news:2087?type=ws&security=tls&path=/prx11&sni=prx11.proxystore11.news&fp=chrome#cname.proxystore11.news:2087
 vless://0ae30c98-5d21-43e4-91d6-f57916195961@cname.proxystore11.news:2087?type=ws&security=tls&path=/prx11&sni=prx11.proxystore11.news&fp=chrome#cname.proxystore11.news:2087
@@ -11,5 +11,5 @@ vless://365a7c12-6f69-4055-8693-f7f1ac405755@cname.proxystore11.news:2087?type=w
 vless://f3f71d47-8ff5-4a05-aac4-806d27f828a4@cname.proxystore11.news:2087?type=ws&security=tls&path=/prx11&sni=prx11.proxystore11.news&fp=chrome#cname.proxystore11.news:2087
 vless://1429f7f6-89bc-4352-8123-006fc02993fb@cname.proxystore11.news:2087?type=ws&security=tls&path=/prx11&sni=prx11.proxystore11.news&fp=chrome#cname.proxystore11.news:2087
 vless://42fdc328-a930-40c4-8051-822dac85323a@cname.proxystore11.news:8443?type=xhttp&security=tls&path=prx11-prx11-prx11-prx11-prx11-prx11-prx11-prx11-prx11-prx11-prx11-prx11-prx11-prx11-prx11-prx11&sni=prx11.proxystore11.news&fp=chrome#cname.proxystore11.news:8443
-trojan://jesaiyqg-eqpi-hwa7-arhp-t9ccjss2yqcs@127.0.0.1:8080?security=tls&type=tcp#For enhanced GitHub access, visit Argh94 now!
-trojan://8g9b8yf8-8ori-7xmj-pwl2-8wgwpn8gfcdq@127.0.0.1:8081?security=tls&type=tcp#</> Collector v5.0
+trojan://ymjizkx9-2na8-5qtj-et1d-4kwqrz5nl761@127.0.0.1:8080?security=tls&type=tcp#For enhanced GitHub access, visit Argh94 now!
+trojan://bvm2zsat-a5kn-wb96-flci-1lt4jb3a7p8z@127.0.0.1:8081?security=tls&type=tcp#</> Collector v5.0

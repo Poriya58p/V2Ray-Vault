@@ -1,7 +1,7 @@
-trojan://ed70u8zf-fu9i-qjcf-5jv3-hocbtqudifec@127.0.0.1:1080?security=tls&type=tcp#🕒 LAST UPDATE: 2025/08/27 | 16:03
-trojan://4t6k1riv-4l8l-vey8-s9z1-i2z2fa937hgw@127.0.0.1:2080?security=tls&type=tcp#This is a free trial project.
-trojan://pumcy5jm-lxbk-pgqu-0jbx-8qhy52n7zkwu@127.0.0.1:4080?security=tls&type=tcp#「 GitHub Argh94 ☕ 」
+trojan://w1kzr1u8-aiz8-qerz-bfxq-mmrit5e5v4tf@127.0.0.1:1080?security=tls&type=tcp#🕒 LAST UPDATE: 2025/08/27 | 19:54
+trojan://9hlrdnee-yajl-ui5p-wx3o-imxqo6ddo74r@127.0.0.1:2080?security=tls&type=tcp#This is a free trial project.
+trojan://hat5m8tv-2ef8-vmb9-y6cu-fqepu5jgmw0y@127.0.0.1:4080?security=tls&type=tcp#「 GitHub Argh94 ☕ 」
 vless://2fd1b67f-bc9e-4a66-a4c3-73599997d001@85.239.60.43:8443?type=tcp&security=reality&sni=google.com&fp=chrome&flow=xtls-rprx-vision&pbk=qJ_x7_Fz3M4QdnRG8WcqVNpgsHbwWgs_KrdCqr4iclE#GB 🇬🇧 ┇ VLESS-TCP-RLT - Clouvider Limited ┇ 85.239.60.43
-vless://0cc4d574-cf58-4c8e-a759-3aa1f919f34b@a.de.maviks.ru:443?type=tcp&security=reality&sni=www.microsoft.com&fp=chrome&flow=xtls-rprx-vision&pbk=lyLhdojpACv6B3tHViJvPjNGATedXYRMnpAt4n4Siyo&sid=f203719d3ff9a5f5#DE 🇩🇪 ┇ VLESS-TCP-RLT - Clouvider Limited ┇ 91.238.82.240
-trojan://0x8oa5gj-65rt-9lj5-cx2d-u5kipgkwsw33@127.0.0.1:8080?security=tls&type=tcp#For enhanced GitHub access, visit Argh94 now!
-trojan://3jlu9g0h-8dgw-4uus-vg4a-ka40f2iia6kk@127.0.0.1:8081?security=tls&type=tcp#</> Collector v5.0
+vless://0cc4d574-cf58-4c8e-a759-3aa1f919f34b@a.de.maviks.ru:443?type=tcp&security=reality&sni=www.microsoft.com&fp=chrome&flow=xtls-rprx-vision&pbk=lyLhdojpACv6B3tHViJvPjNGATedXYRMnpAt4n4Siyo&sid=f203719d3ff9a5f5#DE 🇩🇪 ┇ VLESS-TCP-RLT - Clouvider Limited ┇ 45.150.174.81
+trojan://v9ueh7xz-2h34-77rn-4lus-ge7viys3g3na@127.0.0.1:8080?security=tls&type=tcp#For enhanced GitHub access, visit Argh94 now!
+trojan://ci6dtz4q-jyl6-k92w-59aw-3tcfdq3pxq55@127.0.0.1:8081?security=tls&type=tcp#</> Collector v5.0

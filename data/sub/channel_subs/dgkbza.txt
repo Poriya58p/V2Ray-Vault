@@ -1,6 +1,6 @@
-trojan://hmynil75-8w52-ohhd-xau0-rh287sn5cyol@127.0.0.1:1080?security=tls&type=tcp#🕒 LAST UPDATE: 2025/08/27 | 16:03
-trojan://f5vl6aj6-ftmr-mt4r-atjj-rfel072a99wt@127.0.0.1:2080?security=tls&type=tcp#This is a free trial project.
-trojan://q86nsx22-1f5b-14y4-pdy2-9ly8tv8whwgu@127.0.0.1:4080?security=tls&type=tcp#「 GitHub Argh94 ☕ 」
+trojan://u2bhx4i9-xgya-htz7-s6hv-akclvpa9ruwx@127.0.0.1:1080?security=tls&type=tcp#🕒 LAST UPDATE: 2025/08/27 | 19:54
+trojan://amleot4l-xrz4-ge9a-umpw-l9jay8446lz4@127.0.0.1:2080?security=tls&type=tcp#This is a free trial project.
+trojan://va7usz1e-07h1-vs3k-2vmn-vh0rhz9vbkmi@127.0.0.1:4080?security=tls&type=tcp#「 GitHub Argh94 ☕ 」
 vless://06d56227-1f90-428e-a613-5b253f0e42ff@huffingtonpost.es:80?type=xhttp&security=none&path=/@UnlimitedDev----@UnlimitedDev-----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev?ed=2480#huffingtonpost.es:80
 vless://06d56227-1f90-428e-a613-5b253f0e42ff@huffingtonpost.es:80?type=xhttp&security=none&path=/@UnlimitedDev----@UnlimitedDev-----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev?ed=2480#huffingtonpost.es:80
 vless://962e4859-6bbe-40bb-9c2d-7e4e2b86423c@104.19.54.50:8080?type=ws&security=none&path=/Channel----VPNCUSTOMIZE----VPNCUSTOMIZE----VPNCUSTOMIZE---VPNCUSTOMIZE---VPNCUSTOMIZE---VPNCUSTOMIZE?ed=2048&fp=randomized#104.19.54.50:8080
@@ -28,5 +28,5 @@ vless://f767acde-115a-41e0-b3b3-d158c15d7d60@www.speedtest.net:8880?type=ws&secu
 vless://f767acde-115a-41e0-b3b3-d158c15d7d60@vpncustomize.fastly80-3.hosting-ip.com:80?type=ws&security=none&path=/Channel----VPNCUSTOMIZE----VPNCUSTOMIZE----VPNCUSTOMIZE---VPNCUSTOMIZE---VPNCUSTOMIZE---VPNCUSTOMIZE&fp=randomized#vpncustomize.fastly80-3.hosting-ip.com:80
 vless://2a800382-5878-4b1a-96a2-c5d8af844530@join.unlimiteddev.fastly80-3.hosting-ip.com:80?type=xhttp&security=none&path=/@UnlimitedDev----@UnlimitedDev-----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev?ed=2480#join.unlimiteddev.fastly80-3.hosting-ip.com:80
 vless://2a800382-5878-4b1a-96a2-c5d8af844530@huffingtonpost.es:80?type=xhttp&security=none&path=/@UnlimitedDev----@UnlimitedDev-----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev?ed=2480#huffingtonpost.es:80
-trojan://lhuz8sq9-ji7w-4e4d-dtc6-r38r2w0fb8ov@127.0.0.1:8080?security=tls&type=tcp#For enhanced GitHub access, visit Argh94 now!
-trojan://s1omuv53-mr5p-9g2s-e7uv-cm0f1d3uv9v7@127.0.0.1:8081?security=tls&type=tcp#</> Collector v5.0
+trojan://e0x6l127-e2z0-iduc-1kpn-qah3kazoeenh@127.0.0.1:8080?security=tls&type=tcp#For enhanced GitHub access, visit Argh94 now!
+trojan://3r33x2nz-ked5-trw3-tbf9-ujyrgwe1abfk@127.0.0.1:8081?security=tls&type=tcp#</> Collector v5.0

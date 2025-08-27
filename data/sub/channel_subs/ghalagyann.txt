@@ -1,8 +1,6 @@
-trojan://fctymnam-9kzt-t4ml-jn7g-7qwq2un6u65y@127.0.0.1:1080?security=tls&type=tcp#🕒 LAST UPDATE: 2025/08/27 | 16:03
-trojan://abo6qjfr-ui6w-jq5l-3sha-08itnv44nguh@127.0.0.1:2080?security=tls&type=tcp#This is a free trial project.
-trojan://e71ov8t5-fkoh-alua-p7rw-tvmu0r36mq8x@127.0.0.1:4080?security=tls&type=tcp#「 GitHub Argh94 ☕ 」
-vless://045cfbcb-0571-4561-97b1-55913aacc239@www.speedtest.net:8080?type=ws&security=none&path=/@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy#www.speedtest.net:8080
-vless://6d6c379e-3086-409f-9397-4df4f816fc81@www.speedtest.net:80?type=ws&security=none&path=/Join----VPNCUSTOMIZE---Join----VPNCUSTOMIZE&sni=revest.maketunnelim.lat#www.speedtest.net:80
+trojan://tdc4o4wc-z6oo-hirb-ndmq-5l1kmxccdzqm@127.0.0.1:1080?security=tls&type=tcp#🕒 LAST UPDATE: 2025/08/27 | 19:54
+trojan://iz24smr2-n1hl-z1x1-pkjh-i9jri8390zn1@127.0.0.1:2080?security=tls&type=tcp#This is a free trial project.
+trojan://e4v58tqu-2vps-q976-h411-syk1ds7o0soy@127.0.0.1:4080?security=tls&type=tcp#「 GitHub Argh94 ☕ 」
 vless://fcbcca00-44c2-4330-a072-bd0ba626eb0f@172.66.40.99:8080?type=ws&security=none&path=/-LiV2ry@LIGHTNING6-TEL--@LIGHTNING6-TEL--@LIGHTNING6-TEL--@LIGHTNING6-JOIN-@LIGHTNING6-TEL--@LIGHTNING6-JOIN-@LIGHTNING6-TEL-@LIGHTNING6-TEL--@LIGHTNING6-JOIN-@LIGHTNING6-TEL--@LIGHTNING6?ed=2048#172.66.40.99:8080
 vless://19e427b0-abd4-441b-900f-42af30d04088@www.speedtest.net:80?type=ws&security=none&path=/Join----VPNCUSTOMIZE---Join----VPNCUSTOMIZE&sni=revest.maketunnelim.Lat.#www.speedtest.net:80
 vless://c81ce31e-0377-4fff-955b-9c9fa0be2eb1@www.speedtest.net:8080?type=ws&security=none&path=/@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy#www.speedtest.net:8080
@@ -12,5 +10,5 @@ vless://21e6d7f3-08bd-4dbc-abf5-8012d9838af5@188.114.98.112:80?type=ws&security=
 vless://6c9fa651-7d63-4b88-ab3c-b39d5a8dd440@188.114.98.112:80?type=ws&security=none&path=/ELiV2-RAY----ELiV2-RAY----ELiV2-RAY----ELiV2-RAY----ELiV2-RAY----ELiV2-RAY?ed=2560#188.114.98.112:80
 vless://6c9fa651-7d63-4b88-ab3c-b39d5a8dd440@188.114.98.112:80?type=ws&security=none&path=/ELiV2-RAY----ELiV2-RAY----ELiV2-RAY----ELiV2-RAY----ELiV2-RAY----ELiV2-RAY?ed=2560#188.114.98.112:80
 vless://b1723c14-8180-4311-a65f-fc2665c6b51f@188.114.98.112:80?type=ws&security=none&path=/ELiV2-RAY----ELiV2-RAY----ELiV2-RAY----ELiV2-RAY----ELiV2-RAY----ELiV2-RAY?ed=2560#188.114.98.112:80
-trojan://00dq4832-8go2-yfuk-gccq-xd7n93zq0hik@127.0.0.1:8080?security=tls&type=tcp#For enhanced GitHub access, visit Argh94 now!
-trojan://bpzl9oxq-eu0x-3qik-pktn-qhuk3jfhqsx9@127.0.0.1:8081?security=tls&type=tcp#</> Collector v5.0
+trojan://i04appa6-ym37-e6y6-v88d-08f0hlxyxn7h@127.0.0.1:8080?security=tls&type=tcp#For enhanced GitHub access, visit Argh94 now!
+trojan://vvdthgh7-c8kp-8j0o-s7ge-8wp2pm2nr232@127.0.0.1:8081?security=tls&type=tcp#</> Collector v5.0

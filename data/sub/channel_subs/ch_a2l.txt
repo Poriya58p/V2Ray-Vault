@@ -1,6 +1,6 @@
-trojan://mwa5i9er-ykt5-73on-a1sy-yy0qgwgsl90i@127.0.0.1:1080?security=tls&type=tcp#🕒 LAST UPDATE: 2025/08/27 | 16:03
-trojan://jp7jiwj7-jak1-nmmi-shvx-4z4w69x0hsgv@127.0.0.1:2080?security=tls&type=tcp#This is a free trial project.
-trojan://feciscco-hwxd-f0w7-kuo0-c2kzf6ajsw0s@127.0.0.1:4080?security=tls&type=tcp#「 GitHub Argh94 ☕ 」
+trojan://n6plfw7f-kuu1-y088-t4qf-st3rw4n5auaj@127.0.0.1:1080?security=tls&type=tcp#🕒 LAST UPDATE: 2025/08/27 | 19:54
+trojan://ivlhgh1b-mud7-l9v8-butq-2bqnmw716yar@127.0.0.1:2080?security=tls&type=tcp#This is a free trial project.
+trojan://64hts34v-5hsb-ecxb-9nzk-5m7r6ptcfzqi@127.0.0.1:4080?security=tls&type=tcp#「 GitHub Argh94 ☕ 」
 vless://CH_A2L__PG_A2L@185.225.201.145:18789?type=ws&security=none&path=/CH_A2L__PG_A2L#185.225.201.145:18789
 vless://CH_A2L__PG_A2L@185.225.201.145:18789?type=ws&security=none&path=/CH_A2L__PG_A2L#185.225.201.145:18789
 vless://CH_A2L__PG_A2L@185.225.201.145:18789?type=ws&security=none&path=/CH_A2L__PG_A2L#185.225.201.145:18789
@@ -9,5 +9,5 @@ vless://CH_A2L__PG_A2L@185.225.201.145:18789?type=ws&security=none&path=/CH_A2L_
 vless://94d8db49-e681-470a-bdd1-688b9823e4ed@a2l.godgame.fun:18789?type=ws&security=none&path=/CH_A2L__PG_A2L#a2l.godgame.fun:18789
 vless://94d8db49-e681-470a-bdd1-688b9823e4ed@a2l.godgame.fun:18789?type=ws&security=none&path=/CH_A2L__PG_A2L#a2l.godgame.fun:18789
 vless://9301cca8-1121-448d-b8bb-1dd19ad182a9@a2l.godgame.fun:18789?type=ws&security=none&path=/CH_A2L#a2l.godgame.fun:18789
-trojan://lapjvhku-aj95-50is-57gc-l8akji5vs9ep@127.0.0.1:8080?security=tls&type=tcp#For enhanced GitHub access, visit Argh94 now!
-trojan://etsk67np-ii3x-i1pq-rx0f-5w6q0t0yuapg@127.0.0.1:8081?security=tls&type=tcp#</> Collector v5.0
+trojan://3ol593i0-u5jq-dj0z-qyxc-krqnpnkhz1bx@127.0.0.1:8080?security=tls&type=tcp#For enhanced GitHub access, visit Argh94 now!
+trojan://tk8xjpy0-aos1-x9qt-fc8c-gzdewbso4yk6@127.0.0.1:8081?security=tls&type=tcp#</> Collector v5.0

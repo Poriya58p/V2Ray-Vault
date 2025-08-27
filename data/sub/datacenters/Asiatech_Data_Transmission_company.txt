@@ -1,7 +1,7 @@
-trojan://8fems096-9h3h-p1oi-x9u2-0khkbis60vsw@127.0.0.1:1080?security=tls&type=tcp#🕒 LAST UPDATE: 2025/08/27 | 16:03
-trojan://5rth9q6x-df9h-1np2-73zw-wl22bi4q8j2r@127.0.0.1:2080?security=tls&type=tcp#This is a free trial project.
-trojan://rh5fqvdy-tx93-mqwo-4tro-a6qtgx8ogynk@127.0.0.1:4080?security=tls&type=tcp#「 GitHub Argh94 ☕ 」
-vmess://eyJ2IjoiMiIsInBzIjoiSVIgXHVkODNjXHVkZGVlXHVkODNjXHVkZGY3IFx1MjUwNyBWTUVTUy1UQ1AtTlRMUyAtIEFzaWF0ZWNoIERhdGEgVHJhbnNtaXNzaW9uIGNvbXBhbnkgXHUyNTA3IDE4OC4wLjI0MS41OCIsImFkZCI6InMxLmNvbm5lY3QubGFiZXgucHJvIiwicG9ydCI6MjUzNSwiaWQiOiIwNGQ3YzA4OS1iYmM1LTRlZjItODBlZi1hMDk4MmNmMzM3MDgiLCJhaWQiOjAsInNjeSI6ImFlcy0xMjgtZ2NtIiwibmV0IjoidGNwIiwidHlwZSI6Im5vbmUifQ
+trojan://v1plixx3-mf6u-e0pi-y53t-rxcgedjqe9rn@127.0.0.1:1080?security=tls&type=tcp#🕒 LAST UPDATE: 2025/08/27 | 19:54
+trojan://cojao4ix-438m-041z-cj0e-bxfgv4pmclbm@127.0.0.1:2080?security=tls&type=tcp#This is a free trial project.
+trojan://ddq6l2n8-t4ju-g54i-bjrr-iigb6tc31480@127.0.0.1:4080?security=tls&type=tcp#「 GitHub Argh94 ☕ 」
 trojan://ec94daf9-442f-4a6b-9633-70c90006dfdd@79.127.70.123:2083?security=none#IR 🇮🇷 ┇ TROJAN-TCP-NTLS - Asiatech Data Transmission company ┇ 79.127.70.123
-trojan://1meqtg1q-jyji-m9dj-e7w2-i2l1bp4t56fx@127.0.0.1:8080?security=tls&type=tcp#For enhanced GitHub access, visit Argh94 now!
-trojan://mxhxq96e-4sym-wx5c-wqjh-13sovmygyu9x@127.0.0.1:8081?security=tls&type=tcp#</> Collector v5.0
+vmess://eyJ2IjoiMiIsInBzIjoiSVIgXHVkODNjXHVkZGVlXHVkODNjXHVkZGY3IFx1MjUwNyBWTUVTUy1UQ1AtTlRMUyAtIEFzaWF0ZWNoIERhdGEgVHJhbnNtaXNzaW9uIGNvbXBhbnkgXHUyNTA3IDE4OC4wLjI0MS41OCIsImFkZCI6InMxLmNvbm5lY3QubGFiZXgucHJvIiwicG9ydCI6MjUzNSwiaWQiOiIwNGQ3YzA4OS1iYmM1LTRlZjItODBlZi1hMDk4MmNmMzM3MDgiLCJhaWQiOjAsInNjeSI6ImFlcy0xMjgtZ2NtIiwibmV0IjoidGNwIiwidHlwZSI6Im5vbmUifQ
+trojan://mt7nysnv-kjwm-m46b-4d1v-8qzoth15armf@127.0.0.1:8080?security=tls&type=tcp#For enhanced GitHub access, visit Argh94 now!
+trojan://jvizjrqh-nf0c-7rwb-vpog-koqm2ilk6wbw@127.0.0.1:8081?security=tls&type=tcp#</> Collector v5.0

@@ -1,8 +1,11 @@
-trojan://7mvmrxef-wzj3-er0h-uxnh-vyog6qkrk18z@127.0.0.1:1080?security=tls&type=tcp#🕒 LAST UPDATE: 2025/08/27 | 16:03
-trojan://92kzlss5-uuhf-ele5-6i5s-18dfy3xn57yx@127.0.0.1:2080?security=tls&type=tcp#This is a free trial project.
-trojan://lfh7w378-ali2-71cv-nw9y-m69d5lzph5n7@127.0.0.1:4080?security=tls&type=tcp#「 GitHub Argh94 ☕ 」
+trojan://4vb568fv-53mp-53sh-i0ss-xxcuux2tdqsr@127.0.0.1:1080?security=tls&type=tcp#🕒 LAST UPDATE: 2025/08/27 | 19:54
+trojan://mc11q688-qbx4-o3nh-pqvi-tl3dwtgw23tu@127.0.0.1:2080?security=tls&type=tcp#This is a free trial project.
+trojan://2y473c5z-1se5-6m71-zfpo-8o70fdhrqhgi@127.0.0.1:4080?security=tls&type=tcp#「 GitHub Argh94 ☕ 」
+hysteria2://b8bd42a9-551f-419d-b70d-4aefdd2cb074@208.87.242.189:443?sni=www.bing.com&insecure=1#US 🇺🇸 ┇ HYSTERIA2-TCP-NTLS - AS40676 ┇ 208.87.242.189
+hysteria2://dongtaiwang.com@208.87.243.187:22222?sni=www.bing.com&insecure=1#US 🇺🇸 ┇ HYSTERIA2-TCP-NTLS - AS40676 ┇ 208.87.243.187
 hysteria2://dongtaiwang.com@108.181.5.130:63015?sni=apple.com&insecure=1#US 🇺🇸 ┇ HYSTERIA2-TCP-NTLS - AS40676 ┇ 108.181.5.130
 vmess://eyJ2IjoiMiIsInBzIjoiVVMgXHVkODNjXHVkZGZhXHVkODNjXHVkZGY4IFx1MjUwNyBWTUVTUy1UQ1AtTlRMUyAtIEFTNDA2NzYgXHUyNTA3IDEwOC4xODEuNS4xOCIsImFkZCI6IjEwOC4xODEuNS4xOCIsInBvcnQiOjE4NjU3LCJpZCI6IjYzNmJhMDcyLTQ5M2UtNDIzNS1iN2E4LTgyMmJkNGUzNDBkNSIsImFpZCI6MCwic2N5IjoiYXV0byIsIm5ldCI6InRjcCIsInR5cGUiOiJub25lIn0
-hysteria2://dongtaiwang.com@208.87.243.187:22222?sni=www.bing.com&insecure=1#US 🇺🇸 ┇ HYSTERIA2-TCP-NTLS - AS40676 ┇ 208.87.243.187
-trojan://ql2nzsmw-8xaw-rore-sman-sb5n03rj7hoj@127.0.0.1:8080?security=tls&type=tcp#For enhanced GitHub access, visit Argh94 now!
-trojan://cnu8d18s-a7a2-jfvy-9sw8-f7pcfi97b1eo@127.0.0.1:8081?security=tls&type=tcp#</> Collector v5.0
+hysteria2://b8bd42a9-551f-419d-b70d-4aefdd2cb074@208.87.242.215:443?sni=www.bing.com&insecure=1#US 🇺🇸 ┇ HYSTERIA2-TCP-NTLS - AS40676 ┇ 208.87.242.215
+hysteria2://b8bd42a9-551f-419d-b70d-4aefdd2cb074@208.87.242.79:443?sni=www.bing.com&insecure=1#US 🇺🇸 ┇ HYSTERIA2-TCP-NTLS - AS40676 ┇ 208.87.242.79
+trojan://0o08pi7f-tu47-pvem-wvx5-64y6z9pj6brx@127.0.0.1:8080?security=tls&type=tcp#For enhanced GitHub access, visit Argh94 now!
+trojan://duyw7oi9-1kch-s8wn-o7da-y2rmfnz3fgro@127.0.0.1:8081?security=tls&type=tcp#</> Collector v5.0

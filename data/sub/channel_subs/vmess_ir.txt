@@ -1,9 +1,7 @@
-trojan://kfquxskt-zr5e-p6oz-0ekm-447iela0bntx@127.0.0.1:1080?security=tls&type=tcp#🕒 LAST UPDATE: 2025/08/27 | 16:03
-trojan://tg6mcdbl-jthy-3qap-1pjp-m9onbt1hw8xi@127.0.0.1:2080?security=tls&type=tcp#This is a free trial project.
-trojan://v3uds62a-vqox-5zwx-ws6g-h0aqr5sqpgtf@127.0.0.1:4080?security=tls&type=tcp#「 GitHub Argh94 ☕ 」
+trojan://fuofgq1c-1g2o-pktf-w3lr-s1ztduedvzpn@127.0.0.1:1080?security=tls&type=tcp#🕒 LAST UPDATE: 2025/08/27 | 19:54
+trojan://zgfk824f-f67p-7zyw-p5ee-rrglku38xb99@127.0.0.1:2080?security=tls&type=tcp#This is a free trial project.
+trojan://4ziavbon-8fp1-47xq-rlj6-ux60t197jg19@127.0.0.1:4080?security=tls&type=tcp#「 GitHub Argh94 ☕ 」
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTozNjBlMjFkMjE5NzdkYzEx@103.111.114.29:57456#103.111.114.29:57456
-vless://jrghxqxyoy@npmjs.com:2053?type=httpupgrade&security=tls&path=/download/cdn&sni=jrghxqxyoy-518237151.zamam.co&fp=randomized#npmjs.com:2053
-vless://c4587bda-09fc-4b3b-8221-4450fccc33d1@malaysia.com:443?type=ws&security=tls&path=/?ed=#TELEGRAM-MARAMBASHI_MARAMBASHI_MARAMBASHI?ed=512&sni=yx.yushan.dpdns.org&fp=random#malaysia.com:443
 vless://ccbe6b7c-9264-40c4-8bc1-ef8f6205d7a4@www.speedtest.net:8443?type=ws&security=tls&path=/&sni=lease-11.access.name.ng#www.speedtest.net:8443
 vless://90c7ad5e-cd15-4314-b39b-aeabd397d592@www.visa.com.sg:2087?type=ws&security=tls&path=/?ed=#TELEGRAM-MARAMBASHI_MARAMBASHI_MARAMBASHI?ed=512&sni=vl.hongkong6.qzz.io&fp=random#www.visa.com.sg:2087
 vless://82cdcdf0-e772-4d9a-b0a2-d6b605572ac1@moody-lock.seotoolsforyou.co.uk:80?type=ws&security=none&path=/#moody-lock.seotoolsforyou.co.uk:80
@@ -18,7 +16,9 @@ vless://df0680ca-e43c-498d-ed86-8e196eedd012@185.231.205.248:8880?type=grpc&secu
 vless://7b311017-4c83-490d-87d1-5aeef15a5250@m3a.vip784.com:33801?type=tcp&security=none#m3a.vip784.com:33801
 vless://400f06ce-2b69-4444-a398-47b7166ccb54@chat.deepseek.com:80?type=ws&security=none&path=/olem/ws?ed=1024#chat.deepseek.com:80
 vless://e999db7a-1b17-4da6-bc37-c9fa24af2e93@ipw.gfdv54cvghhgfhgj-njhgj64.info:2096?type=ws&security=tls&path=/&sni=J1oG84r7Qf.WaSaBi7890.OrG&fp=chrome#ipw.gfdv54cvghhgfhgj-njhgj64.info:2096
-vless://a5ada705-cbac-47f7-9fa5-2e4426b7a510@es.iovpn.click:443?type=tcp&security=reality&sni=apple.com&fp=chrome&flow=xtls-rprx-vision&pbk=YoQ4rDLzUDrLuKwPi3T1X9T7ttwfZ3wv0hTBpzg44i8&sid=31f644193ea3#es.iovpn.click:443
+vless://e8a19247-cb95-4f9c-9c77-ea0355268762@sss55168.tas-bazi.com:443?type=xhttp&security=none&path=/xhttp#sss55168.tas-bazi.com:443
+vless://10aca91a-6e44-46cb-a890-ea246400c0a7@185.236.37.23:443?type=tcp&security=tls&sni=cdn2.azkhaktakhane.ir&fp=chrome&flow=xtls-rprx-vision#185.236.37.23:443
+vless://cbfaa4fa-8393-43db-a052-d86543462f0d@91.99.27.66:443?type=xhttp&security=none&path=/xhttp#91.99.27.66:443
 vless://4c26ebc3-7784-46d8-b52a-7b0ccae6f4b4@amazon-20.cristiano.name.ng:443?type=tcp&security=reality&sni=store.steampowered.com&fp=chrome&flow=xtls-rprx-vision&pbk=TGlPtfVzGIVpMauPRMGJj2Uu6GUiCpu5ZizIIjw-wx4&sid=f5#amazon-20.cristiano.name.ng:443
-trojan://23235uof-3wa5-ce0u-kb8e-cgtae0in7u8r@127.0.0.1:8080?security=tls&type=tcp#For enhanced GitHub access, visit Argh94 now!
-trojan://3bpemy6q-b8mz-3whg-h4od-u5lg20nemguy@127.0.0.1:8081?security=tls&type=tcp#</> Collector v5.0
+trojan://voavd24c-tgee-kmlj-qkyb-ookjyf3cubwk@127.0.0.1:8080?security=tls&type=tcp#For enhanced GitHub access, visit Argh94 now!
+trojan://4euqp3b4-7wu5-a9oa-tofx-7bs1sek9gs32@127.0.0.1:8081?security=tls&type=tcp#</> Collector v5.0

@@ -1,8 +1,8 @@
-trojan://ox6p93hg-oayd-bwrk-njnj-uukjvoe5a4ef@127.0.0.1:1080?security=tls&type=tcp#🕒 LAST UPDATE: 2025/08/27 | 16:03
-trojan://3w4d5yew-de27-3b8g-xxuy-w4lbtz6wzho3@127.0.0.1:2080?security=tls&type=tcp#This is a free trial project.
-trojan://ig82w9w6-1imm-7ud6-c9qj-dn4j1isip4wi@127.0.0.1:4080?security=tls&type=tcp#「 GitHub Argh94 ☕ 」
-ss://YWVzLTI1Ni1nY206M0pIVE5LMTNUNkJDRVZOSA@156.231.104.24:18014#JP 🇯🇵 ┇ SHADOWSOCKS-TCP-NTLS - VELO-LINK ┇ 156.231.104.24
+trojan://no6ijwwj-5b5a-j7ph-uqkf-gjganzsmkjiy@127.0.0.1:1080?security=tls&type=tcp#🕒 LAST UPDATE: 2025/08/27 | 19:54
+trojan://arwahsxs-uyk2-6d3b-xr2l-cicqkfw560l0@127.0.0.1:2080?security=tls&type=tcp#This is a free trial project.
+trojan://vopm484f-4cjo-a10z-h0pl-q1gm9pyppdlf@127.0.0.1:4080?security=tls&type=tcp#「 GitHub Argh94 ☕ 」
 ss://YWVzLTI1Ni1nY206QVlDNE1RNURTR0o0UU9LRw@156.245.190.19:15010#HK 🇭🇰 ┇ SHADOWSOCKS-TCP-NTLS - VELO-LINK ┇ 156.245.190.19
 ss://YWVzLTI1Ni1nY206VVE2Mks4Rzg4VkdCTlpYTw@156.245.190.24:15015#HK 🇭🇰 ┇ SHADOWSOCKS-TCP-NTLS - VELO-LINK ┇ 156.245.190.24
-trojan://6nnhlr9d-fmox-7pk6-cg2r-umy6phwf5it1@127.0.0.1:8080?security=tls&type=tcp#For enhanced GitHub access, visit Argh94 now!
-trojan://siz0vvbs-lhlr-uynd-utkw-8sqzcynn1t4b@127.0.0.1:8081?security=tls&type=tcp#</> Collector v5.0
+ss://YWVzLTI1Ni1nY206M0pIVE5LMTNUNkJDRVZOSA@156.231.104.24:18014#JP 🇯🇵 ┇ SHADOWSOCKS-TCP-NTLS - VELO-LINK ┇ 156.231.104.24
+trojan://exvdo2t2-7fc6-bgm9-l74i-kymcghmkrv7c@127.0.0.1:8080?security=tls&type=tcp#For enhanced GitHub access, visit Argh94 now!
+trojan://anj9m53v-wrux-l2xj-exwi-evjeb200mrrv@127.0.0.1:8081?security=tls&type=tcp#</> Collector v5.0

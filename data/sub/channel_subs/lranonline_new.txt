@@ -1,11 +1,13 @@
-trojan://1u26vvgn-d78u-h9vo-x5r6-ryeugirgh2l6@127.0.0.1:1080?security=tls&type=tcp#🕒 LAST UPDATE: 2025/08/27 | 16:03
-trojan://12fhi9kp-cz33-l3x2-ka5z-lryjrzyafyqt@127.0.0.1:2080?security=tls&type=tcp#This is a free trial project.
-trojan://20l6qfo5-wtvu-130k-9gud-1g2pdtvvxose@127.0.0.1:4080?security=tls&type=tcp#「 GitHub Argh94 ☕ 」
+trojan://iy5ajebg-im6u-cwsp-mnio-bziw1ct2s9g4@127.0.0.1:1080?security=tls&type=tcp#🕒 LAST UPDATE: 2025/08/27 | 19:54
+trojan://848v0019-bksd-71j7-3j7c-jq4fk0vmnfv4@127.0.0.1:2080?security=tls&type=tcp#This is a free trial project.
+trojan://jsbuwdom-fjmm-g12c-hzku-2zqw64vzvegp@127.0.0.1:4080?security=tls&type=tcp#「 GitHub Argh94 ☕ 」
 vless://6b758c57-3a4b-41f3-be1e-25025eba8bfc@www.speedtest.net:80?type=ws&security=none&path=/Join----VPNCUSTOMIZE---Join----VPNCUSTOMIZE&sni=revest.maketunnelim.Lat.#www.speedtest.net:80
 vless://e4158a82-9b5d-48a1-90f4-6d4d73784df1@www.speedtest.net:8080?type=ws&security=none&path=/@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy#www.speedtest.net:8080
 vless://d94cb71d-b9d7-4336-b32d-5cdda2e36784@www.speedtest.net:2082?type=ws&security=none&path=/@spikevpn-@spikevpn-@spikevpn-@spikevpn-@spikevpn-@spikevpn?ed=2082#www.speedtest.net:2082
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@185.231.205.5:8880?type=grpc&security=none#185.231.205.5:8880
 vless://a4baa696-9a35-44a4-d354-b61bba5c677a@numberland.ir:2052?type=ws&security=none&path=/@vmessorg----@vmessorg-----@vmessorg----@vmessorg----@vmessorg----@vmessorg----@vmessorg----@vmessorg----@vmessorg----@vmessorg----@vmessorg----@vmessorg?ed=2480#numberland.ir:2052
 vless://e4824193-4f54-453b-d037-88368e85ef0e@pqh23v4.vetmainconf.shop:8880?type=grpc&security=none&sni=pqh23v4.vetmainconf.shop#pqh23v4.vetmainconf.shop:8880
-trojan://6cp15idw-o7oo-kn19-khx4-51necx6j3tdc@127.0.0.1:8080?security=tls&type=tcp#For enhanced GitHub access, visit Argh94 now!
-trojan://whnacuqh-41to-ok1z-jqm6-dkqk5fwc6ehg@127.0.0.1:8081?security=tls&type=tcp#</> Collector v5.0
+vless://eb3ce75e-ff5a-4170-a0c9-cd75b7c604f1@test.fast.hosting-ip.com:80?type=xhttp&security=none&path=/telegram-CONFiGLiNE,telegram-CONFiGLiNE,telegram-CONFiGLiNE,telegram-CONFiGLiNE,telegram-CONFiGLiNE,telegram-CONFiGLiNE,telegram-CONFiGLiNE,telegram-CONFiGLiNE?ed=2048#test.fast.hosting-ip.com:80
+vless://c3375fd7-68f9-4b6c-9304-ccdeb029689e@172.66.40.99:443?type=ws&security=tls&path=/telegram-CONFiGLiNE,telegram-CONFiGLiNE,telegram-CONFiGLiNE,telegram-CONFiGLiNE,telegram-CONFiGLiNE,telegram-CONFiGLiNE,telegram-CONFiGLiNE,telegram-CONFiGLiNE?ed=2048&sni=az52.mashkestan.com&fp=firefox#172.66.40.99:443
+trojan://y6f2cvqv-cgol-1p8t-bzb5-fodlwtswfuje@127.0.0.1:8080?security=tls&type=tcp#For enhanced GitHub access, visit Argh94 now!
+trojan://vxtbtl25-k254-814p-9wea-xzycyljzs8k8@127.0.0.1:8081?security=tls&type=tcp#</> Collector v5.0

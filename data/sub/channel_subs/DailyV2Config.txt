@@ -1,19 +1,8 @@
-trojan://a1jyjggi-qrri-38q4-300c-ilru6anis7hp@127.0.0.1:1080?security=tls&type=tcp#🕒 LAST UPDATE: 2025/08/27 | 16:03
-trojan://fvev3uws-38al-d89n-xbw2-3n86yiy40b42@127.0.0.1:2080?security=tls&type=tcp#This is a free trial project.
-trojan://4m3bjhbf-y605-szi0-a7kt-mki7vki2fseo@127.0.0.1:4080?security=tls&type=tcp#「 GitHub Argh94 ☕ 」
-vmess://eyJ2IjoiMiIsInBzIjoiQ0EgXHVkODNjXHVkZGU4XHVkODNjXHVkZGU2IHwgVk1lc3MgfCAxMDQuMTcuKioqLioqKiIsImFkZCI6IjEwNC4xNy4xNDcuMjIiLCJwb3J0Ijo4MCwiaWQiOiI2OWMyNTA4NS1iZmVmLTRlYmYtODZiNi1jYzE0YzBiNGQ0MDgiLCJhaWQiOjAsInNjeSI6ImF1dG8iLCJuZXQiOiJ3cyIsInR5cGUiOiJub25lIiwicGF0aCI6Ii9qb2lub3VydGVsZWdyYW1jaGFubmVsQGhvcm1venZwLm5AaG9ybW96dnAubkBob3Jtb3p2cC5uQGhvcm1venZwLm5AaG9ybW96dnAubkBob3Jtb3p2cC5uP2VkPTEwMjQifQ
-vless://83c6f82f-e619-53c5-950a-908532a2a64f@199.232.7.18:443?type=ws&security=tls&path=/vless&sni=ELena-Eliv2RaY.co&fp=qq#199.232.7.18:443
-vless://92c15dc4-6e60-5603-8a13-a760e1e87f3a@151.101.2.219:80?type=ws&security=none#151.101.2.219:80
-vless://f12306c3-40f7-4543-afd0-534a91b1cdf3@172.66.40.99:443?type=ws&security=tls&path=/telegram-CONFiGLiNE,telegram-CONFiGLiNE,telegram-CONFiGLiNE,telegram-CONFiGLiNE,telegram-CONFiGLiNE,telegram-CONFiGLiNE,telegram-CONFiGLiNE,telegram-CONFiGLiNE?ed=2048&sni=hE136.maShkesTan.CoM&fp=firefox#172.66.40.99:443
-vless://telegram-id-Arfilter@172.66.40.99:443?type=ws&security=tls&path=/telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray?ed=2048&sni=rSa.2SeDkFjEuIxIjD0Ew9DvKcxoisiEk61.BlOg&fp=firefox#172.66.40.99:443
-vless://TELEGRAM-CONFiGLiNE@test.fast.hosting-ip.com:80?type=xhttp&security=none&path=/telegram-CONFiGLiNE,telegram-CONFiGLiNE,telegram-CONFiGLiNE,telegram-CONFiGLiNE,telegram-CONFiGLiNE,telegram-CONFiGLiNE,telegram-CONFiGLiNE,telegram-CONFiGLiNE?ed=2048#test.fast.hosting-ip.com:80
-vless://e7ef2316-2ff9-4266-8d09-acbf90fbd0e4@chat.openai.com:8080?type=ws&security=none&path=/olem/ws?ed=1024#chat.openai.com:8080
-vless://2b25cdb0-ecb2-4caa-910d-b2e5b2309ca3@185.234.66.94:443?type=ws&security=tls&path=/tqjkmwws#185.234.66.94:443
-vless://6e812804-b0e8-4eff-9c2e-96c6fed96f1b@185.234.66.81:443?type=ws&security=tls&path=/lkjdasws#185.234.66.81:443
-vless://b1723c14-8180-4311-a65f-fc2665c6b51f@188.114.98.112:80?type=ws&security=none&path=/ELiV2-RAY----ELiV2-RAY----ELiV2-RAY----ELiV2-RAY----ELiV2-RAY----ELiV2-RAY?ed=2560#188.114.98.112:80
-vless://32b67990-fb70-457f-8f02-c7c62e4156ca@94.182.142.28:2020?type=tcp&security=none#94.182.142.28:2020
-vless://d3153cb1-c5e5-480e-9929-d5c608cf0535@www.parsvds.ir:8080?type=ws&security=none&path=/telegram=V_2RAYNGVPN#www.parsvds.ir:8080
-vless://Parsashonam-303@91.99.16.244:443?type=xhttp&security=reality&path=/Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam&sni=Google.com&fp=chrome&pbk=sa5RHNjAAD3hYv4OU_YYU08gRUsmPs5JdZES5Xy3pn8&sid=61e683d41fdb#91.99.16.244:443
-vless://4b8d8d7f-a8b4-4e44-80a9-6f13c3149b52@45.130.214.192:53231?type=tcp&security=reality&sni=yahoo.com&fp=chrome&pbk=3mRweaWR6pK4HsbEtu874rNG9qBgdOMmSsKE4RkWSmk&sid=4ffbd0f3117c6f#45.130.214.192:53231
-trojan://f7oishjs-jihw-qn69-amqh-i203qluwz0vk@127.0.0.1:8080?security=tls&type=tcp#For enhanced GitHub access, visit Argh94 now!
-trojan://rpakyjy6-yane-6itj-lmrn-sq1ihn7dle3t@127.0.0.1:8081?security=tls&type=tcp#</> Collector v5.0
+trojan://603juk9f-6mja-tadu-ytlx-jqn9va1e543o@127.0.0.1:1080?security=tls&type=tcp#🕒 LAST UPDATE: 2025/08/27 | 19:54
+trojan://d43phtil-2saz-3sqp-vs0i-2js6tb8jrscs@127.0.0.1:2080?security=tls&type=tcp#This is a free trial project.
+trojan://hcad5uq9-5uwz-sm45-zm9v-cfchrfi961oz@127.0.0.1:4080?security=tls&type=tcp#「 GitHub Argh94 ☕ 」
+vless://6780a3c0-a98c-4622-b894-8e34167f7b31@104.26.1.108:443?type=ws&security=tls&path=/id5?ed=2560TELEGRAM_CHANEL_JKVPN_JKVPN_JKVPN&sni=blog.ruangguru.com.servpn.my.id#104.26.1.108:443
+vless://286a5f83-f8e6-47b4-a47e-5f7a6bec71fc@glassdoor.com:443?type=ws&security=tls&path=/---VITUREY---VITUREY---VITUREY---VITUREY---VITUREY---VITUREY---VITUREY---VITUREY---VITUREY---VITUREY---VITUREY---VITUREY---&sni=rAyAn-cOnFiC-12.rAyAn-iV.DnS-DyNaMiC.NeT&fp=chrome#glassdoor.com:443
+vless://82aa1f3f-29d4-42ab-a5d5-66b13ba13545@91.99.114.25:443?type=xhttp&security=none&path=/d/?@MARAMBASHI_MARAMBASHI?ed=2048#91.99.114.25:443
+trojan://bzjkhm3i-swka-998s-q95h-k9rwla0cffqc@127.0.0.1:8080?security=tls&type=tcp#For enhanced GitHub access, visit Argh94 now!
+trojan://52qwt4e4-l8ab-ao1b-h3ib-24htxiti7h8r@127.0.0.1:8081?security=tls&type=tcp#</> Collector v5.0

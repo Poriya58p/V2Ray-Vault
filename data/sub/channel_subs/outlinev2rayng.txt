@@ -1,10 +1,7 @@
-trojan://rbu4zqjl-kcmm-03nu-66eq-xcurx2axgoul@127.0.0.1:1080?security=tls&type=tcp#🕒 LAST UPDATE: 2025/08/27 | 16:03
-trojan://je7ldums-xcpj-edgk-el46-ns6cu9xe0mdd@127.0.0.1:2080?security=tls&type=tcp#This is a free trial project.
-trojan://r4m578w4-8msr-e37b-zn74-wkg8l6f9pcc0@127.0.0.1:4080?security=tls&type=tcp#「 GitHub Argh94 ☕ 」
+trojan://666jjllb-0uv7-7aqh-x7e9-nvebh9ndlp5d@127.0.0.1:1080?security=tls&type=tcp#🕒 LAST UPDATE: 2025/08/27 | 19:54
+trojan://dxel2v0n-cn52-d4ur-ywh9-3iygg8s72x9a@127.0.0.1:2080?security=tls&type=tcp#This is a free trial project.
+trojan://bein8o8r-pkww-da59-e8rh-0xu0zgw5kedn@127.0.0.1:4080?security=tls&type=tcp#「 GitHub Argh94 ☕ 」
 trojan://f282b878-8711-45a1-8c69-5564172123c1@172.67.156.25:443?sni=aio.zipzap.biz.id&peer=aio.zipzap.biz.id&security=tls#172.67.156.25:443
-vless://e4824193-4f54-453b-d037-88368e85ef0e@45.82.251.180:8880?type=grpc&security=none#45.82.251.180:8880
-vless://e4824193-4f54-453b-d037-88368e85ef0e@45.82.251.58:8880?type=grpc&security=none#45.82.251.58:8880
-vless://f282b878-8711-45a1-8c69-5564172123c1@aio.xtradata.dpdns.org:443?type=ws&security=tls&path=/aioproxybot/129.150.49.58-18650&sni=aio.xtradata.dpdns.org#aio.xtradata.dpdns.org:443
 vless://d1e44075-8c92-4698-9db0-e71d7015b757@small-meal.oneeat.co:80?type=ws&security=none&path=/#small-meal.oneeat.co:80
 vless://bc4f49dc-2c50-49ac-b8fa-d3020a5e65de@91.99.125.215:443?type=tcp&security=none#91.99.125.215:443
 vless://3d7dd548-5456-4f28-8019-393fbfab3312@104.26.1.108:443?type=ws&security=tls&path=/sg3/?ed=2048Join---i10VPN---Join---i10VPN---Join---i10VPN---Join---i10VPN&sni=app-stg.gopay.co.id.servpn.my.id&fp=chrome#104.26.1.108:443
@@ -15,7 +12,10 @@ vless://897a4bec-26b8-11e8-94be-00505695472c@bestcf.030101.xyz:443?type=ws&secur
 vless://3d7dd548-5456-4f28-8019-393fbfab3312@172.67.74.133:443?type=ws&security=tls&path=/sg3/?ed=2048JOIN---PLANB_PROXY&sni=app-stg.gopay.co.id.servpn.my.id&fp=chrome#172.67.74.133:443
 vless://6780a3c0-a98c-4622-b894-8e34167f7b31@172.67.74.133:443?type=ws&security=tls&path=/id5?ed=2560/?@&sni=blog.ruangguru.com.servpn.my.id#172.67.74.133:443
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@185.231.205.246:8880?type=grpc&security=none#185.231.205.246:8880
-vless://d7dbeb1e-268c-465c-8f59-489f14703efd@5.182.36.251:16331?type=tcp&security=reality&sni=yahoo.com&fp=chrome&pbk=wYtc0dMr5fw5bBQkbLNpTqtu0m4B9NKnOyEWjRJUmzk&sid=910aab#5.182.36.251:16331
+vless://aaaaaaa1-bbbb-4ccc-accc-eeeeeeeeeee1@web.xhamster.biz.id:443?type=ws&security=tls&path=/Free-CF-Proxy-AE17&sni=web.xhamster.biz.id#web.xhamster.biz.id:443
+vless://aaaaaaa1-bbbb-4ccc-accc-eeeeeeeeeee1@freevpn.xhamster.biz.id:443?type=ws&security=tls&path=/Free-CF-Proxy-AM2&sni=freevpn.xhamster.biz.id#freevpn.xhamster.biz.id:443
+vless://e4824193-4f54-453b-d037-88368e85ef0e@pqh30v8.waipdirect.shop:8880?type=grpc&security=none#pqh30v8.waipdirect.shop:8880
+vless://e4824193-4f54-453b-d037-88368e85ef0e@45.82.251.180:8880?type=grpc&security=none#45.82.251.180:8880
 vless://028e0ae7-5640-492d-bdae-f3c44d47e42d@deepend.paneltelecode.xyz:443?type=grpc&security=reality&sni=afternic.com&fp=random&pbk=J5aaCYQft4PeaMxenmrVh5WUQYRXuKNUtblM9TRpXAk&sid=cc26b226#deepend.paneltelecode.xyz:443
-trojan://vlc9gkgb-sa9p-jhjx-x244-bu795sllss6a@127.0.0.1:8080?security=tls&type=tcp#For enhanced GitHub access, visit Argh94 now!
-trojan://f3u8j5ui-sqt9-j53c-2ybc-qvug7cz0sep0@127.0.0.1:8081?security=tls&type=tcp#</> Collector v5.0
+trojan://6ej030a0-jasn-2ll2-vt51-alx9bj6zwqi8@127.0.0.1:8080?security=tls&type=tcp#For enhanced GitHub access, visit Argh94 now!
+trojan://jpihpn39-s55f-08if-evae-1w91y5l8pt7h@127.0.0.1:8081?security=tls&type=tcp#</> Collector v5.0

@@ -1,6 +1,6 @@
-trojan://bg5gyn4u-gc23-v57f-jwmp-b3ns0vi2y4t6@127.0.0.1:1080?security=tls&type=tcp#🕒 LAST UPDATE: 2025/08/27 | 16:03
-trojan://v45mlhvi-u6c9-23wm-a6cc-tad996omlf0e@127.0.0.1:2080?security=tls&type=tcp#This is a free trial project.
-trojan://pkx3g24k-p1wc-1a1j-lm9x-i4nielk2nwhw@127.0.0.1:4080?security=tls&type=tcp#「 GitHub Argh94 ☕ 」
+trojan://a9xyvamx-m7eh-6cis-ryyu-lk9s3si28cdv@127.0.0.1:1080?security=tls&type=tcp#🕒 LAST UPDATE: 2025/08/27 | 19:54
+trojan://f6ps48i1-0dzf-x2p7-9fya-lpqdi2opzyet@127.0.0.1:2080?security=tls&type=tcp#This is a free trial project.
+trojan://310i3n9v-0je7-tev0-q3me-dvvqekd8arll@127.0.0.1:4080?security=tls&type=tcp#「 GitHub Argh94 ☕ 」
 vmess://eyJ2IjoiMiIsInBzIjoiXHUwNmE5XHUwNjI3XHUwNjQ2XHUwNjQxXHUwNmNjXHUwNmFmIFx1MDYzMVx1MDY0OFx1MDYzMlx1MDYyN1x1MDY0Nlx1MDY0NyBwcm94aWVAIFx1ZDgzZFx1ZGQzNCIsImFkZCI6IjEwNC4yMS42Mi4xNDQiLCJwb3J0Ijo0NDMsImlkIjoiMTMyZTU2YzQtOWQyMS00Mjc3LWExNmYtNDViOGM1ZTQwOWZmIiwiYWlkIjowLCJzY3kiOiJ6ZXJvIiwibmV0IjoieGh0dHAiLCJ0eXBlIjoiYXV0byIsImhvc3QiOiJzYXVyb24yLm1lbGtvcmUuaXIiLCJwYXRoIjoiL1NhdXJvbi8iLCJ0bHMiOiJ0bHMiLCJzbmkiOiJzYXVyb24yLm1lbGtvcmUuaXIifQ
 vmess://eyJ2IjoiMiIsInBzIjoiXHUwNmE5XHUwNjI3XHUwNjQ2XHUwNjQxXHUwNmNjXHUwNmFmIFx1MDYyN1x1MDYyZVx1MDYyYVx1MDYzNVx1MDYyN1x1MDYzNVx1MDZjYyBcdTA2ODZcdTA2NDZcdTA2NDRwcm94aWUgXHVkODNkXHVkZDM0IiwiYWRkIjoiMTA0LjIxLjYyLjE0NCIsInBvcnQiOjQ0MywiaWQiOiJkZTg1YmZmMC03NDJkLTQ0NjItYTljMS01YWZjOTRlZjdkMjgiLCJhaWQiOjAsInNjeSI6Inplcm8iLCJuZXQiOiJ4aHR0cCIsInR5cGUiOiJhdXRvIiwiaG9zdCI6InNhdXJvbjIubWVsa29yZS5pciIsInBhdGgiOiIvU2F1cm9uLyIsInRscyI6InRscyIsInNuaSI6InNhdXJvbjIubWVsa29yZS5pciJ9
 vmess://eyJ2IjoiMiIsInBzIjoiXHUwNmE5XHUwNjI3XHUwNjQ2XHUwNjQxXHUwNmNjXHUwNmFmIFx1MDYzMVx1MDY0OFx1MDYzMlx1MDYyN1x1MDY0Nlx1MDY0NyBwcm94aWVAIFx1ZDgzZFx1ZGQzNCIsImFkZCI6IjEwNC4yMS42Mi4xNDQiLCJwb3J0Ijo0NDMsImlkIjoiNDllNTI3NjQtOGFjMC00OGQwLThiM2MtMzlmN2Y1MWY4NzFjIiwiYWlkIjowLCJzY3kiOiJ6ZXJvIiwibmV0IjoieGh0dHAiLCJ0eXBlIjoiYXV0byIsImhvc3QiOiJzYXVyb24yLm1lbGtvcmUuaXIiLCJwYXRoIjoiL1NhdXJvbi8iLCJ0bHMiOiJ0bHMiLCJzbmkiOiJzYXVyb24yLm1lbGtvcmUuaXIifQ
@@ -20,5 +20,5 @@ vless://9e843f2e-a992-438e-89a4-4f5c2606d856@104.21.62.144:443?type=xhttp&securi
 vless://57bcea09-fb76-4e8b-b7e3-fd1862bbacd9@104.21.62.144:443?type=xhttp&security=tls&path=/Sauron/&sni=sauron.melkore.ir&fp=randomized#104.21.62.144:443
 vless://32015fc3-dc7f-46b8-b1a9-ccfc8b75fcde@104.21.62.144:443?type=xhttp&security=tls&path=/Sauron/&sni=sauron.melkore.ir&fp=randomized#104.21.62.144:443
 vless://040ec06e-60c8-4818-a46e-eb17cf310606@104.21.62.144:443?type=xhttp&security=tls&path=/Sauron/&sni=sauron.melkore.ir&fp=randomized#104.21.62.144:443
-trojan://x4k8ziyf-r792-d630-g5gr-hqv00ion80wk@127.0.0.1:8080?security=tls&type=tcp#For enhanced GitHub access, visit Argh94 now!
-trojan://6qelxwi7-aoww-mt8x-d8af-y2qxhs41x9h8@127.0.0.1:8081?security=tls&type=tcp#</> Collector v5.0
+trojan://xz4skpd9-g04f-k1vg-1avo-gmo0gt81ge35@127.0.0.1:8080?security=tls&type=tcp#For enhanced GitHub access, visit Argh94 now!
+trojan://vw6q8bq1-2lc0-a6g1-l5s8-61roemzkvmpr@127.0.0.1:8081?security=tls&type=tcp#</> Collector v5.0
