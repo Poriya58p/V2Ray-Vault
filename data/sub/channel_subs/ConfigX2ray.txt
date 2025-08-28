@@ -1,6 +1,6 @@
-trojan://fujw8zaw-ajcd-f3i1-bfs6-rcov8vw0a6qp@127.0.0.1:1080?security=tls&type=tcp#🕒 LAST UPDATE: 2025/08/28 | 00:03
-trojan://5b10k782-cna9-vwad-ovrn-wu45qigmnjlg@127.0.0.1:2080?security=tls&type=tcp#This is a free trial project.
-trojan://gv31kdgo-qgbm-2z5o-jxs2-y2jvxf3f6opk@127.0.0.1:4080?security=tls&type=tcp#「 GitHub Argh94 ☕ 」
+trojan://e895o9q8-y4dy-qpwm-tpvk-sfsqd0ic1173@127.0.0.1:1080?security=tls&type=tcp#🕒 LAST UPDATE: 2025/08/28 | 04:36
+trojan://2olf8f10-zdcz-xsnq-g7aa-ha8eratjuswt@127.0.0.1:2080?security=tls&type=tcp#This is a free trial project.
+trojan://kpqomcuo-vdar-17qz-xe0a-vjroaqb0te4z@127.0.0.1:4080?security=tls&type=tcp#「 GitHub Argh94 ☕ 」
 vless://telegram-id-Arfilter@172.66.40.99:443?type=ws&security=tls&path=/telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray?ed=2048&sni=rSa.2SeDkFjEuIxIjD0Ew9DvKcxoisiEk61.BlOg&fp=firefox#172.66.40.99:443
 vless://f12306c3-40f7-4543-afd0-534a91b1cdf3@172.66.40.99:443?type=ws&security=tls&path=/telegram-CONFiGLiNE,telegram-CONFiGLiNE,telegram-CONFiGLiNE,telegram-CONFiGLiNE,telegram-CONFiGLiNE,telegram-CONFiGLiNE,telegram-CONFiGLiNE,telegram-CONFiGLiNE?ed=2048&sni=hE136.maShkesTan.CoM&fp=firefox#172.66.40.99:443
 vless://3eda67be-be15-4d61-9943-85772cf664b7@www.speedtest.net:80?type=ws&security=none&path=/Join----VPNCUSTOMIZE---Join----VPNCUSTOMIZE&sni=revest.maketunnelim.Lat.#www.speedtest.net:80
@@ -37,5 +37,5 @@ vless://f12306c3-40f7-4543-afd0-534a91b1cdf3@172.66.40.99:443?type=ws&security=t
 vless://TELEGRAM-CONFiGLiNE@test.fast.hosting-ip.com:80?type=xhttp&security=none&path=/telegram-CONFiGLiNE,telegram-CONFiGLiNE,telegram-CONFiGLiNE,telegram-CONFiGLiNE,telegram-CONFiGLiNE,telegram-CONFiGLiNE,telegram-CONFiGLiNE,telegram-CONFiGLiNE?ed=2048#test.fast.hosting-ip.com:80
 vless://25f6398e-56c3-4b9e-85e2-fa71448fe740@172.66.40.99:8080?type=ws&security=none&path=/-LiV2ry@LIGHTNING6-TEL--@LIGHTNING6-TEL--@LIGHTNING6-TEL--@LIGHTNING6-JOIN-@LIGHTNING6-TEL--@LIGHTNING6-JOIN-@LIGHTNING6-TEL-@LIGHTNING6-TEL--@LIGHTNING6-JOIN-@LIGHTNING6-TEL--@LIGHTNING6?ed=2048#172.66.40.99:8080
 vless://6b758c57-3a4b-41f3-be1e-25025eba8bfc@www.speedtest.net:80?type=ws&security=none&path=/Join----VPNCUSTOMIZE---Join----VPNCUSTOMIZE&sni=revest.maketunnelim.Lat.#www.speedtest.net:80
-trojan://x0u3ab7i-cl2p-gfys-jjhx-5mduao5bzi6z@127.0.0.1:8080?security=tls&type=tcp#For enhanced GitHub access, visit Argh94 now!
-trojan://u4zr8pw8-vkxi-4gan-muk2-q6xc7wtnlmgj@127.0.0.1:8081?security=tls&type=tcp#</> Collector v5.0
+trojan://qirmh1ky-vu0g-1ayf-niw8-bmrecoamo1tc@127.0.0.1:8080?security=tls&type=tcp#For enhanced GitHub access, visit Argh94 now!
+trojan://nvnbdnwb-dsnq-t7r1-tm8o-wm78vsjebb75@127.0.0.1:8081?security=tls&type=tcp#</> Collector v5.0

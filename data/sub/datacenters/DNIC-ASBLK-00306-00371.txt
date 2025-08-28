@@ -1,6 +1,6 @@
-trojan://0wy26p3r-0t03-kdam-lo0b-ssf2b1cx4psd@127.0.0.1:1080?security=tls&type=tcp#🕒 LAST UPDATE: 2025/08/28 | 00:03
-trojan://0hkdhe9o-5704-mkka-bqsv-uyo1h2u17y6h@127.0.0.1:2080?security=tls&type=tcp#This is a free trial project.
-trojan://jnrtb5s2-4pqg-xqmz-1lt3-s28hpd0aoye7@127.0.0.1:4080?security=tls&type=tcp#「 GitHub Argh94 ☕ 」
+trojan://3b6e8ihq-mj9u-cf7z-et7m-v9qx2bywvt7l@127.0.0.1:1080?security=tls&type=tcp#🕒 LAST UPDATE: 2025/08/28 | 04:36
+trojan://usf4pi2r-9o3x-6yuq-37pq-xkt9rh291viw@127.0.0.1:2080?security=tls&type=tcp#This is a free trial project.
+trojan://za74sn6w-ci9z-4d2o-64w8-3eocfldomcej@127.0.0.1:4080?security=tls&type=tcp#「 GitHub Argh94 ☕ 」
 vless://1fb46fdc-e3e4-35d1-bd46-685d775b5762@55.55.55.55:443?type=tcp&security=reality&sni=booking.com&fp=chrome&flow=xtls-rprx-vision&pbk=YqHW8a4iAc1SZYpTrFVoOQg1F3yAdX1tWXuROZUCsEU&sid=6ba85179e30d4fc2#US 🇺🇸 ┇ VLESS-TCP-RLT - DNIC-ASBLK-00306-00371 ┇ 55.55.55.55
-trojan://56g86zu0-ucvb-3dsm-c0ul-ffh713m0gtez@127.0.0.1:8080?security=tls&type=tcp#For enhanced GitHub access, visit Argh94 now!
-trojan://zguidmjm-yejn-2lhw-i446-or95ajmqud59@127.0.0.1:8081?security=tls&type=tcp#</> Collector v5.0
+trojan://pm2xp435-2wcz-mfui-qd1x-92oel2xc266c@127.0.0.1:8080?security=tls&type=tcp#For enhanced GitHub access, visit Argh94 now!
+trojan://jw2m6wbh-bko8-1dwc-ef10-vj8021u24naq@127.0.0.1:8081?security=tls&type=tcp#</> Collector v5.0

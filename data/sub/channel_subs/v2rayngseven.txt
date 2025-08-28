@@ -1,6 +1,6 @@
-trojan://3qm3ef33-3ce4-j1ow-rstz-k7bw9kq1ylt5@127.0.0.1:1080?security=tls&type=tcp#🕒 LAST UPDATE: 2025/08/28 | 00:03
-trojan://6qzds3v8-qsho-ws1a-dp7q-mcgz89fhrxr3@127.0.0.1:2080?security=tls&type=tcp#This is a free trial project.
-trojan://o34ftz10-cjcg-4gv5-rnu0-hi0fx3vkfp42@127.0.0.1:4080?security=tls&type=tcp#「 GitHub Argh94 ☕ 」
+trojan://v01t24d9-uc6m-7bw6-r10e-i6qzi33s08qy@127.0.0.1:1080?security=tls&type=tcp#🕒 LAST UPDATE: 2025/08/28 | 04:36
+trojan://18ufoui2-clgf-yaym-xu89-trmisnu3fxjg@127.0.0.1:2080?security=tls&type=tcp#This is a free trial project.
+trojan://zwfat9nw-rmtj-5avx-pcut-7f8an6225zph@127.0.0.1:4080?security=tls&type=tcp#「 GitHub Argh94 ☕ 」
 vless://65d5900a-b16c-47c0-d749-50f9d0a5cb7e@chat.deepseek.com:80?type=ws&security=none&path=/olem/ws?ed=1024#chat.deepseek.com:80
 vless://65d5900a-b16c-47c0-d749-50f9d0a5cb7e@tgju.org:80?type=ws&security=none&path=/olem/ws?ed=1024#tgju.org:80
 vless://Parsashonam-284@185.146.173.39:8880?type=httpupgrade&security=none&path=/Parsashonam-Parsashonam-Parsashonam/?ed=2056#185.146.173.39:8880
@@ -23,5 +23,5 @@ vless://3488f5ea-47f8-4d6c-b1af-289c010c57cd@de.gy-nt.shop:2053?type=grpc&securi
 vless://Parsashonam-297@91.99.16.244:443?type=xhttp&security=reality&path=/Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam&sni=Google.com&fp=chrome&pbk=sa5RHNjAAD3hYv4OU_YYU08gRUsmPs5JdZES5Xy3pn8&sid=61e683d41fdb#91.99.16.244:443
 hysteria2://dongtaiwang.com@51.159.111.32:31180?sni=apple.com&insecure=1#51.159.111.32:31180
 hysteria2://%40JavidnamanIran-Javid-SHAH-KingRezaPahlavi@77.90.52.69:35000?sni=pichondan.com&insecure=0&obfs=salamander#77.90.52.69:35000
-trojan://umv91a5g-gs39-n63t-tzm4-e8xsmyo72wvg@127.0.0.1:8080?security=tls&type=tcp#For enhanced GitHub access, visit Argh94 now!
-trojan://bcucn0j2-lhsx-z6xy-0kx6-f92n1kl7czzb@127.0.0.1:8081?security=tls&type=tcp#</> Collector v5.0
+trojan://3f78nx53-t7mk-kxkp-c6c3-vrbb7od083lt@127.0.0.1:8080?security=tls&type=tcp#For enhanced GitHub access, visit Argh94 now!
+trojan://lumnzl9y-xi4x-nob1-sy2i-e1qkjaszv29g@127.0.0.1:8081?security=tls&type=tcp#</> Collector v5.0

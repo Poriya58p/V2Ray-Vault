@@ -1,9 +1,9 @@
-trojan://6h9da84j-0fkb-ikko-d42a-381kk6a40rij@127.0.0.1:1080?security=tls&type=tcp#🕒 LAST UPDATE: 2025/08/28 | 00:03
-trojan://dooy5uzf-4urd-ao11-n5rb-elmb3fahvjqj@127.0.0.1:2080?security=tls&type=tcp#This is a free trial project.
-trojan://jwgh3sas-ekb6-n9bq-du2w-c5jdr4zb267d@127.0.0.1:4080?security=tls&type=tcp#「 GitHub Argh94 ☕ 」
+trojan://eqxfvogv-ot14-c8o6-imrm-cct5w98o854l@127.0.0.1:1080?security=tls&type=tcp#🕒 LAST UPDATE: 2025/08/28 | 04:36
+trojan://s582cssw-b1mx-fert-ts3n-gxmb0t3farvt@127.0.0.1:2080?security=tls&type=tcp#This is a free trial project.
+trojan://6suk41ff-bwac-grfp-s847-ti67f7a856t4@127.0.0.1:4080?security=tls&type=tcp#「 GitHub Argh94 ☕ 」
 vless://fe25fd7f-d035-4448-baaa-a67237a03cb7@filter5050.nabxcsjghjs2004.shop:22113?type=grpc&security=reality&sni=cdn.discordapp.com&fp=firefox&pbk=NY4vf2xmEysVkOcgDnGASs9E_kJS1QxqRo7uFSzwh3g&sid=a7cf4983#filter5050.nabxcsjghjs2004.shop:22113
 vless://fe25fd7f-d035-4448-baaa-a67237a03cb7@filter5050.nabxcsjghjs2004.shop:22113?type=grpc&security=reality&sni=cdn.discordapp.com&fp=firefox&pbk=NY4vf2xmEysVkOcgDnGASs9E_kJS1QxqRo7uFSzwh3g&sid=a7cf4983#filter5050.nabxcsjghjs2004.shop:22113
 vless://2fb8383b-2b12-463e-a20d-674c36d9b7d3@filter5050.nabxcsjghjs2004.shop:27940?type=grpc&security=reality&sni=cdn.discordapp.com&fp=firefox&pbk=NY4vf2xmEysVkOcgDnGASs9E_kJS1QxqRo7uFSzwh3g&sid=a7cf4983#filter5050.nabxcsjghjs2004.shop:27940
 vless://2fb8383b-2b12-463e-a20d-674c36d9b7d3@filter5050.nabxcsjghjs2004.shop:27940?type=grpc&security=reality&sni=cdn.discordapp.com&fp=firefox&pbk=NY4vf2xmEysVkOcgDnGASs9E_kJS1QxqRo7uFSzwh3g&sid=a7cf4983#filter5050.nabxcsjghjs2004.shop:27940
-trojan://tnecb45z-4zzv-n1ca-r7zx-bqru710bq5ez@127.0.0.1:8080?security=tls&type=tcp#For enhanced GitHub access, visit Argh94 now!
-trojan://3qnxo7xa-v3xr-g7yn-3c2p-0dxgvh759bw3@127.0.0.1:8081?security=tls&type=tcp#</> Collector v5.0
+trojan://rdh14yfx-p0op-dj3x-6rxf-dg74j7g3lvq6@127.0.0.1:8080?security=tls&type=tcp#For enhanced GitHub access, visit Argh94 now!
+trojan://g2xeie1d-0hec-wmy2-w4a1-bj18681tpi4y@127.0.0.1:8081?security=tls&type=tcp#</> Collector v5.0

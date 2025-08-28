@@ -1,8 +1,7 @@
-trojan://j6upyi4s-rd4m-im3x-lvle-xc8kw3w0tcs7@127.0.0.1:1080?security=tls&type=tcp#🕒 LAST UPDATE: 2025/08/28 | 00:03
-trojan://hknr0509-3r88-91ls-lkhs-62zrxymu87rp@127.0.0.1:2080?security=tls&type=tcp#This is a free trial project.
-trojan://rasn08ke-uku7-1w7u-xrip-vhmqnsesf03r@127.0.0.1:4080?security=tls&type=tcp#「 GitHub Argh94 ☕ 」
+trojan://dtwikjal-y23t-nhkk-zwwc-r7dgoz8kyk8n@127.0.0.1:1080?security=tls&type=tcp#🕒 LAST UPDATE: 2025/08/28 | 04:36
+trojan://h3a7556k-xupe-oouk-4sng-vtaxzxyjy0je@127.0.0.1:2080?security=tls&type=tcp#This is a free trial project.
+trojan://wif28e87-ug0y-vv7f-uniq-qz9kqakn2qw7@127.0.0.1:4080?security=tls&type=tcp#「 GitHub Argh94 ☕ 」
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTozNjBlMjFkMjE5NzdkYzEx@103.111.114.29:57456#103.111.114.29:57456
-vless://56c3abea-507d-4559-b1bd-39f339fc4997@m2a.vip784.com:33801?type=tcp&security=none#m2a.vip784.com:33801
 vless://935c990a-9bcc-484b-86a2-2a402f9ad1d4@grumpy-building.seotoolsforyou.co.uk:80?type=ws&security=none&path=/#grumpy-building.seotoolsforyou.co.uk:80
 vless://56c3abea-507d-4559-b1bd-39f339fc4997@m2a.vip784.com:33801?type=tcp&security=none#m2a.vip784.com:33801
 vless://e7ef2316-2ff9-4266-8d09-acbf90fbd0e4@cafearz.com:8080?type=ws&security=none&path=/olem/ws?ed=1024#cafearz.com:8080
@@ -20,5 +19,6 @@ vless://d88937d0-ce43-4bf8-9df6-d632810ba9ff@104.18.131.54:443?type=ws&security=
 vless://e4824193-4f54-453b-d037-88368e85ef0e@185.236.232.243:8880?type=grpc&security=none#185.236.232.243:8880
 vless://Parsashonam-303@185.146.173.39:8880?type=httpupgrade&security=none&path=/Parsashonam-Parsashonam-Parsashonam/?ed=2056#185.146.173.39:8880
 vless://e4824193-4f54-453b-d037-88368e85ef0e@185.236.232.189:8880?type=grpc&security=none#185.236.232.189:8880
-trojan://z2j93lul-xb67-fyw7-52um-jfh8tj8snovm@127.0.0.1:8080?security=tls&type=tcp#For enhanced GitHub access, visit Argh94 now!
-trojan://dfyjxxn2-ovgl-yplg-fdl4-f7w7oril452k@127.0.0.1:8081?security=tls&type=tcp#</> Collector v5.0
+vless://6780a3c0-a98c-4622-b894-8e34167f7b31@104.26.0.108:443?type=ws&security=tls&path=/id5?ed=2560/?TELEGRAM-@MTMVPN---TELEGRAM-@MTMVPN---TELEGRAM-@MTMVPN---TELEGRAM-@MTMVPN---TELEGRAM-@MTMVPN?ed=512&sni=blog.ruangguru.com.servpn.my.id#104.26.0.108:443
+trojan://iyvx5ory-znoo-4w89-kmp3-l9qmdhjowmlx@127.0.0.1:8080?security=tls&type=tcp#For enhanced GitHub access, visit Argh94 now!
+trojan://j7dpvxfq-60gq-xkxh-6f0y-icp4mkpkcj27@127.0.0.1:8081?security=tls&type=tcp#</> Collector v5.0

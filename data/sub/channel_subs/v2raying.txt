@@ -1,6 +1,6 @@
-trojan://lk6z5zjt-prlu-78hh-5fal-h6zttzbxk0fd@127.0.0.1:1080?security=tls&type=tcp#🕒 LAST UPDATE: 2025/08/28 | 00:03
-trojan://w37awlpp-m44y-2t2g-rw53-xi4sgms9b1s4@127.0.0.1:2080?security=tls&type=tcp#This is a free trial project.
-trojan://ke2apw0s-jkb9-ga61-2r6s-js6c3i52u46n@127.0.0.1:4080?security=tls&type=tcp#「 GitHub Argh94 ☕ 」
+trojan://9q9wzivs-gku4-ebgd-j8nz-0yb35stsn8x2@127.0.0.1:1080?security=tls&type=tcp#🕒 LAST UPDATE: 2025/08/28 | 04:36
+trojan://rb9kgqoo-k5n6-dgvv-pqqz-qgnz0mjvderv@127.0.0.1:2080?security=tls&type=tcp#This is a free trial project.
+trojan://k3o8zpso-psfl-0wm7-eza0-wws5s22fc9lg@127.0.0.1:4080?security=tls&type=tcp#「 GitHub Argh94 ☕ 」
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo1MXlsb1FDOEQ5dzFXYWU3Rkh0STY1@135.225.124.80:48172#135.225.124.80:48172
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpGM25ZNzNkaTVvbldWM2dvdGJwSTBR@83.147.216.70:64519#83.147.216.70:64519
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@193.29.139.240:8080#193.29.139.240:8080
@@ -104,5 +104,5 @@ vless://6780a3c0-a98c-4622-b894-8e34167f7b31@blog.ruangguru.com.servpn.my.id:443
 vless://6780a3c0-a98c-4622-b894-8e34167f7b31@172.66.40.99:443?type=ws&security=tls&path=/id5?ed=2048@HiByeVPNN--@HiByeVPNN--@HiByeVPNN--@HiByeVPNN--@HiByeVPNN--@HiByeVPNN--@HiByeVPNN--@HiByeVPNN--@HiByeVPNN--@HiByeVPNN--@HiByeVPNN--@HiByeVPNN--@HiByeVPNN&sni=blog.ruangguru.com.servpn.my.id#172.66.40.99:443
 vless://3d7dd548-5456-4f28-8019-393fbfab3312@104.26.1.108:443?type=ws&security=tls&path=/sg3/?ed=2048@HiByeVPNN--@HiByeVPNN--@HiByeVPNN--@HiByeVPNN--@HiByeVPNN--@HiByeVPNN--@HiByeVPNN--@HiByeVPNN--@HiByeVPNN--@HiByeVPNN--@HiByeVPNN--@HiByeVPNN--@HiByeVPNN&sni=app-stg.gopay.co.id.servpn.my.id&fp=chrome#104.26.1.108:443
 vless://3d7dd548-5456-4f28-8019-393fbfab3312@104.26.0.108:443?type=ws&security=tls&path=/sg3/?ed=2048@HiByeVPNN--@HiByeVPNN--@HiByeVPNN--@HiByeVPNN--@HiByeVPNN--@HiByeVPNN--@HiByeVPNN--@HiByeVPNN--@HiByeVPNN--@HiByeVPNN--@HiByeVPNN--@HiByeVPNN--@HiByeVPNN&sni=app-stg.gopay.co.id.servpn.my.id&fp=chrome#104.26.0.108:443
-trojan://g2hjkv96-o3zs-x3do-bq3p-2uvgpp3ydf4h@127.0.0.1:8080?security=tls&type=tcp#For enhanced GitHub access, visit Argh94 now!
-trojan://td5s508y-ttkc-a2yn-gkn5-joskqdqxtovc@127.0.0.1:8081?security=tls&type=tcp#</> Collector v5.0
+trojan://wn6j95jv-6ywa-gpeq-80it-m0bee7fs85rl@127.0.0.1:8080?security=tls&type=tcp#For enhanced GitHub access, visit Argh94 now!
+trojan://3obudjfe-hhoa-lvmy-trnp-mo30zp6s3ffy@127.0.0.1:8081?security=tls&type=tcp#</> Collector v5.0

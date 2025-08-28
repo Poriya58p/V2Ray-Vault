@@ -1,6 +1,6 @@
-trojan://a6r7a0pp-ltqa-xfec-yoyc-ktkfoczt5gpn@127.0.0.1:1080?security=tls&type=tcp#🕒 LAST UPDATE: 2025/08/28 | 00:03
-trojan://g5qsjzd3-67g1-jw6l-7e6f-txbkqsi24yle@127.0.0.1:2080?security=tls&type=tcp#This is a free trial project.
-trojan://15i9rfg6-ier4-tj0b-wxpf-77a3fukpq0aw@127.0.0.1:4080?security=tls&type=tcp#「 GitHub Argh94 ☕ 」
+trojan://m6q0ofem-xp6n-srtw-f1sa-wysd58pkjjcy@127.0.0.1:1080?security=tls&type=tcp#🕒 LAST UPDATE: 2025/08/28 | 04:36
+trojan://fpcrhau1-oag4-xqxq-trn8-68mmny8hltkm@127.0.0.1:2080?security=tls&type=tcp#This is a free trial project.
+trojan://9k8nwg5v-lwxn-ju88-4ho1-3krky5i4pcpa@127.0.0.1:4080?security=tls&type=tcp#「 GitHub Argh94 ☕ 」
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTozNjBlMjFkMjE5NzdkYzEx@103.111.114.29:57456#103.111.114.29:57456
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo1VFpud1BiMjNwUVMzOWxJdWNzcEp3@89.35.119.87:5904#89.35.119.87:5904
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTozNjBlMjFkMjE5NzdkYzEx@216.173.70.187:57456#216.173.70.187:57456
@@ -175,5 +175,5 @@ hysteria2://dongtaiwang.com@108.181.5.130:63015?sni=apple.com&insecure=1#108.181
 hysteria2://Yet-Another-Public-Config-1@2a14:3f87:f001:13::a:36400?sni=YAPC-1.afshin.ir&insecure=1&obfs=salamander#2a14:3f87:f001:13::a:36400
 hysteria2://dongtaiwang.com@208.87.243.187:22222?sni=www.bing.com&insecure=1#208.87.243.187:22222
 hysteria2://Telegram--%3E%40Ln2Ray@gavazn.lnmarketplace.net:45000?sni=gavazn.55994421.xyz&insecure=1&obfs=salamander#gavazn.lnmarketplace.net:45000
-trojan://lpwbf4eq-6xrs-3n6l-rl41-jov0cw1eou36@127.0.0.1:8080?security=tls&type=tcp#For enhanced GitHub access, visit Argh94 now!
-trojan://0yyday62-f185-24qi-ymtu-m3jb169oqy8u@127.0.0.1:8081?security=tls&type=tcp#</> Collector v5.0
+trojan://yi1b8qul-7tzq-09fp-6pmz-srr6k1yuc0rh@127.0.0.1:8080?security=tls&type=tcp#For enhanced GitHub access, visit Argh94 now!
+trojan://343jmart-2koe-e6af-d9vy-nangj6yemo1y@127.0.0.1:8081?security=tls&type=tcp#</> Collector v5.0

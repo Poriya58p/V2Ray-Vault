@@ -1,13 +1,8 @@
-trojan://pixw1wei-iewj-mm4g-8qcg-8dpewn8c0ox7@127.0.0.1:1080?security=tls&type=tcp#🕒 LAST UPDATE: 2025/08/28 | 00:03
-trojan://x2kjl3nx-9ffl-9v77-kvn0-nskvag0ikx0l@127.0.0.1:2080?security=tls&type=tcp#This is a free trial project.
-trojan://5qeyqt5j-pkhm-g8cj-igoh-yd72e4klnfi4@127.0.0.1:4080?security=tls&type=tcp#「 GitHub Argh94 ☕ 」
+trojan://u8crvj7c-32rl-xrci-3rcj-m5mtmmxhbsv4@127.0.0.1:1080?security=tls&type=tcp#🕒 LAST UPDATE: 2025/08/28 | 04:36
+trojan://osy20lz4-b2g7-et6u-13me-vl1foonog0c6@127.0.0.1:2080?security=tls&type=tcp#This is a free trial project.
+trojan://i3yawz12-vty2-2vme-rn5j-w88rytmgu65j@127.0.0.1:4080?security=tls&type=tcp#「 GitHub Argh94 ☕ 」
 vmess://eyJ2IjoiMiIsInBzIjoiQG1lbGljb25maW5nIiwiYWRkIjoid3d3LnNwZWVkdGVzdC5uZXQiLCJwb3J0Ijo4MCwiaWQiOiIzZDc2YWM0MC04MGM0LTExZjAtYjQzMi0yMDVjNmQ1ZjVkNzgiLCJhaWQiOjAsInNjeSI6ImF1dG8iLCJuZXQiOiJ3cyIsInR5cGUiOiItLS0iLCJwYXRoIjoiL2I4N3IzZDllIn0
 vmess://eyJ2IjoiMiIsInBzIjoiQG1lbGljb25maW5nIiwiYWRkIjoid3d3LnNwZWVkdGVzdC5uZXQiLCJwb3J0Ijo0NDMsImlkIjoiM2Q3NmFjNDAtODBjNC0xMWYwLWI0MzItMjA1YzZkNWY1ZDc4IiwiYWlkIjowLCJzY3kiOiJhdXRvIiwibmV0Ijoid3MiLCJ0eXBlIjoiLS0tIiwicGF0aCI6Ii9iODdyM2Q5ZSIsInRscyI6InRscyJ9
-vless://408f71e2-170d-4bf9-8b42-b6ba23cc227c@blog.ruangguru.com.servpn.my.id:443?type=ws&security=tls&path=/kr1?ed=2560&sni=blog.ruangguru.com.servpn.my.id&fp=randomized#blog.ruangguru.com.servpn.my.id:443
-vless://6780a3c0-a98c-4622-b894-8e34167f7b31@blog.ruangguru.com.servpn.my.id:443?type=ws&security=tls&path=/id5?ed=2560&sni=blog.ruangguru.com.servpn.my.id#blog.ruangguru.com.servpn.my.id:443
-vless://65a32d27-7a02-45a8-b90a-29f6bebc87ae@blog.ruangguru.com.servpn.my.id:443?type=ws&security=tls&path=/sg3?ed=2560&sni=blog.ruangguru.com.servpn.my.id&fp=randomized#blog.ruangguru.com.servpn.my.id:443
-vless://3d7dd548-5456-4f28-8019-393fbfab3312@app-stg.gopay.co.id.servpn.my.id:443?type=ws&security=tls&path=/sg3?ed=2560&sni=app-stg.gopay.co.id.servpn.my.id&fp=randomized#app-stg.gopay.co.id.servpn.my.id:443
-vless://41b8c97a-7fac-4191-8922-f58d42a9acf7@app-stg.gopay.co.id.servpn.my.id:443?type=ws&security=tls&path=/id5?ed=2560&sni=app-stg.gopay.co.id.servpn.my.id&fp=randomized#app-stg.gopay.co.id.servpn.my.id:443
 vless://b1b49af1-e970-4db7-a098-85d3b28b6ee9@cdn2.torprospeed.ir:2095?type=httpupgrade&security=none&path=/?ed=2052#cdn2.torprospeed.ir:2095
 vless://e4824193-4f54-453b-d037-88368e85ef0e@45.82.251.58:8880?type=grpc&security=none#45.82.251.58:8880
 vless://21da97a7-6786-4ce0-be54-8ff4c758d976@www.speedtest.net:2086?type=httpupgrade&security=none&path=/www.speedtest.net?ed=2086#www.speedtest.net:2086
@@ -31,5 +26,5 @@ vless://e999db7a-1b17-4da6-bc37-c9fa24af2e93@ipw.gfdv54cvghhgfhgj-njhgj64.info:4
 vless://5da52d2d-1ab8-48d0-8421-8354fd6ce7d3@www.visa.com.tw:443?type=ws&security=tls&path=/&sni=rAyAn-cOnFiG-04.rAyAn-iI.DnS-DyNaMiC.NeT&fp=chrome#www.visa.com.tw:443
 vless://d50f50ef-20ff-47a1-a922-f476c2b83eb4@157.173.127.228:443?type=tcp&security=reality&sni=analytics.google.com&fp=chrome&pbk=XIDvViESjfi-zRq4bdvHK7EyeT7vjJcA_MZO0QGTFhI&sid=7fb3b0#157.173.127.228:443
 vless://797d8132-6c08-4d5f-accc-eba1d6fdc9c5@91.98.76.73:2052?type=xhttp&security=reality&path=/&sni=cp7.cloudflare.com&fp=random&pbk=B4bL5jZotLi91qBuoZjrl5wI4txIa5GmgS2ifinc7VA&sid=6a#91.98.76.73:2052
-trojan://idyu9zdz-mzp3-eb5e-uva5-cnlz350k84rr@127.0.0.1:8080?security=tls&type=tcp#For enhanced GitHub access, visit Argh94 now!
-trojan://ks75r3j3-bpb5-9ub5-s2yh-932vj19zyka1@127.0.0.1:8081?security=tls&type=tcp#</> Collector v5.0
+trojan://a6pk34yl-zv0n-7ovc-khi0-59i4jv9vgytz@127.0.0.1:8080?security=tls&type=tcp#For enhanced GitHub access, visit Argh94 now!
+trojan://2zzxr9xo-2cgc-f407-570o-8m2cuu1454iu@127.0.0.1:8081?security=tls&type=tcp#</> Collector v5.0

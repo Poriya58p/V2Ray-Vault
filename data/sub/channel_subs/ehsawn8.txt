@@ -1,6 +1,6 @@
-trojan://w6tnbqgc-3464-y6y4-uhwu-orfvw1r1vf2c@127.0.0.1:1080?security=tls&type=tcp#🕒 LAST UPDATE: 2025/08/28 | 00:03
-trojan://wxebl9u4-w6q9-f4s3-sy74-djoi4udolztb@127.0.0.1:2080?security=tls&type=tcp#This is a free trial project.
-trojan://mky029sz-34f1-4pjf-f3m6-7qtfl95z4jut@127.0.0.1:4080?security=tls&type=tcp#「 GitHub Argh94 ☕ 」
+trojan://n2pfk2b2-6enz-mfge-d8cj-r4y6kfs6cpwd@127.0.0.1:1080?security=tls&type=tcp#🕒 LAST UPDATE: 2025/08/28 | 04:36
+trojan://r5rcfomw-by5d-2ca3-dnkd-xhtfq7xheyzl@127.0.0.1:2080?security=tls&type=tcp#This is a free trial project.
+trojan://vt2m0vrd-ld9r-bp0h-nx1c-bj0dd1e17rxr@127.0.0.1:4080?security=tls&type=tcp#「 GitHub Argh94 ☕ 」
 vless://57567659-5d0f-4dd6-9184-9f7aaecb49e5@boom.fast.hosting-ip.com:80?type=xhttp&security=none&path=/GoodLuck?ed=2560#boom.fast.hosting-ip.com:80
 vless://7b6eca4c-44ae-40c6-973a-4e3b29d30803@91.99.122.102:443?type=tcp&security=none#91.99.122.102:443
 vless://e6b6d832-5993-4348-84d2-8a5645ea04c7@188.121.121.89:8080?type=tcp&security=none&path=/#188.121.121.89:8080
@@ -11,5 +11,5 @@ vless://13a44840-ac14-4748-b498-d97597042563@holkanas.atroart.ir:9091?type=xhttp
 vless://dc58f214-4227-4f58-8090-cbcedf1adeba@holkanas.atroart.ir:25936?type=tcp&security=none&path=/#holkanas.atroart.ir:25936
 vless://4c2078b8-768c-4b85-8ef2-138b68143158@vpconnect.ahadbala.ir:80?type=xhttp&security=none&path=/#vpconnect.ahadbala.ir:80
 vless://3403d340-3956-4fe8-a971-1a1855fc8a5f@balabala.ahadbala.ir:22626?type=tcp&security=none&path=/#balabala.ahadbala.ir:22626
-trojan://h9dp2t31-ewew-9tsm-lrum-gkqfx2nwo94o@127.0.0.1:8080?security=tls&type=tcp#For enhanced GitHub access, visit Argh94 now!
-trojan://6nrvgb57-pgxg-x9tx-q5bv-fo9vluxajcjk@127.0.0.1:8081?security=tls&type=tcp#</> Collector v5.0
+trojan://o965a3d8-xo7w-bxyq-ta4c-hrrs0chsrt9f@127.0.0.1:8080?security=tls&type=tcp#For enhanced GitHub access, visit Argh94 now!
+trojan://o7oofv3y-jbbe-c015-sysg-2u652zk22zxx@127.0.0.1:8081?security=tls&type=tcp#</> Collector v5.0

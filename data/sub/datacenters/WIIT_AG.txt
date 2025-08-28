@@ -1,7 +1,7 @@
-trojan://lr4u6tmg-1ftf-4u0h-i205-kekeuuvc6c5u@127.0.0.1:1080?security=tls&type=tcp#🕒 LAST UPDATE: 2025/08/28 | 00:03
-trojan://xsuguco9-4jht-n1w1-cffe-499ie51ipivh@127.0.0.1:2080?security=tls&type=tcp#This is a free trial project.
-trojan://q5f9lrc1-c607-3nxx-qq1f-1qvjsfg31ir7@127.0.0.1:4080?security=tls&type=tcp#「 GitHub Argh94 ☕ 」
-trojan://2ea5fc44-bd38-4fb0-a9b9-88c83fc56622@89.163.224.122:443?sni=4-193-105-141.nhost.00cdn.com&peer=4-193-105-141.nhost.00cdn.com&security=tls#DE 🇩🇪 ┇ TROJAN-TCP-TLS - WIIT AG ┇ 89.163.224.122
+trojan://ygith3vz-cz35-sjox-ewsd-xp1cxa75x7mw@127.0.0.1:1080?security=tls&type=tcp#🕒 LAST UPDATE: 2025/08/28 | 04:36
+trojan://ozc6uvci-yw7r-4so9-0ehr-drbpspenn4ba@127.0.0.1:2080?security=tls&type=tcp#This is a free trial project.
+trojan://ey31m1vd-onak-b9wh-93qp-wxucwxheujq1@127.0.0.1:4080?security=tls&type=tcp#「 GitHub Argh94 ☕ 」
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpHIXlCd1BXSDNWYW8@85.114.138.92:809#DE 🇩🇪 ┇ SHADOWSOCKS-TCP-NTLS - WIIT AG ┇ 85.114.138.92
-trojan://31gcsmr9-ey7i-r3ex-jrbp-xendx53h6tly@127.0.0.1:8080?security=tls&type=tcp#For enhanced GitHub access, visit Argh94 now!
-trojan://ujldny95-npi5-vbux-ryc0-up0uozx4xzrv@127.0.0.1:8081?security=tls&type=tcp#</> Collector v5.0
+trojan://2ea5fc44-bd38-4fb0-a9b9-88c83fc56622@89.163.224.122:443?sni=4-193-105-141.nhost.00cdn.com&peer=4-193-105-141.nhost.00cdn.com&security=tls#DE 🇩🇪 ┇ TROJAN-TCP-TLS - WIIT AG ┇ 89.163.224.122
+trojan://4562bgn8-t4xq-isms-hqxd-0r1e345jacah@127.0.0.1:8080?security=tls&type=tcp#For enhanced GitHub access, visit Argh94 now!
+trojan://npg0lna8-5icc-yejj-7ool-udpbx71aa5ff@127.0.0.1:8081?security=tls&type=tcp#</> Collector v5.0

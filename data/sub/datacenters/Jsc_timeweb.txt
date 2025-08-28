@@ -1,8 +1,8 @@
-trojan://0q2b9aa6-0bcg-d56c-vvnr-bk3xv8p9ar5s@127.0.0.1:1080?security=tls&type=tcp#🕒 LAST UPDATE: 2025/08/28 | 00:03
-trojan://p04ga86c-jqxv-7vj1-9zsz-rehcs636wpjb@127.0.0.1:2080?security=tls&type=tcp#This is a free trial project.
-trojan://3jdawq76-heyy-csno-qoln-b7k1a47hhqdo@127.0.0.1:4080?security=tls&type=tcp#「 GitHub Argh94 ☕ 」
+trojan://q8gsgp5t-hx5l-ijz9-8v9h-fz4z4vccg95x@127.0.0.1:1080?security=tls&type=tcp#🕒 LAST UPDATE: 2025/08/28 | 04:36
+trojan://akzbf482-iz05-0jvz-5s3m-py2k7x0puww9@127.0.0.1:2080?security=tls&type=tcp#This is a free trial project.
+trojan://rar7imly-53sn-cw4w-glma-gd4dd9hig7if@127.0.0.1:4080?security=tls&type=tcp#「 GitHub Argh94 ☕ 」
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp0ckVydG84WHpMQUxhUUVzbFRwX2p3@212.193.27.52:2222#CZ 🇨🇿 ┇ SHADOWSOCKS-TCP-NTLS - Jsc timeweb ┇ 212.193.27.52
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpsdmUzaTNhcUotenhkM2dBNkc3UE5B@176.124.218.95:1080#RU 🇷🇺 ┇ SHADOWSOCKS-TCP-NTLS - Jsc timeweb ┇ 176.124.218.95
 vless://1dc60f16-1593-485e-949d-8459edba6430@92.53.107.193:27129?type=tcp&security=reality&sni=yahoo.com&fp=chrome&pbk=pqVSxW8Vukd7XiPZUQTd9ADNT2XBrCGJ4q2-7n6kQXQ&sid=d70393f0ad1c7552#RU 🇷🇺 ┇ VLESS-TCP-RLT - Jsc timeweb ┇ 92.53.107.193
-trojan://eplsriae-achq-ff73-4n0f-zqh305vqwylr@127.0.0.1:8080?security=tls&type=tcp#For enhanced GitHub access, visit Argh94 now!
-trojan://hkq9m5ii-j5q2-v7rb-l0x1-izt33tkl65ns@127.0.0.1:8081?security=tls&type=tcp#</> Collector v5.0
+trojan://xc639cz0-vkt0-l6fl-czsq-vfhrdyv39obp@127.0.0.1:8080?security=tls&type=tcp#For enhanced GitHub access, visit Argh94 now!
+trojan://8glbwtmg-gshd-vioc-fcg2-0pcsea72sodx@127.0.0.1:8081?security=tls&type=tcp#</> Collector v5.0

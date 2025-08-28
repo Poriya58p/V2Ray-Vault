@@ -1,6 +1,6 @@
-trojan://ajwachhz-u9dv-mxtg-3hv9-s96tpm1v91hk@127.0.0.1:1080?security=tls&type=tcp#🕒 LAST UPDATE: 2025/08/28 | 00:03
-trojan://j66qfgbg-3nwj-m74z-awan-aw7ql7xt9ufl@127.0.0.1:2080?security=tls&type=tcp#This is a free trial project.
-trojan://q9rg838a-yr62-y8jg-vh5e-ba1betb7w4ex@127.0.0.1:4080?security=tls&type=tcp#「 GitHub Argh94 ☕ 」
+trojan://5a1l4qxf-kz3a-pg9v-0v4e-ww1j4k8b6o0a@127.0.0.1:1080?security=tls&type=tcp#🕒 LAST UPDATE: 2025/08/28 | 04:36
+trojan://ksx6la74-rlva-u7hy-izyj-ytx2afzpgty5@127.0.0.1:2080?security=tls&type=tcp#This is a free trial project.
+trojan://yfvpzalv-9opo-bsgg-ejup-qcmpvty53bve@127.0.0.1:4080?security=tls&type=tcp#「 GitHub Argh94 ☕ 」
 trojan://telegram-id-v2rayvpnchannel@3.69.18.215:22223?sni=trojan.burgerip.co.uk&peer=trojan.burgerip.co.uk&security=tls#3.69.18.215:22223
 trojan://telegram-id-v2rayvpnchannel@63.176.195.158:22223?sni=trojan.burgerip.co.uk&peer=trojan.burgerip.co.uk&security=tls#63.176.195.158:22223
 trojan://telegram-id-v2rayvpnchannel@35.181.210.214:22223?sni=trojan.burgerip.co.uk&peer=trojan.burgerip.co.uk&security=tls#35.181.210.214:22223
@@ -18,5 +18,5 @@ trojan://telegram-id-v2rayvpnchannel@18.184.155.163:22223?sni=trojan.burgerip.co
 trojan://telegram-id-v2rayvpnchannel@52.29.121.204:22223?sni=trojan.burgerip.co.uk&peer=trojan.burgerip.co.uk&security=tls#52.29.121.204:22223
 trojan://telegram-id-v2rayvpnchannel@35.159.254.111:22223?sni=trojan.burgerip.co.uk&peer=trojan.burgerip.co.uk&security=tls#35.159.254.111:22223
 trojan://telegram-id-v2rayvpnchannel@35.159.254.111:22223?sni=trojan.burgerip.co.uk&peer=trojan.burgerip.co.uk&security=tls#35.159.254.111:22223
-trojan://7bx0to1w-jun4-tlpa-re6p-eelqqja2975n@127.0.0.1:8080?security=tls&type=tcp#For enhanced GitHub access, visit Argh94 now!
-trojan://baiwi771-wmvf-knxr-vsfc-ifn6fb07cvte@127.0.0.1:8081?security=tls&type=tcp#</> Collector v5.0
+trojan://0zyyww8z-wkol-5ga4-r8xt-o986pkdt2sz7@127.0.0.1:8080?security=tls&type=tcp#For enhanced GitHub access, visit Argh94 now!
+trojan://0r4nreaq-o8h1-37c7-c9s7-m0tmi4qmh0lq@127.0.0.1:8081?security=tls&type=tcp#</> Collector v5.0

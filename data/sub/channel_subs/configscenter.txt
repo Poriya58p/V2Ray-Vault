@@ -1,9 +1,9 @@
-trojan://qcvknrw2-5m89-hzsx-mrqk-xqh5dl438frc@127.0.0.1:1080?security=tls&type=tcp#🕒 LAST UPDATE: 2025/08/28 | 00:03
-trojan://7e0dubma-2gxi-iqmm-ek7m-dd7577kjyqo4@127.0.0.1:2080?security=tls&type=tcp#This is a free trial project.
-trojan://qsud6k7z-xesj-y6ny-o7lr-rv54u4aaeq15@127.0.0.1:4080?security=tls&type=tcp#「 GitHub Argh94 ☕ 」
+trojan://wve2yk4q-cmo8-qn2t-fam8-bmqcgly9isnn@127.0.0.1:1080?security=tls&type=tcp#🕒 LAST UPDATE: 2025/08/28 | 04:36
+trojan://9xzaqf4r-tja0-ggkf-0m0r-rfi3sw0kiia0@127.0.0.1:2080?security=tls&type=tcp#This is a free trial project.
+trojan://inid0ucx-feie-desf-rgcs-9jdg1j1f5xq2@127.0.0.1:4080?security=tls&type=tcp#「 GitHub Argh94 ☕ 」
 vless://bf813b9a-14ff-4223-8c62-2968c6221148@nv111.momdping.com:443?type=ws&security=tls&path=/&sni=nv111.momdping.com#nv111.momdping.com:443
 vless://9a2be6a5-4b46-4b05-add4-ac64198e7e51@vip9.nikatel.store:2087?type=ws&security=tls&path=/&sni=vip9.nikatel.store#vip9.nikatel.store:2087
 vless://5b0e1347-1e9b-4b83-a27b-468e3dafb69b@2sudo.winapp3.ir:80?type=xhttp&security=none&path=/#2sudo.winapp3.ir:80
 vless://badb069f-4acd-4206-bf9a-c4bda80d55ca@mrvip.wineston.site:1001?type=tcp&security=none#mrvip.wineston.site:1001
-trojan://vk8553hr-o8nd-yh6t-i6yi-8rkvb6qu5io5@127.0.0.1:8080?security=tls&type=tcp#For enhanced GitHub access, visit Argh94 now!
-trojan://4qk8y7lu-a4jk-716c-ekqd-7vfn44w1kxm1@127.0.0.1:8081?security=tls&type=tcp#</> Collector v5.0
+trojan://h2al85nz-gk21-la3z-9gvv-rg9kmnp4w8s5@127.0.0.1:8080?security=tls&type=tcp#For enhanced GitHub access, visit Argh94 now!
+trojan://tyndv6m9-8t9v-jgw0-b6vy-srzxmughwydj@127.0.0.1:8081?security=tls&type=tcp#</> Collector v5.0

@@ -1,8 +1,8 @@
-trojan://d59ic11a-8zst-s2io-4fun-8rsf8vjcgrpj@127.0.0.1:1080?security=tls&type=tcp#🕒 LAST UPDATE: 2025/08/28 | 00:03
-trojan://s560ccjf-tw7u-n3w8-flhg-ga57rx1y5tz7@127.0.0.1:2080?security=tls&type=tcp#This is a free trial project.
-trojan://uslnsawd-2dc8-k3tb-o0if-auglg2vmjvbi@127.0.0.1:4080?security=tls&type=tcp#「 GitHub Argh94 ☕ 」
+trojan://52zik9wl-i22a-4i5k-x2y3-z8iipwhe6ukk@127.0.0.1:1080?security=tls&type=tcp#🕒 LAST UPDATE: 2025/08/28 | 04:36
+trojan://gcofxsgr-6an6-tmyi-9ppl-e673rkz3ldo0@127.0.0.1:2080?security=tls&type=tcp#This is a free trial project.
+trojan://wo3ec4p7-egud-gksg-1b20-a2ijv94gac9q@127.0.0.1:4080?security=tls&type=tcp#「 GitHub Argh94 ☕ 」
 vless://bea34b73-3244-475b-b914-7bb80e1cda91@62.60.223.6:2080?type=tcp&security=reality&sni=dash.cloudflare.com&fp=chrome&pbk=L3lJWdU7mHijSkNaNt-m29OYnKnHvHYRxg2Y8XXFdng&sid=bf517367267685#IR 🇮🇷 ┇ VLESS-TCP-RLT - FanAvaran Mihan Mizban PJSC ┇ 62.60.223.6
 vless://09417e2f-0a79-4cd1-b190-3e927652b698@iran.mmdmaty83.ir:443?type=xhttp&security=reality&path=/&sni=snapp.ir&fp=chrome&pbk=ytNj1b2dywsLwHXrWUGKAgB3pR0Fj479ol-mokC1RkI&sid=fd09b66d5dca1398#IR 🇮🇷 ┇ VLESS-XHTTP-RLT - FanAvaran Mihan Mizban PJSC ┇ 85.133.201.59
 vmess://eyJ2IjoiMiIsInBzIjoiSVIgXHVkODNjXHVkZGVlXHVkODNjXHVkZGY3IFx1MjUwNyBWTUVTUy1UQ1AtTlRMUyAtIEZhbkF2YXJhbiBNaWhhbiBNaXpiYW4gUEpTQyBcdTI1MDcgNDUuOTQuMjE0LjE5MyIsImFkZCI6Im1yZ29sZC5pcmFubWFuLnNob3AiLCJwb3J0Ijo1MjA2NSwiaWQiOiJmMjllYTc3Yy02ODQyLTRlZTAtOWZjMS05YzdhODcxNTY2YjIiLCJhaWQiOjAsInNjeSI6ImF1dG8iLCJuZXQiOiJ0Y3AiLCJ0eXBlIjoiaHR0cCIsInBhdGgiOiIvIn0
-trojan://qy291jhd-8bav-erni-tt1y-wsrbyypxco41@127.0.0.1:8080?security=tls&type=tcp#For enhanced GitHub access, visit Argh94 now!
-trojan://p1auntq9-oryo-x0zy-w860-0xgq1sp8zktl@127.0.0.1:8081?security=tls&type=tcp#</> Collector v5.0
+trojan://d7ceh8p2-twoh-hd3n-vf02-oiblrt3uyky8@127.0.0.1:8080?security=tls&type=tcp#For enhanced GitHub access, visit Argh94 now!
+trojan://hiik2ire-d2uf-21ml-se5j-jny14ybqnhxp@127.0.0.1:8081?security=tls&type=tcp#</> Collector v5.0
