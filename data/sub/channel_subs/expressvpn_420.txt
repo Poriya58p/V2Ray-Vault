@@ -1,6 +1,6 @@
-trojan://yszl3jzv-glw2-7ywv-417t-qsl3qxm0hwqj@127.0.0.1:1080?security=tls&type=tcp#🕒 LAST UPDATE: 2025/08/28 | 04:36
-trojan://lndm4xk9-f1tl-ohbv-x09w-ka9p5q7v5grl@127.0.0.1:2080?security=tls&type=tcp#This is a free trial project.
-trojan://rpiihyqz-h7qy-ky23-jbyu-9pwwkgvcsex9@127.0.0.1:4080?security=tls&type=tcp#「 GitHub Argh94 ☕ 」
+trojan://wfqv7bdr-umxz-fv8v-fg4q-nw4xluei0nuq@127.0.0.1:1080?security=tls&type=tcp#🕒 LAST UPDATE: 2025/08/28 | 07:53
+trojan://mhyag45z-iusx-sm81-tfjv-yrvemad1s0m9@127.0.0.1:2080?security=tls&type=tcp#This is a free trial project.
+trojan://ywmpk7tw-f2jl-h74v-9wrz-9xe5ngoumlb8@127.0.0.1:4080?security=tls&type=tcp#「 GitHub Argh94 ☕ 」
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@193.29.139.235:8080#193.29.139.235:8080
 vless://b71aa6d3-470e-44cf-9635-c7a6d9f0f740@kafshu.ir:8080?type=ws&security=none&path=/Telegram,@EXPRESSVPN_420/Telegram,@EXPRESSVPN_420/Telegram,@EXPRESSVPN_420/Telegram,@EXPRESSVPN_420/Telegram,@EXPRESSVPN_420/Telegram,@EXPRESSVPN_420/Telegram,@EXPRESSVPN_420/Telegram,@EXPRESSVPN_420/Telegram,@EXPRESSVPN_420/Telegram,@EXPRESSVPN_420/Telegram,@EXPRESSVPN_420/Telegram,@EXPRESSVPN_420/Telegram,@EXPRESSVPN_420/Telegram,@EXPRESSVPN_420/Telegram,@EXPRESSVPN_420/Telegram,@EXPRESSVPN_420/Telegram,@EXPRESSVPN_420/Telegram,@EXPRESSVPN_420/Telegram,@EXPRESSVPN_420/Telegram,@EXPRESSVPN_420/Telegram,@EXPRESSVPN_420?ed=2080#kafshu.ir:8080
 vless://b71aa6d3-470e-44cf-9635-c7a6d9f0f740@172.66.40.99:8080?type=ws&security=none&path=/Telegram,@EXPRESSVPN_420/Telegram,@EXPRESSVPN_420/Telegram,@EXPRESSVPN_420/Telegram,@EXPRESSVPN_420/Telegram,@EXPRESSVPN_420/Telegram,@EXPRESSVPN_420/Telegram,@EXPRESSVPN_420/Telegram,@EXPRESSVPN_420/Telegram,@EXPRESSVPN_420/Telegram,@EXPRESSVPN_420/Telegram,@EXPRESSVPN_420/Telegram,@EXPRESSVPN_420/Telegram,@EXPRESSVPN_420/Telegram,@EXPRESSVPN_420/Telegram,@EXPRESSVPN_420/Telegram,@EXPRESSVPN_420/Telegram,@EXPRESSVPN_420/Telegram,@EXPRESSVPN_420/Telegram,@EXPRESSVPN_420/Telegram,@EXPRESSVPN_420/Telegram,@EXPRESSVPN_420?ed=2080#172.66.40.99:8080
@@ -39,5 +39,5 @@ vless://e4824193-4f54-453b-d037-88368e85ef0e@45.82.251.142:8880?type=grpc&securi
 vless://d447f445-8ac8-46ad-8f93-474a8c57c738@www.speedtest.net:8880?type=ws&security=none&path=/@EXPRESSVPN_420----@EXPRESSVPN_420----@EXPRESSVPN_420----@EXPRESSVPN_420----@EXPRESSVPN_420----@EXPRESSVPN_420----@EXPRESSVPN_420----@EXPRESSVPN_420----@EXPRESSVPN_420----@EXPRESSVPN_420----@EXPRESSVPN_420----@EXPRESSVPN_420?ed=2048#www.speedtest.net:8880
 vless://d447f445-8ac8-46ad-8f93-474a8c57c738@172.66.40.99:8880?type=ws&security=none&path=/@EXPRESSVPN_420----@EXPRESSVPN_420----@EXPRESSVPN_420----@EXPRESSVPN_420----@EXPRESSVPN_420----@EXPRESSVPN_420----@EXPRESSVPN_420----@EXPRESSVPN_420----@EXPRESSVPN_420----@EXPRESSVPN_420----@EXPRESSVPN_420----@EXPRESSVPN_420?ed=2048#172.66.40.99:8880
 hysteria2://3QlSMKyqLp@android.yas-nowin.ir:443?sni=android.yas-nowin.ir&insecure=0#android.yas-nowin.ir:443
-trojan://yx3aql26-1me9-o4ap-vnqv-kvzsvxxsgelu@127.0.0.1:8080?security=tls&type=tcp#For enhanced GitHub access, visit Argh94 now!
-trojan://7x1a5fbo-14gx-k6km-wlv4-o1lmiwpmmz5a@127.0.0.1:8081?security=tls&type=tcp#</> Collector v5.0
+trojan://3xxwxzct-5e1l-2qy0-k9wc-jd8vsvfuqi7d@127.0.0.1:8080?security=tls&type=tcp#For enhanced GitHub access, visit Argh94 now!
+trojan://ewuc49wf-tbca-hxw9-erns-d2q98gupu39d@127.0.0.1:8081?security=tls&type=tcp#</> Collector v5.0

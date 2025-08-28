@@ -1,6 +1,6 @@
-trojan://uapb3is4-dxm2-watf-l7ck-qcy4xn8iajf5@127.0.0.1:1080?security=tls&type=tcp#🕒 LAST UPDATE: 2025/08/28 | 04:36
-trojan://xbnldzr6-ma06-ck1v-y9dp-hl7288v4qgyg@127.0.0.1:2080?security=tls&type=tcp#This is a free trial project.
-trojan://qs8vt240-enve-nsot-128f-as9nv3fkh3gn@127.0.0.1:4080?security=tls&type=tcp#「 GitHub Argh94 ☕ 」
+trojan://64ynxcuz-vz2z-i7is-8ouc-hglo5ro7h3e2@127.0.0.1:1080?security=tls&type=tcp#🕒 LAST UPDATE: 2025/08/28 | 07:53
+trojan://5tbkl1a5-8c0m-4bc0-n095-tvszixjjqd8l@127.0.0.1:2080?security=tls&type=tcp#This is a free trial project.
+trojan://l33s585m-v6yu-ckia-m2dh-7beqnxhgzc64@127.0.0.1:4080?security=tls&type=tcp#「 GitHub Argh94 ☕ 」
 vless://8d10333a-edf1-4474-a2d9-576a30fdf44a@www.speedtest.net:443?type=ws&security=tls&path=/?ed=1024&sni=dl-pack.motionbetter.ir&fp=chrome#www.speedtest.net:443
 vless://8d10333a-edf1-4474-a2d9-576a30fdf44a@2a01:4f8:1c17:d10d::1:8080?type=grpc&security=none#2a01:4f8:1c17:d10d::1:8080
 vless://8d10333a-edf1-4474-a2d9-576a30fdf44a@cpanel.com:2053?type=grpc&security=tls&sni=dl-pack.motionbetter.ir&fp=chrome#cpanel.com:2053
@@ -10,5 +10,5 @@ vless://8d10333a-edf1-4475-a2d9-576a30fdf44a@cpanel.com:2053?type=grpc&security=
 vless://8d10333a-edf2-4475-a2d9-176a30fdf44a@www.speedtest.net:443?type=ws&security=tls&path=/?ed=1024&sni=dl-pack.motionbetter.ir&fp=chrome#www.speedtest.net:443
 vless://8d10333a-edf2-4475-a2d9-176a30fdf44a@2a01:4f8:1c17:d10d::1:8080?type=grpc&security=none#2a01:4f8:1c17:d10d::1:8080
 vless://8d10333a-edf2-4475-a2d9-176a30fdf44a@cpanel.com:2053?type=grpc&security=tls&sni=dl-pack.motionbetter.ir&fp=chrome#cpanel.com:2053
-trojan://h8xpmhfs-ckdp-sg6f-9uq2-km9fgv5ryc2j@127.0.0.1:8080?security=tls&type=tcp#For enhanced GitHub access, visit Argh94 now!
-trojan://hz2udsyw-bg8m-8wce-1eao-9xh5rwss9r1l@127.0.0.1:8081?security=tls&type=tcp#</> Collector v5.0
+trojan://7a5tblvm-xcxu-h0j3-q33o-ca0n41t7n9ic@127.0.0.1:8080?security=tls&type=tcp#For enhanced GitHub access, visit Argh94 now!
+trojan://rrix3qcv-3wou-xd1m-pkq3-ug2tok1c1b23@127.0.0.1:8081?security=tls&type=tcp#</> Collector v5.0

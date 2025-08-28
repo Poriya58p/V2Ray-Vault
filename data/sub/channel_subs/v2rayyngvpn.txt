@@ -1,10 +1,10 @@
-trojan://ywp24k5v-t2lx-vao2-i9mz-bucejryyb8d7@127.0.0.1:1080?security=tls&type=tcp#🕒 LAST UPDATE: 2025/08/28 | 04:36
-trojan://f6uiy4my-rqj5-4sm2-vu6y-msuo8w04mmm8@127.0.0.1:2080?security=tls&type=tcp#This is a free trial project.
-trojan://ecsiqjb8-8tgw-nxak-cxs2-j9o224e3o0n3@127.0.0.1:4080?security=tls&type=tcp#「 GitHub Argh94 ☕ 」
+trojan://esanqz1n-pifw-n0tn-d4xu-ilq7u7bax02h@127.0.0.1:1080?security=tls&type=tcp#🕒 LAST UPDATE: 2025/08/28 | 07:53
+trojan://sprwacja-f3om-u9ta-7pyf-uxf1l9knwvut@127.0.0.1:2080?security=tls&type=tcp#This is a free trial project.
+trojan://mfx999az-cs4q-murf-fpcr-pb2061edsk26@127.0.0.1:4080?security=tls&type=tcp#「 GitHub Argh94 ☕ 」
 vless://27f7b4ea-fe2a-4c27-befc-a0ab41b2fd77@tgju.org:2087?type=ws&security=tls&path=/api/v1/ws/@V2RayyNGvpn?ed=2048&sni=Tu.MiRAcLEprESenT.ToP.&fp=chrome#tgju.org:2087
 vless://91f0a7a1-bc27-7442-7b39-5eb0698c52fa@185.226.93.102:4143?type=tcp&security=none#185.226.93.102:4143
 vless://91f0a7a1-bc27-7442-7b39-5eb0698c52fa@46.62.171.118:443?type=tcp&security=none#46.62.171.118:443
 vless://91f0a7a1-bc27-7442-7b39-5eb0698c52fa@5.161.154.166:443?type=tcp&security=none#5.161.154.166:443
 vless://91f0a7a1-bc27-7442-7b39-5eb0698c52fa@91.107.133.47:443?type=tcp&security=none#91.107.133.47:443
-trojan://z96u8r5v-mcgi-nz9a-8ugw-wlw868em4asf@127.0.0.1:8080?security=tls&type=tcp#For enhanced GitHub access, visit Argh94 now!
-trojan://mw99iaaj-i4ni-7oa4-muk6-udwp7yq0i71o@127.0.0.1:8081?security=tls&type=tcp#</> Collector v5.0
+trojan://tmvume4s-czvm-1yua-1xvq-t1zxr6jnzlr8@127.0.0.1:8080?security=tls&type=tcp#For enhanced GitHub access, visit Argh94 now!
+trojan://oyaw7ade-rg7o-gpo7-q9js-4uh2u9fy9fg5@127.0.0.1:8081?security=tls&type=tcp#</> Collector v5.0

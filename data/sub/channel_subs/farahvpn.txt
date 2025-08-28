@@ -1,7 +1,6 @@
-trojan://cfkgy520-yzdl-vimp-z8vb-0deace5r2xh4@127.0.0.1:1080?security=tls&type=tcp#🕒 LAST UPDATE: 2025/08/28 | 04:36
-trojan://rkz46de0-2fvg-x3sr-u4sq-g1yby14fqq7u@127.0.0.1:2080?security=tls&type=tcp#This is a free trial project.
-trojan://8wz5e2r6-3xh6-tdvk-rjuw-db8ismgguimr@127.0.0.1:4080?security=tls&type=tcp#「 GitHub Argh94 ☕ 」
-ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M@212.102.53.197:443#212.102.53.197:443
+trojan://q4lkl163-690d-ip94-0ju1-fvca8b06xi4e@127.0.0.1:1080?security=tls&type=tcp#🕒 LAST UPDATE: 2025/08/28 | 07:53
+trojan://qrw4kw91-b8ps-mdxh-dp6v-8wn3chcjmch3@127.0.0.1:2080?security=tls&type=tcp#This is a free trial project.
+trojan://zx5gknyf-q0po-ciof-l2fo-o6fnir0wz1be@127.0.0.1:4080?security=tls&type=tcp#「 GitHub Argh94 ☕ 」
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpCb2cwRUxtTU05RFN4RGRR@15.184.155.145:443#15.184.155.145:443
 ss://YWVzLTI1Ni1nY206ZzVNZUQ2RnQzQ1dsSklk@142.202.49.84:5004#142.202.49.84:5004
 ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M@212.102.53.197:443#212.102.53.197:443
@@ -11,6 +10,7 @@ trojan://3648425794742788096@13.235.160.41:443?sni=chief-lobster.pig299.lat&peer
 trojan://3648425794742788096@63.35.47.160:443?sni=cosmic-mammal.squid592.motorcycles&peer=cosmic-mammal.squid592.motorcycles&security=tls#63.35.47.160:443
 trojan://tg-dns68@162.159.152.42:443?sni=vip.putata.eu.org&peer=vip.putata.eu.org&security=tls#162.159.152.42:443
 trojan://3648425794742788096@63.35.47.160:443?sni=cosmic-mammal.squid592.motorcycles&peer=cosmic-mammal.squid592.motorcycles&security=tls#63.35.47.160:443
+trojan://telegram-id-privatevpns@13.37.190.233:22222?sni=trojan.burgerip.co.uk&peer=trojan.burgerip.co.uk&security=tls#13.37.190.233:22222
 vmess://eyJ2IjoiMiIsInBzIjoiXHUwNjJlXHUwNjMxXHUwNmNjXHUwNjJmIFx1MDY0OFx1MDZjYyBcdTA2N2VcdTA2Y2MgXHUwNjI3XHUwNjQ2IFx1MDYyN1x1MDYzMVx1MDYzMlx1MDYyN1x1MDY0NiBATm9yYVBpbmdCb3QiLCJhZGQiOiJucG1qcy5jb20iLCJwb3J0Ijo4MDgwLCJpZCI6InBteG5iY3JyZmQiLCJhaWQiOjAsInNjeSI6ImF1dG8iLCJuZXQiOiJ3cyIsInR5cGUiOiJub25lIiwicGF0aCI6Ii9kb3dubG9hZC9jZG4ifQ
 vmess://eyJ2IjoiMiIsInBzIjoiXHUwNjJlXHUwNjMxXHUwNmNjXHUwNjJmIFx1MDY0OFx1MDZjYyBcdTA2N2VcdTA2Y2MgXHUwNjI3XHUwNjQ2IFx1MDYyN1x1MDYzMVx1MDYzMlx1MDYyN1x1MDY0NiBATm9yYVBpbmdCb3QiLCJhZGQiOiIxMzUuMTgxLjEwMi42MyIsInBvcnQiOjIwODIsImlkIjoiMjQ2ODJkZGEtNDMxOC00Y2UzLWIzNzMtZjZiNzI5MTEzZjEyIiwiYWlkIjowLCJzY3kiOiJhdXRvIiwibmV0Ijoid3MiLCJ0eXBlIjoibm9uZSIsInBhdGgiOiIyNDY4MmRkYS00MzE4LTRjZTMtYjM3My1mNmI3MjkxMTNmMTItdm0ifQ
 vmess://eyJ2IjoiMiIsInBzIjoiXHUwNjJlXHUwNjMxXHUwNmNjXHUwNjJmIFx1MDY0OFx1MDZjYyBcdTA2N2VcdTA2Y2MgXHUwNjI3XHUwNjQ2IFx1MDYyN1x1MDYzMVx1MDYzMlx1MDYyN1x1MDY0NiBATm9yYVBpbmdCb3QiLCJhZGQiOiIzMS41Ni4xNDYuMTg2IiwicG9ydCI6MzgwNDAsImlkIjoiYThmOWQ1ZjktN2NhZC00MGZmLTlmZWUtODM1YzZkZDliY2U0IiwiYWlkIjowLCJzY3kiOiJhdXRvIiwibmV0IjoidGNwIiwidHlwZSI6Im5vbmUifQ
@@ -21,5 +21,5 @@ vless://ee845a26-9d15-4cac-b3a0-fc0c0c8135af@sss6000.tas-bazi.com:443?type=xhttp
 vless://f55fa25b-9aae-4828-8fbb-d0fb6c63b8c3@63.141.128.22:80?type=ws&security=none&path=/Join-ZEDMODEON-ZEDMODEON-ZEDMODEON-bia-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON#63.141.128.22:80
 vless://2b25cdb0-ecb2-4caa-910d-b2e5b2309ca3@185.234.66.94:443?type=ws&security=tls&path=/tqjkmwws#185.234.66.94:443
 vless://96be492b-3388-4693-be03-9caefe6dfff5@91.98.38.6:8443?type=tcp&security=reality&sni=refersion.com&fp=firefox&pbk=r3FLw76bxhgit74mzJTglRM-ujPZ9f-HemByQ-uZqms&sid=27e6b66aa77662fb#91.98.38.6:8443
-trojan://3a4xpzcz-omyu-ktgd-dlvf-e4fggyca90c8@127.0.0.1:8080?security=tls&type=tcp#For enhanced GitHub access, visit Argh94 now!
-trojan://s0csi0bl-sk6r-adzs-hhk5-zv4psj803rxl@127.0.0.1:8081?security=tls&type=tcp#</> Collector v5.0
+trojan://8o00ib8s-7bg6-zpnz-kunc-h102c9q0s89y@127.0.0.1:8080?security=tls&type=tcp#For enhanced GitHub access, visit Argh94 now!
+trojan://pgvcd9s5-1xi4-yo1d-hige-tkr4imjurpzg@127.0.0.1:8081?security=tls&type=tcp#</> Collector v5.0

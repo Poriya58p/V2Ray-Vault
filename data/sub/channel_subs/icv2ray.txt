@@ -1,6 +1,6 @@
-trojan://nv6z5l14-31e5-c1rn-qasr-a2m3zgn80x3x@127.0.0.1:1080?security=tls&type=tcp#🕒 LAST UPDATE: 2025/08/28 | 04:36
-trojan://66wmvtra-xyrb-9vmu-abuh-407ropizbavs@127.0.0.1:2080?security=tls&type=tcp#This is a free trial project.
-trojan://y9ojnhwo-l05t-ty2n-ty4j-n363nn5v87ol@127.0.0.1:4080?security=tls&type=tcp#「 GitHub Argh94 ☕ 」
+trojan://tyk6w1ul-4zav-cp8l-si7y-1a372hcb4h3r@127.0.0.1:1080?security=tls&type=tcp#🕒 LAST UPDATE: 2025/08/28 | 07:53
+trojan://9qbw8gkm-b1li-uarz-5vzl-dlogs0re84c6@127.0.0.1:2080?security=tls&type=tcp#This is a free trial project.
+trojan://yq5z18qq-2c52-bc4e-139h-7x89gvbh711u@127.0.0.1:4080?security=tls&type=tcp#「 GitHub Argh94 ☕ 」
 vless://b059c282-ea15-458a-bf72-08296d9f95fe@172.66.40.99:80?type=ws&security=none&path=/Join-ZEDMODEON-ZEDMODEON-ZEDMODEON-bia-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON#172.66.40.99:80
 vless://b07ad7a5-c1f2-4c11-92cd-37e71190c19d@172.66.40.99:80?type=ws&security=none&path=/Join-ZEDMODEON-ZEDMODEON-ZEDMODEON-bia-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON#172.66.40.99:80
 vless://bb867c2e-b692-4b7c-b48e-435598787308@172.66.40.99:80?type=ws&security=none&path=/Join-ZEDMODEON-ZEDMODEON-ZEDMODEON-bia-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON#172.66.40.99:80
@@ -96,5 +96,5 @@ vless://60c76e2d-1557-4330-a3db-9cf0f51190d6@172.66.40.99:80?type=ws&security=no
 vless://60c76e2d-1557-4330-a3db-9cf0f51190d6@www.speedtest.net:80?type=ws&security=none&path=/Join----VPNCUSTOMIZE---Join----VPNCUSTOMIZE#www.speedtest.net:80
 vless://738ebc1c-c44a-418e-8c2c-f9e2efe1f4fe@91.99.70.212:443?type=grpc&security=reality&sni=www.cdn77.com&fp=chrome&pbk=Zjzu45fPTjjaIcBoYyaLqieLtsWJD8ujdzNOQodWvnk#91.99.70.212:443
 vless://f076%61%6511-156c-45c5-b252-%61%658dd6fd1494@91.99.70.212:443?type=grpc&security=reality&sni=www.cdn77.com&fp=chrome&pbk=Zjzu45fPTjjaIcBoYyaLqieLtsWJD8ujdzNOQodWvnk#91.99.70.212:443
-trojan://refdeky3-7s8i-iswi-0ml4-4yswl2nq9d77@127.0.0.1:8080?security=tls&type=tcp#For enhanced GitHub access, visit Argh94 now!
-trojan://xwjri6s9-gdnc-cq6n-aizr-by7c6bq26rnm@127.0.0.1:8081?security=tls&type=tcp#</> Collector v5.0
+trojan://558ef3di-xml4-44bg-nu7i-k0il2z9k7102@127.0.0.1:8080?security=tls&type=tcp#For enhanced GitHub access, visit Argh94 now!
+trojan://f44zmprp-m6xq-le1e-nmmr-msove0mj3cbu@127.0.0.1:8081?security=tls&type=tcp#</> Collector v5.0

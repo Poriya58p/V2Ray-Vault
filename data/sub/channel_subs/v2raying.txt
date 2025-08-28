@@ -1,6 +1,6 @@
-trojan://9q9wzivs-gku4-ebgd-j8nz-0yb35stsn8x2@127.0.0.1:1080?security=tls&type=tcp#🕒 LAST UPDATE: 2025/08/28 | 04:36
-trojan://rb9kgqoo-k5n6-dgvv-pqqz-qgnz0mjvderv@127.0.0.1:2080?security=tls&type=tcp#This is a free trial project.
-trojan://k3o8zpso-psfl-0wm7-eza0-wws5s22fc9lg@127.0.0.1:4080?security=tls&type=tcp#「 GitHub Argh94 ☕ 」
+trojan://85fc6p98-p9r8-68rc-e6wi-x11g0qj7vkvg@127.0.0.1:1080?security=tls&type=tcp#🕒 LAST UPDATE: 2025/08/28 | 07:53
+trojan://ckqx7m2n-cahc-w6pc-n87l-r7rvtsqonz4m@127.0.0.1:2080?security=tls&type=tcp#This is a free trial project.
+trojan://4qz0dpf5-lv32-zqtp-k3ac-2yn4500kwuu8@127.0.0.1:4080?security=tls&type=tcp#「 GitHub Argh94 ☕ 」
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo1MXlsb1FDOEQ5dzFXYWU3Rkh0STY1@135.225.124.80:48172#135.225.124.80:48172
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpGM25ZNzNkaTVvbldWM2dvdGJwSTBR@83.147.216.70:64519#83.147.216.70:64519
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@193.29.139.240:8080#193.29.139.240:8080
@@ -12,6 +12,7 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo1MXlsb1FDOEQ5dzFXYWU3Rkh0STY1@135.225.124.80
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpGM25ZNzNkaTVvbldWM2dvdGJwSTBR@83.147.216.70:64519#83.147.216.70:64519
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@193.29.139.240:8080#193.29.139.240:8080
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@193.29.139.235:8080#193.29.139.235:8080
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo0YTJyZml4b3BoZGpmZmE4S1ZBNEFh@45.87.175.157:8080#45.87.175.157:8080
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo0YTJyZml4b3BoZGpmZmE4S1ZBNEFh@45.87.175.157:8080#45.87.175.157:8080
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo0YTJyZml4b3BoZGpmZmE4S1ZBNEFh@45.87.175.157:8080#45.87.175.157:8080
 vless://3f277f78-ef7c-4fab-982c-0ae1b0c0cf67@51.75.161.60:80?type=ws&security=none&path=/vless/#51.75.161.60:80
@@ -104,5 +105,9 @@ vless://6780a3c0-a98c-4622-b894-8e34167f7b31@blog.ruangguru.com.servpn.my.id:443
 vless://6780a3c0-a98c-4622-b894-8e34167f7b31@172.66.40.99:443?type=ws&security=tls&path=/id5?ed=2048@HiByeVPNN--@HiByeVPNN--@HiByeVPNN--@HiByeVPNN--@HiByeVPNN--@HiByeVPNN--@HiByeVPNN--@HiByeVPNN--@HiByeVPNN--@HiByeVPNN--@HiByeVPNN--@HiByeVPNN--@HiByeVPNN&sni=blog.ruangguru.com.servpn.my.id#172.66.40.99:443
 vless://3d7dd548-5456-4f28-8019-393fbfab3312@104.26.1.108:443?type=ws&security=tls&path=/sg3/?ed=2048@HiByeVPNN--@HiByeVPNN--@HiByeVPNN--@HiByeVPNN--@HiByeVPNN--@HiByeVPNN--@HiByeVPNN--@HiByeVPNN--@HiByeVPNN--@HiByeVPNN--@HiByeVPNN--@HiByeVPNN--@HiByeVPNN&sni=app-stg.gopay.co.id.servpn.my.id&fp=chrome#104.26.1.108:443
 vless://3d7dd548-5456-4f28-8019-393fbfab3312@104.26.0.108:443?type=ws&security=tls&path=/sg3/?ed=2048@HiByeVPNN--@HiByeVPNN--@HiByeVPNN--@HiByeVPNN--@HiByeVPNN--@HiByeVPNN--@HiByeVPNN--@HiByeVPNN--@HiByeVPNN--@HiByeVPNN--@HiByeVPNN--@HiByeVPNN--@HiByeVPNN&sni=app-stg.gopay.co.id.servpn.my.id&fp=chrome#104.26.0.108:443
-trojan://wn6j95jv-6ywa-gpeq-80it-m0bee7fs85rl@127.0.0.1:8080?security=tls&type=tcp#For enhanced GitHub access, visit Argh94 now!
-trojan://3obudjfe-hhoa-lvmy-trnp-mo30zp6s3ffy@127.0.0.1:8081?security=tls&type=tcp#</> Collector v5.0
+vless://02ba99ca-ec56-4b2d-8537-bb20b830a3f7@www.speedtest.net:2095?type=httpupgrade&security=none&path=/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam?ed=2048#www.speedtest.net:2095
+vless://5da52d2d-1ab8-48d0-8421-8354fd6ce7d3@jquery.com:443?type=ws&security=tls&path=/---VITUREY---VITUREY---VITUREY---VITUREY---VITUREY---VITUREY---VITUREY---VITUREY---VITUREY---VITUREY---VITUREY---VITUREY---VITUREY---VITUREY---VITUREY---VITUREY---VITUREY---VITUREY---VITUREY---VITUREY---VITUREY---VITUREY---VITUREY---VITUREY---&sni=rAyAn-cOnFiG-05.rAyAn-iI.DnS-DyNaMiC.NeT&fp=chrome#jquery.com:443
+vless://ccbe6b7c-9264-40c4-8bc1-ef8f6205d7a4@www.speedtest.net:8443?type=ws&security=tls&path=/?---VITUREY---VITUREY---VITUREY---VITUREY---VITUREY---VITUREY---VITUREY---VITUREY---VITUREY---VITUREY---VITUREY---VITUREY---VITUREY---VITUREY---VITUREY---VITUREY---VITUREY---VITUREY---VITUREY---VITUREY---VITUREY---VITUREY---VITUREY---VITUREY---&sni=hetzner-6.derberg.name.ng#www.speedtest.net:8443
+vless://ccbe6b7c-9264-40c4-8bc1-ef8f6205d7a4@www.speedtest.net:8443?type=ws&security=tls&path=/&sni=hetzner-7.boss.name.ng#www.speedtest.net:8443
+trojan://gjikb62j-2b1w-omyx-v1pt-dvx671d7mutq@127.0.0.1:8080?security=tls&type=tcp#For enhanced GitHub access, visit Argh94 now!
+trojan://89tt8o15-dqne-2hfk-tb4n-sokhovwaw3r9@127.0.0.1:8081?security=tls&type=tcp#</> Collector v5.0

@@ -1,7 +1,7 @@
-trojan://94y6ohz5-qdga-a2jf-ai3u-s8mb10p0841i@127.0.0.1:1080?security=tls&type=tcp#🕒 LAST UPDATE: 2025/08/28 | 04:36
-trojan://wdzq8sgt-5lj9-f86x-brhe-xvpv17hdfvwc@127.0.0.1:2080?security=tls&type=tcp#This is a free trial project.
-trojan://yipivd93-8e5l-ls1r-bg5p-w0oa59rf8lky@127.0.0.1:4080?security=tls&type=tcp#「 GitHub Argh94 ☕ 」
-ss://YWVzLTI1Ni1nY206UU0xQkI1U01XQzQ3SVZXQQ@219.135.227.209:15010#CN 🇨🇳 ┇ SHADOWSOCKS-TCP-NTLS - Chinanet ┇ 219.135.227.209
+trojan://cr97wi4p-wv96-vi8z-n1dd-0h1t5ifken2l@127.0.0.1:1080?security=tls&type=tcp#🕒 LAST UPDATE: 2025/08/28 | 07:53
+trojan://yv3bcrm4-pc19-8j37-mh1j-zt6mt9spt4l8@127.0.0.1:2080?security=tls&type=tcp#This is a free trial project.
+trojan://ovgm2s6a-507u-56tg-2pqe-cnas2rokih1s@127.0.0.1:4080?security=tls&type=tcp#「 GitHub Argh94 ☕ 」
 trojan://4ea1d07c-41c2-42b5-954d-414fee051856@df.xiguajiasu.xyz:46002?security=tls#CN 🇨🇳 ┇ TROJAN-TCP-TLS - Chinanet ┇ 119.147.118.191
-trojan://jbzowcmp-slu1-2gww-9pou-f70155nvbgj2@127.0.0.1:8080?security=tls&type=tcp#For enhanced GitHub access, visit Argh94 now!
-trojan://kban0sfa-tk3k-plr5-z2pb-i2scpm96gb6b@127.0.0.1:8081?security=tls&type=tcp#</> Collector v5.0
+ss://YWVzLTI1Ni1nY206UU0xQkI1U01XQzQ3SVZXQQ@219.135.227.209:15010#CN 🇨🇳 ┇ SHADOWSOCKS-TCP-NTLS - Chinanet ┇ 219.135.227.209
+trojan://tbeuhhan-15yi-dzyc-7ytt-iqju0dsghf79@127.0.0.1:8080?security=tls&type=tcp#For enhanced GitHub access, visit Argh94 now!
+trojan://16my889y-fd3p-beu4-110v-48yx1lq2x7hx@127.0.0.1:8081?security=tls&type=tcp#</> Collector v5.0

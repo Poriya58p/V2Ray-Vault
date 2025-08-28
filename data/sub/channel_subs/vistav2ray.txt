@@ -1,6 +1,6 @@
-trojan://de9eo48p-6d8t-v8xk-o4w2-8qkm9up554cf@127.0.0.1:1080?security=tls&type=tcp#🕒 LAST UPDATE: 2025/08/28 | 04:36
-trojan://ix0e91bw-js6r-z8z8-7dqo-sz1hwbin0t2d@127.0.0.1:2080?security=tls&type=tcp#This is a free trial project.
-trojan://ygy5ug3d-j4kd-tj62-hlmm-zc002cf8dfqc@127.0.0.1:4080?security=tls&type=tcp#「 GitHub Argh94 ☕ 」
+trojan://h8emc963-xqdk-6l5v-3hmc-fkld5rh3wyxh@127.0.0.1:1080?security=tls&type=tcp#🕒 LAST UPDATE: 2025/08/28 | 07:53
+trojan://gnrck13g-6klo-9usf-r0my-3ku5nkopm0p7@127.0.0.1:2080?security=tls&type=tcp#This is a free trial project.
+trojan://rgdlq9wn-1vz7-iamq-0e6l-sck85lv6ucan@127.0.0.1:4080?security=tls&type=tcp#「 GitHub Argh94 ☕ 」
 vmess://eyJ2IjoiMiIsInBzIjoiXHUyNzA1IEB2aXN0YXYycmF5ICBcdWQ4M2RcdWRjNDhcdWQ4M2RcdWRjNDhcdTA2YTlcdTA2MjdcdTA2NDZcdTA2MjdcdTA2NDQgXHUwNjQ1XHUwNjI3IiwiYWRkIjoiY3BhbmVsLmVyYWRlMzIuaXIiLCJwb3J0IjoxMDAsImlkIjoiMDA5MTRkZTQtYTA2OS00YTE0LWFhMzctZjI4OWJiZDZmNzY5IiwiYWlkIjowLCJzY3kiOiJhdXRvIiwibmV0IjoidGNwIiwidHlwZSI6Im5vbmUiLCJwYXRoIjoiLyJ9
 vmess://eyJ2IjoiMiIsInBzIjoiXHUyNzA1IEB2aXN0YXYycmF5ICBcdWQ4M2RcdWRjNDhcdWQ4M2RcdWRjNDhcdTA2YTlcdTA2MjdcdTA2NDZcdTA2MjdcdTA2NDQgXHUwNjQ1XHUwNjI3IiwiYWRkIjoiMjA5LjEyNi44NC4xODkiLCJwb3J0Ijo0NDMsImlkIjoiMmM5ODExNjQtOWI5My00YmNhLTk0ZmYtYjc4ZDNmODQ5OGQ3IiwiYWlkIjowLCJzY3kiOiJhdXRvIiwibmV0Ijoid3MiLCJ0eXBlIjoiLS0tIiwicGF0aCI6Ii92bWVzc3dzIn0
 vless://41b8c97a-7fac-4191-8922-f58d42a9acf7@app-stg.gopay.co.id.servpn.my.id:443?type=ws&security=tls&path=/id5?ed=2048@&sni=app-stg.gopay.co.id.servpn.my.id&fp=chrome#app-stg.gopay.co.id.servpn.my.id:443
@@ -31,5 +31,5 @@ vless://0132166f-e702-48ed-a9e7-b07af768faf8@25.129.199.251:8880?type=ws&securit
 vless://5da52d2d-1ab8-48d0-8421-8354fd6ce7d3@www.visa.com.tw:443?type=ws&security=tls&path=/&sni=rAyAn-cOnFiG-04.rAyAn-iI.DnS-DyNaMiC.NeT&fp=chrome#www.visa.com.tw:443
 vless://5da1f823-b460-407c-86d7-13b9b00a62f2@ch.napsternetx.ir:2096?type=tcp&security=none#ch.napsternetx.ir:2096
 vless://855793d3-b604-4031-97c1-3f20d7a57b1e@c20f6d3f4b1883b1c20f6d3f4b1883b1c20f6d3f4b1883b1.jewelll.ir:17500?type=tcp&security=none#c20f6d3f4b1883b1c20f6d3f4b1883b1c20f6d3f4b1883b1.jewelll.ir:17500
-trojan://u9trzh25-ojlo-rfdh-w8kq-sf5scb8k3zb0@127.0.0.1:8080?security=tls&type=tcp#For enhanced GitHub access, visit Argh94 now!
-trojan://n05zfeod-1r0v-izis-ksxr-u51ergk9n6ir@127.0.0.1:8081?security=tls&type=tcp#</> Collector v5.0
+trojan://a18ydowu-nfl8-58j6-psc5-e14zy1m9guta@127.0.0.1:8080?security=tls&type=tcp#For enhanced GitHub access, visit Argh94 now!
+trojan://i68yfcrz-his5-23eo-s4np-1t8e870uc52a@127.0.0.1:8081?security=tls&type=tcp#</> Collector v5.0

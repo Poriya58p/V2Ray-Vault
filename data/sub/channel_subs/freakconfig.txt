@@ -1,6 +1,6 @@
-trojan://tom2vlos-hj4l-1o9n-a4rh-s8kp8kp05hwa@127.0.0.1:1080?security=tls&type=tcp#🕒 LAST UPDATE: 2025/08/28 | 04:36
-trojan://keyk2bbz-t58v-ta54-a6eu-2tyjxfjrdk2l@127.0.0.1:2080?security=tls&type=tcp#This is a free trial project.
-trojan://bnwfee4i-xh4q-df9s-e2xg-s9vns5zpo1sw@127.0.0.1:4080?security=tls&type=tcp#「 GitHub Argh94 ☕ 」
+trojan://d83nwm4a-da63-qvuz-axqr-btygap5jnhn0@127.0.0.1:1080?security=tls&type=tcp#🕒 LAST UPDATE: 2025/08/28 | 07:53
+trojan://jevtavr5-wy3w-afl9-4egh-m8hsho1pmrfx@127.0.0.1:2080?security=tls&type=tcp#This is a free trial project.
+trojan://x6z44t5y-y16e-1j01-grtm-xb2ra04f08pc@127.0.0.1:4080?security=tls&type=tcp#「 GitHub Argh94 ☕ 」
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjdklJODVUclc2bjBPR3lmcEhWUzF1@45.87.175.200:8080#45.87.175.200:8080
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpja1Z4eEJMQVZiRVF4eHJSRFNySHBZ@104.248.36.101:80#104.248.36.101:80
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@45.87.175.28:8080#45.87.175.28:8080
@@ -130,5 +130,5 @@ vless://aa1aac84-6a86-41b9-bd34-1a036e06976f@185.250.181.128:16106?type=tcp&secu
 hysteria2://Telegram--%3E%40Ln2Ray@gavazn.lnmarketplace.net:45000?sni=gavazn.55994421.xyz&insecure=1&obfs=salamander#gavazn.lnmarketplace.net:45000
 hysteria2://Yet-Another-Public-Config-1@yapc-1.adamhayward.co.uk:35000?sni=YAPC-1.afshin.ir&insecure=1&obfs=salamander#yapc-1.adamhayward.co.uk:35000
 hysteria2://Yet-Another-Public-Config-1@yapc-1.adamhayward.co.uk:35000?sni=YAPC-1.afshin.ir&insecure=1&obfs=salamander#yapc-1.adamhayward.co.uk:35000
-trojan://yhmkt49u-pod7-q1ub-w28s-juq8z12zihqf@127.0.0.1:8080?security=tls&type=tcp#For enhanced GitHub access, visit Argh94 now!
-trojan://mx5op9vw-ec6u-p3wb-tvpc-c7y1p4qngp9y@127.0.0.1:8081?security=tls&type=tcp#</> Collector v5.0
+trojan://t5lrl2sx-cy14-a0if-bfji-6yp3exi679ex@127.0.0.1:8080?security=tls&type=tcp#For enhanced GitHub access, visit Argh94 now!
+trojan://efmebl7v-jne4-0zd5-tahg-6anr4lj83l1s@127.0.0.1:8081?security=tls&type=tcp#</> Collector v5.0

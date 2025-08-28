@@ -1,6 +1,6 @@
-trojan://o5zcu7nv-dd58-cbt0-ipum-6pio6rkvnxze@127.0.0.1:1080?security=tls&type=tcp#🕒 LAST UPDATE: 2025/08/28 | 04:36
-trojan://i70j6spz-1jzx-rdfs-2j19-9lxfj8nrgy11@127.0.0.1:2080?security=tls&type=tcp#This is a free trial project.
-trojan://mguva0ua-xl63-0hw9-bfa9-30zhe4mevug4@127.0.0.1:4080?security=tls&type=tcp#「 GitHub Argh94 ☕ 」
+trojan://d8aa3vt3-2s7i-ztyj-0u6z-rb239o1uewqc@127.0.0.1:1080?security=tls&type=tcp#🕒 LAST UPDATE: 2025/08/28 | 07:53
+trojan://sch9sx1p-lq5t-68gp-kwty-co0d5c0xeedh@127.0.0.1:2080?security=tls&type=tcp#This is a free trial project.
+trojan://4miej4wd-gpm9-0jsq-45xa-lpc32jlrj9dd@127.0.0.1:4080?security=tls&type=tcp#「 GitHub Argh94 ☕ 」
 vless://abacc9c9-45b5-4a6e-9de7-af2c84bf2791@80808.sbs:8443?type=tcp&security=reality&sni=dropbox.com&fp=safari&flow=xtls-rprx-vision&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc#NL 🇳🇱 ┇ VLESS-TCP-RLT - Oxide Group Limited ┇ 185.227.70.166
-trojan://nut8n0r4-4ild-te8u-oiv4-rwywl6g6elxj@127.0.0.1:8080?security=tls&type=tcp#For enhanced GitHub access, visit Argh94 now!
-trojan://kz02q8eo-77b8-kqge-av3c-7cz2enxcgo6k@127.0.0.1:8081?security=tls&type=tcp#</> Collector v5.0
+trojan://8rhlu3u1-asn6-rei4-kti7-e9sy08bms1av@127.0.0.1:8080?security=tls&type=tcp#For enhanced GitHub access, visit Argh94 now!
+trojan://7dwcz6u0-qsed-qzfr-6ycm-0emmrotnfpvx@127.0.0.1:8081?security=tls&type=tcp#</> Collector v5.0

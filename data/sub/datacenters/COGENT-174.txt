@@ -1,7 +1,7 @@
-trojan://7ml0t6px-sz6k-6xgj-fb3d-2v850xtree0w@127.0.0.1:1080?security=tls&type=tcp#🕒 LAST UPDATE: 2025/08/28 | 04:36
-trojan://9jw79v6a-2g2j-g4pg-9gjs-rqi9hsy6e1cz@127.0.0.1:2080?security=tls&type=tcp#This is a free trial project.
-trojan://3m15f1t7-bd3l-1o2z-g48o-97hy8iy5t9y9@127.0.0.1:4080?security=tls&type=tcp#「 GitHub Argh94 ☕ 」
+trojan://2ygnffuq-mfdv-3xpi-092c-pxup78wr8jse@127.0.0.1:1080?security=tls&type=tcp#🕒 LAST UPDATE: 2025/08/28 | 07:53
+trojan://sk7q0jmk-ehnz-urls-7kli-l3ivbziin73t@127.0.0.1:2080?security=tls&type=tcp#This is a free trial project.
+trojan://isnozvy6-anlq-dyd8-manr-tzvb6814fxcc@127.0.0.1:4080?security=tls&type=tcp#「 GitHub Argh94 ☕ 」
 vmess://eyJ2IjoiMiIsInBzIjoiVVMgXHVkODNjXHVkZGZhXHVkODNjXHVkZGY4IFx1MjUwNyBWTUVTUy1UQ1AtTlRMUyAtIENPR0VOVC0xNzQgXHUyNTA3IDM4LjU0LjI1MC41MiIsImFkZCI6IjM4LjU0LjI1MC41MiIsInBvcnQiOjUxNDMxLCJpZCI6IjQxODA0OGFmLWEyOTMtNGI5OS05YjBjLTk4Y2EzNTgwZGQyNCIsImFpZCI6NjQsInNjeSI6ImF1dG8iLCJuZXQiOiJ0Y3AiLCJ0eXBlIjoibm9uZSJ9
 vless://8b7aa0c1-498f-41c6-c2df-d768404035e6@154.36.183.98:30025?type=tcp&security=reality&sni=www.lovelive-anime.jp&fp=safari&flow=xtls-rprx-vision&pbk=4comh-7Jm_wZXJQ5QiLSCbVGQIbMUzHUIBdb0aFtLzM#JP 🇯🇵 ┇ VLESS-TCP-RLT - COGENT-174 ┇ 154.36.183.98
-trojan://bmvh8ley-d1eh-4542-j9hh-uyc95sd9w0cf@127.0.0.1:8080?security=tls&type=tcp#For enhanced GitHub access, visit Argh94 now!
-trojan://q71whhd6-w5tf-csag-vwnn-3z83i5rh3s7o@127.0.0.1:8081?security=tls&type=tcp#</> Collector v5.0
+trojan://o9vn7w74-jxi1-86g4-1we8-fxkcxs8p6mp2@127.0.0.1:8080?security=tls&type=tcp#For enhanced GitHub access, visit Argh94 now!
+trojan://d3tmej8s-quje-6t7r-t79p-w9q5g95wku0c@127.0.0.1:8081?security=tls&type=tcp#</> Collector v5.0

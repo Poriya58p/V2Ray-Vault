@@ -1,6 +1,6 @@
-trojan://9rb9e7f0-qbov-5ion-e73r-4br2b90e1rnj@127.0.0.1:1080?security=tls&type=tcp#🕒 LAST UPDATE: 2025/08/28 | 04:36
-trojan://nbsape7j-80kj-hivs-3q8g-1jv4haaf3v3i@127.0.0.1:2080?security=tls&type=tcp#This is a free trial project.
-trojan://aph2q78d-6fbz-ky19-7na7-sumop4d88c67@127.0.0.1:4080?security=tls&type=tcp#「 GitHub Argh94 ☕ 」
+trojan://zqd85xv3-ar33-mfyi-r0v0-6lpa3bf4ur47@127.0.0.1:1080?security=tls&type=tcp#🕒 LAST UPDATE: 2025/08/28 | 07:53
+trojan://vrn0b685-m8b0-yvhp-kbxv-4regedjgpkil@127.0.0.1:2080?security=tls&type=tcp#This is a free trial project.
+trojan://izi1vlmi-yulg-7p7n-dubs-buqx2bdh34jb@127.0.0.1:4080?security=tls&type=tcp#「 GitHub Argh94 ☕ 」
 vless://a51d095d-ae00-4213-a24c-e5239db416f3@172.66.40.99:80?type=ws&security=none&path=/Join-ZEDMODEON-ZEDMODEON-ZEDMODEON-bia-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON#172.66.40.99:80
 vless://f910c3e7-e42a-4e65-9fdc-6595e0ed6f81@172.66.40.99:80?type=ws&security=none&path=/Join-ZEDMODEON-ZEDMODEON-ZEDMODEON-bia-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON#172.66.40.99:80
 vless://2d4a3764-db86-4515-8193-23bc49e73189@172.66.40.99:80?type=ws&security=none&path=/Join-ZEDMODEON-ZEDMODEON-ZEDMODEON-bia-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON#172.66.40.99:80
@@ -14,5 +14,5 @@ vless://7d22d6f7-bd15-4ae3-a41c-707427f51753@63.141.128.13:80?type=ws&security=n
 vless://5fd9c3f7-bd70-4dab-8915-4c57bfe2b309@63.141.128.0:80?type=ws&security=none&path=/Join-ZEDMODEON-ZEDMODEON-ZEDMODEON-bia-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON#63.141.128.0:80
 vless://f55fa25b-9aae-4828-8fbb-d0fb6c63b8c3@63.141.128.22:80?type=ws&security=none&path=/Join-ZEDMODEON-ZEDMODEON-ZEDMODEON-bia-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON#63.141.128.22:80
 vless://9d0f4677-d396-4291-a371-abd3d2e7e462@63.141.128.16:80?type=ws&security=none&path=/Join-ZEDMODEON-ZEDMODEON-ZEDMODEON-bia-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON#63.141.128.16:80
-trojan://tq3qkad6-z4hd-5v8d-jm6s-2ifw31yhsvls@127.0.0.1:8080?security=tls&type=tcp#For enhanced GitHub access, visit Argh94 now!
-trojan://ta5rtt91-eyc1-346m-kcnm-hvzz4hr8ak9z@127.0.0.1:8081?security=tls&type=tcp#</> Collector v5.0
+trojan://zqxh4usv-rsxe-75wh-m0d8-kavr0a5qhbyu@127.0.0.1:8080?security=tls&type=tcp#For enhanced GitHub access, visit Argh94 now!
+trojan://x1ojgmnt-r7yg-9x51-jf02-5ls2298k1vnj@127.0.0.1:8081?security=tls&type=tcp#</> Collector v5.0

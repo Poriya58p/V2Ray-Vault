@@ -1,8 +1,8 @@
-trojan://6yew96ag-xqvp-ah9g-slpz-zo522olhvywb@127.0.0.1:1080?security=tls&type=tcp#🕒 LAST UPDATE: 2025/08/28 | 04:36
-trojan://tpg7xaa0-4dvz-5d6i-7lj2-h5tlj2u6759n@127.0.0.1:2080?security=tls&type=tcp#This is a free trial project.
-trojan://1yjojpuk-byt4-cqa3-6gz8-e20u3f217gbs@127.0.0.1:4080?security=tls&type=tcp#「 GitHub Argh94 ☕ 」
+trojan://rv0jwd1i-d349-li1a-2h6q-xd3mauqx2h1i@127.0.0.1:1080?security=tls&type=tcp#🕒 LAST UPDATE: 2025/08/28 | 07:53
+trojan://6yqhu5vi-gds7-g5jb-boz3-8foydojhqya8@127.0.0.1:2080?security=tls&type=tcp#This is a free trial project.
+trojan://9d3gih9c-fxnm-g721-dwsa-fe97kctjjsqv@127.0.0.1:4080?security=tls&type=tcp#「 GitHub Argh94 ☕ 」
 vless://97899a35-53a2-42b0-bc47-587d220772a1@91.107.179.99:443?type=grpc&security=reality&sni=greenpepper.ir&fp=firefox&pbk=R3MMDRlsQpis_5qP60bKS7NKBmheziLeqSboauBbKnU&sid=a62fe261#91.107.179.99:443
 vless://97899a35-53a2-42b0-bc47-587d220772a1@91.107.179.99:443?type=grpc&security=reality&sni=greenpepper.ir&fp=firefox&pbk=R3MMDRlsQpis_5qP60bKS7NKBmheziLeqSboauBbKnU&sid=a62fe261#91.107.179.99:443
 vless://97899a35-53a2-42b0-bc47-587d220772a1@91.107.179.99:443?type=grpc&security=reality&sni=greenpepper.ir&fp=firefox&pbk=R3MMDRlsQpis_5qP60bKS7NKBmheziLeqSboauBbKnU&sid=a62fe261#91.107.179.99:443
-trojan://lo3im981-2ase-afen-bjrv-o483u4qsb05t@127.0.0.1:8080?security=tls&type=tcp#For enhanced GitHub access, visit Argh94 now!
-trojan://jwfjp38z-0alz-k3bw-w29d-kls3rij51krw@127.0.0.1:8081?security=tls&type=tcp#</> Collector v5.0
+trojan://jg0xv1fm-e4dg-8rgy-swdd-k05z1hxi93jd@127.0.0.1:8080?security=tls&type=tcp#For enhanced GitHub access, visit Argh94 now!
+trojan://ls2d6ftp-g48d-ro8n-xuh8-71rhucjwg5dk@127.0.0.1:8081?security=tls&type=tcp#</> Collector v5.0
