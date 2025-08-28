@@ -1,6 +1,6 @@
-trojan://13lux0qt-rqfo-0mjh-6mev-lrb79vsomjul@127.0.0.1:1080?security=tls&type=tcp#🕒 LAST UPDATE: 2025/08/28 | 11:56
-trojan://if6m45vn-5w67-t3uc-yiu0-i10z8epx2yqj@127.0.0.1:2080?security=tls&type=tcp#This is a free trial project.
-trojan://7pr7sjxq-4te1-muy6-7fl1-qzt8hqiia3rh@127.0.0.1:4080?security=tls&type=tcp#「 GitHub Argh94 ☕ 」
+trojan://we7mlg2t-rv6v-jnh5-vukz-8xjmvtq9sqc7@127.0.0.1:1080?security=tls&type=tcp#🕒 LAST UPDATE: 2025/08/28 | 16:03
+trojan://1und0xsm-3wwj-kkje-epze-flz9n9xwo8ho@127.0.0.1:2080?security=tls&type=tcp#This is a free trial project.
+trojan://022xhr3g-0cnh-jz9h-y8er-brzw54ltz0gq@127.0.0.1:4080?security=tls&type=tcp#「 GitHub Argh94 ☕ 」
 vless://206b6081-24e9-4516-aa1c-90fc57614f9a@173.245.59.132:8080?type=httpupgrade&security=none&path=/@MaSTeRSeRVeR1-@-MaSTeRSeRVeR1@MaSTeRSeRVeR1-@MaSTeRSeRVeR1-@MaSTeRSeRVeR1-@MaSTeRSeRVeR1?ed=2048#173.245.59.132:8080
 vless://206b6081-24e9-4516-aa1c-90fc57614f9a@198.41.216.98:8080?type=httpupgrade&security=none&path=/@MaSTeRSeRVeR1-@-MaSTeRSeRVeR1@MaSTeRSeRVeR1-@MaSTeRSeRVeR1-@MaSTeRSeRVeR1-@MaSTeRSeRVeR1?ed=2048#198.41.216.98:8080
 vless://090d1971-1f5b-48c3-9b65-a6b23902e950@173.245.59.132:8080?type=httpupgrade&security=none&path=/@MaSTeRSeRVeR1-@-MaSTeRSeRVeR1@MaSTeRSeRVeR1-@MaSTeRSeRVeR1-@MaSTeRSeRVeR1-@MaSTeRSeRVeR1?ed=2048#173.245.59.132:8080
@@ -19,5 +19,5 @@ vless://4d93f16b-d2d2-4267-819e-5d5c297efac5@173.245.59.132:8080?type=httpupgrad
 vless://4d93f16b-d2d2-4267-819e-5d5c297efac5@198.41.216.98:8080?type=httpupgrade&security=none&path=/@MaSTeRSeRVeR1-@-MaSTeRSeRVeR1@MaSTeRSeRVeR1-@MaSTeRSeRVeR1-@MaSTeRSeRVeR1-@MaSTeRSeRVeR1?ed=2048#198.41.216.98:8080
 vless://917d8893-4663-4dc2-bed3-9ef0bd11d022@173.245.59.132:8080?type=httpupgrade&security=none&path=/@MaSTeRSeRVeR1-@-MaSTeRSeRVeR1@MaSTeRSeRVeR1-@MaSTeRSeRVeR1-@MaSTeRSeRVeR1-@MaSTeRSeRVeR1?ed=2048#173.245.59.132:8080
 vless://917d8893-4663-4dc2-bed3-9ef0bd11d022@198.41.216.98:8080?type=httpupgrade&security=none&path=/@MaSTeRSeRVeR1-@-MaSTeRSeRVeR1@MaSTeRSeRVeR1-@MaSTeRSeRVeR1-@MaSTeRSeRVeR1-@MaSTeRSeRVeR1?ed=2048#198.41.216.98:8080
-trojan://63mc98ae-rmhc-1qgp-9f1f-s9skwgwk5pfn@127.0.0.1:8080?security=tls&type=tcp#For enhanced GitHub access, visit Argh94 now!
-trojan://0tco7eio-q2x1-diwa-piw8-79u9p13grjfc@127.0.0.1:8081?security=tls&type=tcp#</> Collector v5.0
+trojan://c8vdrzjn-gqcy-a0kj-7erd-d2jor3eidx2f@127.0.0.1:8080?security=tls&type=tcp#For enhanced GitHub access, visit Argh94 now!
+trojan://kmvhvjfw-2hwz-zyom-o5h1-cqylvafmc6s8@127.0.0.1:8081?security=tls&type=tcp#</> Collector v5.0

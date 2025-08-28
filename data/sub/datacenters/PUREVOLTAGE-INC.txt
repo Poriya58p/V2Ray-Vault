@@ -1,7 +1,7 @@
-trojan://9qofvtaj-i6o0-1n0x-4bv4-qx83zxnapxwj@127.0.0.1:1080?security=tls&type=tcp#🕒 LAST UPDATE: 2025/08/28 | 11:56
-trojan://r07tdqhn-806q-7ib9-eou5-k3ga7grk3ma4@127.0.0.1:2080?security=tls&type=tcp#This is a free trial project.
-trojan://96021kso-xmqd-r4o1-jfgi-zajeickij7tt@127.0.0.1:4080?security=tls&type=tcp#「 GitHub Argh94 ☕ 」
+trojan://ig7o3ro5-9vj3-nj2k-of7j-jwfkwvlqi5nj@127.0.0.1:1080?security=tls&type=tcp#🕒 LAST UPDATE: 2025/08/28 | 16:03
+trojan://6cbq962l-zpw8-38pt-ti9a-edz6ovs7s4hh@127.0.0.1:2080?security=tls&type=tcp#This is a free trial project.
+trojan://de61ciad-r4c5-lanx-oxe6-ov6f8zas74zg@127.0.0.1:4080?security=tls&type=tcp#「 GitHub Argh94 ☕ 」
 vless://49ed01ad-3bb4-204f-b0ff-a58f658fd618@103.175.79.10:443?type=tcp&security=reality&sni=speed.cloudflare.com&fp=chrome&flow=xtls-rprx-vision&pbk=4e-unF1RO2v--E7-X3aqxnCSPaK9QaTfJ7LawAr2bRI#PK 🇵🇰 ┇ VLESS-TCP-RLT - PUREVOLTAGE-INC ┇ 103.175.79.10
 vless://a87bf8a2-17a4-3054-b51e-876b5f1d0f24@146.19.90.2:443?type=tcp&security=reality&sni=speed.cloudflare.com&fp=chrome&flow=xtls-rprx-vision&pbk=oE7ZEghzkaOUiw1q3PqBtpllP1NlPHLY8ydJRuICtko#SC 🇸🇨 ┇ VLESS-TCP-RLT - PUREVOLTAGE-INC ┇ 146.19.90.2
-trojan://rphzzl0p-85l7-70bs-5kvz-wqrpcbaaf1ms@127.0.0.1:8080?security=tls&type=tcp#For enhanced GitHub access, visit Argh94 now!
-trojan://0pwg7iyh-fwyl-yuwf-ittx-cqypsjkadei0@127.0.0.1:8081?security=tls&type=tcp#</> Collector v5.0
+trojan://kznf5hs5-o99h-235b-n2ij-1puhobo5449s@127.0.0.1:8080?security=tls&type=tcp#For enhanced GitHub access, visit Argh94 now!
+trojan://ph1xs3x6-dlls-ospu-2wgx-w30ccm1oabsr@127.0.0.1:8081?security=tls&type=tcp#</> Collector v5.0

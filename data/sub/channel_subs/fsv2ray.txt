@@ -1,9 +1,9 @@
-trojan://xjt3tkxz-f32a-ynml-8vbq-lq4j8ewxnocy@127.0.0.1:1080?security=tls&type=tcp#🕒 LAST UPDATE: 2025/08/28 | 11:56
-trojan://mzkiwzdo-r2hj-eoyf-7nln-oapf9t1p9yvd@127.0.0.1:2080?security=tls&type=tcp#This is a free trial project.
-trojan://cydq1rea-oyez-hhsm-ombx-1d4bjx72ls73@127.0.0.1:4080?security=tls&type=tcp#「 GitHub Argh94 ☕ 」
+trojan://uqfrk5zh-bfsq-qmfd-aong-smriur4czx71@127.0.0.1:1080?security=tls&type=tcp#🕒 LAST UPDATE: 2025/08/28 | 16:03
+trojan://rj469z9b-t5dn-fmcv-msaa-qzfljlhy283s@127.0.0.1:2080?security=tls&type=tcp#This is a free trial project.
+trojan://d72e5wjg-bt4z-kj6i-tg4c-ya6nlqen30d2@127.0.0.1:4080?security=tls&type=tcp#「 GitHub Argh94 ☕ 」
 vless://52e4edf7-efa5-4560-f4b3-a7e86a00dc86@fsv2ray.t-sub.site:12445?type=grpc&security=reality&fp=chrome&pbk=vdoHcKwLMoMWsNzYOCAsituwxf1V21r2lW2Fto509Tc#fsv2ray.t-sub.site:12445
 vless://42e4edf7-efa5-4560-f4b3-a7e86a00dc86@fsv2ray.t-sub.site:12445?type=grpc&security=reality&fp=chrome&pbk=vdoHcKwLMoMWsNzYOCAsituwxf1V21r2lW2Fto509Tc#fsv2ray.t-sub.site:12445
 vless://493e3fd9-b696-4eca-9c68-cfb00c22ff55@fsv2ray.t-sub.site:12445?type=grpc&security=reality&fp=chrome&pbk=vdoHcKwLMoMWsNzYOCAsituwxf1V21r2lW2Fto509Tc#fsv2ray.t-sub.site:12445
 vless://83656dde-bb8f-4f02-c771-8123b8943c71@fsv2ray.t-sub.site:51019?type=grpc&security=reality&sni=ftp.debian.org&fp=chrome&pbk=geB_QyPKFXVFbAD8fWednlx-7d1NOGAuLPVQOgHzRw0&sid=354998e8#fsv2ray.t-sub.site:51019
-trojan://6e838to0-yf04-fxj2-dvi0-dgfimkc7sm7d@127.0.0.1:8080?security=tls&type=tcp#For enhanced GitHub access, visit Argh94 now!
-trojan://4vwttxpk-243o-y8dx-w7mp-iu7yuoscl5bj@127.0.0.1:8081?security=tls&type=tcp#</> Collector v5.0
+trojan://5ht50tnz-81oy-9193-ehb7-lkijbxypgfln@127.0.0.1:8080?security=tls&type=tcp#For enhanced GitHub access, visit Argh94 now!
+trojan://wotacjw3-3gyw-ixya-4nvq-p6rv8swp5xfv@127.0.0.1:8081?security=tls&type=tcp#</> Collector v5.0

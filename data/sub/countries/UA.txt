@@ -1,9 +1,9 @@
-trojan://rtg2ajmi-fm55-v01r-4tm2-uxuozzcitrek@127.0.0.1:1080?security=tls&type=tcp#🕒 LAST UPDATE: 2025/08/28 | 11:56
-trojan://m6lndzf0-5p8e-beuo-e9lw-iev6jfkjd3nl@127.0.0.1:2080?security=tls&type=tcp#This is a free trial project.
-trojan://vsi994gj-2wir-qodm-mf5d-ahgtczqav0w3@127.0.0.1:4080?security=tls&type=tcp#「 GitHub Argh94 ☕ 」
+trojan://m3hsladk-syyz-vdpa-rwwo-bjkitln9ubrz@127.0.0.1:1080?security=tls&type=tcp#🕒 LAST UPDATE: 2025/08/28 | 16:03
+trojan://qcnhzlet-s85c-c43u-56la-ky9o1omqjr91@127.0.0.1:2080?security=tls&type=tcp#This is a free trial project.
+trojan://by3gwef6-96ez-y14r-v2o1-7q0cej1n3s9p@127.0.0.1:4080?security=tls&type=tcp#「 GitHub Argh94 ☕ 」
+hysteria2://c6e02cd8-ce11-40f0-afeb-e2c412b6cc3a@185.126.255.78:37058?sni=dxobg4azmk.gafnode.sbs&insecure=0#UA 🇺🇦 ┇ HYSTERIA2-TCP-NTLS - South Park Networks LLC ┇ 185.126.255.78
 vless://1affd7a7-6ea5-4284-89b6-f25d7805c5bc@212.79.125.38:16816?type=tcp&security=reality&sni=discord.com&fp=chrome&pbk=n9OO75eOaHXQyfUByQSZviDY4RmSUQyoU1YSs4yQXEs&sid=7f700392#UA 🇺🇦 ┇ VLESS-TCP-RLT - South Park Networks LLC ┇ 212.79.125.38
 ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw@5.188.6.8:989#UA 🇺🇦 ┇ SHADOWSOCKS-TCP-NTLS - G-Core Labs S.A. ┇ 5.188.6.8
-hysteria2://c6e02cd8-ce11-40f0-afeb-e2c412b6cc3a@185.126.255.78:37058?sni=dxobg4azmk.gafnode.sbs&insecure=0#UA 🇺🇦 ┇ HYSTERIA2-TCP-NTLS - South Park Networks LLC ┇ 185.126.255.78
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@176.103.53.105:990#UA 🇺🇦 ┇ SHADOWSOCKS-TCP-NTLS - Ivanov Vitaliy Sergeevich ┇ 176.103.53.105
-trojan://j6d3fc76-2pjn-db9o-dmcg-oi9zbncxgq0i@127.0.0.1:8080?security=tls&type=tcp#For enhanced GitHub access, visit Argh94 now!
-trojan://f0e7nhgz-7trt-xwu4-24cs-oslbkv40p7ex@127.0.0.1:8081?security=tls&type=tcp#</> Collector v5.0
+trojan://i5aucdjs-08v7-tors-0tfi-3oirhv8ofd22@127.0.0.1:8080?security=tls&type=tcp#For enhanced GitHub access, visit Argh94 now!
+trojan://91jplze5-kpn6-q0k7-tvrr-eemxpuaygqc5@127.0.0.1:8081?security=tls&type=tcp#</> Collector v5.0

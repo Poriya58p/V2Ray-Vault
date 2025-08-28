@@ -1,6 +1,6 @@
-trojan://3blkldud-yltc-gmvc-m2ae-wcyz3i538k0c@127.0.0.1:1080?security=tls&type=tcp#🕒 LAST UPDATE: 2025/08/28 | 11:56
-trojan://dxuqyz00-lar0-tdp4-te4d-gntqmf7l0j1g@127.0.0.1:2080?security=tls&type=tcp#This is a free trial project.
-trojan://t7t8og6b-sqwp-b0mu-9ymm-5oenetpyuuow@127.0.0.1:4080?security=tls&type=tcp#「 GitHub Argh94 ☕ 」
+trojan://tycfpxl0-potg-jrgb-z3lq-qp1nqukak7oi@127.0.0.1:1080?security=tls&type=tcp#🕒 LAST UPDATE: 2025/08/28 | 16:03
+trojan://bbdefpka-u63z-p7jo-kjhq-6rryy6xm746u@127.0.0.1:2080?security=tls&type=tcp#This is a free trial project.
+trojan://fmzt06fh-kxae-vbhv-53c1-mcw2990ape81@127.0.0.1:4080?security=tls&type=tcp#「 GitHub Argh94 ☕ 」
 vmess://eyJ2IjoiMiIsInBzIjoiXHUwNmE5XHUwNjI3XHUwNjQ2XHUwNjQxXHUwNmNjXHUwNjQ2XHUwNmFmIFx1MDY0N1x1MDYyN1x1MDZjYyBcdTA2MjhcdTA2Y2NcdTA2MzRcdTA2MmFcdTA2MzEgOiBWMnJheU5HaUAiLCJhZGQiOiJzZy1sYi52aGF4Lm5ldCIsInBvcnQiOjgwLCJpZCI6IjZmZWExNjQ5LTQyNWItNDA5Mi1iZjUzLTI5NzkyMTUyYzkyNSIsImFpZCI6MCwic2N5IjoiYXV0byIsIm5ldCI6IndzIiwicGF0aCI6Ii9zc2hraXQvVWhzaGdzZzY1Zy82MzUzMDdhNTQ5NjhiLyJ9
 vmess://eyJ2IjoiMiIsInBzIjoiXHUwNmE5XHUwNjI3XHUwNjQ2XHUwNjQxXHUwNmNjXHUwNjQ2XHUwNmFmIFx1MDY0N1x1MDYyN1x1MDZjYyBcdTA2MjhcdTA2Y2NcdTA2MzRcdTA2MmFcdTA2MzEgOiBWMnJheU5HaUAiLCJhZGQiOiJzZy1sYi52aGF4Lm5ldCIsInBvcnQiOjgwLCJpZCI6IjZmZWExNjQ5LTQyNWItNDA5Mi1iZjUzLTI5NzkyMTUyYzkyNSIsImFpZCI6MCwic2N5IjoiYXV0byIsIm5ldCI6IndzIiwicGF0aCI6Ii9zc2hraXQvSmVnYXJqb242NS82MzUzMDZkODk5YjMxLyJ9
 vmess://eyJ2IjoiMiIsInBzIjoiXHUwNmE5XHUwNjI3XHUwNjQ2XHUwNjQxXHUwNmNjXHUwNjQ2XHUwNmFmIFx1MDY0N1x1MDYyN1x1MDZjYyBcdTA2MjhcdTA2Y2NcdTA2MzRcdTA2MmFcdTA2MzEgOiBWMnJheU5HaUAiLCJhZGQiOiJzZy1sYi52aGF4Lm5ldCIsInBvcnQiOjgwLCJpZCI6IjZmZWExNjQ5LTQyNWItNDA5Mi1iZjUzLTI5NzkyMTUyYzkyNSIsImFpZCI6MCwic2N5IjoiYXV0byIsIm5ldCI6IndzIiwicGF0aCI6Ii9zc2hraXQvTmFyb2loODcvNjM1MmZkOWM0ODc0Ni8ifQ
@@ -16,5 +16,5 @@ vless://d4e44ae4-3a7f-4a06-bfdf-a5648998607a@78.47.23.199:45470?type=ws&security
 vless://d4e44ae4-3a7f-4a06-bfdf-a5648998607a@78.47.23.199:45470?type=ws&security=none&path=/#78.47.23.199:45470
 vless://4fb3e790-b115-47b8-982b-0973c00c0f9f@116.202.177.190:42067?type=ws&security=none&path=/#116.202.177.190:42067
 vless://4fb3e790-b115-47b8-982b-0973c00c0f9f@116.202.177.190:42067?type=ws&security=none&path=/#116.202.177.190:42067
-trojan://6r4xrksr-x4ly-e0e7-9u8g-7vvv2d3expfg@127.0.0.1:8080?security=tls&type=tcp#For enhanced GitHub access, visit Argh94 now!
-trojan://0ml4uu20-y9h3-j3te-3p01-86mx3gpnwqpo@127.0.0.1:8081?security=tls&type=tcp#</> Collector v5.0
+trojan://4oswrr7b-wnxm-an47-au12-fo8uoalbvl4l@127.0.0.1:8080?security=tls&type=tcp#For enhanced GitHub access, visit Argh94 now!
+trojan://1wl918pr-behl-umvp-8ajt-uy665yqv3j7j@127.0.0.1:8081?security=tls&type=tcp#</> Collector v5.0

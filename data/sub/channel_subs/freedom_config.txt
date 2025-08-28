@@ -1,6 +1,6 @@
-trojan://qf3sfsq9-oqex-vxsd-fe47-195uyz6qxyb0@127.0.0.1:1080?security=tls&type=tcp#🕒 LAST UPDATE: 2025/08/28 | 11:56
-trojan://t98uc9d3-lbag-z755-qt0v-mdoaz7agalga@127.0.0.1:2080?security=tls&type=tcp#This is a free trial project.
-trojan://93vbz8fg-k0pk-xw8j-0may-dswo3x0mqmmh@127.0.0.1:4080?security=tls&type=tcp#「 GitHub Argh94 ☕ 」
+trojan://zuwj5dii-snav-73ci-3ba2-tw6x4ccqvbrg@127.0.0.1:1080?security=tls&type=tcp#🕒 LAST UPDATE: 2025/08/28 | 16:03
+trojan://159qk3v3-4cw5-zpvd-qlp2-f9p6skbeqnp2@127.0.0.1:2080?security=tls&type=tcp#This is a free trial project.
+trojan://6gh2u4u3-i74c-vnxx-pgog-ccy1jh997x0d@127.0.0.1:4080?security=tls&type=tcp#「 GitHub Argh94 ☕ 」
 vless://a822ca43-6bf4-4df1-b991-2b4b675ca6c7@online.4zkaban.xyz:80?type=ws&security=none&path=@Freedom_Config,@Freedom_Config,@Freedom_Config,@Freedom_Config,@Freedom_Config,@Freedom_Config,@Freedom_Config,@Freedom_Config,@Freedom_Config,@Freedom_Config,@Freedom_Config,@Freedom_Config#online.4zkaban.xyz:80
 vless://a822ca43-6bf4-4df1-b991-2b4b675ca6c7@online.4zkaban.xyz:80?type=ws&security=none&path=@Freedom_Config,@Freedom_Config,@Freedom_Config,@Freedom_Config,@Freedom_Config,@Freedom_Config,@Freedom_Config,@Freedom_Config,@Freedom_Config,@Freedom_Config,@Freedom_Config,@Freedom_Config#online.4zkaban.xyz:80
 vless://a822ca43-6bf4-4df1-b991-2b4b675ca6c7@online.4zkaban.xyz:80?type=ws&security=none&path=@Freedom_Config,@Freedom_Config,@Freedom_Config,@Freedom_Config,@Freedom_Config,@Freedom_Config,@Freedom_Config,@Freedom_Config,@Freedom_Config,@Freedom_Config,@Freedom_Config,@Freedom_Config#online.4zkaban.xyz:80
@@ -19,5 +19,5 @@ vless://c056d27f-b44c-42e7-b631-66e4c04ba35d@online.4zkaban.xyz:80?type=ws&secur
 vless://55605610-d5e8-4f76-8032-9452370fa1a2@online.4zkaban.xyz:80?type=ws&security=none&path=/@Freedom_Config,@Freedom_Config,@Freedom_Config,@Freedom_Config,@Freedom_Config,@Freedom_Config,@Freedom_Config,@Freedom_Config,@Freedom_Config,@Freedom_Config,@Freedom_Config,@Freedom_Config#online.4zkaban.xyz:80
 vless://85ed7efa-aa83-419a-8210-29919a7669e8@online.4zkaban.xyz:80?type=ws&security=none&path=@Freedom_Config,@Freedom_Config,@Freedom_Config,@Freedom_Config,@Freedom_Config,@Freedom_Config,@Freedom_Config,@Freedom_Config,@Freedom_Config,@Freedom_Config,@Freedom_Config,@Freedom_Config#online.4zkaban.xyz:80
 vless://85ed7efa-aa83-419a-8210-29919a7669e8@online.4zkaban.xyz:80?type=ws&security=none&path=@Freedom_Config,@Freedom_Config,@Freedom_Config,@Freedom_Config,@Freedom_Config,@Freedom_Config,@Freedom_Config,@Freedom_Config,@Freedom_Config,@Freedom_Config,@Freedom_Config,@Freedom_Config#online.4zkaban.xyz:80
-trojan://hl983l1m-33t8-evnf-8i97-rqfh8cff8dpo@127.0.0.1:8080?security=tls&type=tcp#For enhanced GitHub access, visit Argh94 now!
-trojan://o5y3ah3j-rosi-i3fi-yp6r-xg93rwi30ijn@127.0.0.1:8081?security=tls&type=tcp#</> Collector v5.0
+trojan://ntuvywvh-pwa7-xqbr-pp0k-qiavkt5d8rrm@127.0.0.1:8080?security=tls&type=tcp#For enhanced GitHub access, visit Argh94 now!
+trojan://5nacs2r0-b667-j48s-0znz-eay710voo4zh@127.0.0.1:8081?security=tls&type=tcp#</> Collector v5.0

@@ -1,6 +1,6 @@
-trojan://zq139a53-kjli-ssmd-o489-b0nsme1700zk@127.0.0.1:1080?security=tls&type=tcp#🕒 LAST UPDATE: 2025/08/28 | 11:56
-trojan://ox2eult3-g1jo-e1a5-t35a-kt4wg0ir0et5@127.0.0.1:2080?security=tls&type=tcp#This is a free trial project.
-trojan://w4zed7up-rmms-botb-sf5d-q2r39uqi8j82@127.0.0.1:4080?security=tls&type=tcp#「 GitHub Argh94 ☕ 」
+trojan://8ofg7ha7-rpnj-049f-d9se-s46q43eq4pp2@127.0.0.1:1080?security=tls&type=tcp#🕒 LAST UPDATE: 2025/08/28 | 16:03
+trojan://z79x7lxo-c3bj-ws3c-2137-4bw5ihdmr5g1@127.0.0.1:2080?security=tls&type=tcp#This is a free trial project.
+trojan://bsjmczxc-wos6-ae1n-i2yq-isfjjwsvbfmc@127.0.0.1:4080?security=tls&type=tcp#「 GitHub Argh94 ☕ 」
 vmess://eyJ2IjoiMiIsInBzIjoiXHUyNmFiXHVmZTBmIFRlbGVncmFtPSBAQ2FuZmluZ19WUE4iLCJhZGQiOiJtb3ZhZ2hhdDIwLmZ1bmZpbC5saW5rIiwicG9ydCI6NDg5MTMsImlkIjoiMDhhM2JkZDItMjE2Ny00NzYxLWI1NDctZThiZDFiNGE0NGVjIiwiYWlkIjowLCJzY3kiOiJhdXRvIiwibmV0IjoidGNwIiwidHlwZSI6Imh0dHAiLCJwYXRoIjoiLyJ9
 vmess://eyJ2IjoiMiIsInBzIjoiXHUyNmFiXHVmZTBmIFRlbGVncmFtPSBAQ2FuZmluZ19WUE4iLCJhZGQiOiJjdXN0b21lcnMudGVsZS1zaG9wLXRvby5zdHVkaW8iLCJwb3J0IjozMzIwMywiaWQiOiI2OTVlMzU5Yi1mNDRjLTQ3MDEtOWQ3MC04NGZjMGU3Y2VhMGIiLCJhaWQiOjAsInNjeSI6ImF1dG8iLCJuZXQiOiJ0Y3AiLCJ0eXBlIjoibm9uZSJ9
 vless://7c9e3c1d-a360-4429-9189-e45a98de7fde@104.16.53.11:8443?type=ws&security=tls&path=/Telegram@V2ray_Alpha&sni=my.ski1plag.ir&fp=random#104.16.53.11:8443
@@ -26,5 +26,5 @@ vless://39028f63-4adc-4a2c-9a57-9f583cd284e9@nl01-vlr01.tcp-reset-club.net:443?t
 vless://2a49436b-2b38-46b4-adfc-ded06dcfa63a@rlmx.mxspeed8-3.ir:2035?type=tcp&security=reality&sni=refersion.com&fp=safari&pbk=P5ToEkglPKRO87kgIZycZsfrUKqvHlPlR7Huc-Fu2WM&sid=0aa48381a702e248#rlmx.mxspeed8-3.ir:2035
 vless://2a49436b-2b38-46b4-adfc-ded06dcfa63a@mxt2.mxspeed8-3.ir:8885?type=tcp&security=reality&sni=refersion.com&fp=safari&pbk=P5ToEkglPKRO87kgIZycZsfrUKqvHlPlR7Huc-Fu2WM&sid=0aa48381a702e248#mxt2.mxspeed8-3.ir:8885
 vless://bf989dce-7af7-423b-a499-71da71cdcef1@de6rt.samsungmarketshop.ir:2083?type=xhttp&security=reality&path=/apps/Android/?ed=80&sni=refersion.com&fp=firefox&pbk=53XOEMg4ftOAn_gSdlNndT5Xrfj4PB5J-YKOZoqTODk&sid=aeba#de6rt.samsungmarketshop.ir:2083
-trojan://n02jsfq7-euve-nijq-20nt-ucro5kxjnlrk@127.0.0.1:8080?security=tls&type=tcp#For enhanced GitHub access, visit Argh94 now!
-trojan://xcgpe5cd-of08-oay4-o8f9-yg8p5b1l0np4@127.0.0.1:8081?security=tls&type=tcp#</> Collector v5.0
+trojan://q1deos2v-rq5d-ofb4-4ibl-papa8yctpiow@127.0.0.1:8080?security=tls&type=tcp#For enhanced GitHub access, visit Argh94 now!
+trojan://jda8s185-imlt-p15p-18n3-r2hw9prfie02@127.0.0.1:8081?security=tls&type=tcp#</> Collector v5.0

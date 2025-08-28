@@ -1,7 +1,7 @@
-trojan://x36bx09z-0ubb-gahb-53wt-fbz9gqtf4ltj@127.0.0.1:1080?security=tls&type=tcp#🕒 LAST UPDATE: 2025/08/28 | 11:56
-trojan://bvkq5vj5-9f73-7ktn-xxxl-yj3lyz77ybvh@127.0.0.1:2080?security=tls&type=tcp#This is a free trial project.
-trojan://jhoamy7d-ujzu-i4v9-58dk-gg8bviectwed@127.0.0.1:4080?security=tls&type=tcp#「 GitHub Argh94 ☕ 」
+trojan://46q8ae21-xzwz-rpxp-8qbm-50vgqi29c6jg@127.0.0.1:1080?security=tls&type=tcp#🕒 LAST UPDATE: 2025/08/28 | 16:03
+trojan://n7at006k-ksbv-hprm-5ps4-gxvxnnmn6rde@127.0.0.1:2080?security=tls&type=tcp#This is a free trial project.
+trojan://5eg256x7-1hf5-z7tl-moxt-o8rlherydb22@127.0.0.1:4080?security=tls&type=tcp#「 GitHub Argh94 ☕ 」
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo3OTk1MTFmZC1mZDc1LTQ0ZjktOTkzYi1lOGE0YjhhOGE2MjA@193.9.47.81:9478#BG 🇧🇬 ┇ SHADOWSOCKS-TCP-NTLS - Belcloud LTD ┇ 193.9.47.81
 vless://9bc48566-76f9-44d7-8ad0-af41336b4004@87.120.165.214:443?type=tcp&security=reality&sni=google.com&fp=chrome&flow=xtls-rprx-vision&pbk=7tgf5o3AfrE-TWqB3CpBuuZyt7S9tJq6TZ26gPWNyzY&sid=3549df188940fe#BG 🇧🇬 ┇ VLESS-TCP-RLT - Play2go International Limited ┇ 87.120.165.214
-trojan://oom00ptd-bc3p-2dsj-6bzf-nmhxgpb8k69o@127.0.0.1:8080?security=tls&type=tcp#For enhanced GitHub access, visit Argh94 now!
-trojan://8t6sbtpn-om8g-nm3y-xzvu-8mot9s4xb56v@127.0.0.1:8081?security=tls&type=tcp#</> Collector v5.0
+trojan://d0qthqlc-ilx4-cm04-p83m-dts3vr3aci2h@127.0.0.1:8080?security=tls&type=tcp#For enhanced GitHub access, visit Argh94 now!
+trojan://xg6x67bs-o4nd-ej5w-wzdl-hnlw39zv6957@127.0.0.1:8081?security=tls&type=tcp#</> Collector v5.0

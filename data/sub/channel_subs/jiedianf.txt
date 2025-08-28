@@ -1,6 +1,6 @@
-trojan://dxmo1wda-h404-ejr7-zbyd-9ge3qd2quibg@127.0.0.1:1080?security=tls&type=tcp#🕒 LAST UPDATE: 2025/08/28 | 11:56
-trojan://rv1do6mq-pqon-v5ii-0lsv-xpsqqjqe3klb@127.0.0.1:2080?security=tls&type=tcp#This is a free trial project.
-trojan://lz4ez3od-8dwq-4spr-wamn-mz46sh9h7nya@127.0.0.1:4080?security=tls&type=tcp#「 GitHub Argh94 ☕ 」
+trojan://0cj6ooai-gpyz-mvug-swy3-5wr2i482se0k@127.0.0.1:1080?security=tls&type=tcp#🕒 LAST UPDATE: 2025/08/28 | 16:03
+trojan://mseoc10f-67ek-a1n1-tn4s-r8pczi5byqsn@127.0.0.1:2080?security=tls&type=tcp#This is a free trial project.
+trojan://hp5kigp9-bri2-00rw-9huy-it7zaruofl3x@127.0.0.1:4080?security=tls&type=tcp#「 GitHub Argh94 ☕ 」
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpNLW5mZk80MEtsY2x3YkNYOUNWMURR@138.124.115.157:1080#138.124.115.157:1080
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpwaXY5N1hTMUN2YWw4NnZmd0hQRDVq@194.87.216.121:443#194.87.216.121:443
 ss://YWVzLTI1Ni1nY206NDE5NGNlNWIxZjM2ZjY2MA@176.32.35.68:30101#176.32.35.68:30101
@@ -27,5 +27,5 @@ vless://094af2f8-b421-4d0c-a96c-00625147a30c@63.141.128.13:8080?type=ws&security
 vless://5de6ad92-3282-4457-b4c4-a94dbce499b5@63.141.128.2:8080?type=ws&security=none&path=/Join-ZEDMODEON-ZEDMODEON-ZEDMODEON-bia-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON&sni=b.jOin.zEdMoDeOn.oNl.#63.141.128.2:8080
 vless://9d0f4677-d396-4291-a371-abd3d2e7e462@63.141.128.16:80?type=ws&security=none&path=/Join-ZEDMODEON-ZEDMODEON-ZEDMODEON-bia-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON&sni=e.jOin.zEdMoDeOn.oNl.#63.141.128.16:80
 vless://5fd9c3f7-bd70-4dab-8915-4c57bfe2b309@63.141.128.0:80?type=ws&security=none&path=/Join-ZEDMODEON-ZEDMODEON-ZEDMODEON-bia-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON&sni=d.jOin.zEdMoDeOn.oNl.#63.141.128.0:80
-trojan://xxbg7e2w-lyxf-m6bm-ndtw-1xnjgeyzppe2@127.0.0.1:8080?security=tls&type=tcp#For enhanced GitHub access, visit Argh94 now!
-trojan://o871qyio-n23a-9t7f-37fq-tb36l9qgp6zz@127.0.0.1:8081?security=tls&type=tcp#</> Collector v5.0
+trojan://q60s55hz-1kwj-bpmn-k4ih-ceauynrzrrp0@127.0.0.1:8080?security=tls&type=tcp#For enhanced GitHub access, visit Argh94 now!
+trojan://5r71gnw8-qpwm-kic5-dhdg-5cp9i6lb0v1q@127.0.0.1:8081?security=tls&type=tcp#</> Collector v5.0

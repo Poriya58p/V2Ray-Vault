@@ -1,6 +1,6 @@
-trojan://9bcumhwb-u6lk-xd2z-ao0t-f2w9flgyvkse@127.0.0.1:1080?security=tls&type=tcp#🕒 LAST UPDATE: 2025/08/28 | 11:56
-trojan://zb02zrmc-d05f-mrea-nbaq-ulheztlwysvu@127.0.0.1:2080?security=tls&type=tcp#This is a free trial project.
-trojan://5iirrnyo-bmv6-reb3-zwxi-phsmlidy2el5@127.0.0.1:4080?security=tls&type=tcp#「 GitHub Argh94 ☕ 」
+trojan://g9prgx8p-c31o-81hk-0d26-bgra3z9eajs4@127.0.0.1:1080?security=tls&type=tcp#🕒 LAST UPDATE: 2025/08/28 | 16:03
+trojan://nu983n4h-oaps-0lr8-zq10-1ldf4u6svvdm@127.0.0.1:2080?security=tls&type=tcp#This is a free trial project.
+trojan://58z3ai6l-g52e-nrfl-jkji-9g6ug89v9nix@127.0.0.1:4080?security=tls&type=tcp#「 GitHub Argh94 ☕ 」
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@193.29.139.235:8080#193.29.139.235:8080
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@193.29.139.235:8080#193.29.139.235:8080
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@193.29.139.235:8080#193.29.139.235:8080
@@ -15,5 +15,6 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@193.29.139.235
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@193.29.139.235:8080#193.29.139.235:8080
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@193.29.139.235:8080#193.29.139.235:8080
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@193.29.139.235:8080#193.29.139.235:8080
-trojan://7pukxdob-qd72-efk1-3dwk-m2w6jp74bi7t@127.0.0.1:8080?security=tls&type=tcp#For enhanced GitHub access, visit Argh94 now!
-trojan://22ijegxp-vmkb-37dv-jjml-lepj8t0yfqug@127.0.0.1:8081?security=tls&type=tcp#</> Collector v5.0
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@193.29.139.235:8080#193.29.139.235:8080
+trojan://i0s2sydz-j91u-muue-5pzl-7745dy32rcak@127.0.0.1:8080?security=tls&type=tcp#For enhanced GitHub access, visit Argh94 now!
+trojan://qsfjilnq-z6l1-qx2h-oud0-e6o3cvig9q8m@127.0.0.1:8081?security=tls&type=tcp#</> Collector v5.0

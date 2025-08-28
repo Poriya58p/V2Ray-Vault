@@ -1,6 +1,6 @@
-trojan://3ba5ig6r-qqec-ghdq-5dbd-ak9swwcz0w34@127.0.0.1:1080?security=tls&type=tcp#🕒 LAST UPDATE: 2025/08/28 | 11:56
-trojan://elmg3kgb-ob9g-dx82-nest-020ptcg5vgj9@127.0.0.1:2080?security=tls&type=tcp#This is a free trial project.
-trojan://6a5ej93j-hqrt-fpma-xfde-lg4uw2d6cw0i@127.0.0.1:4080?security=tls&type=tcp#「 GitHub Argh94 ☕ 」
+trojan://0hg7m5rm-et00-x2va-u5g8-ar1gqt92hg0h@127.0.0.1:1080?security=tls&type=tcp#🕒 LAST UPDATE: 2025/08/28 | 16:03
+trojan://3jakg681-e7e2-u4fg-uaea-8n67axflmax6@127.0.0.1:2080?security=tls&type=tcp#This is a free trial project.
+trojan://g1db92np-hwbz-0k72-4qj0-0y2mddmnotdx@127.0.0.1:4080?security=tls&type=tcp#「 GitHub Argh94 ☕ 」
 vmess://eyJ2IjoiMiIsInBzIjoiXHVkODNjXHVkZjRiTGVtb25TaG9wfCBGcmVlIEBsZW1vbnNob3B2cG4iLCJhZGQiOiJyLm1mLWphbnJvb3owMDEuc3RvcmUiLCJwb3J0IjoyMDg3LCJpZCI6IjVkYjRjNTFjLTczMDQtNGYwYS1iYmQ4LTA4M2QyNThjMDRlYiIsImFpZCI6MCwic2N5IjoiYXV0byIsIm5ldCI6ImdycGMiLCJ0eXBlIjoiZ3VuIiwiaG9zdCI6InFlcHJva2FhZGRmZGhkaGVlaGVoZGhzZ2Z3Z3dnc2hkaGhyNDg1NDQ4NDgxNTE1MTg0ODE4MTVlaHJqdGp5bHlranJzZmFkYXZzZGJkbmJkYnN2c3ZzdnNmc2Z3NTQ1MTYxNjIyNjYyNDU1MTUxMTkxODQ4Nzg3OTY3NjY0NjkxODE5MTU0NTUxOHJocmhnZWdlZ2VocmVoZW5xdG5xZm5xZ25xdG5xdGp3dGp3dHd0bnd0bnd0bnFnbnF0and0anl3a3d5bGV1cnVscnVldXl3a3dmcWR2ZHF2ZHZxZHZxZGJxci5tZi1qYW5yb296MDAxLnN0b3JlIiwicGF0aCI6ImRmZ2giLCJ0bHMiOiJ0bHMiLCJzbmkiOiJxZXByb2thYWRkZmRoZGhlZWhlaGRoc2dmd2d3Z3NoZGhocjQ4NTQ0ODQ4MTUxNTE4NDgxODE1ZWhyanRqeWx5a2pyc2ZhZGF2c2RiZG5iZGJzdnN2c3ZzZnNmdzU0NTE2MTYyMjY2MjQ1NTE1MTE5MTg0ODc4Nzk2NzY2NDY5MTgxOTE1NDU1MThyaHJoZ2VnZWdlaHJlaGVucXRucWZucWducXRucXRqd3Rqd3R3dG53dG53dG5xZ25xdGp3dGp5d2t3eWxldXJ1bHJ1ZXV5d2t3ZnFkdmRxdmR2cWR2cWRicXIubWYtamFucm9vejAwMS5zdG9yZSJ9
 vmess://eyJ2IjoiMiIsInBzIjoiXHVkODNjXHVkZjRiQGxlbW9uc2hvcHZwbnxURUxHUkFNIiwiYWRkIjoiamtnZC5zYnMiLCJwb3J0IjoyNzQ5MCwiaWQiOiIzNzIyZjc3Yi0yMWIwLTQ4OTItYjlmNy03OWMzM2I3NmU3MzMiLCJhaWQiOjAsInNjeSI6ImF1dG8iLCJuZXQiOiJ3cyIsInBhdGgiOiIvIn0
 vless://48bd4d22-e42f-4749-af6a-85ecf716c823@ubia2-join.outline-vpn.cloud:80?type=ws&security=none&path=/?ed=2048#ubia2-join.outline-vpn.cloud:80
@@ -10,5 +10,5 @@ vless://b75b3034-36ab-4979-beae-3d02db1b11ec@cxc--join.outline-vpn.cloud:443?typ
 vless://b75b3034-36ab-4979-beae-3d02db1b11ec@cxc--join.outline-vpn.cloud:443?type=ws&security=tls&path=/?ed&sni=always-online1.lp-airdrop.top#cxc--join.outline-vpn.cloud:443
 vless://f4e22eff-20b2-4af7-aee9-4a67b82b47f3@www.speedtest.net:80?type=ws&security=none&path=/@Config_On , @Config_On , @Config_On , @Config_On , @Config_On , @Config_On , @Config_On , @Config_On , @Config_On , @Config_On , @Config_On , @Config_On , @Config_On , @Config_On , @Config_On , @Config_On , @Config_On , @Config_On , @Config_On , @Config_On , @Config_On , @Config_On , @Config_On , @Config_On#www.speedtest.net:80
 vless://d6cfdcef-d6c0-40b4-a257-ae379a6e5e01@par.lemonsubor.monster:2610?type=tcp&security=none&path=/#par.lemonsubor.monster:2610
-trojan://grc3cwm0-7500-o4a4-ovgw-i0ac2guy7uf7@127.0.0.1:8080?security=tls&type=tcp#For enhanced GitHub access, visit Argh94 now!
-trojan://rznql2jq-0pgv-jx1i-hzuk-2x3b7spkxqxq@127.0.0.1:8081?security=tls&type=tcp#</> Collector v5.0
+trojan://ei97oxxu-azww-xr17-dusw-fhz9r7wpc0b7@127.0.0.1:8080?security=tls&type=tcp#For enhanced GitHub access, visit Argh94 now!
+trojan://7vs1if8i-lads-j39j-x0os-bhu6y9yrq20v@127.0.0.1:8081?security=tls&type=tcp#</> Collector v5.0
