@@ -1,7 +1,7 @@
-trojan://wi94krp5-m9wh-iqs5-ec6f-433ywu632sxh@127.0.0.1:1080?security=tls&type=tcp#🕒 LAST UPDATE: 2025/08/28 | 16:03
-trojan://f1tos90z-xs1t-jrq3-687a-x3gcr693ptsi@127.0.0.1:2080?security=tls&type=tcp#This is a free trial project.
-trojan://ltxxydxj-r8gp-j9jb-xr35-g0gjcgryndxk@127.0.0.1:4080?security=tls&type=tcp#「 GitHub Argh94 ☕ 」
+trojan://cmmgofr1-knlv-nhz4-1w33-zav0043vnk7p@127.0.0.1:1080?security=tls&type=tcp#🕒 LAST UPDATE: 2025/08/28 | 19:55
+trojan://41otzcz6-yure-enn9-xzq9-gqznh7v91d9u@127.0.0.1:2080?security=tls&type=tcp#This is a free trial project.
+trojan://3lxysk14-qltg-x2et-5d4e-tzhp6ig41or1@127.0.0.1:4080?security=tls&type=tcp#「 GitHub Argh94 ☕ 」
+vless://bdb50d95-fcd3-451c-9473-466b4529af2c@91.242.241.45:8443?type=tcp&security=reality&sni=google.com&fp=chrome&flow=xtls-rprx-vision&pbk=1-2fy8f8XeOHzmdFmCENHV1mr_tzJX1M9UXp42mUIiM#SG 🇸🇬 ┇ VLESS-TCP-RLT - BlueVPS OU ┇ 91.242.241.45
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpWcEtBQmNPcE5OQTBsNUcyQVZPbXc4@213.109.147.242:62685#NL 🇳🇱 ┇ SHADOWSOCKS-TCP-NTLS - BlueVPS OU ┇ 213.109.147.242
-vless://01867529-7b5a-414f-9325-87aad7520760@91.242.241.45:8443?type=tcp&security=reality&sni=google.com&fp=chrome&flow=xtls-rprx-vision&pbk=1-2fy8f8XeOHzmdFmCENHV1mr_tzJX1M9UXp42mUIiM#SG 🇸🇬 ┇ VLESS-TCP-RLT - BlueVPS OU ┇ 91.242.241.45
-trojan://tox7tfpd-wfnx-fivw-nzw9-fl0y18dywfk3@127.0.0.1:8080?security=tls&type=tcp#For enhanced GitHub access, visit Argh94 now!
-trojan://c4qj1zjf-onlq-ml2r-qq91-lfcvscwt8bni@127.0.0.1:8081?security=tls&type=tcp#</> Collector v5.0
+trojan://39qzgy1k-lzvs-96mq-0447-appvjvutpul3@127.0.0.1:8080?security=tls&type=tcp#For enhanced GitHub access, visit Argh94 now!
+trojan://kq1qam9u-gkmd-6jus-gupx-h0sjyiqippeo@127.0.0.1:8081?security=tls&type=tcp#</> Collector v5.0

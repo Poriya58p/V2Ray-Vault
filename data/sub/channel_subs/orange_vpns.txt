@@ -1,8 +1,6 @@
-trojan://q1lz9t7s-cgl3-frpo-makc-9k18eklpf32y@127.0.0.1:1080?security=tls&type=tcp#🕒 LAST UPDATE: 2025/08/28 | 16:03
-trojan://kkz858if-hevm-8gdp-w354-iiymzwe6f5c2@127.0.0.1:2080?security=tls&type=tcp#This is a free trial project.
-trojan://o87vka2x-2uak-lkqx-or11-l8fkppp1yehe@127.0.0.1:4080?security=tls&type=tcp#「 GitHub Argh94 ☕ 」
-vless://turboo-server@turboo-server.sadafspace.com:80?type=ws&security=none&path=/--ping--www.speedtest.net?ed=2080/?TELEGRAM_CHANEL_JKVPN_JKVPN_JKVPN#turboo-server.sadafspace.com:80
-vless://6780a3c0-a98c-4622-b894-8e34167f7b31@172.67.74.133:443?type=ws&security=tls&path=/id5/?ed=2048bia-planB_proxy&sni=blog.ruangguru.com.servpn.my.id#172.67.74.133:443
+trojan://7bqg1okj-b1w8-cxcr-oek3-owx15yzk74lk@127.0.0.1:1080?security=tls&type=tcp#🕒 LAST UPDATE: 2025/08/28 | 19:55
+trojan://kspnpckb-f4bo-zbgr-zuuo-2xx86cbgiems@127.0.0.1:2080?security=tls&type=tcp#This is a free trial project.
+trojan://z0iw3loj-j8tp-370j-d5vz-4k7vz2mgum7a@127.0.0.1:4080?security=tls&type=tcp#「 GitHub Argh94 ☕ 」
 vless://6780a3c0-a98c-4622-b894-8e34167f7b31@104.26.1.108:443?type=ws&security=tls&path=/id5?ed=2560TELEGRAM_CHANEL_JKVPN_JKVPN_JKVPN&sni=blog.ruangguru.com.servpn.my.id#104.26.1.108:443
 vless://bb7b030f-fd37-488a-be1f-1a26d874cb26@91.99.220.150:8443?type=xhttp&security=none&path=/xhttp#91.99.220.150:8443
 vless://6780a3c0-a98c-4622-b894-8e34167f7b31@104.26.1.108:443?type=ws&security=tls&path=/id5?ed=2560TELEGRAM_CHANEL_JKVPN_JKVPN_JKVPN&sni=blog.ruangguru.com.servpn.my.id#104.26.1.108:443
@@ -18,5 +16,8 @@ vless://4181c93f-0a91-48e3-bf9d-0e2c548734a5@bakrie.ac.id.servpn.my.id:443?type=
 vless://93c34b1e-4baf-459c-b6df-55f2807eb6f6@switzerland.amirconfigpanelllll.com:625?type=tcp&security=none#switzerland.amirconfigpanelllll.com:625
 vless://0fbf4f81-2598-4b6a-a623-0ead4cb9efa8@privasi.turah.my.id:443?type=ws&security=tls&path=/Free-CF-Proxy-AD192.3.113.4-19318?ed=2048@&sni=privasi.turah.my.id&fp=chrome#privasi.turah.my.id:443
 vless://93c34b1e-4baf-459c-b6df-55f2807eb6f6@germany3.amirconfigpanelllll.com:625?type=tcp&security=none#germany3.amirconfigpanelllll.com:625
-trojan://i8l1rq5m-m3ys-6r2v-zfsr-c6jx4945lc2p@127.0.0.1:8080?security=tls&type=tcp#For enhanced GitHub access, visit Argh94 now!
-trojan://3ill6dk3-pr1l-6zaj-ms4v-b9xxel4l7cwx@127.0.0.1:8081?security=tls&type=tcp#</> Collector v5.0
+vless://5da52d2d-1ab8-48d0-8421-8354fd6ce7d3@104.18.5.250:443?type=ws&security=tls&path=/?ed=2560&sni=rAyAn-cOnFiG-04.rAyAn-iI.DnS-DyNaMiC.NeT&fp=chrome#104.18.5.250:443
+vless://5da52d2d-1ab8-48d0-8421-8354fd6ce7d3@jquery.com:443?type=ws&security=tls&path=/@Rayan_Config&sni=rAyAn-cOnFiG-05.rAyAn-iI.DnS-DyNaMiC.NeT&fp=chrome#jquery.com:443
+vless://5da52d2d-1ab8-48d0-8421-8354fd6ce7d3@www.visa.com.tw:443?type=ws&security=tls&path=/&sni=rAyAn-cOnFiG-04.rAyAn-iI.DnS-DyNaMiC.NeT&fp=chrome#www.visa.com.tw:443
+trojan://9dscfshl-comt-bl9t-lhy8-xu5ycxsod4wm@127.0.0.1:8080?security=tls&type=tcp#For enhanced GitHub access, visit Argh94 now!
+trojan://qdfh5t0x-st11-hi8i-jdc5-lad5v8c8d13j@127.0.0.1:8081?security=tls&type=tcp#</> Collector v5.0

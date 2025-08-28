@@ -1,7 +1,7 @@
-trojan://cjz1fn06-f2fb-ofc1-pe26-16dzfjmpcerd@127.0.0.1:1080?security=tls&type=tcp#🕒 LAST UPDATE: 2025/08/28 | 16:03
-trojan://pk1cjkxo-yhfm-i87l-mux2-8b8zknr24fqw@127.0.0.1:2080?security=tls&type=tcp#This is a free trial project.
-trojan://a9tcgtpd-sn70-utfr-kc71-52v6lk5dmiz5@127.0.0.1:4080?security=tls&type=tcp#「 GitHub Argh94 ☕ 」
+trojan://t01s7qpw-dzz2-hm71-6llp-ok5qoqr03lnf@127.0.0.1:1080?security=tls&type=tcp#🕒 LAST UPDATE: 2025/08/28 | 19:55
+trojan://huvzjaf8-lve7-ybzz-eekp-hm4ibvqkyj57@127.0.0.1:2080?security=tls&type=tcp#This is a free trial project.
+trojan://oheqennd-dn2q-xqni-1c3x-eqj4exrk7cyb@127.0.0.1:4080?security=tls&type=tcp#「 GitHub Argh94 ☕ 」
 vless://49ed01ad-3bb4-204f-b0ff-a58f658fd618@5.181.171.10:443?type=tcp&security=reality&sni=speed.cloudflare.com&flow=xtls-rprx-vision&pbk=YNGotlyAx3ELUmi4lxOUjiEDmibqf1pPUTE9o3YYT2Y#RU 🇷🇺 ┇ VLESS-TCP-RLT - Fast Servers (Pty) Ltd ┇ 5.181.171.10
 vless://8e6acce9-8b56-7190-d491-7d84f8189e26@5.181.171.2:443?type=tcp&security=reality&sni=speed.cloudflare.com&fp=chrome&flow=xtls-rprx-vision&pbk=YNGotlyAx3ELUmi4lxOUjiEDmibqf1pPUTE9o3YYT2Y#RU 🇷🇺 ┇ VLESS-TCP-RLT - Fast Servers (Pty) Ltd ┇ 5.181.171.2
-trojan://0hej2fx4-i9py-g9ky-qj0i-3m98l2t01rbi@127.0.0.1:8080?security=tls&type=tcp#For enhanced GitHub access, visit Argh94 now!
-trojan://8u3ykvi4-5p5t-gex3-q4s4-9nb8omolwnx6@127.0.0.1:8081?security=tls&type=tcp#</> Collector v5.0
+trojan://lryn85oi-4zf0-sfkk-f5td-cn20nhdzz7be@127.0.0.1:8080?security=tls&type=tcp#For enhanced GitHub access, visit Argh94 now!
+trojan://12vq6jgn-jk0l-2i12-g6tw-mrmbz6jho4po@127.0.0.1:8081?security=tls&type=tcp#</> Collector v5.0

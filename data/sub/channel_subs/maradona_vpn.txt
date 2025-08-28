@@ -1,6 +1,6 @@
-trojan://ftp1v0mx-4b43-ykb0-44pj-xbpc7jpjjulr@127.0.0.1:1080?security=tls&type=tcp#🕒 LAST UPDATE: 2025/08/28 | 16:03
-trojan://d17jfa67-63u6-414p-9b8c-2n4t0j6wvwws@127.0.0.1:2080?security=tls&type=tcp#This is a free trial project.
-trojan://pqzzts6u-2o12-k504-civu-3gdr7hg44004@127.0.0.1:4080?security=tls&type=tcp#「 GitHub Argh94 ☕ 」
+trojan://l5urczg9-38ji-53zk-gf2j-nwjmkk0vinx5@127.0.0.1:1080?security=tls&type=tcp#🕒 LAST UPDATE: 2025/08/28 | 19:55
+trojan://5gz4eyex-db09-8ge3-53xe-6sjm5ei7v2ef@127.0.0.1:2080?security=tls&type=tcp#This is a free trial project.
+trojan://uq8joihg-im45-0buq-crxk-a6ouuk8fxqly@127.0.0.1:4080?security=tls&type=tcp#「 GitHub Argh94 ☕ 」
 trojan://saMgiangGt@art1.history-paint.art:443?sni=teo.history-paint.art&peer=teo.history-paint.art&security=tls#art1.history-paint.art:443
 trojan://saMgiangGt@art2.history-paint.art:443?sni=teo.history-paint.art&peer=teo.history-paint.art&security=tls#art2.history-paint.art:443
 trojan://saMgiangGt@art3.history-paint.art:443?sni=teo.history-paint.art&peer=teo.history-paint.art&security=tls#art3.history-paint.art:443
@@ -47,5 +47,5 @@ trojan://Maradona_vpn@maradona_vpn11.history-paint.art:443?sni=teo.history-paint
 trojan://Maradona_vpn@maradona_vpn12.history-paint.art:443?sni=teo.history-paint.art&peer=teo.history-paint.art&security=tls#maradona_vpn12.history-paint.art:443
 trojan://Maradona_vpn@maradona_vpn13.history-paint.art:443?sni=teo.history-paint.art&peer=teo.history-paint.art&security=tls#maradona_vpn13.history-paint.art:443
 trojan://Maradona_vpn@maradona_vpn14.history-paint.art:443?sni=teo.history-paint.art&peer=teo.history-paint.art&security=tls#maradona_vpn14.history-paint.art:443
-trojan://d067ti8g-ng4x-f0is-yj9j-6p8qjvbk91kn@127.0.0.1:8080?security=tls&type=tcp#For enhanced GitHub access, visit Argh94 now!
-trojan://g84rp5so-tbwp-1kzq-xw7w-xhwk07ejnzad@127.0.0.1:8081?security=tls&type=tcp#</> Collector v5.0
+trojan://a5reohpl-u7se-q3cp-nbod-etsol7z25zvn@127.0.0.1:8080?security=tls&type=tcp#For enhanced GitHub access, visit Argh94 now!
+trojan://8uphigrd-l1d5-1srr-od1m-u5mgy8tn6mdb@127.0.0.1:8081?security=tls&type=tcp#</> Collector v5.0

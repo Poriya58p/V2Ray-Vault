@@ -1,7 +1,7 @@
-trojan://5hdlgvpg-i79p-19pe-5mfr-ykpxxcoyu9y8@127.0.0.1:1080?security=tls&type=tcp#🕒 LAST UPDATE: 2025/08/28 | 16:03
-trojan://de5fyqas-spxd-rxc0-718e-ix967i6sqe7u@127.0.0.1:2080?security=tls&type=tcp#This is a free trial project.
-trojan://0ax5tql1-0sdi-5omy-wmul-53xo9amz3vd4@127.0.0.1:4080?security=tls&type=tcp#「 GitHub Argh94 ☕ 」
+trojan://g1adkvje-eet2-ca78-pd5x-0zz1wtmz11al@127.0.0.1:1080?security=tls&type=tcp#🕒 LAST UPDATE: 2025/08/28 | 19:55
+trojan://p0h6a9za-tugw-am5u-t8ml-pnc8mw8491lr@127.0.0.1:2080?security=tls&type=tcp#This is a free trial project.
+trojan://l05zc7ou-e2x8-h05j-cb52-go0x9qvpi8y3@127.0.0.1:4080?security=tls&type=tcp#「 GitHub Argh94 ☕ 」
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpIVzVCclA0OFFVNFE5VlBkSldzLVB3@84.234.31.193:1080#CH 🇨🇭 ┇ SHADOWSOCKS-TCP-NTLS - Infomaniak Network SA ┇ 84.234.31.193
 vless://9eb0500f-c906-4731-90a6-08ad66122d74@84.234.29.214:8585?type=tcp&security=reality&sni=telwebion.com&fp=chrome&pbk=gjC92YX5coiPD3G1BLIZwGKfQsUpSA005WfJd6xBxhc&sid=c3fe60ab#CH 🇨🇭 ┇ VLESS-TCP-RLT - Infomaniak Network SA ┇ 84.234.29.214
-trojan://qvjh3u0t-7l6a-kc2o-mhvd-nptxeb4p65lk@127.0.0.1:8080?security=tls&type=tcp#For enhanced GitHub access, visit Argh94 now!
-trojan://83xua2ae-2c2f-r3qx-mbg6-usqus9g1c6j5@127.0.0.1:8081?security=tls&type=tcp#</> Collector v5.0
+trojan://o0349q3k-eo7e-84iw-100u-viwwj42igejr@127.0.0.1:8080?security=tls&type=tcp#For enhanced GitHub access, visit Argh94 now!
+trojan://kykjbhns-00pv-dibo-ytnz-fg55qj2nzuug@127.0.0.1:8081?security=tls&type=tcp#</> Collector v5.0

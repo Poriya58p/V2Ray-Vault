@@ -1,7 +1,7 @@
-trojan://v988omhd-i884-e96w-ei7s-c9gw3wspdynn@127.0.0.1:1080?security=tls&type=tcp#🕒 LAST UPDATE: 2025/08/28 | 16:03
-trojan://si8tmgab-g3mz-66h2-b1gn-2ischeqk2g0z@127.0.0.1:2080?security=tls&type=tcp#This is a free trial project.
-trojan://w48tw0e4-e0tc-kfat-pyjm-plignjjm1iu0@127.0.0.1:4080?security=tls&type=tcp#「 GitHub Argh94 ☕ 」
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo3VUVDbXo4T29jNUhseGhkdTNoNWJ3@103.167.234.75:8443#AL 🇦🇱 ┇ SHADOWSOCKS-TCP-NTLS - Albanian Hosting SH.P.K. ┇ 103.167.234.75
+trojan://h5nky4i5-soa1-vwn9-mrc8-0cmpzafyq8iq@127.0.0.1:1080?security=tls&type=tcp#🕒 LAST UPDATE: 2025/08/28 | 19:55
+trojan://wj8jqe7p-w8v5-w72e-q1w6-al9uzpq7rnck@127.0.0.1:2080?security=tls&type=tcp#This is a free trial project.
+trojan://9aemo4ck-5mv0-25yi-0n6t-6xi4qa0ytxez@127.0.0.1:4080?security=tls&type=tcp#「 GitHub Argh94 ☕ 」
 vless://f2a4624b-4efc-4409-bf2f-c7ec5f77503a@al.spirako.com:443?type=tcp&security=reality&sni=spirako.com&fp=chrome&flow=xtls-rprx-vision&pbk=0hH6R90pSxwm7nZPGtJJcJFhwCXU3Rvf-wcEHE7hczo#AL 🇦🇱 ┇ VLESS-TCP-RLT - Albanian Hosting SH.P.K. ┇ 93.123.46.100
-trojan://rd1kx8tj-0baw-8pm3-xle7-j1yizkxp6yhu@127.0.0.1:8080?security=tls&type=tcp#For enhanced GitHub access, visit Argh94 now!
-trojan://ac6k3rnr-flat-an8o-2ftc-ghuw03zocfde@127.0.0.1:8081?security=tls&type=tcp#</> Collector v5.0
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo3VUVDbXo4T29jNUhseGhkdTNoNWJ3@103.167.234.75:8443#AL 🇦🇱 ┇ SHADOWSOCKS-TCP-NTLS - Albanian Hosting SH.P.K. ┇ 103.167.234.75
+trojan://o96em9i6-8ozi-6wxg-i7t6-96erah2jwels@127.0.0.1:8080?security=tls&type=tcp#For enhanced GitHub access, visit Argh94 now!
+trojan://lzv7lsiv-wwks-nppr-y70v-jje2w1b2i4nf@127.0.0.1:8081?security=tls&type=tcp#</> Collector v5.0

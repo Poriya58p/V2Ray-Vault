@@ -1,9 +1,9 @@
-trojan://015p5z10-m21c-vipm-hhjg-ut85f4a1hng5@127.0.0.1:1080?security=tls&type=tcp#🕒 LAST UPDATE: 2025/08/28 | 16:03
-trojan://lnybrslr-fu58-zq68-z6dp-cm8vjtj794m4@127.0.0.1:2080?security=tls&type=tcp#This is a free trial project.
-trojan://mcfwg1wn-uimm-napm-3tca-nts5bn0agbz4@127.0.0.1:4080?security=tls&type=tcp#「 GitHub Argh94 ☕ 」
+trojan://i7qtfjno-fxqa-5boc-rvr6-1mskkdxey3gs@127.0.0.1:1080?security=tls&type=tcp#🕒 LAST UPDATE: 2025/08/28 | 19:55
+trojan://azp497mr-0utt-zkut-uome-kya2bu8bj44n@127.0.0.1:2080?security=tls&type=tcp#This is a free trial project.
+trojan://upbprvka-k74w-or5c-8a3y-68ugh1zi7ohl@127.0.0.1:4080?security=tls&type=tcp#「 GitHub Argh94 ☕ 」
 vmess://eyJ2IjoiMiIsInBzIjoiQHZwbnphbWluIFx1ZDgzY1x1ZGRlOVx1ZDgzY1x1ZGRlYSIsImFkZCI6IjQ1Ljc3LjE0MS4xNzAiLCJwb3J0IjoyMDg3LCJpZCI6ImQ1MzUwNDY1LWFiNjMtNGQzMC1lYmRhLTVjYmUwNzUxY2JkNiIsImFpZCI6MCwic2N5IjoiYXV0byIsIm5ldCI6IndzIiwicGF0aCI6Ii8ifQ
 vless://b7eff165-572e-4268-a32d-ea18fa01002d@104.31.16.65:8443?type=grpc&security=tls&sni=ch.donaldvpn.sbs#104.31.16.65:8443
 vless://d8b2cbd5-c6ab-4199-83ac-1cb743790e08@all.vpncustomize.website:2096?type=grpc&security=tls#all.vpncustomize.website:2096
 vless://1a4f9baa-b135-45e0-ba40-b11e30545c69@qq.mmd111.sbs:46541?type=tcp&security=none#qq.mmd111.sbs:46541
-trojan://vox8fai6-6bcd-b8tn-otib-idt0z54as47c@127.0.0.1:8080?security=tls&type=tcp#For enhanced GitHub access, visit Argh94 now!
-trojan://tu8xanc5-12h1-rmgq-h6mx-nix5z6gu9fn0@127.0.0.1:8081?security=tls&type=tcp#</> Collector v5.0
+trojan://qti83pex-kjlj-y1vh-rpk5-qdykqwkib5iw@127.0.0.1:8080?security=tls&type=tcp#For enhanced GitHub access, visit Argh94 now!
+trojan://vbzq7a1h-awvi-bywb-c1sv-lllozbr7eirj@127.0.0.1:8081?security=tls&type=tcp#</> Collector v5.0

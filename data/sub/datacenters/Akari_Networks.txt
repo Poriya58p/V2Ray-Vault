@@ -1,7 +1,6 @@
-trojan://1u3i94gb-zp0z-7onl-efq0-avfum7y0j311@127.0.0.1:1080?security=tls&type=tcp#🕒 LAST UPDATE: 2025/08/28 | 16:03
-trojan://xcq7hww3-ja8t-0q57-6y94-k3y8fwg95d5p@127.0.0.1:2080?security=tls&type=tcp#This is a free trial project.
-trojan://1hqcp32u-nla7-8jr7-nlk1-c5d9mbw8d51k@127.0.0.1:4080?security=tls&type=tcp#「 GitHub Argh94 ☕ 」
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo1ODQ4ODExNC00NWFlLTQ1NzctODc2NC03ODI2YWI2MjFlZTE@46.232.123.24:50242#HK 🇭🇰 ┇ SHADOWSOCKS-TCP-NTLS - Akari Networks ┇ 46.232.123.24
+trojan://fwaq57ja-6wq7-6zxf-c2q0-x6sbvq7ajq2i@127.0.0.1:1080?security=tls&type=tcp#🕒 LAST UPDATE: 2025/08/28 | 19:55
+trojan://gj4wyuyt-cqo8-ihpd-5wcj-3uyeq7jgjits@127.0.0.1:2080?security=tls&type=tcp#This is a free trial project.
+trojan://i39o0e9x-s6fm-c4le-84nl-2b00mwbztknn@127.0.0.1:4080?security=tls&type=tcp#「 GitHub Argh94 ☕ 」
 trojan://2f653ecd-c290-451e-a848-f8f525bc5a21@updatess.sub-zrj.com:321?sni=data.sub-zrj.com&peer=data.sub-zrj.com&security=tls#HK 🇭🇰 ┇ TROJAN-TCP-TLS - Akari Networks ┇ 103.188.235.3
-trojan://mumouedu-mpww-3wp9-ju49-4b538iiop1s3@127.0.0.1:8080?security=tls&type=tcp#For enhanced GitHub access, visit Argh94 now!
-trojan://1uwm8lth-dqnw-ruqi-8kp5-cb82iiw5pgmq@127.0.0.1:8081?security=tls&type=tcp#</> Collector v5.0
+trojan://inulsqnw-naf6-w896-rlkh-q0jmy2pd6kjl@127.0.0.1:8080?security=tls&type=tcp#For enhanced GitHub access, visit Argh94 now!
+trojan://plcj6p3f-3qeo-mec8-orpd-x6ailwbbn0za@127.0.0.1:8081?security=tls&type=tcp#</> Collector v5.0

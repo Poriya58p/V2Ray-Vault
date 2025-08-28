@@ -1,7 +1,6 @@
-trojan://z1v6gf7q-6ctl-9awf-2po9-f32yn7bp0na3@127.0.0.1:1080?security=tls&type=tcp#🕒 LAST UPDATE: 2025/08/28 | 16:03
-trojan://6o3gbxb2-8fv1-7pxd-20cd-3kk0omw7t2mh@127.0.0.1:2080?security=tls&type=tcp#This is a free trial project.
-trojan://zguuetci-6p0i-egwr-zom9-x59uoviie76c@127.0.0.1:4080?security=tls&type=tcp#「 GitHub Argh94 ☕ 」
-vless://d50f50ef-20ff-47a1-a922-f476c2b83eb4@157.173.127.228:443?type=tcp&security=reality&sni=analytics.google.com&fp=chrome&pbk=XIDvViESjfi-zRq4bdvHK7EyeT7vjJcA_MZO0QGTFhI&sid=7fb3b0#DE 🇩🇪 ┇ VLESS-TCP-RLT - Contabo GmbH ┇ 157.173.127.228
+trojan://9ts89m1k-533l-6cxt-sy3l-n6bvvdffzu0e@127.0.0.1:1080?security=tls&type=tcp#🕒 LAST UPDATE: 2025/08/28 | 19:55
+trojan://lmtznsfu-mh4b-48dt-pga2-wbpxw7v7x3c6@127.0.0.1:2080?security=tls&type=tcp#This is a free trial project.
+trojan://f8iwu4tl-molt-bvw3-yafu-lyfymvdlk5nw@127.0.0.1:4080?security=tls&type=tcp#「 GitHub Argh94 ☕ 」
 vless://bec44ac3-a662-4179-a9dd-2aa881706dde@employ.bitiboot.com:443?type=tcp&security=reality&sni=analytics.google.com&fp=chrome&pbk=Ajk0QudeMVQocN88OG14PpsxparFuRJlvqzXDlW-gyQ&sid=aba7bc9a#DE 🇩🇪 ┇ VLESS-TCP-RLT - Contabo GmbH ┇ 157.173.127.224
-trojan://8zff9p2e-70ho-tvyx-cikz-wakzixbkslkb@127.0.0.1:8080?security=tls&type=tcp#For enhanced GitHub access, visit Argh94 now!
-trojan://aw2uziml-8f0m-yl7w-wr3r-wj4i692xm1v4@127.0.0.1:8081?security=tls&type=tcp#</> Collector v5.0
+trojan://g7juubk1-0nhn-85nt-zdne-mxnlsb7d7xv1@127.0.0.1:8080?security=tls&type=tcp#For enhanced GitHub access, visit Argh94 now!
+trojan://vzt4wm4c-sxww-ntqq-umhk-h61ybyrcfys5@127.0.0.1:8081?security=tls&type=tcp#</> Collector v5.0

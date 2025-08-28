@@ -1,10 +1,6 @@
-trojan://bq2tb25n-h36c-lxej-xb21-8eshr61vyy5a@127.0.0.1:1080?security=tls&type=tcp#🕒 LAST UPDATE: 2025/08/28 | 16:03
-trojan://jx9l6djx-8o8l-eh1x-huv7-crbakn2ldwn5@127.0.0.1:2080?security=tls&type=tcp#This is a free trial project.
-trojan://jypishw2-t87p-tr5b-7e4p-sqfwrajdqdhh@127.0.0.1:4080?security=tls&type=tcp#「 GitHub Argh94 ☕ 」
-vless://e7ef2316-2ff9-4266-8d09-acbf90fbd0e4@cafearz.com:8080?type=ws&security=none&path=/olem/ws?ed=1024#cafearz.com:8080
-vless://6780a3c0-a98c-4622-b894-8e34167f7b31@172.67.74.133:443?type=ws&security=tls&path=/id5?ed=2560/?@&sni=blog.ruangguru.com.servpn.my.id#172.67.74.133:443
-vless://400f06ce-2b69-4444-a398-47b7166ccb54@tgju.org:80?type=ws&security=none&path=/olem/ws?ed=1024#tgju.org:80
-vless://e999db7a-1b17-4da6-bc37-c9fa24af2e93@ipw.gfdv54cvghhgfhgj-njhgj64.info:443?type=ws&security=tls&path=/&sni=KlIi9Yc11L.lIrA0xC8.iNfO&fp=chrome#ipw.gfdv54cvghhgfhgj-njhgj64.info:443
+trojan://fipf40pv-jdv1-b9wi-d32z-1zlvky96fyhm@127.0.0.1:1080?security=tls&type=tcp#🕒 LAST UPDATE: 2025/08/28 | 19:55
+trojan://5ah0kla1-ska3-1ga5-itxr-dbxa117u62wy@127.0.0.1:2080?security=tls&type=tcp#This is a free trial project.
+trojan://sqob4ixd-0dl7-tvmy-xbrv-7i8ieeva3n4g@127.0.0.1:4080?security=tls&type=tcp#「 GitHub Argh94 ☕ 」
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@185.231.205.248:8880?type=grpc&security=none#185.231.205.248:8880
 vless://7b311017-4c83-490d-87d1-5aeef15a5250@m3a.vip784.com:33801?type=tcp&security=none#m3a.vip784.com:33801
 vless://400f06ce-2b69-4444-a398-47b7166ccb54@chat.deepseek.com:80?type=ws&security=none&path=/olem/ws?ed=1024#chat.deepseek.com:80
@@ -21,5 +17,9 @@ vless://7b311017-4c83-490d-87d1-5aeef15a5250@m3a.vip784.com:33801?type=tcp&secur
 vless://aaaaaaa1-bbbb-4ccc-accc-eeeeeeeeeee1@web.xhamster.biz.id:443?type=ws&security=tls&path=/Free-CF-Proxy-AT29&sni=web.xhamster.biz.id#web.xhamster.biz.id:443
 vless://7b311017-4c83-490d-87d1-5aeef15a5250@m3a.vip784.com:33801?type=tcp&security=none#m3a.vip784.com:33801
 vless://e7ef2316-2ff9-4266-8d09-acbf90fbd0e4@cafearz.com:8080?type=ws&security=none&path=/olem/ws?ed=1024#cafearz.com:8080
-trojan://4r3jebyw-b052-cwxd-pqif-3q6b5v2lbln2@127.0.0.1:8080?security=tls&type=tcp#For enhanced GitHub access, visit Argh94 now!
-trojan://cbxjr1i5-hqpd-850l-tk5k-qm74y306qx3i@127.0.0.1:8081?security=tls&type=tcp#</> Collector v5.0
+vless://ccbe6b7c-9264-40c4-8bc1-ef8f6205d7a4@www.speedtest.net:8443?type=ws&security=tls&path=/?TELEGRAM-MARAMBASHI_MARAMBASHI_MARAMBASHI?ed=512&sni=lease-17.access.name.ng&fp=chrome#www.speedtest.net:8443
+vless://2988936d-3c33-4572-900c-40df2c63faa0@nl.horizongatex.org:2087?type=ws&security=tls&path=/&sni=nl.horizongatex.org&fp=chrome#nl.horizongatex.org:2087
+vless://d88937d0-ce43-4bf8-9df6-d632810ba9ff@104.26.5.134:443?type=ws&security=tls&path=/?TELEGRAM-MARAMBASHI_MARAMBASHI_MARAMBASHI?ed=512&sni=007.xingfu.qzz.io&fp=random#104.26.5.134:443
+vless://70b6b341-b859-443a-baf0-08ceabe9d1a4@178.162.245.230:2052?type=ws&security=none&path=/#178.162.245.230:2052
+trojan://o0jmdtxl-mzyj-4zn5-wxi6-5znmv9450qeb@127.0.0.1:8080?security=tls&type=tcp#For enhanced GitHub access, visit Argh94 now!
+trojan://z5k53g1b-51nu-9pww-5o0h-nasjitilla17@127.0.0.1:8081?security=tls&type=tcp#</> Collector v5.0

@@ -1,12 +1,8 @@
-trojan://73pgbq18-y10a-78wp-vqru-510q25c3yahq@127.0.0.1:1080?security=tls&type=tcp#🕒 LAST UPDATE: 2025/08/28 | 16:03
-trojan://kg23ag2y-euh1-aidi-hdpe-v1w50w7sl060@127.0.0.1:2080?security=tls&type=tcp#This is a free trial project.
-trojan://pemte9q3-nvky-6ehn-czvn-xime6mwqyh5h@127.0.0.1:4080?security=tls&type=tcp#「 GitHub Argh94 ☕ 」
+trojan://cnag8hhq-qb4v-sxqq-w7wy-uv3xwzdii6db@127.0.0.1:1080?security=tls&type=tcp#🕒 LAST UPDATE: 2025/08/28 | 19:55
+trojan://uju39qm0-p9jk-isia-acvb-civyka4uvsjm@127.0.0.1:2080?security=tls&type=tcp#This is a free trial project.
+trojan://tv3d6i3f-f0cf-rzh9-6r7c-zxdty6tic5ya@127.0.0.1:4080?security=tls&type=tcp#「 GitHub Argh94 ☕ 」
 vmess://eyJ2IjoiMiIsInBzIjoiQG1lbGljb25maW5nIiwiYWRkIjoid3d3LnNwZWVkdGVzdC5uZXQiLCJwb3J0Ijo4MCwiaWQiOiIzZDc2YWM0MC04MGM0LTExZjAtYjQzMi0yMDVjNmQ1ZjVkNzgiLCJhaWQiOjAsInNjeSI6ImF1dG8iLCJuZXQiOiJ3cyIsInR5cGUiOiItLS0iLCJwYXRoIjoiL2I4N3IzZDllIn0
 vmess://eyJ2IjoiMiIsInBzIjoiQG1lbGljb25maW5nIiwiYWRkIjoid3d3LnNwZWVkdGVzdC5uZXQiLCJwb3J0Ijo0NDMsImlkIjoiM2Q3NmFjNDAtODBjNC0xMWYwLWI0MzItMjA1YzZkNWY1ZDc4IiwiYWlkIjowLCJzY3kiOiJhdXRvIiwibmV0Ijoid3MiLCJ0eXBlIjoiLS0tIiwicGF0aCI6Ii9iODdyM2Q5ZSIsInRscyI6InRscyJ9
-vless://b1b49af1-e970-4db7-a098-85d3b28b6ee9@cdn2.torprospeed.ir:2095?type=httpupgrade&security=none&path=/?ed=2052#cdn2.torprospeed.ir:2095
-vless://e4824193-4f54-453b-d037-88368e85ef0e@45.82.251.58:8880?type=grpc&security=none#45.82.251.58:8880
-vless://21da97a7-6786-4ce0-be54-8ff4c758d976@www.speedtest.net:2086?type=httpupgrade&security=none&path=/www.speedtest.net?ed=2086#www.speedtest.net:2086
-vless://3d7dd548-5456-4f28-8019-393fbfab3312@104.26.1.108:443?type=ws&security=tls&path=/sg3?ed=2560/?JKVPNTELEGRAM_CHANEL_JKVPN_JKVPN&sni=app-stg.gopay.co.id.servpn.my.id&fp=randomized#104.26.1.108:443
 vless://4f7dcd3f-6d84-4504-9b64-6202e7d7d6c4@dash.rinet.ai:10400?type=tcp&security=none#dash.rinet.ai:10400
 vless://22d373dd-baa2-44a3-995c-80898e052534@packetloss.ir:443?type=ws&security=tls&path=/Just/Way/ForFreedom/&sni=download.wablo.ir&fp=chrome#packetloss.ir:443
 vless://40acbc60-0607-43a6-a604-5f27751d36e4@www.speedtest.net:80?type=ws&security=none&path=/Join----VPNCUSTOMIZE---Join----VPNCUSTOMIZE&sni=revest.maketunnelim.Lat.#www.speedtest.net:80
@@ -24,7 +20,8 @@ vless://50b25340-baf4-4e5b-b1d8-cba632e61623@vray.v2ray1ng.sbs:7195?type=grpc&se
 vless://ef246c6f-6e7d-4286-af33-5485544b0ba8@45.88.183.164:49355?type=tcp&security=none#45.88.183.164:49355
 vless://e999db7a-1b17-4da6-bc37-c9fa24af2e93@ipw.gfdv54cvghhgfhgj-njhgj64.info:443?type=ws&security=tls&path=/&sni=KlIi9Yc11L.lIrA0xC8.iNfO&fp=chrome#ipw.gfdv54cvghhgfhgj-njhgj64.info:443
 vless://5da52d2d-1ab8-48d0-8421-8354fd6ce7d3@www.visa.com.tw:443?type=ws&security=tls&path=/&sni=rAyAn-cOnFiG-04.rAyAn-iI.DnS-DyNaMiC.NeT&fp=chrome#www.visa.com.tw:443
-vless://d50f50ef-20ff-47a1-a922-f476c2b83eb4@157.173.127.228:443?type=tcp&security=reality&sni=analytics.google.com&fp=chrome&pbk=XIDvViESjfi-zRq4bdvHK7EyeT7vjJcA_MZO0QGTFhI&sid=7fb3b0#157.173.127.228:443
+vless://ec906c46-8a02-4148-f560-364d5579a0cf@www.speedtest.net:2052?type=ws&security=none&path=/@vmessorg----@vmessorg-----@vmessorg----@vmessorg----@vmessorg----@vmessorg----@vmessorg----@vmessorg----@vmessorg----@vmessorg----@vmessorg----@vmessorg?ed=2480#www.speedtest.net:2052
+vless://ec906c46-8a02-4148-f560-364d5579a0cf@numberland.ir:2052?type=ws&security=none&path=/@vmessorg----@vmessorg-----@vmessorg----@vmessorg----@vmessorg----@vmessorg----@vmessorg----@vmessorg----@vmessorg----@vmessorg----@vmessorg----@vmessorg?ed=2480#numberland.ir:2052
 vless://797d8132-6c08-4d5f-accc-eba1d6fdc9c5@91.98.76.73:2052?type=xhttp&security=reality&path=/&sni=cp7.cloudflare.com&fp=random&pbk=B4bL5jZotLi91qBuoZjrl5wI4txIa5GmgS2ifinc7VA&sid=6a#91.98.76.73:2052
-trojan://amy5tbbi-m10b-0jwg-xl6f-0jmn9w6b5dnv@127.0.0.1:8080?security=tls&type=tcp#For enhanced GitHub access, visit Argh94 now!
-trojan://m6ydzzdb-anpy-oed0-1g16-hcqywnt19lju@127.0.0.1:8081?security=tls&type=tcp#</> Collector v5.0
+trojan://bmw33hp0-5lee-w7ef-c2us-eszwhivowvq6@127.0.0.1:8080?security=tls&type=tcp#For enhanced GitHub access, visit Argh94 now!
+trojan://piv6ndar-12ak-egx7-9p6w-7zdefq7zsjug@127.0.0.1:8081?security=tls&type=tcp#</> Collector v5.0

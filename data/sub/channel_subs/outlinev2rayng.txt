@@ -1,8 +1,7 @@
-trojan://sufiyl92-fcji-nm73-ll0t-6vj75wq07rvt@127.0.0.1:1080?security=tls&type=tcp#🕒 LAST UPDATE: 2025/08/28 | 16:03
-trojan://fmm06a70-lf9y-wsos-gpop-kz0lkeibr146@127.0.0.1:2080?security=tls&type=tcp#This is a free trial project.
-trojan://rvyd7et8-1v2b-tn5u-0lph-y5bfbcs8nlfu@127.0.0.1:4080?security=tls&type=tcp#「 GitHub Argh94 ☕ 」
-vless://897a4bec-26b8-11e8-94be-00505695472c@bestcf.030101.xyz:443?type=ws&security=tls&path=/bbs?ed=2048&sni=xv6.jpmj.dpdns.org#bestcf.030101.xyz:443
-vless://3d7dd548-5456-4f28-8019-393fbfab3312@172.67.74.133:443?type=ws&security=tls&path=/sg3/?ed=2048JOIN---PLANB_PROXY&sni=app-stg.gopay.co.id.servpn.my.id&fp=chrome#172.67.74.133:443
+trojan://fdlcytb8-ocim-yli8-l69p-b1ya2ns8r2nq@127.0.0.1:1080?security=tls&type=tcp#🕒 LAST UPDATE: 2025/08/28 | 19:55
+trojan://41ruuvis-ll00-law8-cjvq-f4g6ut2rc3q6@127.0.0.1:2080?security=tls&type=tcp#This is a free trial project.
+trojan://34anhexb-w04q-u3fx-n03w-agdaolbe51s3@127.0.0.1:4080?security=tls&type=tcp#「 GitHub Argh94 ☕ 」
+trojan://xxoo@us.blazeppn.info:443?sni=us.blazeppn.info&peer=us.blazeppn.info&security=tls#us.blazeppn.info:443
 vless://6780a3c0-a98c-4622-b894-8e34167f7b31@172.67.74.133:443?type=ws&security=tls&path=/id5?ed=2560/?@&sni=blog.ruangguru.com.servpn.my.id#172.67.74.133:443
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@185.231.205.246:8880?type=grpc&security=none#185.231.205.246:8880
 vless://aaaaaaa1-bbbb-4ccc-accc-eeeeeeeeeee1@web.xhamster.biz.id:443?type=ws&security=tls&path=/Free-CF-Proxy-AE17&sni=web.xhamster.biz.id#web.xhamster.biz.id:443
@@ -15,6 +14,8 @@ vless://ddc27bd6-6efa-47cf-8bfc-acaf973ba6b3@famous-danger.oneeat.co:80?type=ws&
 vless://ddc27bd6-6efa-47cf-8bfc-acaf973ba6b3@famous-danger.oneeat.co:80?type=ws&security=none&path=/#famous-danger.oneeat.co:80
 vless://d1e44075-8c92-4698-9db0-e71d7015b757@small-meal.oneeat.co:80?type=ws&security=none&path=/#small-meal.oneeat.co:80
 vless://a2af50d9-09c7-4a44-90d0-42da35923e9e@communal-loss.oneeat.co:80?type=ws&security=none&path=/#communal-loss.oneeat.co:80
+vless://771080b2-17ba-4cf1-8eea-79df4050d8ba@ov-france3.09vpn.com:80?type=ws&security=none&path=/vless/#ov-france3.09vpn.com:80
 vless://d8dd94fd-540e-461d-b5d4-acebef02c22a@2.58.95.16:34045?type=tcp&security=reality&sni=visit-this-invitation-link-to-join-tg-enkelte-notif.ekt.me&fp=chrome&pbk=cDaDzPr3PlS3NM8lreHZbdo-Mhqz8vMBzMSkHXhGIUA&sid=e8ab71d0#2.58.95.16:34045
-trojan://m4s7ao04-ja73-o21z-2r8b-j7r968h3tjf6@127.0.0.1:8080?security=tls&type=tcp#For enhanced GitHub access, visit Argh94 now!
-trojan://1o3v4318-n8v5-nkpe-h5pb-xsyl9xxlqb70@127.0.0.1:8081?security=tls&type=tcp#</> Collector v5.0
+vless://c7c922da-ab54-433c-8046-1f9bf9d95c23@185.236.232.136:1001?type=tcp&security=reality&sni=telewebion.com&fp=chrome&pbk=8Gunn8hjWbit5yLtTPcvLph0u2ovHLsGoXX4IJS1EQ0&sid=5fab0deb#185.236.232.136:1001
+trojan://3oje21zf-nok1-3s6n-8vpb-n3jojs71j22z@127.0.0.1:8080?security=tls&type=tcp#For enhanced GitHub access, visit Argh94 now!
+trojan://4th10ylq-a5qv-jvpg-8eq6-qqpbme12gpq6@127.0.0.1:8081?security=tls&type=tcp#</> Collector v5.0

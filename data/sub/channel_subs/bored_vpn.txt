@@ -1,6 +1,6 @@
-trojan://d9tp8i66-asma-dgmj-lute-t1md13mrtxga@127.0.0.1:1080?security=tls&type=tcp#🕒 LAST UPDATE: 2025/08/28 | 16:03
-trojan://gayujjfq-e2lq-xfky-8qf5-asmppr0onfve@127.0.0.1:2080?security=tls&type=tcp#This is a free trial project.
-trojan://za1zbvch-qyns-0qyy-u0v2-yfqogq4lugrj@127.0.0.1:4080?security=tls&type=tcp#「 GitHub Argh94 ☕ 」
+trojan://ifxb8x0t-9vlz-i1er-whp4-9i8vrday29r6@127.0.0.1:1080?security=tls&type=tcp#🕒 LAST UPDATE: 2025/08/28 | 19:55
+trojan://6hjb7mp6-d6yv-aqll-unty-mb4pvh9yw7jl@127.0.0.1:2080?security=tls&type=tcp#This is a free trial project.
+trojan://l57k3bsr-xyrm-yqta-f0t2-yhubo2v1urxm@127.0.0.1:4080?security=tls&type=tcp#「 GitHub Argh94 ☕ 」
 vless://c87c8%654f-dd7%65-41cc-c293-5d%6563%658b633b@172.66.40.99:80?type=ws&security=none&path=/@vmessorg----@vmessorg-----@vmessorg----@vmessorg----@vmessorg----@vmessorg----@vmessorg----@vmessorg----@vmessorg----@vmessorg----@vmessorg----@vmessorg?ed=2480#172.66.40.99:80
 vless://fcbcc%6100-44c2-4330-%61072-bd0b%61626%65b0f@172.66.40.99:8080?type=ws&security=none&path=/-LiV2ry@LIGHTNING6-TEL--@LIGHTNING6-TEL--@LIGHTNING6-TEL--@LIGHTNING6-JOIN-@LIGHTNING6-TEL--@LIGHTNING6-JOIN-@LIGHTNING6-TEL-@LIGHTNING6-TEL--@LIGHTNING6-JOIN-@LIGHTNING6-TEL--@LIGHTNING6?ed=2048#172.66.40.99:8080
 vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@25.129.196.168:8880?type=ws&security=none&path=/#25.129.196.168:8880
@@ -66,5 +66,5 @@ vless://3b638479-b5b0-46b8-88a0-afbbf306e1f9@172.66.40.99:80?type=ws&security=no
 vless://tm-H%71V2rayNG@full.vvir.ir:443?type=tcp&security=reality&sni=google.com&fp=chrome&flow=xtls-rprx-vision&pbk=tmdA-JLXg99x-LdvzAZnIV2J7QlHAe7F7xSRLh4ljHM&sid=e1#full.vvir.ir:443
 vless://738ebc1c-c44a-418e-8c2c-f9e2efe1f4fe@91.99.70.212:443?type=grpc&security=reality&sni=www.cdn77.com&fp=chrome&pbk=Zjzu45fPTjjaIcBoYyaLqieLtsWJD8ujdzNOQodWvnk#91.99.70.212:443
 vless://f076%61%6511-156c-45c5-b252-%61%658dd6fd1494@91.99.70.212:443?type=grpc&security=reality&sni=www.cdn77.com&fp=chrome&pbk=Zjzu45fPTjjaIcBoYyaLqieLtsWJD8ujdzNOQodWvnk#91.99.70.212:443
-trojan://icw44x1b-s1yu-rq0e-o3w5-gnf1jvju6auk@127.0.0.1:8080?security=tls&type=tcp#For enhanced GitHub access, visit Argh94 now!
-trojan://ky3yi8gm-yzfd-9l7g-uup4-p1tyulthrxsk@127.0.0.1:8081?security=tls&type=tcp#</> Collector v5.0
+trojan://jsvf3hwl-qseo-qbaq-88ad-bbwoav9oq2af@127.0.0.1:8080?security=tls&type=tcp#For enhanced GitHub access, visit Argh94 now!
+trojan://rp29x62k-wbq9-pj70-jchy-ezc93ccb3f7b@127.0.0.1:8081?security=tls&type=tcp#</> Collector v5.0

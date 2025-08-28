@@ -1,6 +1,6 @@
-trojan://0zmqqdhl-ds9j-adab-ifhb-y7n8obxj3p0l@127.0.0.1:1080?security=tls&type=tcp#🕒 LAST UPDATE: 2025/08/28 | 16:03
-trojan://f435og9u-f7dv-am27-1nhl-fckwiay7xzi7@127.0.0.1:2080?security=tls&type=tcp#This is a free trial project.
-trojan://9fp614ze-8sc9-1p47-9lzi-jwzxa5gvtcsz@127.0.0.1:4080?security=tls&type=tcp#「 GitHub Argh94 ☕ 」
+trojan://ezzxttsn-6vvc-imrn-ee6p-m9zg9snnqc98@127.0.0.1:1080?security=tls&type=tcp#🕒 LAST UPDATE: 2025/08/28 | 19:55
+trojan://wg71m7hi-6c45-eo1p-ofbm-ro9oueojhyj9@127.0.0.1:2080?security=tls&type=tcp#This is a free trial project.
+trojan://5d1ws64t-i0dr-n92l-zxdr-033pleqcmdl8@127.0.0.1:4080?security=tls&type=tcp#「 GitHub Argh94 ☕ 」
 vless://6b02f80a-def4-4e24-92eb-7d1beb33f3ed@188.114.98.112:80?type=ws&security=none&path=/Telegram:@ConfingV2RaayNG,@ConfingV2RaayNG,@ConfingV2RaayNG,@ConfingV2RaayNG,@ConfingV2RaayNG,@ConfingV2RaayNG,@ConfingV2RaayNG,@ConfingV2RaayNG,@ConfingV2RaayNG?ed=2560#188.114.98.112:80
 vless://dfebc216-f6e1-4511-9c78-eb3584f0b869@188.114.98.112:80?type=ws&security=none&path=/Telegram:@ConfingV2RaayNG,@ConfingV2RaayNG,@ConfingV2RaayNG,@ConfingV2RaayNG,@ConfingV2RaayNG,@ConfingV2RaayNG,@ConfingV2RaayNG,@ConfingV2RaayNG,@ConfingV2RaayNG?ed=2560#188.114.98.112:80
 vless://21e6d7f3-08bd-4dbc-abf5-8012d9838af5@188.114.98.112:80?type=ws&security=none&path=/Telegram:@ConfingV2RaayNG,@ConfingV2RaayNG,@ConfingV2RaayNG,@ConfingV2RaayNG,@ConfingV2RaayNG,@ConfingV2RaayNG,@ConfingV2RaayNG,@ConfingV2RaayNG,@ConfingV2RaayNG?ed=2560#188.114.98.112:80
@@ -9,5 +9,5 @@ vless://6c9fa651-7d63-4b88-ab3c-b39d5a8dd440@188.114.98.112:80?type=ws&security=
 vless://b1723c14-8180-4311-a65f-fc2665c6b51f@188.114.98.112:80?type=ws&security=none&path=/Telegram:@ConfingV2RaayNG,@ConfingV2RaayNG,@ConfingV2RaayNG,@ConfingV2RaayNG,@ConfingV2RaayNG,@ConfingV2RaayNG,@ConfingV2RaayNG,@ConfingV2RaayNG,@ConfingV2RaayNG?ed=2560#188.114.98.112:80
 vless://e3098c2b-d2ec-40e1-b42e-208693bb9b38@188.114.98.112:80?type=ws&security=none&path=/Telegram:@ConfingV2RaayNG,@ConfingV2RaayNG,@ConfingV2RaayNG,@ConfingV2RaayNG,@ConfingV2RaayNG,@ConfingV2RaayNG,@ConfingV2RaayNG,@ConfingV2RaayNG,@ConfingV2RaayNG?ed=2560#188.114.98.112:80
 vless://ca6fff67-a1c4-4ccb-9fe5-8ddb1ef5746f@188.114.98.112:80?type=ws&security=none&path=/Telegram:@ConfingV2RaayNG,@ConfingV2RaayNG,@ConfingV2RaayNG,@ConfingV2RaayNG,@ConfingV2RaayNG,@ConfingV2RaayNG,@ConfingV2RaayNG,@ConfingV2RaayNG,@ConfingV2RaayNG?ed=2560#188.114.98.112:80
-trojan://t3e1qpa4-zq9p-qhlq-uiq2-c8349scp2j28@127.0.0.1:8080?security=tls&type=tcp#For enhanced GitHub access, visit Argh94 now!
-trojan://xo4b4ab0-q5ex-8uw1-fv22-erxyo0svpk9w@127.0.0.1:8081?security=tls&type=tcp#</> Collector v5.0
+trojan://ccpauwhb-vipc-kjzn-d6jv-tigrp1x95c0e@127.0.0.1:8080?security=tls&type=tcp#For enhanced GitHub access, visit Argh94 now!
+trojan://buvc0h2t-8gm5-3rvq-zufv-ggp52sfl5umd@127.0.0.1:8081?security=tls&type=tcp#</> Collector v5.0

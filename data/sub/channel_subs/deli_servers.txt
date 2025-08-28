@@ -1,7 +1,7 @@
-trojan://cdf82g8t-hz1v-xl6r-ncyr-mrc7b7urafhr@127.0.0.1:1080?security=tls&type=tcp#🕒 LAST UPDATE: 2025/08/28 | 16:03
-trojan://ll6nc2xy-2ujn-ix57-qy51-xo0ac44abrce@127.0.0.1:2080?security=tls&type=tcp#This is a free trial project.
-trojan://3vs6t8g8-w4mx-n2nw-6cfi-p8jiyz65p61y@127.0.0.1:4080?security=tls&type=tcp#「 GitHub Argh94 ☕ 」
+trojan://7kck2umz-olsw-texu-vt4u-heldlyaonole@127.0.0.1:1080?security=tls&type=tcp#🕒 LAST UPDATE: 2025/08/28 | 19:55
+trojan://glqx3ayt-nv30-omd8-4lh2-gab332ae70du@127.0.0.1:2080?security=tls&type=tcp#This is a free trial project.
+trojan://i1kdgkxy-kzpc-ixd2-7yxh-m19dihueetn9@127.0.0.1:4080?security=tls&type=tcp#「 GitHub Argh94 ☕ 」
 vless://telegram-deli-servers@185.146.173.59:80?type=ws&security=none&path=/tel : deli_servers tel : deli_servers tel : deli_servers tel : deli_servers tel : deli_servers tel : deli_servers?ed=2048#185.146.173.59:80
 vless://d3927fcb-1dd4-4a84-af91-75196dcc0ee9@2a01:4f8:c012:81c0::1:1?type=grpc&security=reality&sni=4dsply.com&fp=firefox&pbk=L6AkyAVesPEg-yz5o4-2yeTCBYACZW5OWnPBVaS-OnQ&sid=bbcb1cf7#2a01:4f8:c012:81c0::1:1
-trojan://2s475ipz-ezhy-nsdz-7y8m-14t71e7n6u3e@127.0.0.1:8080?security=tls&type=tcp#For enhanced GitHub access, visit Argh94 now!
-trojan://j627bykz-wcry-3u8b-sg9o-nxvy0mscks5g@127.0.0.1:8081?security=tls&type=tcp#</> Collector v5.0
+trojan://7n19akxy-ollz-9gos-0ij8-she4r8i9fn6g@127.0.0.1:8080?security=tls&type=tcp#For enhanced GitHub access, visit Argh94 now!
+trojan://k5bgpazy-prer-x46s-dq1k-xx4w7obhgx93@127.0.0.1:8081?security=tls&type=tcp#</> Collector v5.0

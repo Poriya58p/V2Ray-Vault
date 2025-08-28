@@ -1,7 +1,7 @@
-trojan://5l77sb7g-mq2f-kezt-dngj-4zch1inu1olw@127.0.0.1:1080?security=tls&type=tcp#🕒 LAST UPDATE: 2025/08/28 | 16:03
-trojan://r11rrxse-e1dl-nm7b-m8zt-62zh353rmsvf@127.0.0.1:2080?security=tls&type=tcp#This is a free trial project.
-trojan://8wziufd7-i40j-4f0y-2s53-9kwaqseu9xjk@127.0.0.1:4080?security=tls&type=tcp#「 GitHub Argh94 ☕ 」
+trojan://jsq38mli-hnik-4ktg-cfc9-1qa3u3uibd7n@127.0.0.1:1080?security=tls&type=tcp#🕒 LAST UPDATE: 2025/08/28 | 19:55
+trojan://i1x2vyok-w5he-4fyd-agsx-z927m2u4807v@127.0.0.1:2080?security=tls&type=tcp#This is a free trial project.
+trojan://bjcziv3n-ju95-re8t-wmyj-wgl955ut5txe@127.0.0.1:4080?security=tls&type=tcp#「 GitHub Argh94 ☕ 」
 vmess://eyJ2IjoiMiIsInBzIjoiQHZwbnYycmF5dG9wIiwiYWRkIjoicGFuZWwxLmlweWFyLm9yZyIsInBvcnQiOjEyNDcwLCJpZCI6ImMwMWQxM2M0LTRjYWEtNGJiNy05MzNmLWUwYmViNmQ4NzJjOSIsImFpZCI6MCwic2N5IjoiYXV0byIsIm5ldCI6InRjcCIsInR5cGUiOiJub25lIn0
 vless://ccbe6b7c-9264-40c4-8bc1-ef8f6205d7a4@104.17.148.22:8443?type=ws&security=tls&path=/&sni=iphoster-quran-iran-4.coin.name.ng&fp=chrome#104.17.148.22:8443
-trojan://xob61y32-agvc-untc-dil5-slj8rej2dqrs@127.0.0.1:8080?security=tls&type=tcp#For enhanced GitHub access, visit Argh94 now!
-trojan://bc9dm2z0-ljy4-z72t-l4c1-q9nhebjqblug@127.0.0.1:8081?security=tls&type=tcp#</> Collector v5.0
+trojan://ohjot14e-lktx-w9r0-8wkk-eu533vladwc4@127.0.0.1:8080?security=tls&type=tcp#For enhanced GitHub access, visit Argh94 now!
+trojan://exck2j9j-5rdc-8jtj-nqio-k0is7jttszk9@127.0.0.1:8081?security=tls&type=tcp#</> Collector v5.0

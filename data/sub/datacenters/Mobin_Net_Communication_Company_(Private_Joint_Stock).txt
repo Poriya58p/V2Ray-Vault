@@ -1,7 +1,7 @@
-trojan://3vooqyx8-6s4h-ecsu-h6l7-qy350y3aspuz@127.0.0.1:1080?security=tls&type=tcp#🕒 LAST UPDATE: 2025/08/28 | 16:03
-trojan://8zzuw2dq-zf3d-c1mm-c4ab-hmbxpgimvryu@127.0.0.1:2080?security=tls&type=tcp#This is a free trial project.
-trojan://4sabny6d-n2ho-oq33-kak9-6nexn2hoksrc@127.0.0.1:4080?security=tls&type=tcp#「 GitHub Argh94 ☕ 」
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpJaGwxR1BMcXBVTmZ5bUZxRVpJWTlP@neon.blue7ss.com:8081#IR 🇮🇷 ┇ SHADOWSOCKS-TCP-NTLS - Mobin Net Communication Company (Private Joint Stock) ┇ 92.114.17.17
+trojan://mnekjlmg-twps-x2f3-68rm-lpnlfivh00kg@127.0.0.1:1080?security=tls&type=tcp#🕒 LAST UPDATE: 2025/08/28 | 19:55
+trojan://2uaaw0b6-kils-983z-bhyn-d0imedc39yoq@127.0.0.1:2080?security=tls&type=tcp#This is a free trial project.
+trojan://nu6oegnp-ttt3-njcf-e6bc-kxawud725119@127.0.0.1:4080?security=tls&type=tcp#「 GitHub Argh94 ☕ 」
 vmess://eyJ2IjoiMiIsInBzIjoiSVIgXHVkODNjXHVkZGVlXHVkODNjXHVkZGY3IFx1MjUwNyBWTUVTUy1UQ1AtTlRMUyAtIE1vYmluIE5ldCBDb21tdW5pY2F0aW9uIENvbXBhbnkgKFByaXZhdGUgSm9pbnQgU3RvY2spIFx1MjUwNyAxODguMjEzLjY3LjIxNCIsImFkZCI6IjE4OC4yMTMuNjcuMjE0IiwicG9ydCI6MjA4ODMsImlkIjoiMWE1ZjVjMzAtZGFmOS00NmM2LTk2ZGEtNGRlNGI0MmJlZjg1IiwiYWlkIjowLCJzY3kiOiJhdXRvIiwibmV0IjoidGNwIiwidHlwZSI6Imh0dHAiLCJwYXRoIjoiLyJ9
-trojan://nxvwcgi6-mesq-tt86-rhbq-0se23zwgbvg1@127.0.0.1:8080?security=tls&type=tcp#For enhanced GitHub access, visit Argh94 now!
-trojan://aujkwihb-9eye-67k5-y610-xmey9bbqrj5k@127.0.0.1:8081?security=tls&type=tcp#</> Collector v5.0
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpJaGwxR1BMcXBVTmZ5bUZxRVpJWTlP@neon.blue7ss.com:8081#IR 🇮🇷 ┇ SHADOWSOCKS-TCP-NTLS - Mobin Net Communication Company (Private Joint Stock) ┇ 92.114.17.17
+trojan://x0s4n7mr-4txz-cwss-lap0-5wgizat47ti8@127.0.0.1:8080?security=tls&type=tcp#For enhanced GitHub access, visit Argh94 now!
+trojan://nqdbl8if-9ekk-okvw-vkjq-8uh4zoz62zd2@127.0.0.1:8081?security=tls&type=tcp#</> Collector v5.0

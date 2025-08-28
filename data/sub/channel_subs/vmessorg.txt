@@ -1,6 +1,6 @@
-trojan://gjngal8i-3ibv-1nib-icjo-bgpaca8gi7y5@127.0.0.1:1080?security=tls&type=tcp#🕒 LAST UPDATE: 2025/08/28 | 16:03
-trojan://e7sawswq-x2ni-8spi-8k9o-1mnxqnc9eho5@127.0.0.1:2080?security=tls&type=tcp#This is a free trial project.
-trojan://09cy3ooc-jyf8-c8i0-q4y8-fqosph8h0j5k@127.0.0.1:4080?security=tls&type=tcp#「 GitHub Argh94 ☕ 」
+trojan://7rl9mx5f-km7h-riyz-jd4h-u2rmiyxhauqb@127.0.0.1:1080?security=tls&type=tcp#🕒 LAST UPDATE: 2025/08/28 | 19:55
+trojan://siclwe5b-fdvq-vqcx-7i29-pop57jo6u9if@127.0.0.1:2080?security=tls&type=tcp#This is a free trial project.
+trojan://ljad54co-qj1f-dcn0-r3rq-a8m6rn8te4o0@127.0.0.1:4080?security=tls&type=tcp#「 GitHub Argh94 ☕ 」
 vless://712e7715-0f22-4a5e-a986-a39427853fa3@cumhuriyet.com.tr:80?type=ws&security=none&path=/@vmessorg----@vmessorg-----@vmessorg----@vmessorg----@vmessorg----@vmessorg----@vmessorg----@vmessorg----@vmessorg----@vmessorg----@vmessorg----@vmessorg?ed=2480#cumhuriyet.com.tr:80
 vless://a9013cee-7b9d-4776-d1d0-f46840008ea1@cumhuriyet.com.tr:80?type=ws&security=none&path=/@vmessorg----@vmessorg-----@vmessorg----@vmessorg----@vmessorg----@vmessorg----@vmessorg----@vmessorg----@vmessorg----@vmessorg----@vmessorg----@vmessorg?ed=2480#cumhuriyet.com.tr:80
 vless://033704ed-8f16-4252-cfa1-fa9b7d425bcc@cumhuriyet.com.tr:80?type=ws&security=none&path=/@vmessorg----@vmessorg-----@vmessorg----@vmessorg----@vmessorg----@vmessorg----@vmessorg----@vmessorg----@vmessorg----@vmessorg----@vmessorg----@vmessorg?ed=2480#cumhuriyet.com.tr:80
@@ -14,5 +14,5 @@ vless://ec906c46-8a02-4148-f560-364d5579a0cf@numberland.ir:2052?type=ws&security
 vless://ec906c46-8a02-4148-f560-364d5579a0cf@www.speedtest.net:2052?type=ws&security=none&path=/#www.speedtest.net:2052
 vless://ec906c46-8a02-4148-f560-364d5579a0cf@numberland.ir:2052?type=ws&security=none&path=/@vmessorg----@vmessorg-----@vmessorg----@vmessorg----@vmessorg----@vmessorg----@vmessorg----@vmessorg----@vmessorg----@vmessorg----@vmessorg----@vmessorg?ed=2480#numberland.ir:2052
 vless://ec906c46-8a02-4148-f560-364d5579a0cf@www.speedtest.net:2052?type=ws&security=none&path=/#www.speedtest.net:2052
-trojan://94g8ez72-vz0d-xi8f-48da-csynjj6he5jj@127.0.0.1:8080?security=tls&type=tcp#For enhanced GitHub access, visit Argh94 now!
-trojan://0zyhvcoy-x04a-v1ez-3mq5-uvn27vvb5zib@127.0.0.1:8081?security=tls&type=tcp#</> Collector v5.0
+trojan://ffdp38f0-l1q0-2oug-24vm-zizmcqeoefpn@127.0.0.1:8080?security=tls&type=tcp#For enhanced GitHub access, visit Argh94 now!
+trojan://2z0oszns-1iyi-wgol-xrsu-lnii5gry9g9d@127.0.0.1:8081?security=tls&type=tcp#</> Collector v5.0

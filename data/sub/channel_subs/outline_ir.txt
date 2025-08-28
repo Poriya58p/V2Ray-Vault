@@ -1,10 +1,9 @@
-trojan://nagudhq2-vyq9-op0b-qe4v-p2764argxdbs@127.0.0.1:1080?security=tls&type=tcp#🕒 LAST UPDATE: 2025/08/28 | 16:03
-trojan://ok7j4dgt-cpae-b6cy-kffz-bsqj1dj5zs5j@127.0.0.1:2080?security=tls&type=tcp#This is a free trial project.
-trojan://o7edl5xm-pt74-msgp-xym0-9ay87z7uettk@127.0.0.1:4080?security=tls&type=tcp#「 GitHub Argh94 ☕ 」
+trojan://rngym3w1-r6jn-7w7x-00x6-vh1ympum4adv@127.0.0.1:1080?security=tls&type=tcp#🕒 LAST UPDATE: 2025/08/28 | 19:55
+trojan://h3t5da6h-c4xp-dpif-ljnn-7gs97zv8j7dh@127.0.0.1:2080?security=tls&type=tcp#This is a free trial project.
+trojan://xqaep458-7qtw-0im0-kkmf-eocrkd4lmgvh@127.0.0.1:4080?security=tls&type=tcp#「 GitHub Argh94 ☕ 」
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjdklJODVUclc2bjBPR3lmcEhWUzF1@45.87.175.200:8080#45.87.175.200:8080
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpFbEtIMUhLdVF1VzZ1UlR0c2VMWUI4@94.159.96.245:11902#94.159.96.245:11902
 vmess://eyJ2IjoiMiIsInBzIjoiXHUwNjI4XHUwNjMxXHUwNjI3XHUwNmNjIFx1MDYyN1x1MDYyYVx1MDYzNVx1MDYyN1x1MDY0NCBcdTA2MmZcdTA2MjdcdTA2MjZcdTA2NDVcdTA2Y2MgXHUwNjJjXHUwNjQ4XHUwNmNjXHUwNjQ2IFx1MDYzNFx1MDY0OFx1ZDgzY1x1ZGY2NkBPdXRsaW5lX2lyIiwiYWRkIjoiNDYuMjUwLjI0My41NiIsInBvcnQiOjUwMzk0LCJpZCI6ImE3NWYzZjk1LWFkNGUtNDQ5OC1mYzcyLWRkNzQwZGQwMmJmYyIsImFpZCI6MCwic2N5IjoiYXV0byIsIm5ldCI6InRjcCIsInR5cGUiOiJub25lIn0
-vless://8df60790-c903-4661-b85d-64c0009378e5@ip.sb:443?type=ws&security=tls&path=/?ed=2560&sni=F1.paRsa.fiLegEar-Sg.Me&fp=edge#ip.sb:443
 vless://fa0825cd-89b2-4e57-a669-68d4f4a3bd2c@oureverydaylife.com:443?type=ws&security=tls&path=/&sni=taochan.sylphachan.ip-ddns.com&fp=randomized#oureverydaylife.com:443
 vless://90c7ad5e-cd15-4314-b39b-aeabd397d592@104.18.12.229:2087?type=ws&security=tls&path=/?TELEGRAM-MARAMBASHI_MARAMBASHI_MARAMBASHI?ed=512&sni=vl.hongkong6.qzz.io&fp=random#104.18.12.229:2087
 vless://10f655e9-eb23-4f13-a9eb-b93c8057962c@speedtest.net:80?type=xhttp&security=none&path=/#speedtest.net:80
@@ -15,5 +14,8 @@ vless://52adc6ba-b1c7-4541-a594-08fc698be640@grounded-brother.seotoolsforyou.co.
 vless://6cc53dc5-55b2-4968-bb7c-ee84e1429c63@ava.game.naver.com.servpn.my.id:443?type=ws&security=tls&path=/kr1?ed=2560&sni=ava.game.naver.com.servpn.my.id&fp=chrome#ava.game.naver.com.servpn.my.id:443
 vless://6780a3c0-a98c-4622-b894-8e34167f7b31@blog.ruangguru.com.servpn.my.id:443?type=ws&security=tls&path=/id5?ed=2560&sni=blog.ruangguru.com.servpn.my.id#blog.ruangguru.com.servpn.my.id:443
 vless://c4587bda-09fc-4b3b-8221-4450fccc33d1@172.67.71.187:443?type=ws&security=tls&path=/&sni=yx.yushan.dpdns.org&fp=chrome#172.67.71.187:443
-trojan://syhngz79-ltpy-u2fy-pssb-ow8qp9oqcbzc@127.0.0.1:8080?security=tls&type=tcp#For enhanced GitHub access, visit Argh94 now!
-trojan://dlwjgrxf-yfj1-5zd7-esde-gbymezzbdfuw@127.0.0.1:8081?security=tls&type=tcp#</> Collector v5.0
+vless://a0c968aa-6723-404e-93e2-5987593a7f19@m15a.vip784.com:33801?type=tcp&security=none#m15a.vip784.com:33801
+vless://e999db7a-1b17-4da6-bc37-c9fa24af2e93@ipw.gfdv54cvghhgfhgj-njhgj64.info:2096?type=ws&security=tls&path=/&sni=J1oG84r7Qf.WaSaBi7890.OrG&fp=chrome#ipw.gfdv54cvghhgfhgj-njhgj64.info:2096
+vless://0fbf4f81-2598-4b6a-a623-0ead4cb9efa8@172.66.146.26:443?type=ws&security=tls&path=/Free-CF-Proxy-AD192.3.113.4-19318?ed=2048/?TELEGRAM_CHANEL_JKVPN_JKVPN_JKVPN&sni=privasi.turah.my.id&fp=chrome#172.66.146.26:443
+trojan://83nzf4n0-1qwn-8mf9-vrv1-rn6r27tnz7et@127.0.0.1:8080?security=tls&type=tcp#For enhanced GitHub access, visit Argh94 now!
+trojan://uv2aqkd5-9ifg-1ydl-w4k1-j54ud5wgji9u@127.0.0.1:8081?security=tls&type=tcp#</> Collector v5.0

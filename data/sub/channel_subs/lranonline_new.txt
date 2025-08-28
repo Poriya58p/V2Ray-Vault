@@ -1,6 +1,6 @@
-trojan://wn8yl6x6-phs7-66ow-ahay-1yvm4vhdrcm1@127.0.0.1:1080?security=tls&type=tcp#🕒 LAST UPDATE: 2025/08/28 | 16:03
-trojan://be5gztri-elge-axij-ylvf-8wwbk3rhdadq@127.0.0.1:2080?security=tls&type=tcp#This is a free trial project.
-trojan://jhuc77id-3v20-kjyv-nwie-lc7iavgytznj@127.0.0.1:4080?security=tls&type=tcp#「 GitHub Argh94 ☕ 」
+trojan://co0jjsyg-qxj2-hdar-4ubf-orzdqqv9nzzz@127.0.0.1:1080?security=tls&type=tcp#🕒 LAST UPDATE: 2025/08/28 | 19:55
+trojan://4datxzrz-xtnz-a5t4-7alk-vl6dcesq3g2y@127.0.0.1:2080?security=tls&type=tcp#This is a free trial project.
+trojan://qzskitlq-7xig-l2g4-p012-d4oa560zojkb@127.0.0.1:4080?security=tls&type=tcp#「 GitHub Argh94 ☕ 」
 vless://eb3ce75e-ff5a-4170-a0c9-cd75b7c604f1@test.fast.hosting-ip.com:80?type=xhttp&security=none&path=/telegram-CONFiGLiNE,telegram-CONFiGLiNE,telegram-CONFiGLiNE,telegram-CONFiGLiNE,telegram-CONFiGLiNE,telegram-CONFiGLiNE,telegram-CONFiGLiNE,telegram-CONFiGLiNE?ed=2048#test.fast.hosting-ip.com:80
 vless://c3375fd7-68f9-4b6c-9304-ccdeb029689e@172.66.40.99:443?type=ws&security=tls&path=/telegram-CONFiGLiNE,telegram-CONFiGLiNE,telegram-CONFiGLiNE,telegram-CONFiGLiNE,telegram-CONFiGLiNE,telegram-CONFiGLiNE,telegram-CONFiGLiNE,telegram-CONFiGLiNE?ed=2048&sni=az52.mashkestan.com&fp=firefox#172.66.40.99:443
 vless://25f6398e-56c3-4b9e-85e2-fa71448fe740@172.66.40.99:8080?type=ws&security=none&path=/-LiV2ry@LIGHTNING6-TEL--@LIGHTNING6-TEL--@LIGHTNING6-TEL--@LIGHTNING6-JOIN-@LIGHTNING6-TEL--@LIGHTNING6-JOIN-@LIGHTNING6-TEL-@LIGHTNING6-TEL--@LIGHTNING6-JOIN-@LIGHTNING6-TEL--@LIGHTNING6?ed=2048#172.66.40.99:8080
@@ -21,5 +21,5 @@ vless://26633f0a-9081-4a11-8cdd-f3db06dae685@172.66.40.99:8080?type=ws&security=
 vless://181d3eda-f419-43e0-a7db-3393d1303a95@www.speedtest.net:2082?type=ws&security=none&path=/@spikevpn-@spikevpn-@spikevpn-@spikevpn-@spikevpn-@spikevpn?ed=2082#www.speedtest.net:2082
 vless://ec906c46-8a02-4148-f560-364d5579a0cf@numberland.ir:2052?type=ws&security=none&path=/@vmessorg----@vmessorg-----@vmessorg----@vmessorg----@vmessorg----@vmessorg----@vmessorg----@vmessorg----@vmessorg----@vmessorg----@vmessorg----@vmessorg?ed=2480#numberland.ir:2052
 vless://ec906c46-8a02-4148-f560-364d5579a0cf@www.speedtest.net:2052?type=ws&security=none&path=/@vmessorg----@vmessorg-----@vmessorg----@vmessorg----@vmessorg----@vmessorg----@vmessorg----@vmessorg----@vmessorg----@vmessorg----@vmessorg----@vmessorg?ed=2480#www.speedtest.net:2052
-trojan://dqkfbu9n-f7yl-xn93-21k9-dsg3xl2nyl7c@127.0.0.1:8080?security=tls&type=tcp#For enhanced GitHub access, visit Argh94 now!
-trojan://o19a9ukf-druq-0bme-rily-k7d8v8m7s11y@127.0.0.1:8081?security=tls&type=tcp#</> Collector v5.0
+trojan://58q3uxiq-gxua-ga8m-vwyh-8gnibj38s0ak@127.0.0.1:8080?security=tls&type=tcp#For enhanced GitHub access, visit Argh94 now!
+trojan://1y92h6yh-xwhp-e0nx-vuc0-f6go2njj6yf7@127.0.0.1:8081?security=tls&type=tcp#</> Collector v5.0

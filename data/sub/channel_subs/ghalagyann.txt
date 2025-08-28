@@ -1,7 +1,6 @@
-trojan://zwxwktvg-fh5n-bc1i-i7gk-qji6d5ev6nro@127.0.0.1:1080?security=tls&type=tcp#🕒 LAST UPDATE: 2025/08/28 | 16:03
-trojan://2jo4lmp7-ftsm-ngq6-4loz-cajg16jrhf4o@127.0.0.1:2080?security=tls&type=tcp#This is a free trial project.
-trojan://ab7wtgk3-6k9c-9waj-csdg-x3w0iqgn7kfm@127.0.0.1:4080?security=tls&type=tcp#「 GitHub Argh94 ☕ 」
-vless://19e427b0-abd4-441b-900f-42af30d04088@www.speedtest.net:80?type=ws&security=none&path=/Join----VPNCUSTOMIZE---Join----VPNCUSTOMIZE&sni=revest.maketunnelim.Lat.#www.speedtest.net:80
+trojan://lsk62eb2-erad-dtml-jsf8-hk2y91e3gj9f@127.0.0.1:1080?security=tls&type=tcp#🕒 LAST UPDATE: 2025/08/28 | 19:55
+trojan://6slmwiri-v4fg-3low-aaz9-k6zpk9mcujl5@127.0.0.1:2080?security=tls&type=tcp#This is a free trial project.
+trojan://t77jh32a-ro04-46y5-rg28-e5t5royewfyc@127.0.0.1:4080?security=tls&type=tcp#「 GitHub Argh94 ☕ 」
 vless://c81ce31e-0377-4fff-955b-9c9fa0be2eb1@www.speedtest.net:8080?type=ws&security=none&path=/@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy#www.speedtest.net:8080
 vless://dfebc216-f6e1-4511-9c78-eb3584f0b869@188.114.98.112:80?type=ws&security=none&path=/ELiV2-RAY----ELiV2-RAY----ELiV2-RAY----ELiV2-RAY----ELiV2-RAY----ELiV2-RAY?ed=2560#188.114.98.112:80
 vless://21e6d7f3-08bd-4dbc-abf5-8012d9838af5@188.114.98.112:80?type=ws&security=none&path=/ELiV2-RAY----ELiV2-RAY----ELiV2-RAY----ELiV2-RAY----ELiV2-RAY----ELiV2-RAY?ed=2560#188.114.98.112:80
@@ -11,5 +10,5 @@ vless://6c9fa651-7d63-4b88-ab3c-b39d5a8dd440@188.114.98.112:80?type=ws&security=
 vless://b1723c14-8180-4311-a65f-fc2665c6b51f@188.114.98.112:80?type=ws&security=none&path=/ELiV2-RAY----ELiV2-RAY----ELiV2-RAY----ELiV2-RAY----ELiV2-RAY----ELiV2-RAY?ed=2560#188.114.98.112:80
 vless://e3098c2b-d2ec-40e1-b42e-208693bb9b38@188.114.98.112:80?type=ws&security=none&path=/ELiV2-RAY----ELiV2-RAY----ELiV2-RAY----ELiV2-RAY----ELiV2-RAY----ELiV2-RAY?ed=2560#188.114.98.112:80
 vless://ca6fff67-a1c4-4ccb-9fe5-8ddb1ef5746f@188.114.98.112:80?type=ws&security=none&path=/ELiV2-RAY----ELiV2-RAY----ELiV2-RAY----ELiV2-RAY----ELiV2-RAY----ELiV2-RAY?ed=2560#188.114.98.112:80
-trojan://cpolezb1-s0yq-mg8i-bjsx-77qtp7dmqow8@127.0.0.1:8080?security=tls&type=tcp#For enhanced GitHub access, visit Argh94 now!
-trojan://at69tx2a-ypri-8ubj-7y3p-3lmmpfezorrx@127.0.0.1:8081?security=tls&type=tcp#</> Collector v5.0
+trojan://0qh9rcnj-dmom-nl36-4vg6-bhzpbugq5nlc@127.0.0.1:8080?security=tls&type=tcp#For enhanced GitHub access, visit Argh94 now!
+trojan://1jffnk7o-2x5u-3jix-uxz7-1335tyd7aa9g@127.0.0.1:8081?security=tls&type=tcp#</> Collector v5.0

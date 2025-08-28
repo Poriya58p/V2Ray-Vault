@@ -1,6 +1,6 @@
-trojan://gyzpr7ln-umbr-sd6p-4wqc-8hq7j3swnn5o@127.0.0.1:1080?security=tls&type=tcp#🕒 LAST UPDATE: 2025/08/28 | 16:03
-trojan://2x14dsk3-u8ad-ej4p-6xmj-nh5r69nx11kr@127.0.0.1:2080?security=tls&type=tcp#This is a free trial project.
-trojan://o0g0p5hv-a5wy-fnn0-cylc-n9ipx7ux2gbm@127.0.0.1:4080?security=tls&type=tcp#「 GitHub Argh94 ☕ 」
+trojan://9d3vdf2s-hcse-klo7-a2x4-1k75ptsixyv2@127.0.0.1:1080?security=tls&type=tcp#🕒 LAST UPDATE: 2025/08/28 | 19:55
+trojan://ay0q19yq-e1ik-gyev-b0q3-cnssrfiptbow@127.0.0.1:2080?security=tls&type=tcp#This is a free trial project.
+trojan://lyfdre9v-ag23-ka8l-aoph-9mcxl4614omr@127.0.0.1:4080?security=tls&type=tcp#「 GitHub Argh94 ☕ 」
 vmess://eyJ2IjoiMiIsInBzIjoiLUNoYW5uZWw6OiBAVlBOTGltZSIsImFkZCI6IjE2OC4xMTkuMTA3LjE2MiIsInBvcnQiOjMxNDg0LCJpZCI6Ijk0Mzk2MWI4LTRlMjctNGJkZi1hMDQ4LWMyZjcyNGY1NDJmYiIsImFpZCI6MCwic2N5IjoiYXV0byIsIm5ldCI6InRjcCIsInR5cGUiOiJub25lIn0
 vless://b3484939-b3ed-4c47-933c-b8d8acaa98fb@85.9.96.140:35198?type=tcp&security=none&path=/#85.9.96.140:35198
 vless://788c24fa-af91-4b0d-a589-48381b07101a@168.119.107.162:35448?type=tcp&security=none#168.119.107.162:35448
@@ -10,5 +10,5 @@ vless://19f143e1-95dc-42f6-f4b4-0554988e876d@37.32.10.174:33269?type=ws&security
 vless://7cd6adff-8849-4fad-b3b3-857721c81477@168.119.48.210:8080?type=ws&security=none&path=/@VPNLime#168.119.48.210:8080
 vless://7cd6adff-8849-4fad-b3b3-857721c81477@49.13.74.174:8080?type=ws&security=none&path=/@VPNLime#49.13.74.174:8080
 vless://7cd6adff-8849-4fad-b3b3-857721c81477@49.13.74.174:8080?type=ws&security=none&path=/@VPNLime#49.13.74.174:8080
-trojan://orlwnp7s-zv5a-pxb9-yo6n-rg5bh7awbfz7@127.0.0.1:8080?security=tls&type=tcp#For enhanced GitHub access, visit Argh94 now!
-trojan://cqq1jkfy-v1pi-4tjv-kwsk-z82y6uwro7yq@127.0.0.1:8081?security=tls&type=tcp#</> Collector v5.0
+trojan://nvonrxk0-ks8l-bq0h-qiuz-vp5oadlhiauu@127.0.0.1:8080?security=tls&type=tcp#For enhanced GitHub access, visit Argh94 now!
+trojan://li24rffm-q2y3-6anf-jvw3-b7qd499p2i4z@127.0.0.1:8081?security=tls&type=tcp#</> Collector v5.0

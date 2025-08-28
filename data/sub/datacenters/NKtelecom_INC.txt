@@ -1,7 +1,7 @@
-trojan://ik2gjww2-ag5o-jlll-zk1q-yyajvkmn5q44@127.0.0.1:1080?security=tls&type=tcp#🕒 LAST UPDATE: 2025/08/28 | 16:03
-trojan://9nmoz4j8-8cu3-tfkz-1b8q-91i0fke5g8hm@127.0.0.1:2080?security=tls&type=tcp#This is a free trial project.
-trojan://lwshlcgo-e5k2-lubw-7tvt-1tbjt1g8rs85@127.0.0.1:4080?security=tls&type=tcp#「 GitHub Argh94 ☕ 」
-hysteria2://be81e21d-02d8-4a60-a07e-c2202a50a549@yjjdhl.yunjijd.xyz:26923?sni=yjjdhl.yunjijd.xyz&insecure=1#NL 🇳🇱 ┇ HYSTERIA2-TCP-NTLS - NKtelecom INC ┇ 195.133.79.116
+trojan://ogw1oy7a-8u3l-2prj-8tqj-ymhf500gupvo@127.0.0.1:1080?security=tls&type=tcp#🕒 LAST UPDATE: 2025/08/28 | 19:55
+trojan://8quihazz-hemd-z2ei-9u92-amwo41qsac7k@127.0.0.1:2080?security=tls&type=tcp#This is a free trial project.
+trojan://mcxrbc1s-27e3-3vqc-xx0n-1vsvnvkrikxs@127.0.0.1:4080?security=tls&type=tcp#「 GitHub Argh94 ☕ 」
 hysteria2://4eba7d4d-8460-4f9f-9718-9f06886b5489@hsdg.huasuan666.top:22155?sni=hsdg.huasuan666.top&insecure=1#DE 🇩🇪 ┇ HYSTERIA2-TCP-NTLS - NKtelecom INC ┇ 213.108.198.123
-trojan://8m3ddlv2-sx4o-04mf-efid-q8z1mkhhesvo@127.0.0.1:8080?security=tls&type=tcp#For enhanced GitHub access, visit Argh94 now!
-trojan://8qepvhvd-ezad-fnok-puj6-13x98hf11m3o@127.0.0.1:8081?security=tls&type=tcp#</> Collector v5.0
+hysteria2://be81e21d-02d8-4a60-a07e-c2202a50a549@yjjdhl.yunjijd.xyz:26923?sni=yjjdhl.yunjijd.xyz&insecure=1#NL 🇳🇱 ┇ HYSTERIA2-TCP-NTLS - NKtelecom INC ┇ 195.133.79.116
+trojan://eyecp9lt-f0p0-kp2p-7uey-pvi26dzl2v4o@127.0.0.1:8080?security=tls&type=tcp#For enhanced GitHub access, visit Argh94 now!
+trojan://i0eega3z-mk30-c5me-mrke-oy4qoxweux3c@127.0.0.1:8081?security=tls&type=tcp#</> Collector v5.0

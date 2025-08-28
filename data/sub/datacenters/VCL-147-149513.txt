@@ -1,6 +1,6 @@
-trojan://up0rwqg6-00x3-xd94-fng9-q5bg9aw042c6@127.0.0.1:1080?security=tls&type=tcp#🕒 LAST UPDATE: 2025/08/28 | 16:03
-trojan://b5ahnejr-ln23-fh5l-3exn-fb5vsdlttzt7@127.0.0.1:2080?security=tls&type=tcp#This is a free trial project.
-trojan://9wjxy5ym-dr0t-eqgl-8niu-34e833wfksi6@127.0.0.1:4080?security=tls&type=tcp#「 GitHub Argh94 ☕ 」
-trojan://dc15d997-8b26-4294-870e-c90a5784dca4@naiu-jp.05vr9nyqg5.download:13011?sni=cloudflare.node-ssl.cdn-alibaba.com&peer=cloudflare.node-ssl.cdn-alibaba.com&security=tls#HK 🇭🇰 ┇ TROJAN-TCP-TLS - VCL-147-149513 ┇ 103.181.165.248
-trojan://rigvztpf-3m91-rqjb-bkww-exg2qa9hwjys@127.0.0.1:8080?security=tls&type=tcp#For enhanced GitHub access, visit Argh94 now!
-trojan://i73r9q22-0sis-etfd-bylz-ikvefvv1hkem@127.0.0.1:8081?security=tls&type=tcp#</> Collector v5.0
+trojan://bpgsj1dr-jg4j-7zt4-5wub-st5xt9lwadit@127.0.0.1:1080?security=tls&type=tcp#🕒 LAST UPDATE: 2025/08/28 | 19:55
+trojan://mjiz5pgn-pyvq-bayw-jat3-kix15yc7x597@127.0.0.1:2080?security=tls&type=tcp#This is a free trial project.
+trojan://axevhasp-gczn-z02u-aixq-zfz2l93fukff@127.0.0.1:4080?security=tls&type=tcp#「 GitHub Argh94 ☕ 」
+trojan://ad6e2bae-d580-4117-aa37-a8c111100740@naiu-other.05vr9nyqg5.download:13036?sni=cloudflare.node-ssl.cdn-alibaba.com&peer=cloudflare.node-ssl.cdn-alibaba.com&security=tls#HK 🇭🇰 ┇ TROJAN-TCP-TLS - VCL-147-149513 ┇ 103.181.165.248
+trojan://fx3iuvy9-a2nr-rebr-38ap-dtw0spalnqlz@127.0.0.1:8080?security=tls&type=tcp#For enhanced GitHub access, visit Argh94 now!
+trojan://7fxisf1a-2odw-td7q-nv6l-iskz3embip1y@127.0.0.1:8081?security=tls&type=tcp#</> Collector v5.0

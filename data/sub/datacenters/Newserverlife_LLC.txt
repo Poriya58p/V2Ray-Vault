@@ -1,10 +1,10 @@
-trojan://wyqktr6r-yoe4-d30m-jp8v-3r2qw33qsdz4@127.0.0.1:1080?security=tls&type=tcp#🕒 LAST UPDATE: 2025/08/28 | 16:03
-trojan://9f1qzdh5-hgu9-rsor-cl6f-q0232idtwt6s@127.0.0.1:2080?security=tls&type=tcp#This is a free trial project.
-trojan://bdjwjdhy-4w26-lv5w-3ig0-kw3rc8vndt11@127.0.0.1:4080?security=tls&type=tcp#「 GitHub Argh94 ☕ 」
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTozNjBlMjFkMjE5NzdkYzEx@104.167.197.25:57456#US 🇺🇸 ┇ SHADOWSOCKS-TCP-NTLS - Newserverlife LLC ┇ 104.167.197.25
+trojan://ohuvt1zw-lfrz-fe3n-y593-gpukoyeftpie@127.0.0.1:1080?security=tls&type=tcp#🕒 LAST UPDATE: 2025/08/28 | 19:55
+trojan://tx4zq3l0-6it3-aqnb-3sz3-cg1iftkiccpt@127.0.0.1:2080?security=tls&type=tcp#This is a free trial project.
+trojan://zti04jt9-yzf5-ntzf-jaf4-6hkrsbl9lyku@127.0.0.1:4080?security=tls&type=tcp#「 GitHub Argh94 ☕ 」
+vless://fd3c5105-a311-4f27-a8f9-aafa43519d48@25.grizzzlyyyy.ir:31744?type=xhttp&security=reality&path=/grizzlyyyy&sni=init.itunes.apple.com&fp=ios&pbk=wzVTHc8AVy3DCkAhNrAayePA82teKZ0A2ckdPI3xsSk&sid=b9#PL 🇵🇱 ┇ VLESS-XHTTP-RLT - Newserverlife LLC ┇ 45.144.49.47
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTphNThmYTYyYjQ5NDRkZGJm@38.107.234.38:57456#KZ 🇰🇿 ┇ SHADOWSOCKS-TCP-NTLS - Newserverlife LLC ┇ 38.107.234.38
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTphNThmYTYyYjQ5NDRkZGJm@45.144.49.140:57456#PL 🇵🇱 ┇ SHADOWSOCKS-TCP-NTLS - Newserverlife LLC ┇ 45.144.49.140
-vless://fd3c5105-a311-4f27-a8f9-aafa43519d48@25.grizzzlyyyy.ir:31744?type=xhttp&security=reality&path=/grizzlyyyy&sni=init.itunes.apple.com&fp=ios&pbk=wzVTHc8AVy3DCkAhNrAayePA82teKZ0A2ckdPI3xsSk&sid=b9#PL 🇵🇱 ┇ VLESS-XHTTP-RLT - Newserverlife LLC ┇ 45.144.49.47
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTphZmEyMmJiMTA1MDEzNGI4@104.167.197.23:57456#US 🇺🇸 ┇ SHADOWSOCKS-TCP-NTLS - Newserverlife LLC ┇ 104.167.197.23
-trojan://1a5h82eg-1qbo-w379-tntv-au4rbogm6oni@127.0.0.1:8080?security=tls&type=tcp#For enhanced GitHub access, visit Argh94 now!
-trojan://nn7o6m0g-r62z-eo1d-1cfs-8burc3pu0dog@127.0.0.1:8081?security=tls&type=tcp#</> Collector v5.0
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTozNjBlMjFkMjE5NzdkYzEx@104.167.197.25:57456#US 🇺🇸 ┇ SHADOWSOCKS-TCP-NTLS - Newserverlife LLC ┇ 104.167.197.25
+trojan://96iae886-hyi9-1o8c-8uo5-ggae3u83e4mv@127.0.0.1:8080?security=tls&type=tcp#For enhanced GitHub access, visit Argh94 now!
+trojan://j9hq1tsn-is89-pxx5-f448-rb1uzm14hcbv@127.0.0.1:8081?security=tls&type=tcp#</> Collector v5.0

@@ -1,7 +1,7 @@
-trojan://5uy7eab8-7l17-vkhu-2k7y-dumsdkszseju@127.0.0.1:1080?security=tls&type=tcp#🕒 LAST UPDATE: 2025/08/28 | 16:03
-trojan://efp4uk5k-y1pe-uh7s-svwp-97x2tg3kamac@127.0.0.1:2080?security=tls&type=tcp#This is a free trial project.
-trojan://ufcq4nbl-qgd8-eptk-37pv-ih12dtmsspnd@127.0.0.1:4080?security=tls&type=tcp#「 GitHub Argh94 ☕ 」
-vless://cdaf9409-936e-4056-94d5-e68e9bf0d306@37.252.4.81:24773?type=tcp&security=reality&sni=www.speedtest.net&fp=firefox&pbk=xAACwVeGPMm3pUceuZR5r7KIx1tSHzoFrXS08DhfKAw&sid=d325de61#EE 🇪🇪 ┇ VLESS-TCP-RLT - Aktsiaselts WaveCom ┇ 37.252.4.81
+trojan://gd2iam3x-w43p-dqa9-kdvm-q0s9tvs8ed4q@127.0.0.1:1080?security=tls&type=tcp#🕒 LAST UPDATE: 2025/08/28 | 19:55
+trojan://w9swk4k9-n6qs-0cbv-bpvd-ehwtv3i8h5rd@127.0.0.1:2080?security=tls&type=tcp#This is a free trial project.
+trojan://nq6sq09q-t321-dmhx-mhtl-wte99cojwumw@127.0.0.1:4080?security=tls&type=tcp#「 GitHub Argh94 ☕ 」
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTozcFVSdVRVZi1sRmdnNXFXZzhldUZB@38.180.44.28:1080#EE 🇪🇪 ┇ SHADOWSOCKS-TCP-NTLS - Aktsiaselts WaveCom ┇ 38.180.44.28
-trojan://d7fy893h-kxnk-ztk5-t5b9-w3y3e36qm2xx@127.0.0.1:8080?security=tls&type=tcp#For enhanced GitHub access, visit Argh94 now!
-trojan://f4fqq2vd-vxgb-lahf-iobt-4zormwe4x8mo@127.0.0.1:8081?security=tls&type=tcp#</> Collector v5.0
+vless://cdaf9409-936e-4056-94d5-e68e9bf0d306@37.252.4.81:24773?type=tcp&security=reality&sni=www.speedtest.net&fp=firefox&pbk=xAACwVeGPMm3pUceuZR5r7KIx1tSHzoFrXS08DhfKAw&sid=d325de61#EE 🇪🇪 ┇ VLESS-TCP-RLT - Aktsiaselts WaveCom ┇ 37.252.4.81
+trojan://hhf3wxk1-apcd-bjov-avjl-bw7qfin75kes@127.0.0.1:8080?security=tls&type=tcp#For enhanced GitHub access, visit Argh94 now!
+trojan://d90hee2l-0ese-y7c9-l2jp-go8uohqzh1oh@127.0.0.1:8081?security=tls&type=tcp#</> Collector v5.0

@@ -1,8 +1,8 @@
-trojan://wn3yma50-9b5h-cjhu-y7jk-f4ti4hpa1av3@127.0.0.1:1080?security=tls&type=tcp#🕒 LAST UPDATE: 2025/08/28 | 16:03
-trojan://xog6bnx9-hoat-kyo9-tz20-onb3f9gsnrq5@127.0.0.1:2080?security=tls&type=tcp#This is a free trial project.
-trojan://62dq8msh-y2am-5rr2-dxip-thd2v96t31zn@127.0.0.1:4080?security=tls&type=tcp#「 GitHub Argh94 ☕ 」
+trojan://bcriweua-q1o8-bu78-l7g5-s2ojg2y0jjjf@127.0.0.1:1080?security=tls&type=tcp#🕒 LAST UPDATE: 2025/08/28 | 19:55
+trojan://m9f5f8ag-rf0x-bl3x-4b0d-xksa7m1ilzwb@127.0.0.1:2080?security=tls&type=tcp#This is a free trial project.
+trojan://mv6dtzbp-67ay-mlnc-3crl-3nhebuwm6i4x@127.0.0.1:4080?security=tls&type=tcp#「 GitHub Argh94 ☕ 」
 vless://c8da575a-b3ab-4949-985c-d151335b5301@194.182.79.182:29706?type=grpc&security=reality&sni=sourceforge.net&fp=chrome&pbk=9EHYRTmUgCJodNs5L4wTxoxniVtvsXFonfQ1H72LqRQ&sid=ef8dfc4f801d89#CZ 🇨🇿 ┇ VLESS-GRPC-RLT - INTERNET CZ, a.s. ┇ 194.182.79.182
-vless://aa374d55-b368-4121-8f02-7e6bd9ef1924@194.182.79.43:25245?type=grpc&security=reality&sni=journalofbigdata.springeropen.com&fp=chrome&pbk=uv1gMqjxJ-bF5Xjix_d5M4qGK0-VmGyrU5ZMtiXrhHg&sid=16b619c73e22#CZ 🇨🇿 ┇ VLESS-GRPC-RLT - INTERNET CZ, a.s. ┇ 194.182.79.43
 trojan://mZMgM1vKw5@85.255.9.247:1935?sni=x1-czech-aruba-v2.devefun.org&peer=x1-czech-aruba-v2.devefun.org&security=tls#CZ 🇨🇿 ┇ TROJAN-TCP-TLS - INTERNET CZ, a.s. ┇ 85.255.9.247
-trojan://db6dquj1-51z8-io86-30v7-qvos7k1kcf9m@127.0.0.1:8080?security=tls&type=tcp#For enhanced GitHub access, visit Argh94 now!
-trojan://9w8637y5-pn9r-9lj1-v49h-q7iamqoldmih@127.0.0.1:8081?security=tls&type=tcp#</> Collector v5.0
+vless://aa374d55-b368-4121-8f02-7e6bd9ef1924@194.182.79.43:25245?type=grpc&security=reality&sni=journalofbigdata.springeropen.com&fp=chrome&pbk=uv1gMqjxJ-bF5Xjix_d5M4qGK0-VmGyrU5ZMtiXrhHg&sid=16b619c73e22#CZ 🇨🇿 ┇ VLESS-GRPC-RLT - INTERNET CZ, a.s. ┇ 194.182.79.43
+trojan://n96eh4fz-ovnn-9fjs-64iz-qoy3q5f3yh89@127.0.0.1:8080?security=tls&type=tcp#For enhanced GitHub access, visit Argh94 now!
+trojan://jhfu5aj4-93lb-fknz-hjoe-n90xlh7yfklx@127.0.0.1:8081?security=tls&type=tcp#</> Collector v5.0

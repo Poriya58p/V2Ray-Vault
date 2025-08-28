@@ -1,6 +1,6 @@
-trojan://cwnt8k92-u53u-dqvb-97wi-rd3r1b552dre@127.0.0.1:1080?security=tls&type=tcp#🕒 LAST UPDATE: 2025/08/28 | 16:03
-trojan://rz3ud7oc-us93-d8bz-lbj9-7lceiw4wxwte@127.0.0.1:2080?security=tls&type=tcp#This is a free trial project.
-trojan://yn1uo51i-qbg5-w435-dcax-wj5hl42cvjdz@127.0.0.1:4080?security=tls&type=tcp#「 GitHub Argh94 ☕ 」
+trojan://g5s2q1d5-hshr-l254-9vcv-ypa9zeba7nno@127.0.0.1:1080?security=tls&type=tcp#🕒 LAST UPDATE: 2025/08/28 | 19:55
+trojan://tqfdhjw4-hpxe-pdsc-md7w-a76ha9dr2myl@127.0.0.1:2080?security=tls&type=tcp#This is a free trial project.
+trojan://g7rdg9hw-9z73-5b1x-ez9i-9ea6tpfr65e7@127.0.0.1:4080?security=tls&type=tcp#「 GitHub Argh94 ☕ 」
 vless://Parsashonam-300@185.146.173.39:8880?type=httpupgrade&security=none&path=/Parsashonam-Parsashonam-Parsashonam/?ed=2056#185.146.173.39:8880
 vless://Parsashonam-300@2a01:4f8:1c1a:dc2b::1:8888?type=tcp&security=none#2a01:4f8:1c1a:dc2b::1:8888
 vless://Parsashonam-301@185.146.173.39:8880?type=httpupgrade&security=none&path=/Parsashonam-Parsashonam-Parsashonam/?ed=2056#185.146.173.39:8880
@@ -13,5 +13,5 @@ vless://Parsashonam-300@91.99.16.244:443?type=xhttp&security=reality&path=/Parsa
 vless://Parsashonam-301@91.99.16.244:443?type=xhttp&security=reality&path=/Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam&sni=Google.com&fp=chrome&pbk=sa5RHNjAAD3hYv4OU_YYU08gRUsmPs5JdZES5Xy3pn8&sid=61e683d41fdb#91.99.16.244:443
 vless://Parsashonam-302@91.99.16.244:443?type=xhttp&security=reality&path=/Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam&sni=Google.com&fp=chrome&pbk=sa5RHNjAAD3hYv4OU_YYU08gRUsmPs5JdZES5Xy3pn8&sid=61e683d41fdb#91.99.16.244:443
 vless://Parsashonam-303@91.99.16.244:443?type=xhttp&security=reality&path=/Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam&sni=Google.com&fp=chrome&pbk=sa5RHNjAAD3hYv4OU_YYU08gRUsmPs5JdZES5Xy3pn8&sid=61e683d41fdb#91.99.16.244:443
-trojan://5504x1rl-9wkn-ep27-yvtl-vdffmrss64ba@127.0.0.1:8080?security=tls&type=tcp#For enhanced GitHub access, visit Argh94 now!
-trojan://2jiaz4t6-1wk2-72t2-c9l8-s21tr3qrfgvy@127.0.0.1:8081?security=tls&type=tcp#</> Collector v5.0
+trojan://4bqbw8cb-k65j-dqf0-dll0-emcyd50r0cea@127.0.0.1:8080?security=tls&type=tcp#For enhanced GitHub access, visit Argh94 now!
+trojan://3glhdfyc-anbr-snxd-dei9-ijono23ao24y@127.0.0.1:8081?security=tls&type=tcp#</> Collector v5.0

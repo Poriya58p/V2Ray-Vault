@@ -1,6 +1,6 @@
-trojan://qd5c7oel-ie2b-dz22-exr4-g9loce2569mu@127.0.0.1:1080?security=tls&type=tcp#🕒 LAST UPDATE: 2025/08/28 | 16:03
-trojan://g741dljj-3u73-yq4u-ii1g-qkz7t1te60ym@127.0.0.1:2080?security=tls&type=tcp#This is a free trial project.
-trojan://wzrbjrul-sxwg-ngmt-pc2v-1aog6st77pn0@127.0.0.1:4080?security=tls&type=tcp#「 GitHub Argh94 ☕ 」
+trojan://e5z32bxv-kiov-y0oi-fu7y-ce7zqdo8okww@127.0.0.1:1080?security=tls&type=tcp#🕒 LAST UPDATE: 2025/08/28 | 19:55
+trojan://533n250a-ukk1-zh8p-ehyx-fz0o6idnow2j@127.0.0.1:2080?security=tls&type=tcp#This is a free trial project.
+trojan://k5tc0oir-sfs1-utsm-rqsq-21ihnf3j5yoq@127.0.0.1:4080?security=tls&type=tcp#「 GitHub Argh94 ☕ 」
 trojan://ttfang@72.167.243.194:2096?sni=ttfang.fange.me&peer=ttfang.fange.me&security=tls#72.167.243.194:2096
 vless://c4587bda-09fc-4b3b-8221-4450fccc33d1@malaysia.com:443?type=ws&security=tls&path=/?ed=2560&sni=yx.yushan.dpdns.org&fp=random#malaysia.com:443
 vless://e8a19247-cb95-4f9c-9c77-ea0355268762@sss55168.tas-bazi.com:443?type=xhttp&security=none&path=/xhttp#sss55168.tas-bazi.com:443
@@ -76,5 +76,5 @@ hysteria2://8b583292-c936-4723-a8c7-8adb8ecf5044@hsxjp.huasuan666.top:22154?sni=
 hysteria2://NjEkAYYNqFKUbrksyW1COBtdpU@47.239.220.214:2428?sni=47.239.220.214&insecure=1#47.239.220.214:2428
 hysteria2://3hszBhqVsUhqOOFWJlev6k6Tkc@47.129.224.62:22509?sni=bing.com&insecure=1#47.129.224.62:22509
 hysteria2://RzQrEkAmnGs86IhmSVUk9Q5cn9M@47.236.104.81:30308?sni=bing.com&insecure=1#47.236.104.81:30308
-trojan://cihvnart-7xd6-ttpf-b3fx-u7ww3d4xxx5e@127.0.0.1:8080?security=tls&type=tcp#For enhanced GitHub access, visit Argh94 now!
-trojan://0fsasgx5-15tq-lngp-ygru-izvcddvn9j1a@127.0.0.1:8081?security=tls&type=tcp#</> Collector v5.0
+trojan://oyrtabbf-u0gx-we5i-sn2o-06eznesefkam@127.0.0.1:8080?security=tls&type=tcp#For enhanced GitHub access, visit Argh94 now!
+trojan://hi0vqbaa-8hxo-nu2d-hqa4-mfg6n9qz8jiw@127.0.0.1:8081?security=tls&type=tcp#</> Collector v5.0
