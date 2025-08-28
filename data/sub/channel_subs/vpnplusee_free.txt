@@ -1,12 +1,6 @@
-trojan://iyy715mi-0b0l-bhcl-6zsj-20r7z4tudad3@127.0.0.1:1080?security=tls&type=tcp#🕒 LAST UPDATE: 2025/08/28 | 07:53
-trojan://8h9ob8f0-qtdu-6ppy-rbo2-qkybeyizkc7q@127.0.0.1:2080?security=tls&type=tcp#This is a free trial project.
-trojan://g9nnvxih-6mkl-5vbu-0zly-iqcy6lu7dt9p@127.0.0.1:4080?security=tls&type=tcp#「 GitHub Argh94 ☕ 」
-vless://1f8626cd-5c2e-4887-b906-75396cde1423@evay_vpn.fast.hosting-ip.com:80?type=xhttp&security=none&path=/?ed=2048@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn#evay_vpn.fast.hosting-ip.com:80
-vless://f51667a2-c1e6-5321-9d51-f03be3fc8d02@evay_vpn.fast.hosting-ip.com:80?type=xhttp&security=none&path=/?ed=2048@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn#evay_vpn.fast.hosting-ip.com:80
-vless://964582fa-d157-491e-9ce7-bb3e2df57625@85.209.155.9:8880?type=grpc&security=none#85.209.155.9:8880
-vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@35.159.254.111:22224?type=ws&security=tls&path=/telegram-channel-vlessconfig&sni=trojan.burgerip.co.uk#35.159.254.111:22224
-vless://0fbf4f81-2598-4b6a-a623-0ead4cb9efa8@172.66.146.26:443?type=ws&security=tls&path=/Free-CF-Proxy-AD192.3.113.4-19318?ed=2048/?TELEGRAM_CHANEL_JKVPN_JKVPN_JKVPN&sni=privasi.turah.my.id&fp=chrome#172.66.146.26:443
-vless://0fbf4f81-2598-4b6a-a623-0ead4cb9efa8@172.66.146.26:443?type=ws&security=tls&path=/Free-CF-Proxy-AD192.3.113.4-19318?ed=2048/?TELEGRAM_CHANEL_JKVPN_JKVPN_JKVPN&sni=privasi.turah.my.id&fp=chrome#172.66.146.26:443
+trojan://1knb3jl6-69ak-zp5o-6oiv-0k3m8qihfou7@127.0.0.1:1080?security=tls&type=tcp#🕒 LAST UPDATE: 2025/08/28 | 11:56
+trojan://rzzd6n15-l99j-5j2b-996f-ouv899hn1tlf@127.0.0.1:2080?security=tls&type=tcp#This is a free trial project.
+trojan://qyu3bxzy-seel-mn9k-0sqc-qni3sq9ttm10@127.0.0.1:4080?security=tls&type=tcp#「 GitHub Argh94 ☕ 」
 vless://08d66920-8c2f-422a-b762-3b9df3b15aa1@172.66.40.99:8080?type=ws&security=none&path=/@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet#172.66.40.99:8080
 vless://2a69238c-a130-445e-8464-2e878a46081d@5.35.103.218:2083?type=tcp&security=none#5.35.103.218:2083
 vless://02ba99ca-ec56-4b2d-8537-bb20b830a3f7@www.speedtest.net:2095?type=httpupgrade&security=none&path=/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam?ed=2048#www.speedtest.net:2095
@@ -20,5 +14,11 @@ vless://ccbe6b7c-9264-40c4-8bc1-ef8f6205d7a4@104.16.53.11:8443?type=ws&security=
 vless://c313c27c-97ff-45ed-ab5c-64641af5debc@fierce-data.seotoolsforyou.co.uk:80?type=ws&security=none&path=/?ed=2048@HiByeVPNN--@HiByeVPNN--@HiByeVPNN--@HiByeVPNN--@HiByeVPNN--@HiByeVPNN--@HiByeVPNN--@HiByeVPNN--@HiByeVPNN--@HiByeVPNN--@HiByeVPNN--@HiByeVPNN--@HiByeVPNN#fierce-data.seotoolsforyou.co.uk:80
 vless://1d0dfde1-9f18-4557-9af8-4f3124ee5dcd@wild-bird.seotoolsforyou.co.uk:80?type=ws&security=none&path=/#wild-bird.seotoolsforyou.co.uk:80
 vless://5fd9c3f7-bd70-4dab-8915-4c57bfe2b309@63.141.128.0:80?type=ws&security=none&path=/Join-ZEDMODEON-ZEDMODEON-ZEDMODEON-bia-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON#63.141.128.0:80
-trojan://tebv7w5t-qx85-7hrd-1a2p-kpgx7eezf49o@127.0.0.1:8080?security=tls&type=tcp#For enhanced GitHub access, visit Argh94 now!
-trojan://lhs2xi49-w72d-aefc-e8yu-dc4bz512pdys@127.0.0.1:8081?security=tls&type=tcp#</> Collector v5.0
+vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@13.39.136.125:22224?type=ws&security=tls&path=/telegram-channel-vlessconfig&sni=trojan.burgerip.co.uk#13.39.136.125:22224
+vless://cb0f0cbf-7e94-48d5-bbbd-c1f83a037b6d@5.35.103.218:2083?type=tcp&security=none#5.35.103.218:2083
+vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@3.72.135.219:22224?type=ws&security=tls&path=/telegram-channel-vlessconfig&sni=trojan.burgerip.co.uk#3.72.135.219:22224
+vless://d88937d0-ce43-4bf8-9df6-d632810ba9ff@104.26.5.134:443?type=ws&security=tls&path=/&sni=007.xingfu.qzz.io&fp=random#104.26.5.134:443
+vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@13.39.190.179:22224?type=ws&security=tls&path=/telegram-channel-vlessconfig&sni=trojan.burgerip.co.uk#13.39.190.179:22224
+vless://8c17092b-4d89-44e3-9dcb-a00c2bf28827@172.66.40.99:80?type=ws&security=none&path=/?ed=2560&sni=barayeiranmahsang.bahareh.dpdns.org&fp=random#172.66.40.99:80
+trojan://u1ahvp0n-wf62-ilsc-tawf-288h8jcn4ixw@127.0.0.1:8080?security=tls&type=tcp#For enhanced GitHub access, visit Argh94 now!
+trojan://qwixcglg-ej3q-zew8-b24s-0gvdsb667s7w@127.0.0.1:8081?security=tls&type=tcp#</> Collector v5.0

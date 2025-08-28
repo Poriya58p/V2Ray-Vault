@@ -1,7 +1,7 @@
-trojan://wjmn40jt-8vpl-hdqg-4h54-uyiyucwm0r2z@127.0.0.1:1080?security=tls&type=tcp#🕒 LAST UPDATE: 2025/08/28 | 07:53
-trojan://fbdk52tt-rbyj-y4zi-wdcf-q9gweis27d43@127.0.0.1:2080?security=tls&type=tcp#This is a free trial project.
-trojan://9f3me64i-a74a-1ogl-4sv5-xy92eg7pqed2@127.0.0.1:4080?security=tls&type=tcp#「 GitHub Argh94 ☕ 」
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpEQWw2Zkthb2lBVks2NGt5dWFZRmFR@45.130.165.90:443#SG 🇸🇬 ┇ SHADOWSOCKS-TCP-NTLS - KAMATERA ┇ 45.130.165.90
+trojan://2pv4avtf-050e-etin-24tp-242cj4lvk91c@127.0.0.1:1080?security=tls&type=tcp#🕒 LAST UPDATE: 2025/08/28 | 11:56
+trojan://wj9oz08c-ewwh-wymv-8x0c-abydz5whktjj@127.0.0.1:2080?security=tls&type=tcp#This is a free trial project.
+trojan://jqo8trcx-5zgu-dx7i-5na7-3kv57voyeyxe@127.0.0.1:4080?security=tls&type=tcp#「 GitHub Argh94 ☕ 」
 vless://15b18878-e774-4f6e-9c33-d8a6e6205fb3@blog.curfuffled.com:443?type=grpc&security=reality&sni=tgju.org&fp=firefox&pbk=-BtPlG7KnJIIIgh77udPqDKTOIMPsJUy0kYhp3CWBwA&sid=975cfc3c7441#IL 🇮🇱 ┇ VLESS-GRPC-RLT - KAMATERA ┇ 103.240.147.14
-trojan://hw0gtc6s-jkp5-7vwo-clc1-ts3u1j5del1d@127.0.0.1:8080?security=tls&type=tcp#For enhanced GitHub access, visit Argh94 now!
-trojan://aczs4wuv-1bpr-rlsp-wmg2-33ykqm64zhag@127.0.0.1:8081?security=tls&type=tcp#</> Collector v5.0
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpEQWw2Zkthb2lBVks2NGt5dWFZRmFR@45.130.165.90:443#SG 🇸🇬 ┇ SHADOWSOCKS-TCP-NTLS - KAMATERA ┇ 45.130.165.90
+trojan://1287xe9v-7i37-jiug-k25c-a26h9ei6qylg@127.0.0.1:8080?security=tls&type=tcp#For enhanced GitHub access, visit Argh94 now!
+trojan://r3iosrls-zo1m-lr2t-q8y1-2d3lxdr4t1uu@127.0.0.1:8081?security=tls&type=tcp#</> Collector v5.0

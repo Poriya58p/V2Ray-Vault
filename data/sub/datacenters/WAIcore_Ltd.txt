@@ -1,9 +1,9 @@
-trojan://9bejx271-ftk8-tx5p-omcw-5ra0eoebmq5g@127.0.0.1:1080?security=tls&type=tcp#🕒 LAST UPDATE: 2025/08/28 | 07:53
-trojan://8zjour2l-2w6s-fc6y-fxn7-7ugdvcwidoew@127.0.0.1:2080?security=tls&type=tcp#This is a free trial project.
-trojan://z4omqv5k-ywka-e6um-p8n8-a47mihage92m@127.0.0.1:4080?security=tls&type=tcp#「 GitHub Argh94 ☕ 」
-vless://521def48-9d70-4032-af12-814a02352f14@94.141.123.233:443?type=tcp&security=reality&sni=cdnjs.com&fp=chrome&flow=xtls-rprx-vision&pbk=vfmqSXTEjdIOgz43eZTNzBRztAvd1U1dDkSz_mnaSk4&sid=fc7a526a7e61ba3b#DE 🇩🇪 ┇ VLESS-TCP-RLT - WAIcore Ltd ┇ 94.141.123.233
-vless://ebac2049-8367-4eab-a1a5-8b742b2fd3b6@87.120.205.207:2025?type=grpc&security=reality&sni=yahoo.com&fp=chrome&pbk=Cnuh4bNEBvRIjrYBEWSVhX8nr5j46lHuyen_IU2rbSk&sid=a76e2f1d45#DE 🇩🇪 ┇ VLESS-GRPC-RLT - WAIcore Ltd ┇ 87.120.205.207
+trojan://z4tukgge-s5bn-mm8m-xx2e-lq43zks63gh5@127.0.0.1:1080?security=tls&type=tcp#🕒 LAST UPDATE: 2025/08/28 | 11:56
+trojan://14ljvmxh-mfe8-q43c-w81k-2kv9xjvgw5im@127.0.0.1:2080?security=tls&type=tcp#This is a free trial project.
+trojan://wahgllu4-bhx3-i55g-tbvo-3xhf1e3sgy56@127.0.0.1:4080?security=tls&type=tcp#「 GitHub Argh94 ☕ 」
 vless://521def48-9d70-4032-af12-814a02352f14@194.87.29.240:443?type=tcp&security=reality&sni=cdnjs.com&fp=chrome&flow=xtls-rprx-vision&pbk=vfmqSXTEjdIOgz43eZTNzBRztAvd1U1dDkSz_mnaSk4&sid=fc7a526a7e61ba3b#DE 🇩🇪 ┇ VLESS-TCP-RLT - WAIcore Ltd ┇ 194.87.29.240
+vless://ebac2049-8367-4eab-a1a5-8b742b2fd3b6@87.120.205.207:2025?type=grpc&security=reality&sni=yahoo.com&fp=chrome&pbk=Cnuh4bNEBvRIjrYBEWSVhX8nr5j46lHuyen_IU2rbSk&sid=a76e2f1d45#DE 🇩🇪 ┇ VLESS-GRPC-RLT - WAIcore Ltd ┇ 87.120.205.207
+vless://521def48-9d70-4032-af12-814a02352f14@94.141.123.233:443?type=tcp&security=reality&sni=cdnjs.com&fp=chrome&flow=xtls-rprx-vision&pbk=vfmqSXTEjdIOgz43eZTNzBRztAvd1U1dDkSz_mnaSk4&sid=fc7a526a7e61ba3b#DE 🇩🇪 ┇ VLESS-TCP-RLT - WAIcore Ltd ┇ 94.141.123.233
 vless://94103d28-98c9-462a-9098-f3c69163749c@87.120.92.135:443?type=tcp&security=reality&sni=www.latimes.com&fp=chrome&pbk=ERFNXMOphtOIgiaj2XyHxE7NYsXJTErd1bPPnLCWYgw&sid=6038#DE 🇩🇪 ┇ VLESS-TCP-RLT - WAIcore Ltd ┇ 87.120.92.135
-trojan://y16nd9az-pc83-4hs6-naur-2j3f6dbon56g@127.0.0.1:8080?security=tls&type=tcp#For enhanced GitHub access, visit Argh94 now!
-trojan://v7u2xfr1-a97t-l9wq-wqr3-xmyzegcb9h8j@127.0.0.1:8081?security=tls&type=tcp#</> Collector v5.0
+trojan://8ruuex05-r5mo-nton-bh39-rzcijpja0i3p@127.0.0.1:8080?security=tls&type=tcp#For enhanced GitHub access, visit Argh94 now!
+trojan://b36yjzkx-m6b1-18c5-zs58-qpi7ryury5p4@127.0.0.1:8081?security=tls&type=tcp#</> Collector v5.0

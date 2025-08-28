@@ -1,6 +1,6 @@
-trojan://yqx4bq4l-pyhn-cpjw-umzv-690y4d9it0cg@127.0.0.1:1080?security=tls&type=tcp#🕒 LAST UPDATE: 2025/08/28 | 07:53
-trojan://4l2ayye4-5ait-g9wz-qr9y-n4p1x4mk47qx@127.0.0.1:2080?security=tls&type=tcp#This is a free trial project.
-trojan://9kot2bse-tc8v-vbim-2137-lu8dickjw5r9@127.0.0.1:4080?security=tls&type=tcp#「 GitHub Argh94 ☕ 」
+trojan://cuvqzu68-gzdq-q6j4-56ms-4onorm35ds5j@127.0.0.1:1080?security=tls&type=tcp#🕒 LAST UPDATE: 2025/08/28 | 11:56
+trojan://hau68m2a-l7ho-tjtl-1zr0-t4zhg0ufqaog@127.0.0.1:2080?security=tls&type=tcp#This is a free trial project.
+trojan://flw1gsvf-u3qq-ttwj-p5t3-419hzzaxm9qh@127.0.0.1:4080?security=tls&type=tcp#「 GitHub Argh94 ☕ 」
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1MTdUM0J2cFlhYWl1VzJj@series-a2-mec.samanehha.co:443#series-a2-mec.samanehha.co:443
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1MTdUM0J2cFlhYWl1VzJj@series-a2-mec.samanehha.co:443#series-a2-mec.samanehha.co:443
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1MTdUM0J2cFlhYWl1VzJj@series-a2-mec.samanehha.co:443#series-a2-mec.samanehha.co:443
@@ -24,5 +24,5 @@ vless://aae49c81-9659-412b-ba25-140687292af2@109.120.176.118:19421?type=tcp&secu
 vless://aae49c81-9659-412b-ba25-140687292af2@109.120.176.118:19421?type=tcp&security=reality&sni=speedtest.net&fp=chrome&pbk=BnKauv_IqgmH6f7m46TkyfQn1z2r99fPK_3-TDdH6kI&sid=7f1584c4#109.120.176.118:19421
 vless://43b97b05-ff53-4294-b8e9-ac6bb5fde51a@109.120.176.118:19421?type=tcp&security=reality&sni=speedtest.net&fp=chrome&flow=xtls-rprx-vision&pbk=BnKauv_IqgmH6f7m46TkyfQn1z2r99fPK_3-TDdH6kI&sid=7f1584c4#109.120.176.118:19421
 vless://43b97b05-ff53-4294-b8e9-ac6bb5fde51a@109.120.176.118:19421?type=tcp&security=reality&sni=speedtest.net&fp=chrome&flow=xtls-rprx-vision&pbk=BnKauv_IqgmH6f7m46TkyfQn1z2r99fPK_3-TDdH6kI&sid=7f1584c4#109.120.176.118:19421
-trojan://8oavv2ce-in19-pm2o-lfze-1mpsabrxkhh7@127.0.0.1:8080?security=tls&type=tcp#For enhanced GitHub access, visit Argh94 now!
-trojan://wuctdinb-q83j-4egw-q69q-e2xj60q5loja@127.0.0.1:8081?security=tls&type=tcp#</> Collector v5.0
+trojan://r88vaenm-oacs-pyee-w7w1-xzio90ydbak1@127.0.0.1:8080?security=tls&type=tcp#For enhanced GitHub access, visit Argh94 now!
+trojan://6qstfrn5-dkl3-s2h8-11iu-3h9qtxqh79yn@127.0.0.1:8081?security=tls&type=tcp#</> Collector v5.0

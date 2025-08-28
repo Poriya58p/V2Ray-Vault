@@ -1,6 +1,6 @@
-trojan://2cw6cof3-8rnm-01ag-guj3-eh40s2h5n0ec@127.0.0.1:1080?security=tls&type=tcp#🕒 LAST UPDATE: 2025/08/28 | 07:53
-trojan://kogrvsjp-6v9b-xpkw-ooxz-5iranhsymvq0@127.0.0.1:2080?security=tls&type=tcp#This is a free trial project.
-trojan://dxvqnnmn-bp9x-lgup-l8jh-km7r96is14hd@127.0.0.1:4080?security=tls&type=tcp#「 GitHub Argh94 ☕ 」
+trojan://i6q6evwc-2a6a-rtqn-07uy-87b19nslo8gt@127.0.0.1:1080?security=tls&type=tcp#🕒 LAST UPDATE: 2025/08/28 | 11:56
+trojan://bm744j14-oiji-hxh8-gxsj-6sf9x1590p7z@127.0.0.1:2080?security=tls&type=tcp#This is a free trial project.
+trojan://hfl5rpj9-ormk-bru8-bnpg-hecwwhohc0io@127.0.0.1:4080?security=tls&type=tcp#「 GitHub Argh94 ☕ 」
 vless://6b02f80%61-d%65f4-4%6524-92%65b-7d1b%65b33f3%65d@172.66.40.99:80?type=ws&security=none&path=/Mosiv2---Mosiv2--Mosiv2---Mosiv2--Mosiv2---Mosiv2--Mosiv2---Mosiv2--Mosiv2---Mosiv2--Mosiv2---Mosiv2--Mosiv2---Mosiv2---Mosiv2--Mosiv2---Mosiv2--Mosiv2---Mosiv2--Mosiv2---Mosiv2--Mosiv2---Mosiv2--Mosiv2---Mosiv2--Mosiv2---Mosiv2---Mosiv2--Mosiv2---Mosiv2--Mosiv2---Mosiv2--Mosiv2---Mosiv2--Mosiv2---Mosiv2--Mosiv2---Mosiv2--Mosiv2?ed=2560#172.66.40.99:80
 vless://fcbcc%6100-44c2-4330-%61072-bd0b%61626%65b0f@172.66.40.99:8080?type=ws&security=none&path=/-LiV2ry@LIGHTNING6-TEL--@LIGHTNING6-TEL--@LIGHTNING6-TEL--@LIGHTNING6-JOIN-@LIGHTNING6-TEL--@LIGHTNING6-JOIN-@LIGHTNING6-TEL-@LIGHTNING6-TEL--@LIGHTNING6-JOIN-@LIGHTNING6-TEL--@LIGHTNING6?ed=2048#172.66.40.99:8080
 vless://c87c8%654f-dd7%65-41cc-c293-5d%6563%658b633b@172.66.40.99:80?type=ws&security=none&path=/@vmessorg----@vmessorg-----@vmessorg----@vmessorg----@vmessorg----@vmessorg----@vmessorg----@vmessorg----@vmessorg----@vmessorg----@vmessorg----@vmessorg?ed=2480#172.66.40.99:80
@@ -63,5 +63,5 @@ vless://2cd455a4-c698-42de-9830-ac628dbe2e26@91.99.70.212:443?type=grpc&security
 vless://tm-H%71V2rayNG@full.vvir.ir:443?type=tcp&security=reality&sni=google.com&fp=chrome&flow=xtls-rprx-vision&pbk=tmdA-JLXg99x-LdvzAZnIV2J7QlHAe7F7xSRLh4ljHM&sid=e1#full.vvir.ir:443
 vless://738ebc1c-c44a-418e-8c2c-f9e2efe1f4fe@91.99.70.212:443?type=grpc&security=reality&sni=www.cdn77.com&fp=chrome&pbk=Zjzu45fPTjjaIcBoYyaLqieLtsWJD8ujdzNOQodWvnk#91.99.70.212:443
 vless://f076%61%6511-156c-45c5-b252-%61%658dd6fd1494@91.99.70.212:443?type=grpc&security=reality&sni=www.cdn77.com&fp=chrome&pbk=Zjzu45fPTjjaIcBoYyaLqieLtsWJD8ujdzNOQodWvnk#91.99.70.212:443
-trojan://msok15c7-akcd-0kz5-nh87-cn46l3ij59t8@127.0.0.1:8080?security=tls&type=tcp#For enhanced GitHub access, visit Argh94 now!
-trojan://1wcpdtdo-kpsn-hpsd-3tdv-0stsekjj68q3@127.0.0.1:8081?security=tls&type=tcp#</> Collector v5.0
+trojan://tmbptyg0-10m9-6aew-dpil-s7jvwl3c5een@127.0.0.1:8080?security=tls&type=tcp#For enhanced GitHub access, visit Argh94 now!
+trojan://lewpanmk-vojq-4m73-d8em-7fnhufwzbl1v@127.0.0.1:8081?security=tls&type=tcp#</> Collector v5.0

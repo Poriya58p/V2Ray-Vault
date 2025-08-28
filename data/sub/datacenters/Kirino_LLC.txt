@@ -1,7 +1,7 @@
-trojan://8yk5pjeu-xb0j-3as3-sabi-fcprf8gpi4ji@127.0.0.1:1080?security=tls&type=tcp#🕒 LAST UPDATE: 2025/08/28 | 07:53
-trojan://4xuxvjhh-9u78-l5xw-v8wh-1fj7yp3tm7va@127.0.0.1:2080?security=tls&type=tcp#This is a free trial project.
-trojan://eh1mckmo-f815-og36-ghc6-wzx8o2vj9k1c@127.0.0.1:4080?security=tls&type=tcp#「 GitHub Argh94 ☕ 」
+trojan://hea19b46-c3en-uqgm-68fb-l5na83vf0ugl@127.0.0.1:1080?security=tls&type=tcp#🕒 LAST UPDATE: 2025/08/28 | 11:56
+trojan://13jrdk8d-j7cg-x1u1-ssai-x96hag1slyo0@127.0.0.1:2080?security=tls&type=tcp#This is a free trial project.
+trojan://bg9nsc40-a163-svqq-qnrw-v8yoa560sa6j@127.0.0.1:4080?security=tls&type=tcp#「 GitHub Argh94 ☕ 」
 trojan://637308bc-fd52-343d-b573-7693835b8e20@103.136.185.27:5535?sni=steampipe.akamaized.net&peer=steampipe.akamaized.net&security=tls#US 🇺🇸 ┇ TROJAN-TCP-TLS - Kirino LLC ┇ 103.136.185.27
 trojan://637308bc-fd52-343d-b573-7693835b8e20@103.136.185.28:3516?sni=akamai.cdn.steampipe.steamcontent.com&peer=akamai.cdn.steampipe.steamcontent.com&security=tls#US 🇺🇸 ┇ TROJAN-TCP-TLS - Kirino LLC ┇ 103.136.185.28
-trojan://if8a2p7p-ol0w-xaz9-ydti-hifr7titfxop@127.0.0.1:8080?security=tls&type=tcp#For enhanced GitHub access, visit Argh94 now!
-trojan://rz1l3hz2-7lsk-8bw6-dm0j-kvm53n6ijgib@127.0.0.1:8081?security=tls&type=tcp#</> Collector v5.0
+trojan://kwxdam2i-x54a-z7ch-j30b-05x87sr6b3jz@127.0.0.1:8080?security=tls&type=tcp#For enhanced GitHub access, visit Argh94 now!
+trojan://8raayz8j-yf19-avgx-m2v9-9gsbg8aotkrk@127.0.0.1:8081?security=tls&type=tcp#</> Collector v5.0

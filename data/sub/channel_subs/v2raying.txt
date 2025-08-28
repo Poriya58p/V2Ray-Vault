@@ -1,6 +1,6 @@
-trojan://85fc6p98-p9r8-68rc-e6wi-x11g0qj7vkvg@127.0.0.1:1080?security=tls&type=tcp#🕒 LAST UPDATE: 2025/08/28 | 07:53
-trojan://ckqx7m2n-cahc-w6pc-n87l-r7rvtsqonz4m@127.0.0.1:2080?security=tls&type=tcp#This is a free trial project.
-trojan://4qz0dpf5-lv32-zqtp-k3ac-2yn4500kwuu8@127.0.0.1:4080?security=tls&type=tcp#「 GitHub Argh94 ☕ 」
+trojan://s0chdyev-c4k4-z6qi-x61v-6psjycv802kt@127.0.0.1:1080?security=tls&type=tcp#🕒 LAST UPDATE: 2025/08/28 | 11:56
+trojan://0kzc76m9-95zl-54ap-zmfm-25f8x5adv9h9@127.0.0.1:2080?security=tls&type=tcp#This is a free trial project.
+trojan://vgzfrngr-6007-08u1-20cl-im2dbhlsg85f@127.0.0.1:4080?security=tls&type=tcp#「 GitHub Argh94 ☕ 」
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo1MXlsb1FDOEQ5dzFXYWU3Rkh0STY1@135.225.124.80:48172#135.225.124.80:48172
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpGM25ZNzNkaTVvbldWM2dvdGJwSTBR@83.147.216.70:64519#83.147.216.70:64519
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@193.29.139.240:8080#193.29.139.240:8080
@@ -109,5 +109,5 @@ vless://02ba99ca-ec56-4b2d-8537-bb20b830a3f7@www.speedtest.net:2095?type=httpupg
 vless://5da52d2d-1ab8-48d0-8421-8354fd6ce7d3@jquery.com:443?type=ws&security=tls&path=/---VITUREY---VITUREY---VITUREY---VITUREY---VITUREY---VITUREY---VITUREY---VITUREY---VITUREY---VITUREY---VITUREY---VITUREY---VITUREY---VITUREY---VITUREY---VITUREY---VITUREY---VITUREY---VITUREY---VITUREY---VITUREY---VITUREY---VITUREY---VITUREY---&sni=rAyAn-cOnFiG-05.rAyAn-iI.DnS-DyNaMiC.NeT&fp=chrome#jquery.com:443
 vless://ccbe6b7c-9264-40c4-8bc1-ef8f6205d7a4@www.speedtest.net:8443?type=ws&security=tls&path=/?---VITUREY---VITUREY---VITUREY---VITUREY---VITUREY---VITUREY---VITUREY---VITUREY---VITUREY---VITUREY---VITUREY---VITUREY---VITUREY---VITUREY---VITUREY---VITUREY---VITUREY---VITUREY---VITUREY---VITUREY---VITUREY---VITUREY---VITUREY---VITUREY---&sni=hetzner-6.derberg.name.ng#www.speedtest.net:8443
 vless://ccbe6b7c-9264-40c4-8bc1-ef8f6205d7a4@www.speedtest.net:8443?type=ws&security=tls&path=/&sni=hetzner-7.boss.name.ng#www.speedtest.net:8443
-trojan://gjikb62j-2b1w-omyx-v1pt-dvx671d7mutq@127.0.0.1:8080?security=tls&type=tcp#For enhanced GitHub access, visit Argh94 now!
-trojan://89tt8o15-dqne-2hfk-tb4n-sokhovwaw3r9@127.0.0.1:8081?security=tls&type=tcp#</> Collector v5.0
+trojan://om9y3mt1-bjzb-6mdm-zviv-e64h7diu6djy@127.0.0.1:8080?security=tls&type=tcp#For enhanced GitHub access, visit Argh94 now!
+trojan://hbr6o5mr-d2qv-3fzq-ysl4-ptucumlisujx@127.0.0.1:8081?security=tls&type=tcp#</> Collector v5.0

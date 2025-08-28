@@ -1,6 +1,6 @@
-trojan://25sg1mlm-475c-80z5-gqqz-mz7l0nacuwcz@127.0.0.1:1080?security=tls&type=tcp#🕒 LAST UPDATE: 2025/08/28 | 07:53
-trojan://gtv85i4q-0qr3-qpkg-vv32-okw46xwe3gl4@127.0.0.1:2080?security=tls&type=tcp#This is a free trial project.
-trojan://528wdbb5-mccg-6skk-x92u-ncg8p1q6gxgi@127.0.0.1:4080?security=tls&type=tcp#「 GitHub Argh94 ☕ 」
+trojan://5d9xfjhh-e2wx-c3bw-bx4i-rrbcqoi0xpm5@127.0.0.1:1080?security=tls&type=tcp#🕒 LAST UPDATE: 2025/08/28 | 11:56
+trojan://p68s8cn8-bled-qlm7-twrh-i5et3nutctfj@127.0.0.1:2080?security=tls&type=tcp#This is a free trial project.
+trojan://q893ez5f-7gu1-azk6-ynww-p573snbkj1ya@127.0.0.1:4080?security=tls&type=tcp#「 GitHub Argh94 ☕ 」
 vless://9d8377d7-a687-496a-9749-1f3b69b35643@172.66.40.99:443?type=ws&security=tls&path=/telegram-@ISVvpn-telegram-@ISVvpn-telegram-@ISVvpn-telegram-@ISVvpn-telegram-@ISVvpn-telegram-@ISVvpn-telegram-@ISVvpn-telegram-@ISVvpn-telegram-@ISVvpn-telegram-@ISVvpn?ed=2048&sni=DeV.iSvClOd.CoM&fp=firefox#172.66.40.99:443
 vless://e58ee137-cfed-4909-a7c7-960283d83a83@172.66.40.99:443?type=ws&security=tls&path=/telegram-@ISVvpn-telegram-@ISVvpn-telegram-@ISVvpn-telegram-@ISVvpn-telegram-@ISVvpn-telegram-@ISVvpn-telegram-@ISVvpn-telegram-@ISVvpn-telegram-@ISVvpn-telegram-@ISVvpn?ed=2048&sni=DeV.iSvClOd.CoM&fp=firefox#172.66.40.99:443
 vless://----telegram--ISVvpn----@172.66.40.99:443?type=ws&security=tls&path=/telegram-@ISVvpn-telegram-@ISVvpn-telegram-@ISVvpn-telegram-@ISVvpn-telegram-@ISVvpn-telegram-@ISVvpn-telegram-@ISVvpn-telegram-@ISVvpn-telegram-@ISVvpn-telegram-@ISVvpn-telegram-@ISVvpn-telegram-@ISVvpn-telegram-@ISVvpn?ed=2048&sni=sop.isvclod.com&fp=firefox#172.66.40.99:443
@@ -9,5 +9,5 @@ vless://----telegram--ISVvpn----@172.66.40.99:443?type=ws&security=tls&path=/tel
 vless://telegram-id-ISVvpn@172.66.40.99:443?type=ws&security=tls&path=/telegram-@ISVvpn-telegram-@ISVvpn-telegram-@ISVvpn-telegram-@ISVvpn-telegram-@ISVvpn-telegram-@ISVvpn-telegram-@ISVvpn-telegram-@ISVvpn-telegram-@ISVvpn-telegram-@ISVvpn-telegram-@ISVvpn-telegram-@ISVvpn-telegram-@ISVvpn?ed=2048&sni=sOp.IsVcLoD.cOm&fp=firefox#172.66.40.99:443
 vless://82c51f47-3c1f-4d82-ad48-1e372eea1f12@172.66.40.99:443?type=ws&security=tls&path=/telegram-@ISVvpn-telegram-@ISVvpn-telegram-@ISVvpn-telegram-@ISVvpn-telegram-@ISVvpn-telegram-@ISVvpn-telegram-@ISVvpn-telegram-@ISVvpn-telegram-@ISVvpn-telegram-@ISVvpn-telegram-@ISVvpn-telegram-@ISVvpn-telegram-@ISVvpn?ed=2048&sni=sOp.IsVcLoD.cOm&fp=firefox#172.66.40.99:443
 vless://41f50b0c-8e52-438c-8d85-3e24059d845b@172.66.40.99:443?type=ws&security=tls&path=/telegram-@ISVvpn-telegram-@ISVvpn-telegram-@ISVvpn-telegram-@ISVvpn-telegram-@ISVvpn-telegram-@ISVvpn-telegram-@ISVvpn-telegram-@ISVvpn-telegram-@ISVvpn-telegram-@ISVvpn-telegram-@ISVvpn-telegram-@ISVvpn-telegram-@ISVvpn?ed=2048&sni=sOp.IsVcLoD.cOm&fp=firefox#172.66.40.99:443
-trojan://y2dw7qsw-ifbh-dww8-2otj-v1qoahvoe6hv@127.0.0.1:8080?security=tls&type=tcp#For enhanced GitHub access, visit Argh94 now!
-trojan://pk2hi1m5-4n44-0bex-iici-x1b772jjvv1f@127.0.0.1:8081?security=tls&type=tcp#</> Collector v5.0
+trojan://j74oj39x-jfk9-mzh9-vxcs-2hgg7450enkw@127.0.0.1:8080?security=tls&type=tcp#For enhanced GitHub access, visit Argh94 now!
+trojan://xnbncc28-pct6-o6k5-znui-dy2oab1wtf7d@127.0.0.1:8081?security=tls&type=tcp#</> Collector v5.0

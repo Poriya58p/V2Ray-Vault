@@ -1,8 +1,8 @@
-trojan://434ddcxj-98zx-b0ls-ohgx-7o4mxseez1iv@127.0.0.1:1080?security=tls&type=tcp#🕒 LAST UPDATE: 2025/08/28 | 07:53
-trojan://121wdvek-xjc5-fx1f-a70o-c5mzuagaa0jx@127.0.0.1:2080?security=tls&type=tcp#This is a free trial project.
-trojan://eh3q91ol-6rdl-qu56-6du3-w6x7hn6swd6l@127.0.0.1:4080?security=tls&type=tcp#「 GitHub Argh94 ☕ 」
+trojan://je71i7h8-jvy2-i846-o4yc-w5jc8pbj9x7l@127.0.0.1:1080?security=tls&type=tcp#🕒 LAST UPDATE: 2025/08/28 | 11:56
+trojan://xyzq4pn6-ham9-nob3-fe9d-ybckmeytkh5q@127.0.0.1:2080?security=tls&type=tcp#This is a free trial project.
+trojan://b40r2ri0-c2oe-4dxx-90tp-9k6b3k5gysmt@127.0.0.1:4080?security=tls&type=tcp#「 GitHub Argh94 ☕ 」
 hysteria2://Yet-Another-Public-Config-1@yapc-1.adamhayward.co.uk:35000?sni=YAPC-1.afshin.ir&insecure=1&obfs=salamander#NL 🇳🇱 ┇ HYSTERIA2-TCP-NTLS - MACARNE ┇ 206.71.158.37
-hysteria2://Telegram--%3E%40Ln2Ray@gavazn.lnmarketplace.net:45000?sni=gavazn.55994421.xyz&insecure=1&obfs=salamander#NL 🇳🇱 ┇ HYSTERIA2-TCP-NTLS - MACARNE ┇ 206.71.158.23
+hysteria2://Telegram--%3E%40Ln2Ray@gavazn.lnmarketplace.net:45000?sni=gavazn.55994421.xyz&insecure=0&obfs=salamander#NL 🇳🇱 ┇ HYSTERIA2-TCP-NTLS - MACARNE ┇ 206.71.158.23
 hysteria2://Yet-Another-Public-Config-1@2a14:3f87:f001:13::a:36400?sni=YAPC-1.afshin.ir&insecure=1&obfs=salamander#NL 🇳🇱 ┇ HYSTERIA2-TCP-NTLS - MACARNE ┇ 2a14:3f87:f001:13::a
-trojan://a1taxcpy-pymn-exl4-96oa-ruprqqb2hwpu@127.0.0.1:8080?security=tls&type=tcp#For enhanced GitHub access, visit Argh94 now!
-trojan://qnwucetb-4t9j-b3yf-m7nh-88xy0qwp5d9y@127.0.0.1:8081?security=tls&type=tcp#</> Collector v5.0
+trojan://3hjgx98s-8pzg-zchl-mf7y-igwby4v2qxxq@127.0.0.1:8080?security=tls&type=tcp#For enhanced GitHub access, visit Argh94 now!
+trojan://ow1ik0za-tt92-5x3a-ml06-tgf62wxx5ipb@127.0.0.1:8081?security=tls&type=tcp#</> Collector v5.0

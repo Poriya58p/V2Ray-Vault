@@ -1,8 +1,8 @@
-trojan://ez1skfwz-5c6i-92en-jx63-37u4ogadqhud@127.0.0.1:1080?security=tls&type=tcp#🕒 LAST UPDATE: 2025/08/28 | 07:53
-trojan://9dqe4ikz-au2n-nyik-v1o0-jz0fsncatt92@127.0.0.1:2080?security=tls&type=tcp#This is a free trial project.
-trojan://573w4mvm-b939-57fo-rl23-eh1r1dzk0sc5@127.0.0.1:4080?security=tls&type=tcp#「 GitHub Argh94 ☕ 」
+trojan://p6ysg8hu-1oev-jawg-043x-rtnk6xe5497c@127.0.0.1:1080?security=tls&type=tcp#🕒 LAST UPDATE: 2025/08/28 | 11:56
+trojan://cs5ps6cr-izql-1x91-a3mm-0ibnwaffvtqn@127.0.0.1:2080?security=tls&type=tcp#This is a free trial project.
+trojan://9jfsycsb-u9qs-f00r-cf8l-v6p09gohpowe@127.0.0.1:4080?security=tls&type=tcp#「 GitHub Argh94 ☕ 」
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp5cG9xOGRKQlBxc3Q@92.223.65.31:29092#RU 🇷🇺 ┇ SHADOWSOCKS-TCP-NTLS - EdgeCenter LLC ┇ 92.223.65.31
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTphY2trb2tPaQ@92.223.109.205:51348#RU 🇷🇺 ┇ SHADOWSOCKS-TCP-NTLS - EdgeCenter LLC ┇ 92.223.109.205
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpTeDYxdjQydERmeHA@ru.moscow1.vpntester.net:5623#RU 🇷🇺 ┇ SHADOWSOCKS-TCP-NTLS - EdgeCenter LLC ┇ 5.188.224.107
-trojan://i4ol72fq-mh7u-1yk5-6v0e-sxxfynmhgx58@127.0.0.1:8080?security=tls&type=tcp#For enhanced GitHub access, visit Argh94 now!
-trojan://m1mol1s0-cgmv-hdy1-v47e-8juzww9cht4h@127.0.0.1:8081?security=tls&type=tcp#</> Collector v5.0
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTphY2trb2tPaQ@92.223.109.205:51348#RU 🇷🇺 ┇ SHADOWSOCKS-TCP-NTLS - EdgeCenter LLC ┇ 92.223.109.205
+trojan://0fei4j10-uvmz-r070-yhdp-bl7m4j5ylyqx@127.0.0.1:8080?security=tls&type=tcp#For enhanced GitHub access, visit Argh94 now!
+trojan://83jwcfwo-2vme-whio-34cj-qdhdhpe2tb92@127.0.0.1:8081?security=tls&type=tcp#</> Collector v5.0

@@ -1,6 +1,6 @@
-trojan://yqs51qp6-dv3i-jv6i-bgd2-uif2vm1hnjvp@127.0.0.1:1080?security=tls&type=tcp#🕒 LAST UPDATE: 2025/08/27 | 16:03
-trojan://dfetv2ur-zdvz-hsmn-j9li-00vi09qo38sa@127.0.0.1:2080?security=tls&type=tcp#This is a free trial project.
-trojan://n5qg3fuz-f5dq-90fb-cqer-1utg2h28e5yj@127.0.0.1:4080?security=tls&type=tcp#「 GitHub Argh94 ☕ 」
-trojan://de45945e-65ea-4d13-b29d-1835a4281023@103.100.177.32:35003?sni=updates.sub-nthu.com&peer=updates.sub-nthu.com&security=tls#HK 🇭🇰 ┇ TROJAN-TCP-TLS - Akari Networks ┇ 103.100.177.32
-trojan://vmnqzhts-3l94-ulx8-3nsl-p1uhlyloauvy@127.0.0.1:8080?security=tls&type=tcp#For enhanced GitHub access, visit Argh94 now!
-trojan://bsn1t7jd-291t-fdvn-xfxx-los5j2wbgfiq@127.0.0.1:8081?security=tls&type=tcp#</> Collector v5.0
+trojan://x6dh2twg-1lsl-h5tc-nzm7-xn65pckfbn24@127.0.0.1:1080?security=tls&type=tcp#🕒 LAST UPDATE: 2025/08/28 | 11:56
+trojan://10u5b07m-stqx-v39v-8u9n-1012rd41e8x0@127.0.0.1:2080?security=tls&type=tcp#This is a free trial project.
+trojan://zexp13po-ottv-fpm5-1jsb-17usugwrg9fb@127.0.0.1:4080?security=tls&type=tcp#「 GitHub Argh94 ☕ 」
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo1ODQ4ODExNC00NWFlLTQ1NzctODc2NC03ODI2YWI2MjFlZTE@46.232.123.24:50242#HK 🇭🇰 ┇ SHADOWSOCKS-TCP-NTLS - Akari Networks ┇ 46.232.123.24
+trojan://jrbxml1m-19sx-wdse-az61-1gducs2jpetl@127.0.0.1:8080?security=tls&type=tcp#For enhanced GitHub access, visit Argh94 now!
+trojan://yas48oyx-ye69-jm26-pzxo-a43nnzx6usiw@127.0.0.1:8081?security=tls&type=tcp#</> Collector v5.0
